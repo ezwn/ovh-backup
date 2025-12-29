@@ -1,0 +1,55 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-M8UCoU5H",
+        "userBounds": [
+          315,
+          318,
+          null,
+          null
+        ],
+        "content": "docker ps",
+        "bounds": [
+          315,
+          318,
+          105,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-UU87cKhr",
+        "userBounds": [
+          353,
+          200,
+          null,
+          null
+        ],
+        "content": "docker kill containerid12354",
+        "bounds": [
+          353,
+          200,
+          266,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-MKAWHdZh",
+        "userBounds": [
+          364,
+          508,
+          null,
+          null
+        ],
+        "content": "docker compose -p tp10-test -f docker-compose-test-db.yml up",
+        "bounds": [
+          364,
+          508,
+          575,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

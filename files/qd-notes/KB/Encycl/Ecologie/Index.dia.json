@@ -1,0 +1,752 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-wL99i8NX",
+        "userBounds": [
+          1477,
+          467,
+          null,
+          null
+        ],
+        "bounds": [
+          1477,
+          467,
+          103,
+          41
+        ],
+        "content": "CLIMATS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7DGFKTZI",
+        "userBounds": [
+          1407,
+          581,
+          null,
+          null
+        ],
+        "bounds": [
+          1407,
+          581,
+          58,
+          41
+        ],
+        "content": "SOL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aQbvKCzb",
+        "userBounds": [
+          1196,
+          269,
+          null,
+          null
+        ],
+        "bounds": [
+          1196,
+          269,
+          154,
+          41
+        ],
+        "content": "ORGANISMES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KmG7xu5c",
+        "userBounds": [
+          772,
+          484,
+          199.9375,
+          null
+        ],
+        "bounds": [
+          772,
+          484,
+          200,
+          64
+        ],
+        "content": "grands cycles biogéochimiques",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Z7bEhJAm",
+        "userBounds": [
+          763,
+          591,
+          null,
+          null
+        ],
+        "bounds": [
+          763,
+          591,
+          97,
+          36
+        ],
+        "content": "CARBONE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-EdWuLl3B",
+        "userBounds": [
+          917,
+          239,
+          null,
+          null
+        ],
+        "bounds": [
+          917,
+          239,
+          86,
+          41
+        ],
+        "content": "TERRE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7J6n1nUL",
+        "userBounds": [
+          931,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          931,
+          156,
+          192,
+          41
+        ],
+        "content": "COMPARTIMENTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-S7WPDdV6",
+        "userBounds": [
+          899,
+          16,
+          null,
+          null
+        ],
+        "bounds": [
+          899,
+          16,
+          140,
+          36
+        ],
+        "content": "ATHMOSPHERE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-WdA5zH95",
+        "userBounds": [
+          1037,
+          39,
+          null,
+          null
+        ],
+        "bounds": [
+          1037,
+          39,
+          142,
+          36
+        ],
+        "content": "HYDROSPHERE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-fjaRteq3",
+        "userBounds": [
+          1102,
+          84,
+          null,
+          null
+        ],
+        "bounds": [
+          1102,
+          84,
+          131,
+          54
+        ],
+        "content": "LITHOSPHERE\n= CROUTE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aNC79fnD",
+        "userBounds": [
+          922,
+          68,
+          null,
+          null
+        ],
+        "bounds": [
+          922,
+          68,
+          111,
+          36
+        ],
+        "content": "BIOSPHERE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-JQDINsJr",
+        "userBounds": [
+          829,
+          633,
+          null,
+          null
+        ],
+        "bounds": [
+          829,
+          633,
+          71,
+          36
+        ],
+        "content": "AZOTE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Xb2oSKZC",
+        "userBounds": [
+          919,
+          618,
+          null,
+          null
+        ],
+        "bounds": [
+          919,
+          618,
+          97,
+          36
+        ],
+        "content": "OXYGENE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-DZAJkTGn",
+        "userBounds": [
+          904,
+          559,
+          null,
+          null
+        ],
+        "bounds": [
+          904,
+          559,
+          120,
+          36
+        ],
+        "content": "PHOSPHORE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-wLZljgX2",
+        "userBounds": [
+          1000,
+          360,
+          null,
+          null
+        ],
+        "bounds": [
+          1000,
+          360,
+          157,
+          41
+        ],
+        "content": "ECOSYSTEME",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xq3sHh41",
+        "userBounds": [
+          1233,
+          363,
+          null,
+          null
+        ],
+        "bounds": [
+          1233,
+          363,
+          167,
+          41
+        ],
+        "content": "INTERACTIONS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KYS9VlyD",
+        "userBounds": [
+          1255,
+          500,
+          null,
+          null
+        ],
+        "bounds": [
+          1255,
+          500,
+          176,
+          41
+        ],
+        "content": "DETERMINENTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-d4kiFjiV",
+        "userBounds": [
+          1489,
+          523,
+          null,
+          null
+        ],
+        "bounds": [
+          1489,
+          523,
+          59,
+          41
+        ],
+        "content": "EAU",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZrbG48JQ",
+        "userBounds": [
+          1284,
+          589,
+          null,
+          null
+        ],
+        "bounds": [
+          1284,
+          589,
+          112,
+          41
+        ],
+        "content": "HISTOIRE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WMQuC6gZ",
+        "userBounds": [
+          584,
+          317,
+          null,
+          null
+        ],
+        "bounds": [
+          584,
+          317,
+          124,
+          41
+        ],
+        "content": "LOGICIELS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l6qscIBQ",
+        "userBounds": [
+          450,
+          395,
+          null,
+          null
+        ],
+        "bounds": [
+          450,
+          395,
+          94,
+          41
+        ],
+        "content": "[NetLogo](https://ccl.northwestern.edu/netlogo/docs/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aibgoPlH",
+        "userBounds": [
+          1409,
+          238,
+          null,
+          null
+        ],
+        "bounds": [
+          1409,
+          238,
+          112,
+          41
+        ],
+        "content": "ESPECES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-d3ox1pjA",
+        "userBounds": [
+          1499,
+          158,
+          null,
+          null
+        ],
+        "bounds": [
+          1499,
+          158,
+          122,
+          41
+        ],
+        "content": "CYCLE VIE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9FIVeGIv",
+        "userBounds": [
+          1531,
+          294,
+          null,
+          null
+        ],
+        "bounds": [
+          1531,
+          294,
+          181,
+          41
+        ],
+        "content": "CLASSIFICATION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ybhvt5ar",
+        "userBounds": [
+          1669,
+          210,
+          null,
+          null
+        ],
+        "bounds": [
+          1669,
+          210,
+          208,
+          41
+        ],
+        "content": "clés de détermination",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-N2ks6BSi",
+        "userBounds": [
+          602,
+          146,
+          null,
+          null
+        ],
+        "bounds": [
+          602,
+          146,
+          81,
+          41
+        ],
+        "content": "[NAMIB](https://www.youtube.com/watch?v=kkrwlLcG5bo)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Uy9DMHSS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-v5tgGeGz",
+            "target": "NOTE-Z7bEhJAm"
+          },
+          {
+            "id": "END-u3x484na",
+            "target": "NOTE-KmG7xu5c"
+          }
+        ]
+      },
+      {
+        "id": "REL-lfXhEXhD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KoVhvBW3",
+            "target": "NOTE-7J6n1nUL"
+          },
+          {
+            "id": "END-WkmSMpmy",
+            "target": "NOTE-fjaRteq3"
+          }
+        ]
+      },
+      {
+        "id": "REL-SqluptKK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cBfeAaCe",
+            "target": "NOTE-7J6n1nUL"
+          },
+          {
+            "id": "END-W8zL7FL1",
+            "target": "NOTE-S7WPDdV6"
+          }
+        ]
+      },
+      {
+        "id": "REL-I3VR6H2p",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-skB78tsr",
+            "target": "NOTE-7J6n1nUL"
+          },
+          {
+            "id": "END-XT4grU8M",
+            "target": "NOTE-aNC79fnD"
+          }
+        ]
+      },
+      {
+        "id": "REL-LEtuBBWI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CjHQAWtH",
+            "target": "NOTE-7J6n1nUL"
+          },
+          {
+            "id": "END-Ikc2gavx",
+            "target": "NOTE-WdA5zH95"
+          }
+        ]
+      },
+      {
+        "id": "REL-oxjoF7IT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bxCuEFvc",
+            "target": "NOTE-KmG7xu5c"
+          },
+          {
+            "id": "END-FLTHQdus",
+            "target": "NOTE-Xb2oSKZC"
+          }
+        ]
+      },
+      {
+        "id": "REL-IyNyVMeF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cMgvIBlG",
+            "target": "NOTE-KmG7xu5c"
+          },
+          {
+            "id": "END-smXnqyQe",
+            "target": "NOTE-JQDINsJr"
+          }
+        ]
+      },
+      {
+        "id": "REL-eyfKiHu4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FJU8Wzi6",
+            "target": "NOTE-KmG7xu5c"
+          },
+          {
+            "id": "END-lRQPfYqH",
+            "target": "NOTE-DZAJkTGn"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qq3nvXGA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Im9KEd1e",
+            "target": "NOTE-EdWuLl3B"
+          },
+          {
+            "id": "END-R8AARSMV",
+            "target": "NOTE-7J6n1nUL"
+          }
+        ]
+      },
+      {
+        "id": "REL-mDrmu1kQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jEAX4yml",
+            "target": "NOTE-aQbvKCzb"
+          },
+          {
+            "id": "END-P57gkPPF",
+            "target": "NOTE-wLZljgX2"
+          }
+        ]
+      },
+      {
+        "id": "REL-M2JPFamI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CeqjNTld",
+            "target": "NOTE-xq3sHh41"
+          },
+          {
+            "id": "END-17XG8VUC",
+            "target": "NOTE-wLZljgX2"
+          }
+        ]
+      },
+      {
+        "id": "REL-e5CmuVjA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4R5AjrzI",
+            "target": "NOTE-wL99i8NX"
+          },
+          {
+            "id": "END-1jmp6DW9",
+            "target": "NOTE-KYS9VlyD"
+          }
+        ]
+      },
+      {
+        "id": "REL-dTDdLWr2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-M8oEWzIU",
+            "target": "NOTE-wLZljgX2"
+          },
+          {
+            "id": "END-e1934izM",
+            "target": "NOTE-KYS9VlyD"
+          }
+        ]
+      },
+      {
+        "id": "REL-kLRVPdRL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lFNbALcV",
+            "target": "NOTE-d4kiFjiV"
+          },
+          {
+            "id": "END-DJwfvNme",
+            "target": "NOTE-KYS9VlyD"
+          }
+        ]
+      },
+      {
+        "id": "REL-iBSNwtYf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Y7V6ZEcc",
+            "target": "NOTE-7DGFKTZI"
+          },
+          {
+            "id": "END-tVhAQoQU",
+            "target": "NOTE-KYS9VlyD"
+          }
+        ]
+      },
+      {
+        "id": "REL-8BxTPCHr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vW3MAGo3",
+            "target": "NOTE-ZrbG48JQ"
+          },
+          {
+            "id": "END-pToSJpH3",
+            "target": "NOTE-KYS9VlyD"
+          }
+        ]
+      },
+      {
+        "id": "REL-u1NPYDwZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9JbCRzz7",
+            "target": "NOTE-l6qscIBQ"
+          },
+          {
+            "id": "END-NsAnXD1I",
+            "target": "NOTE-WMQuC6gZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-5wtc5sDX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-W4DeLGDU",
+            "target": "NOTE-aibgoPlH"
+          },
+          {
+            "id": "END-fCzNJ5ia",
+            "target": "NOTE-aQbvKCzb"
+          }
+        ]
+      },
+      {
+        "id": "REL-TCkU63q5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vZqu7Bhm",
+            "target": "NOTE-9FIVeGIv"
+          },
+          {
+            "id": "END-byjnHWCn",
+            "target": "NOTE-aibgoPlH"
+          }
+        ]
+      },
+      {
+        "id": "REL-ClE4nKZe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nxv5anxc",
+            "target": "NOTE-d3ox1pjA"
+          },
+          {
+            "id": "END-5BWZdIkS",
+            "target": "NOTE-aibgoPlH"
+          }
+        ]
+      },
+      {
+        "id": "REL-wT9pQ13n",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WeoXgj1o",
+            "target": "NOTE-ybhvt5ar"
+          },
+          {
+            "id": "END-QsJuTkKe",
+            "target": "NOTE-9FIVeGIv"
+          }
+        ]
+      }
+    ]
+  }
+}

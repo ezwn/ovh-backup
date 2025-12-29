@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jmsConsumer",
+  "content": {
+    "index": "jms consumer",
+    "name": "JMS Consumer",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "import javax.jms.*;\nimport javax.naming.InitialContext;\n\npublic class JMSConsumer {\n    public static void main(String[] args) {\n        Connection connection = null;\n        try {\n            // Initialisation du contexte JNDI (nécessite un fichier jndi.properties)\n            InitialContext ctx = new InitialContext();\n            \n            // Recherche de la connexion factory et de la destination (ex: une queue)\n            ConnectionFactory factory = (ConnectionFactory) ctx.lookup(\"jms/ConnectionFactory\");\n            Destination destination = (Destination) ctx.lookup(\"jms/Queue\");\n\n            // Création de la connexion JMS\n            connection = factory.createConnection();\n            connection.start(); // Démarrer la connexion pour la réception des messages\n\n            // Création de la session JMS (sans transaction, mode d'acquittement automatique)\n            Session session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);\n\n            // Création du consumer\n            MessageConsumer consumer = session.createConsumer(destination);\n\n            // Réception bloquante (attend un message)\n            System.out.println(\"En attente d'un message...\");\n            Message message = consumer.receive(); // receive(timeout) peut aussi être utilisé\n\n            // Traitement du message reçu\n            if (message instanceof TextMessage) {\n                TextMessage textMessage = (TextMessage) message;\n                System.out.println(\"Message reçu : \" + textMessage.getText());\n            } else {\n                System.out.println(\"Message reçu de type inconnu : \" + message);\n            }\n\n            // Fermeture des ressources\n            consumer.close();\n            session.close();\n        } catch (Exception e) {\n            e.printStackTrace();\n        } finally {\n            if (connection != null) {\n                try {\n                    connection.close();\n                } catch (JMSException e) {\n                    e.printStackTrace();\n                }\n            }\n        }\n    }\n}\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

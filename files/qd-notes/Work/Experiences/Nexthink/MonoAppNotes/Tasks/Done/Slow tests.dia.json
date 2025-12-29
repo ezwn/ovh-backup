@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-w9anbDqP",
+        "userBounds": [
+          160,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          160,
+          156,
+          251,
+          41
+        ],
+        "content": "[OPTIMISE JEST CONFIG](https://bitbucket.intra.nexthink.com/projects/DASH/repos/dash-web/commits/880a55b8de469b4ffe146a54f45eaee7abf3f42a#jest.config.js)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PUZDlveP",
+        "userBounds": [
+          646,
+          334,
+          null,
+          null
+        ],
+        "bounds": [
+          646,
+          334,
+          301,
+          41
+        ],
+        "content": "[CHEAP SERVER IN JENKINS?](https://bitbucket.intra.nexthink.com/projects/DASH/repos/dash-ci-tools/browse/vars/webAppPipeline.groovy#116)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gHvYsppU",
+        "userBounds": [
+          1089,
+          411,
+          null,
+          null
+        ],
+        "bounds": [
+          1089,
+          411,
+          150,
+          41
+        ],
+        "content": "[JENKINS FILE](https://bitbucket.intra.nexthink.com/projects/DASH/repos/dash-web/browse/Jenkinsfile)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

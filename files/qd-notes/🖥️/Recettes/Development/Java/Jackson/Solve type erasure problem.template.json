@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonSolveTypeErasureProblem",
+  "content": {
+    "index": "jackson solve type erasure problem",
+    "name": "Jackson, solve type erasure problem",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "// Jackson\nJavaType type = mapper.getTypeFactory().constructCollectionType(List.class, Foo.class)\n\n// Spring\nresponseType = new ParameterizedTypeReference <ArrayList <Contact >>(){};",
+        "defaultText": null
+      }
+    ]
+  }
+}

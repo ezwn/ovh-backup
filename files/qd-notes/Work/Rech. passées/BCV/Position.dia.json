@@ -1,0 +1,509 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TgPFvvxe",
+        "userBounds": [
+          1179,
+          393,
+          null,
+          null
+        ],
+        "content": "! ASTREINTES",
+        "bounds": [
+          1179,
+          393,
+          160,
+          44
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-QxC4pmcr",
+        "userBounds": [
+          938,
+          360,
+          null,
+          null
+        ],
+        "content": "## INCOME",
+        "bounds": [
+          938,
+          360,
+          130,
+          50
+        ]
+      },
+      {
+        "id": "NOTE-GTC2jasa",
+        "userBounds": [
+          1111,
+          299,
+          null,
+          null
+        ],
+        "content": "CS",
+        "bounds": [
+          1111,
+          299,
+          43,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-xVKXyTfE",
+        "userBounds": [
+          886,
+          173,
+          null,
+          null
+        ],
+        "content": "BASE\n123'000",
+        "bounds": [
+          886,
+          173,
+          74,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-JlzdGQvF",
+        "userBounds": [
+          1010,
+          124,
+          null,
+          null
+        ],
+        "content": "COST SAVING\n8'000",
+        "bounds": [
+          1010,
+          124,
+          126,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-zjgqVUaT",
+        "userBounds": [
+          942,
+          67,
+          null,
+          null
+        ],
+        "content": "TRANSPORT\n5'200",
+        "bounds": [
+          942,
+          67,
+          92,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-iGm55ahi",
+        "userBounds": [
+          1042,
+          32,
+          null,
+          null
+        ],
+        "content": "MEAL\n3'000",
+        "bounds": [
+          1042,
+          32,
+          56,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ggTK5p6N",
+        "userBounds": [
+          1023,
+          208,
+          null,
+          null
+        ],
+        "content": "Revenus\n131'000",
+        "bounds": [
+          1023,
+          208,
+          89,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-Vgo5muSm",
+        "userBounds": [
+          1109,
+          62,
+          null,
+          null
+        ],
+        "content": "ELECRTICITY\n-200",
+        "bounds": [
+          1109,
+          62,
+          96,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-W7r3if6g",
+        "userBounds": [
+          1139,
+          202,
+          null,
+          null
+        ],
+        "content": "Inflation\n3.5%",
+        "bounds": [
+          1139,
+          202,
+          88,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-SdA7mrxa",
+        "userBounds": [
+          1208,
+          277,
+          null,
+          null
+        ],
+        "content": "CDD\n5%",
+        "bounds": [
+          1208,
+          277,
+          61,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-AiDaQHhs",
+        "userBounds": [
+          1345,
+          95,
+          null,
+          null
+        ],
+        "content": "Trajet\n8.30 Fr (brut)\n1h20",
+        "bounds": [
+          1345,
+          95,
+          135,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-WPrRugjg",
+        "userBounds": [
+          1428,
+          191,
+          null,
+          null
+        ],
+        "content": "229 J/an",
+        "bounds": [
+          1428,
+          191,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-lDzcQtlJ",
+        "userBounds": [
+          1559,
+          43,
+          null,
+          null
+        ],
+        "content": "8h15 -> 12h30 / 4h15",
+        "bounds": [
+          1559,
+          43,
+          209,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-9SUW4SWX",
+        "userBounds": [
+          1560,
+          94,
+          null,
+          null
+        ],
+        "content": "13h30 -> 17h45 / 4h15",
+        "bounds": [
+          1560,
+          94,
+          220,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-kF8Ptalm",
+        "userBounds": [
+          1410,
+          394,
+          null,
+          null
+        ],
+        "content": "145K sans discuter",
+        "bounds": [
+          1410,
+          394,
+          188,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-J3Iaczkc",
+        "userBounds": [
+          1331,
+          284,
+          null,
+          null
+        ],
+        "content": "Quand ?\nOù ?",
+        "bounds": [
+          1331,
+          284,
+          95,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-hm5dHgUz",
+        "userBounds": [
+          1403,
+          473,
+          null,
+          null
+        ],
+        "content": "140K OK",
+        "bounds": [
+          1403,
+          473,
+          99,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3jh8syrP",
+        "userBounds": [
+          1401,
+          564,
+          null,
+          null
+        ],
+        "content": "135K limite",
+        "bounds": [
+          1401,
+          564,
+          117,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-9XGVSNCQ",
+        "userBounds": [
+          1398,
+          649,
+          null,
+          null
+        ],
+        "content": "130K bof",
+        "bounds": [
+          1398,
+          649,
+          98,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-YRTb1SoZ",
+        "userBounds": [
+          1147,
+          463,
+          null,
+          null
+        ],
+        "content": "! Home office?",
+        "bounds": [
+          1147,
+          463,
+          180,
+          47
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ZEqpL2tf",
+        "userBounds": [
+          629,
+          308,
+          null,
+          null
+        ],
+        "content": "Framework",
+        "bounds": [
+          629,
+          308,
+          118,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-RBS6NXJf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IbBsCDpp",
+            "target": "NOTE-QxC4pmcr"
+          },
+          {
+            "id": "END-nv6i37KW",
+            "target": "NOTE-GTC2jasa"
+          }
+        ]
+      },
+      {
+        "id": "REL-Bm6sSg5J",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QycNLzUT",
+            "target": "NOTE-JlzdGQvF"
+          },
+          {
+            "id": "END-zdlz2aAV",
+            "target": "NOTE-zjgqVUaT"
+          }
+        ]
+      },
+      {
+        "id": "REL-vhHCxtvT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6oaf78WA",
+            "target": "NOTE-JlzdGQvF"
+          },
+          {
+            "id": "END-nBqgdySc",
+            "target": "NOTE-iGm55ahi"
+          }
+        ]
+      },
+      {
+        "id": "REL-HYbP7y2q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cecalTnB",
+            "target": "NOTE-ggTK5p6N"
+          },
+          {
+            "id": "END-1LjQWe2y",
+            "target": "NOTE-JlzdGQvF"
+          }
+        ]
+      },
+      {
+        "id": "REL-nqwni8Hy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WdJ3FfwC",
+            "target": "NOTE-ggTK5p6N"
+          },
+          {
+            "id": "END-M8pX16Dj",
+            "target": "NOTE-xVKXyTfE"
+          }
+        ]
+      },
+      {
+        "id": "REL-NBD4koI6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rSgg2JKY",
+            "target": "NOTE-GTC2jasa"
+          },
+          {
+            "id": "END-pjs9U5ft",
+            "target": "NOTE-ggTK5p6N"
+          }
+        ]
+      },
+      {
+        "id": "REL-bArwVVHr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PflDLA1D",
+            "target": "NOTE-Vgo5muSm"
+          },
+          {
+            "id": "END-3FtCkbeh",
+            "target": "NOTE-JlzdGQvF"
+          }
+        ]
+      },
+      {
+        "id": "REL-6bpjwkHL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8sPZiqGP",
+            "target": "NOTE-W7r3if6g"
+          },
+          {
+            "id": "END-DUanYTxG",
+            "target": "NOTE-GTC2jasa"
+          }
+        ]
+      },
+      {
+        "id": "REL-flWWUWMX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BGihJvfe",
+            "target": "NOTE-SdA7mrxa"
+          },
+          {
+            "id": "END-tY9anLG6",
+            "target": "NOTE-GTC2jasa"
+          }
+        ]
+      },
+      {
+        "id": "REL-wZKCGQNk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wo9rQVLL",
+            "target": "NOTE-J3Iaczkc"
+          },
+          {
+            "id": "END-sKDrWvQm",
+            "target": "NOTE-TgPFvvxe"
+          }
+        ]
+      }
+    ]
+  }
+}

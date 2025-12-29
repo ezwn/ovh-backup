@@ -1,0 +1,277 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-KVM8doVy",
+        "userBounds": [
+          893,
+          345,
+          null
+        ],
+        "content": "Clean coding\n--\n# 3. Business\n# features",
+        "bounds": [
+          893,
+          345,
+          249,
+          173
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-vwDej8tK",
+        "userBounds": [
+          1196,
+          384,
+          null
+        ],
+        "content": "No dependencies\nbetween features",
+        "bounds": [
+          1196,
+          384,
+          174,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-l6qvQRJD",
+        "userBounds": [
+          1435,
+          285,
+          null
+        ],
+        "content": "Never handle multiple\nfeature specificities in the\nsame component",
+        "bounds": [
+          1435,
+          285,
+          198,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-qWy7LpRs",
+        "userBounds": [
+          1453,
+          454,
+          null
+        ],
+        "content": "Should create\nshared component\nor library",
+        "bounds": [
+          1453,
+          454,
+          151,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-D9leJFiB",
+        "userBounds": [
+          633,
+          379,
+          null
+        ],
+        "content": "Group everything\nrelated to the same\nbusiness feature",
+        "bounds": [
+          633,
+          379,
+          189,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-QUpf3AZe",
+        "userBounds": [
+          413,
+          448,
+          null
+        ],
+        "content": "Central point to\nunderstand the BF from\nsource code",
+        "bounds": [
+          413,
+          448,
+          165,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-J7G9Ibq3",
+        "userBounds": [
+          427,
+          312,
+          null
+        ],
+        "content": "Easy to remove\nBF from the\napplication",
+        "bounds": [
+          427,
+          312,
+          115,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-j6nEImZt",
+        "userBounds": [
+          938,
+          218,
+          null
+        ],
+        "content": "Sub-features",
+        "bounds": [
+          938,
+          218,
+          133,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-F2egJtW1",
+        "userBounds": [
+          855,
+          112,
+          null
+        ],
+        "content": "Workflow",
+        "bounds": [
+          855,
+          112,
+          100,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-IgjUppXX",
+        "userBounds": [
+          1055,
+          112,
+          null
+        ],
+        "content": "Task type",
+        "bounds": [
+          1055,
+          112,
+          102,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-IoBhpqP6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "T3DCAMaz",
+            "target": "NOTE-vwDej8tK"
+          },
+          {
+            "id": "7rsvIJPW",
+            "target": "NOTE-KVM8doVy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-F6jbr22M",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "X1Xigu35",
+            "target": "NOTE-l6qvQRJD"
+          },
+          {
+            "id": "XqEl7Tb3",
+            "target": "NOTE-vwDej8tK"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-3RSVmvrN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "VK36WuJU",
+            "target": "NOTE-D9leJFiB"
+          },
+          {
+            "id": "oof34ljY",
+            "target": "NOTE-KVM8doVy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-4jHBEnXe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "BktWTJNL",
+            "target": "NOTE-QUpf3AZe"
+          },
+          {
+            "id": "1cqu5tzz",
+            "target": "NOTE-D9leJFiB"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-VoqUJ2qo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "zk5hbezg",
+            "target": "NOTE-J7G9Ibq3"
+          },
+          {
+            "id": "ltR7HoTs",
+            "target": "NOTE-D9leJFiB"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-mkznKaeE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "AzCEQTMh",
+            "target": "NOTE-j6nEImZt"
+          },
+          {
+            "id": "6sH7moiN",
+            "target": "NOTE-KVM8doVy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-kDLR7ULg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Fz7JAPTH",
+            "target": "NOTE-F2egJtW1"
+          },
+          {
+            "id": "V6JagSrU",
+            "target": "NOTE-IgjUppXX",
+            "attachPointNumber": 18,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BgaVf598",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YPI1te8H",
+            "target": "NOTE-qWy7LpRs"
+          },
+          {
+            "id": "hvxz1wjJ",
+            "target": "NOTE-vwDej8tK"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-UXUDgnoj",
+        "userBounds": [
+          226,
+          161,
+          null,
+          null
+        ],
+        "bounds": [
+          226,
+          161,
+          224,
+          41
+        ],
+        "content": "[DEPLOYMENT GUIDE](https://github.com/nexthink/product-shell.product-shell-menu-config#deployment)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BAKHMert",
+        "userBounds": [
+          489,
+          90,
+          null,
+          null
+        ],
+        "bounds": [
+          489,
+          90,
+          207,
+          41
+        ],
+        "content": "[JENKINS JOB (LILA)](https://jenkins-nxs-master.intra.nexthink.com/view/Product%20Shell/job/product-shell-github/job/product-shell-menu-config/view/change-requests/job/PR-249/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IJ4JYcgW",
+        "userBounds": [
+          462,
+          287,
+          null,
+          null
+        ],
+        "bounds": [
+          462,
+          287,
+          122,
+          41
+        ],
+        "content": "[LINK (LILA)](https://github.com/nexthink/product-shell.product-shell-menu-config#update-the-config-without-going-through-the-pipeline)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-d3WQwBTm",
+        "userBounds": [
+          907,
+          178,
+          613,
+          null
+        ],
+        "bounds": [
+          907,
+          178,
+          613,
+          160
+        ],
+        "content": "it gets deployed automatically on eu-west-3-fuji. On eu-west-3-main you have to run the pipeline manually and change the cluster/namespace parameters + tick manual deploy. See instructions in:\nhttps://github.com/nexthink/product-shell.product-shell-menu-config#deployment",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

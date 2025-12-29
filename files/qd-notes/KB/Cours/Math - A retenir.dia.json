@@ -1,0 +1,26 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-LyZAanDW",
+        "userBounds": [
+          397,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          397,
+          154,
+          170,
+          57
+        ],
+        "content": "Tangente à C en a:\n## y = f'(a)(x-a)+f(a)",
+        "zIndex": 3,
+        "noteStyle": "BLUE",
+        "fontSize": 14
+      }
+    ],
+    "relations": []
+  }
+}

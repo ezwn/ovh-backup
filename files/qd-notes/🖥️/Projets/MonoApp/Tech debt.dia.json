@@ -1,0 +1,355 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-BZSlVZtH",
+        "userBounds": [
+          1087,
+          373,
+          null,
+          null
+        ],
+        "content": "Modules",
+        "bounds": [
+          1087,
+          373,
+          94,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-MUCGhcDZ",
+        "userBounds": [
+          1049,
+          188,
+          null,
+          null
+        ],
+        "content": "Rewrite grouped\nfunctions in context with\natomic hooks",
+        "bounds": [
+          1049,
+          188,
+          188,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-jLc3lBh6",
+        "userBounds": [
+          1059,
+          70,
+          null,
+          null
+        ],
+        "content": "Define function types\nfor hooks returning\nfunctions",
+        "bounds": [
+          1059,
+          70,
+          149,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-qs5BB5Gz",
+        "userBounds": [
+          270,
+          117,
+          null,
+          null
+        ],
+        "content": "Prettier + husky\nlike proton",
+        "bounds": [
+          270,
+          117,
+          158,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-AiZUNaVK",
+        "userBounds": [
+          158,
+          224,
+          null,
+          null
+        ],
+        "content": "Integration tests",
+        "bounds": [
+          158,
+          224,
+          160,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-PuKdwfM5",
+        "userBounds": [
+          898,
+          312,
+          null,
+          null
+        ],
+        "content": "REFACTOR",
+        "bounds": [
+          898,
+          312,
+          127,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-KmPKPdcG",
+        "userBounds": [
+          440,
+          297,
+          152.515625,
+          null
+        ],
+        "content": "TESTS\nAND UNIFORMIZATION",
+        "bounds": [
+          440,
+          297,
+          153,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-XYiBRZnX",
+        "userBounds": [
+          131,
+          313,
+          null,
+          null
+        ],
+        "content": "Having a\nglobal test npm\nscript calling all module\ntests",
+        "zIndex": 3,
+        "bounds": [
+          131,
+          313,
+          225,
+          110
+        ]
+      },
+      {
+        "id": "NOTE-zfem9xqy",
+        "userBounds": [
+          629,
+          82,
+          null,
+          null
+        ],
+        "content": "Axios can\nreplace\nmy HTTP client",
+        "zIndex": 3,
+        "bounds": [
+          629,
+          82,
+          154,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-oRDlGLqn",
+        "userBounds": [
+          925,
+          422,
+          null,
+          null
+        ],
+        "content": "file browsing\nshould not handle\nfolder: it belongs\nto the tab browser",
+        "bounds": [
+          925,
+          422,
+          114,
+          74
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-jz3Q5Ksx",
+        "userBounds": [
+          610,
+          490,
+          null,
+          null
+        ],
+        "bounds": [
+          610,
+          490,
+          126,
+          87
+        ],
+        "content": "HANDLE\nGIT\nIN BACKED",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cAGbsn8J",
+        "userBounds": [
+          737,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          737,
+          194,
+          110,
+          64
+        ],
+        "content": "SEE NEW\nApiClient",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ToJLYwfL",
+        "userBounds": [
+          845,
+          547,
+          null,
+          null
+        ],
+        "bounds": [
+          845,
+          547,
+          98,
+          41
+        ],
+        "content": "React 18",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-2fjvwpbk",
+        "userBounds": [
+          1313,
+          308,
+          192.171875,
+          null
+        ],
+        "bounds": [
+          1313,
+          308,
+          192,
+          64
+        ],
+        "content": "x et y inutiles dans useBounds",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-X9lmeP4t",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2YgUuySS",
+            "target": "NOTE-jLc3lBh6"
+          },
+          {
+            "id": "END-pSUWrRaZ",
+            "target": "NOTE-MUCGhcDZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-f5uiqe6i",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FkrEd4p1",
+            "target": "NOTE-PuKdwfM5"
+          },
+          {
+            "id": "END-EGRgBT7T",
+            "target": "NOTE-MUCGhcDZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-vDBfIrWg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-93erSj4W",
+            "target": "NOTE-PuKdwfM5"
+          },
+          {
+            "id": "END-LAQv3B3R",
+            "target": "NOTE-BZSlVZtH"
+          }
+        ]
+      },
+      {
+        "id": "REL-v3qVEf8l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RVe4wyCZ",
+            "target": "NOTE-KmPKPdcG"
+          },
+          {
+            "id": "END-6PfCJgtz",
+            "target": "NOTE-qs5BB5Gz"
+          }
+        ]
+      },
+      {
+        "id": "REL-X3qjWLDQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-b8feYvIH",
+            "target": "NOTE-KmPKPdcG"
+          },
+          {
+            "id": "END-lXgDDXpW",
+            "target": "NOTE-AiZUNaVK"
+          }
+        ]
+      },
+      {
+        "id": "REL-jWZCEaEE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cby5nWGp",
+            "target": "NOTE-cAGbsn8J"
+          },
+          {
+            "id": "END-qfUA5pHC",
+            "target": "NOTE-zfem9xqy"
+          }
+        ]
+      },
+      {
+        "id": "REL-3xENEVou",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Nf5tlJfJ",
+            "target": "NOTE-XYiBRZnX"
+          },
+          {
+            "id": "END-QgaJvDJe",
+            "target": "NOTE-KmPKPdcG"
+          }
+        ]
+      },
+      {
+        "id": "REL-tTaHBxLn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qxMxl7T2",
+            "target": "NOTE-oRDlGLqn"
+          },
+          {
+            "id": "END-VDJy7HQn",
+            "target": "NOTE-PuKdwfM5"
+          }
+        ]
+      }
+    ]
+  }
+}

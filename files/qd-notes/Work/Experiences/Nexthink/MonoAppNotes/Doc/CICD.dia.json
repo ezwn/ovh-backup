@@ -1,0 +1,90 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rcFBN3v8",
+        "userBounds": [
+          217,
+          384,
+          null,
+          null
+        ],
+        "bounds": [
+          217,
+          384,
+          62,
+          41
+        ],
+        "content": "[DOC](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=~adumas&title=Semantic+release+with+GitHub)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oIfHIrhK",
+        "userBounds": [
+          299,
+          302,
+          null,
+          null
+        ],
+        "bounds": [
+          299,
+          302,
+          197,
+          41
+        ],
+        "content": "[GROOVY SCRIPTS](https://github.com/nexthink/sdlc.jenkins-pipeline-library/blob/main/vars/eufVersion.groovy)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-XmjZLXY3",
+        "userBounds": [
+          1302,
+          375,
+          null,
+          null
+        ],
+        "bounds": [
+          1302,
+          375,
+          121,
+          41
+        ],
+        "content": "[WORKERS](https://confluence.intra.nexthink.com/display/EngProd/Dynamic+Jenkins+worker+nodes)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VQXhjEym",
+        "userBounds": [
+          1118,
+          200,
+          null,
+          null
+        ],
+        "bounds": [
+          1118,
+          200,
+          157,
+          41
+        ],
+        "content": "worker-runonce",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-aN4FiT3j",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FGEr1WCE",
+            "target": "NOTE-VQXhjEym"
+          },
+          {
+            "id": "END-cqFZ24Gz",
+            "target": "NOTE-XmjZLXY3"
+          }
+        ]
+      }
+    ]
+  }
+}

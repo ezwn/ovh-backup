@@ -1,0 +1,143 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rWaBREKH",
+        "userBounds": [
+          148,
+          61,
+          null,
+          null
+        ],
+        "bounds": [
+          148,
+          61,
+          104,
+          41
+        ],
+        "content": "[YUBIKEY](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=SEC&title=Use+your+YubiKey+for+Commit+Signing)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-c65NtaJP",
+        "userBounds": [
+          517,
+          427,
+          null,
+          null
+        ],
+        "bounds": [
+          517,
+          427,
+          66,
+          55
+        ],
+        "content": "# VM",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WuT9wexu",
+        "userBounds": [
+          781,
+          435,
+          520.34375,
+          null
+        ],
+        "bounds": [
+          781,
+          435,
+          520,
+          34
+        ],
+        "content": "https://confluence.intra.nexthink.com/display/ENGAGE/API+Based+Campaigns",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-uyt9wirI",
+        "userBounds": [
+          214,
+          403,
+          null,
+          null
+        ],
+        "bounds": [
+          214,
+          403,
+          246,
+          41
+        ],
+        "content": "[RENAME WIN MACHINE](https://support.microsoft.com/en-us/windows/rename-your-windows-10-pc-750bc75d-8ff8-e99a-b9dc-04dff566ae74)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eQR6zFsw",
+        "userBounds": [
+          741,
+          191,
+          null,
+          null
+        ],
+        "bounds": [
+          741,
+          191,
+          206,
+          41
+        ],
+        "content": "[XTRAY DOWNLOAD](https://artifactory.intra.nexthink.com/ui/native/nexthink-rc-local/com.nexthink/NXI/23.8.1.1/2trays/x64/Release/signed/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-chQAmlR7",
+        "userBounds": [
+          1331,
+          276,
+          null,
+          null
+        ],
+        "bounds": [
+          1331,
+          276,
+          123,
+          89
+        ],
+        "content": "[TRIGGER CAMPAIGN BY DANIEL](https://confluence.intra.nexthink.com/display/~dkajita/Trigger+Regular+Campaign)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-P3zJsIyS",
+        "userBounds": [
+          1058,
+          37,
+          183.1875,
+          null
+        ],
+        "bounds": [
+          1058,
+          37,
+          183,
+          76
+        ],
+        "content": "campaign.apiTrigger launchDarkly isAPITriggerFlag",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-VSSohcBr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XWvYQC2S",
+            "target": "NOTE-uyt9wirI"
+          },
+          {
+            "id": "END-zJxocoxQ",
+            "target": "NOTE-c65NtaJP"
+          }
+        ]
+      }
+    ]
+  }
+}

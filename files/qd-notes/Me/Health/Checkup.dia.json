@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-4i51k9ZK",
+        "userBounds": [
+          344,
+          333,
+          null,
+          null
+        ],
+        "bounds": [
+          344,
+          333,
+          197,
+          41
+        ],
+        "content": "ECHINOCCOCOSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8e4Ag15w",
+        "userBounds": [
+          452,
+          461,
+          null,
+          null
+        ],
+        "bounds": [
+          452,
+          461,
+          125,
+          41
+        ],
+        "content": "ABESTOSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-QWeV7b7q",
+        "userBounds": [
+          350,
+          690,
+          null,
+          null
+        ],
+        "bounds": [
+          350,
+          690,
+          105,
+          41
+        ],
+        "content": "VACCINS",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

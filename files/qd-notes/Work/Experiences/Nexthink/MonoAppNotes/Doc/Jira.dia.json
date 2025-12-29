@@ -1,0 +1,25 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ZjT8BUUi",
+        "userBounds": [
+          332,
+          178,
+          329,
+          null
+        ],
+        "bounds": [
+          332,
+          178,
+          329,
+          65
+        ],
+        "content": "when we can't delete them we move the subtasks of:\nhttps://jira.nexthink.com:1443/browse/TEMP-1037",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": []
+  }
+}

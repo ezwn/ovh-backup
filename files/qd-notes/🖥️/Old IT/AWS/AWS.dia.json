@@ -1,0 +1,339 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VAZWhRpu",
+        "userBounds": [
+          467,
+          293,
+          null,
+          null
+        ],
+        "bounds": [
+          467,
+          293,
+          86,
+          57
+        ],
+        "content": "EKS",
+        "zIndex": 3,
+        "fontSize": 34
+      },
+      {
+        "id": "NOTE-eJYxeTbk",
+        "userBounds": [
+          278,
+          138,
+          null,
+          null
+        ],
+        "bounds": [
+          278,
+          138,
+          120,
+          41
+        ],
+        "content": "Kubernetes",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7iAZ9dvf",
+        "userBounds": [
+          824,
+          167,
+          null,
+          null
+        ],
+        "bounds": [
+          824,
+          167,
+          64,
+          61
+        ],
+        "content": "S3",
+        "zIndex": 3,
+        "fontSize": 38
+      },
+      {
+        "id": "NOTE-P2EErBpF",
+        "userBounds": [
+          537,
+          73,
+          null,
+          null
+        ],
+        "bounds": [
+          537,
+          73,
+          128,
+          41
+        ],
+        "content": "S3FS-FUSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-An5EmiUt",
+        "userBounds": [
+          715,
+          5,
+          null,
+          null
+        ],
+        "bounds": [
+          715,
+          5,
+          99,
+          72
+        ],
+        "content": "LESS\nSECURITY\nPERFS",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-hutij9oK",
+        "userBounds": [
+          994,
+          67,
+          null,
+          null
+        ],
+        "bounds": [
+          994,
+          67,
+          279,
+          77
+        ],
+        "content": "```shell\naws s3 ls s3://bucket-name/subdirectory/\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DRTHTiUg",
+        "userBounds": [
+          1096,
+          186,
+          275.09375,
+          null
+        ],
+        "bounds": [
+          1096,
+          186,
+          275,
+          116
+        ],
+        "content": "```shell\naws s3 cp s3://my-bucket-name/prefix/path/ ./local-directory/ --recursive\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-saoEpx1W",
+        "userBounds": [
+          783,
+          576,
+          null,
+          null
+        ],
+        "bounds": [
+          783,
+          576,
+          127,
+          86
+        ],
+        "content": "EC2\n= server",
+        "zIndex": 3,
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-KUdX8qZ5",
+        "userBounds": [
+          693,
+          349,
+          null,
+          null
+        ],
+        "bounds": [
+          693,
+          349,
+          148,
+          85
+        ],
+        "content": "AWS",
+        "zIndex": 3,
+        "fontSize": 58
+      },
+      {
+        "id": "NOTE-efCqAdj2",
+        "userBounds": [
+          555,
+          184,
+          null,
+          null
+        ],
+        "bounds": [
+          555,
+          184,
+          57,
+          41
+        ],
+        "content": "EFS",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-uvyFmVwp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1eN1UYG5",
+            "target": "NOTE-eJYxeTbk"
+          },
+          {
+            "id": "END-QuKyrRuw",
+            "target": "NOTE-VAZWhRpu"
+          }
+        ]
+      },
+      {
+        "id": "REL-D5VYxQxs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MDYSHC4i",
+            "target": "NOTE-P2EErBpF"
+          },
+          {
+            "id": "END-I9gvnXjS",
+            "target": "NOTE-eJYxeTbk"
+          }
+        ]
+      },
+      {
+        "id": "REL-lQ9J2KAN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J8SReUpJ",
+            "target": "NOTE-P2EErBpF"
+          },
+          {
+            "id": "END-AbE7mTDY",
+            "target": "NOTE-7iAZ9dvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-5zhdSzHf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BaGIBA5r",
+            "target": "NOTE-An5EmiUt"
+          },
+          {
+            "id": "END-Ha3Fkb9L",
+            "target": "NOTE-P2EErBpF",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-gxIYVhmq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oWf7fRyb",
+            "target": "NOTE-hutij9oK"
+          },
+          {
+            "id": "END-Au3ppEbn",
+            "target": "NOTE-7iAZ9dvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-XB6LiIbm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XCJFJ2nT",
+            "target": "NOTE-DRTHTiUg"
+          },
+          {
+            "id": "END-vCbsvA9h",
+            "target": "NOTE-7iAZ9dvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-wHEzc8jE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-U65BfE7Z",
+            "target": "NOTE-KUdX8qZ5"
+          },
+          {
+            "id": "END-3lIXXjUL",
+            "target": "NOTE-VAZWhRpu"
+          }
+        ]
+      },
+      {
+        "id": "REL-oq7KnlDY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xEyF9z4P",
+            "target": "NOTE-KUdX8qZ5"
+          },
+          {
+            "id": "END-mHoFlgYi",
+            "target": "NOTE-7iAZ9dvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qzs2trdR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gY3Alp1h",
+            "target": "NOTE-KUdX8qZ5"
+          },
+          {
+            "id": "END-MlUxUMZQ",
+            "target": "NOTE-saoEpx1W"
+          }
+        ]
+      },
+      {
+        "id": "REL-KdIsexLN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YrdG35M4",
+            "target": "NOTE-efCqAdj2"
+          },
+          {
+            "id": "END-iy1yBICz",
+            "target": "NOTE-eJYxeTbk"
+          }
+        ]
+      },
+      {
+        "id": "REL-BDhWs46m",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-in2ZrIIH",
+            "target": "NOTE-efCqAdj2"
+          },
+          {
+            "id": "END-iL5n5cyH",
+            "target": "NOTE-7iAZ9dvf"
+          }
+        ]
+      }
+    ]
+  }
+}

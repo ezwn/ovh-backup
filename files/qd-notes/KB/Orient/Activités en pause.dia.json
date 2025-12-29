@@ -1,0 +1,357 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-6ipBqqak",
+        "userBounds": [
+          237,
+          216,
+          92.15625,
+          null
+        ],
+        "bounds": [
+          237,
+          216,
+          92,
+          68
+        ],
+        "content": "# [Ψ emo](http://localhost:3000/units/PSYEMOXXX000)\n---\n[Dossier](http://localhost:3000/files/Human/Psychologie/PEXX%20-%20%C3%89motions)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-CjejA9ho",
+        "userBounds": [
+          139,
+          188,
+          null,
+          null
+        ],
+        "bounds": [
+          139,
+          188,
+          77,
+          68
+        ],
+        "content": "# [Ψ soc.](http://localhost:3000/units/PSYSOCXXX000)\n---\n[Dossier](http://localhost:3000/files/Human/Psychologie/PSOC%20-%20Psycho%20sociale)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-gj5crgte",
+        "userBounds": [
+          846,
+          10,
+          118.53125,
+          null
+        ],
+        "bounds": [
+          846,
+          10,
+          119,
+          82
+        ],
+        "content": "# [UTC501](http://localhost:3000/units/CNMUTC501000)\n---\n[Notes](http://localhost:3000/files/Math) \n---\n[UTC501NA](https://naq.moodle.lecnam.net/course/view.php?id=5331)",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-3WWM5M9X",
+        "userBounds": [
+          822,
+          112,
+          66.546875,
+          null
+        ],
+        "bounds": [
+          822,
+          112,
+          67,
+          57
+        ],
+        "content": "# Statistiques\n---\n[STANDFORD](https://www.coursera.org/learn/stanford-statistics)\n---\n[CNAM](https://formation.cnam.fr/rechercher-par-discipline/techniques-de-la-statistique-411338.kjsp?RF=newcat_themes)",
+        "zIndex": 3,
+        "fontSize": 6
+      },
+      {
+        "id": "NOTE-E3butEim",
+        "userBounds": [
+          899,
+          115,
+          97.578125,
+          null
+        ],
+        "bounds": [
+          899,
+          115,
+          98,
+          29
+        ],
+        "content": "[COMBINATOIRE](https://mesmanuels.fr/acces-libre/9782016290064)",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-nu541ZJ3",
+        "userBounds": [
+          1192,
+          45,
+          null,
+          null
+        ],
+        "bounds": [
+          1192,
+          45,
+          162,
+          41
+        ],
+        "content": "[ERGO TRAVAIL](https://www.cchst.ca/oshanswers/ergonomics/sitting/sitting_position.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SiAnfaeL",
+        "userBounds": [
+          587,
+          769,
+          null,
+          null
+        ],
+        "bounds": [
+          587,
+          769,
+          82,
+          59
+        ],
+        "content": "# [GLG203](https://par.moodle.lecnam.net/course/view.php?id=23302)\n---\nJDBC 4 / DAO",
+        "zIndex": 0,
+        "fontSize": 10,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-MMtNYEMv",
+        "userBounds": [
+          671,
+          735,
+          122.015625,
+          null
+        ],
+        "bounds": [
+          671,
+          735,
+          122,
+          66
+        ],
+        "content": "Gouvernance évolutions Java and jakarta",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Dc6pGwk4",
+        "userBounds": [
+          620,
+          580,
+          null,
+          null
+        ],
+        "bounds": [
+          620,
+          580,
+          78,
+          58
+        ],
+        "content": "IT\n# NSY102\n[Notes](http://localhost:8989/Cours/NSY102-24.dia.json)",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-Wsn3woDv",
+        "userBounds": [
+          1409,
+          217,
+          null,
+          null
+        ],
+        "bounds": [
+          1409,
+          217,
+          98,
+          96
+        ],
+        "content": "# Nutrition\n---\n[HARVARD](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/)\n---\n[NOTES](http://localhost:3000/units/SANNUTXXX000)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-ZjQBGxZG",
+        "userBounds": [
+          1522,
+          373,
+          116.375,
+          null
+        ],
+        "bounds": [
+          1522,
+          373,
+          116,
+          72
+        ],
+        "content": "Biologie et vieillissement cellulaire",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-FLP5CEwn",
+        "userBounds": [
+          1460,
+          455,
+          null,
+          null
+        ],
+        "bounds": [
+          1460,
+          455,
+          69,
+          34
+        ],
+        "content": "[DUNOD](https://univ-scholarvox-com.proxybib-pp.cnam.fr/reader/docid/88911487/page/63)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-tlhlJfpj",
+        "userBounds": [
+          1635,
+          458,
+          109,
+          null
+        ],
+        "bounds": [
+          1635,
+          458,
+          109,
+          50
+        ],
+        "content": "Mécanismes inflammatoires",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-lD2XRzv5",
+        "userBounds": [
+          1650,
+          362,
+          null,
+          null
+        ],
+        "bounds": [
+          1650,
+          362,
+          101,
+          54
+        ],
+        "content": "# 5TH & co\n[Notes](http://localhost:3000/Psychologie/5TH.md)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-T2PQfQZT",
+        "userBounds": [
+          1683,
+          233,
+          null,
+          null
+        ],
+        "bounds": [
+          1683,
+          233,
+          85,
+          105
+        ],
+        "content": "# Sommeil\n---\n[INSERM](https://www.inserm.fr/dossier/sommeil/)\n---\n[Notes](http://localhost:3000/Health)\n---\nCafein, sieste",
+        "zIndex": 0,
+        "noteStyle": "NOTE",
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-kuZrfHTQ",
+        "userBounds": [
+          1528,
+          91,
+          null,
+          null
+        ],
+        "bounds": [
+          1528,
+          91,
+          40,
+          29
+        ],
+        "content": "[VID2](https://www.youtube.com/watch?v=apIffYvzuS0)",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-q5aognEI",
+        "userBounds": [
+          1627,
+          84,
+          null,
+          null
+        ],
+        "bounds": [
+          1627,
+          84,
+          40,
+          29
+        ],
+        "content": "[VID1](https://www.youtube.com/watch?v=LkJSOEHmLQY)",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-jHdDmEc8",
+        "userBounds": [
+          1565.9090881347656,
+          137.34091186523438,
+          null,
+          null
+        ],
+        "bounds": [
+          1565.9090881347656,
+          137.34091186523438,
+          63,
+          34
+        ],
+        "content": "TAICHI",
+        "zIndex": 0,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-An6fY8G2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-peaTNQLF",
+            "target": "NOTE-gj5crgte"
+          },
+          {
+            "id": "END-73ur5rVY",
+            "target": "NOTE-3WWM5M9X"
+          },
+          {
+            "id": "END-lr7ISSYu",
+            "target": "NOTE-E3butEim"
+          }
+        ]
+      }
+    ]
+  }
+}

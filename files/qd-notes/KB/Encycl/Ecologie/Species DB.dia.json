@@ -1,0 +1,158 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Yvfe3fMQ",
+        "userBounds": [
+          287,
+          315,
+          null,
+          null
+        ],
+        "bounds": [
+          287,
+          315,
+          77,
+          41
+        ],
+        "content": "IPBES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-LU92KdyS",
+        "userBounds": [
+          250,
+          394,
+          null,
+          null
+        ],
+        "bounds": [
+          250,
+          394,
+          67,
+          41
+        ],
+        "content": "[IUCN](https://www.iucn.org/fr)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pIxL3Wky",
+        "userBounds": [
+          427,
+          236,
+          null,
+          null
+        ],
+        "bounds": [
+          427,
+          236,
+          65,
+          41
+        ],
+        "content": "GBIF",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HmhWzUHD",
+        "userBounds": [
+          797,
+          406,
+          384.828125,
+          null
+        ],
+        "bounds": [
+          797,
+          406,
+          385,
+          64
+        ],
+        "content": "AI and data-driven solutions for climate change and biodiversity protection",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-egsQfSWF",
+        "userBounds": [
+          378,
+          130,
+          null,
+          null
+        ],
+        "bounds": [
+          378,
+          130,
+          46,
+          41
+        ],
+        "content": "[DB](https://www.gbif.org/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-P5xyZKfc",
+        "userBounds": [
+          624,
+          131,
+          null,
+          null
+        ],
+        "bounds": [
+          624,
+          131,
+          58,
+          41
+        ],
+        "content": "[TRY](https://www.try-db.org/TryWeb/Home.php)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o4ySZEUR",
+        "userBounds": [
+          937,
+          170,
+          null,
+          null
+        ],
+        "bounds": [
+          937,
+          170,
+          117,
+          41
+        ],
+        "content": "[AUSTRAIT](https://zenodo.org/record/7583087)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kDtsAwxl",
+        "userBounds": [
+          79,
+          121,
+          null,
+          null
+        ],
+        "bounds": [
+          79,
+          121,
+          171,
+          41
+        ],
+        "content": "[EOL Trait Search](https://eol.org/terms/search?tq%5Bf%5D%5B0%5D%5Bp%5D=2563&tq%5Br%5D=taxa)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-UJFa9qL4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rUtizTCj",
+            "target": "NOTE-egsQfSWF"
+          },
+          {
+            "id": "END-IyKk2QEd",
+            "target": "NOTE-pIxL3Wky"
+          }
+        ]
+      }
+    ]
+  }
+}

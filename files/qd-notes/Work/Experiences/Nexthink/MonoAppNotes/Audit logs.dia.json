@@ -1,0 +1,421 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-9tPuj39R",
+        "userBounds": [
+          172,
+          102.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          172,
+          102.2620620727539,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-122)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gdRXYLNy",
+        "userBounds": [
+          704,
+          347.2620620727539,
+          205.6798095703125,
+          null
+        ],
+        "bounds": [
+          704,
+          347.2620620727539,
+          206,
+          128
+        ],
+        "content": "Audit log for triggering campaigns",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-y1RNiXER",
+        "userBounds": [
+          92,
+          374.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          92,
+          374.1436424255371,
+          62,
+          41
+        ],
+        "content": "[DOC](https://confluence.intra.nexthink.com/display/SON/Audit+best+practices)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-baP9ah9l",
+        "userBounds": [
+          342,
+          412.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          342,
+          412.1436424255371,
+          46,
+          41
+        ],
+        "content": "[PR](https://github.com/nexthink/act.remote-action-api/pull/45/files#diff-2ce26de6e5a7e95c122b026558b8f04b03e4740e469c1169ffa7dab5afa80ba5R35)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6GtwBvwD",
+        "userBounds": [
+          416,
+          497.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          416,
+          497.1436424255371,
+          89,
+          41
+        ],
+        "content": "[PROTO](https://github.com/nexthink/act.remote-action-api/blob/c693ef3cc6cdb14eff324c65a31936905b68cd7f/src/main/java/com/nexthink/remoteaction/api/adapter/kafka/ProtoGenerator.java#L21)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zM5LK7WU",
+        "userBounds": [
+          484,
+          416.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          484,
+          416.1436424255371,
+          58,
+          41
+        ],
+        "content": "ACT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-S2ZMjTV7",
+        "userBounds": [
+          573,
+          199.1436424255371,
+          165.16720581054688,
+          null
+        ],
+        "bounds": [
+          573,
+          199.1436424255371,
+          165,
+          56
+        ],
+        "content": "[DATAPLATEFORM PROTOBUF](https://github.com/nexthink/data-platform.protobufs/blob/54b6603bfbfe486dd7ee764e1c34ad1fc1be0b2d/nexthink/protobuf/audit/v1/audit.proto#L14)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Br5p5l5Q",
+        "userBounds": [
+          437,
+          191.1436424255371,
+          112.26425170898438,
+          null
+        ],
+        "bounds": [
+          437,
+          191.1436424255371,
+          112,
+          89
+        ],
+        "content": "[API to retrieve userdoc](https://docs.nexthink.com/platform/latest/audit-trail-api)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MI4Q9f1n",
+        "userBounds": [
+          711,
+          99.14364242553711,
+          191.87774658203125,
+          null
+        ],
+        "bounds": [
+          711,
+          99.14364242553711,
+          192,
+          65
+        ],
+        "content": "[EXAMPLE: AUDIT PRODUCER](https://github.com/nexthink/platform-configuration.gdpr-manager/blob/0062b4b26e66d5a6e4d2869610b7782e19a2aaba/src/main/java/com/nexthink/gdpr/manager/audit/kafka/AuditProducer.java#L4)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nexqC6i3",
+        "userBounds": [
+          813,
+          201.1436424255371,
+          166.3377227783203,
+          null
+        ],
+        "bounds": [
+          813,
+          201.1436424255371,
+          166,
+          65
+        ],
+        "content": "[EXAMPLE : SERVICE](https://github.com/nexthink/access-rights-management.arm-login-user-events/blob/dbf5d3e6d911cc561ce6421a4266b27e8c1437df/src/main/java/com/nexthink/nxarm/eventprocessor/audit/AuditService.java#L4)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Z8fG2LA1",
+        "userBounds": [
+          1004,
+          350.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1004,
+          350.1436424255371,
+          176,
+          65
+        ],
+        "content": "[BCS\nCONVERSATION](https://teams.microsoft.com/l/message/19:59324f6660064627a1c57e4e5299628f@thread.tacv2/1718711813715?tenantId=13387b29-82d9-4ca5-9fa0-b7b5635742ef&groupId=1ce1e26b-a841-4cc8-9f1d-c9f5d80d3a00&parentMessageId=1718711813715&teamName=Engineering-Product&channelName=Content%20Administration&createdTime=1718711813715)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yQfoowp5",
+        "userBounds": [
+          1058,
+          202.1436424255371,
+          138.9638214111328,
+          null
+        ],
+        "bounds": [
+          1058,
+          202.1436424255371,
+          139,
+          65
+        ],
+        "content": "[BCS Audit Guidelines](https://confluence.intra.nexthink.com/display/BCS/Audit+for+MTP+-+Feature+Team%27s+guidelines+for+auditing+through+BCS)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4fFDGQVt",
+        "userBounds": [
+          1276,
+          60.14364242553711,
+          348.1003112792969,
+          null
+        ],
+        "bounds": [
+          1276,
+          60.14364242553711,
+          348,
+          270
+        ],
+        "content": "Paula\n \nThere are two ways to start registering audit logs. Is your content stored within BCS and do you want to audit the creation, update or deletion? If true, you should follow this guide. Basically, by adding some metadata to your BCS documents the system will create the proper audit logs.\n \nIf the previous option does not fit your needs, there is another way. You should create your audit events using this protobuf. You should fill the required fields and send the event to the specific single tenant kafka topic \"prodconf_audit_info_<tenant-uuid>\" for each customer.\n \nLet me know if you need further clarifications ",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-3ak2MncI",
+        "userBounds": [
+          1404,
+          413.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1404,
+          413.1436424255371,
+          89,
+          41
+        ],
+        "content": "[PROTO](https://github.com/nexthink/data-platform.protobufs/tree/main/nexthink/protobuf/audit)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6dAsaIKT",
+        "userBounds": [
+          718,
+          512.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          718,
+          512.1436424255371,
+          100,
+          41
+        ],
+        "content": "[OUTPUT](https://eng-03-aws.dev.nexthink.cloud/inv/run#query=cGxhdGZvcm0uYXVkaXRfbG9ncyAKfCBsaXN0IGF1ZGl0X2xvZy50aW1lLCBhdWRpdF9sb2cuY29kZSwgYXVkaXRfbG9nLmNhdGVnb3J5LCBhdWRpdF9sb2cuYWNjb3VudCwgYXVkaXRfbG9nLm1lc3NhZ2UgCnwgc29ydCBwbGF0Zm9ybS5hdWRpdF9sb2cudGltZSBkZXNj)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l9G95H7f",
+        "userBounds": [
+          389,
+          65.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          389,
+          65.14364242553711,
+          173,
+          41
+        ],
+        "content": "[JENKINS STACK](https://jenkins-euf-master.intra.nexthink.com/job/euf-trigger-api-github/job/PR-120/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-p2ocrZoK",
+        "userBounds": [
+          1028,
+          545.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1028,
+          545.1436424255371,
+          54,
+          41
+        ],
+        "content": "[logs](https://app.datadoghq.eu/logs?query=service%3Aeuf-trigger-api%20test%20audit%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1712575223754&to_ts=1712576123754&live=true)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tuB4Lv4x",
+        "userBounds": [
+          1168,
+          465.1436424255371,
+          187.40679931640625,
+          null
+        ],
+        "bounds": [
+          1168,
+          465.1436424255371,
+          187,
+          65
+        ],
+        "content": "[ENGAGE CONVERSATION](https://teams.microsoft.com/l/message/19:S-zRpVa1O7Dmk_m97sbWxQbW_PS0Os8s9lWj9ON8MgM1@thread.tacv2/1719306958997?tenantId=13387b29-82d9-4ca5-9fa0-b7b5635742ef&groupId=b406e4f5-3a61-4687-86b8-0ffb5b93900b&parentMessageId=1719306958997&teamName=Engage%20Cloud&channelName=General&createdTime=1719306958997)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AN1Fg5Yt",
+        "userBounds": [
+          139,
+          196.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          139,
+          196.1436424255371,
+          72,
+          41
+        ],
+        "content": "[euf-lib](https://github.com/nexthink/engage.euf-lib/pull/75)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5SrvcBKE",
+        "userBounds": [
+          206,
+          281.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          206,
+          281.1436424255371,
+          46,
+          41
+        ],
+        "content": "PR",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-bij4HxiK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AML5S3av",
+            "target": "NOTE-zM5LK7WU"
+          },
+          {
+            "id": "END-ouzDWbjf",
+            "target": "NOTE-baP9ah9l"
+          }
+        ]
+      },
+      {
+        "id": "REL-NmJ6YcpX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yR4AdftE",
+            "target": "NOTE-zM5LK7WU"
+          },
+          {
+            "id": "END-cUE361sC",
+            "target": "NOTE-6GtwBvwD"
+          }
+        ]
+      },
+      {
+        "id": "REL-XALhGhg1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zzRebbPw",
+            "target": "NOTE-3ak2MncI"
+          },
+          {
+            "id": "END-bBruNyk8",
+            "target": "NOTE-4fFDGQVt"
+          }
+        ]
+      },
+      {
+        "id": "REL-2sMLaDZl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RbDe2Kt1",
+            "target": "NOTE-yQfoowp5"
+          },
+          {
+            "id": "END-lq9eBjVj",
+            "target": "NOTE-4fFDGQVt"
+          }
+        ]
+      },
+      {
+        "id": "REL-IkncxGGc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pnY4dsiP",
+            "target": "NOTE-AN1Fg5Yt"
+          },
+          {
+            "id": "END-45b9PwGA",
+            "target": "NOTE-5SrvcBKE"
+          }
+        ]
+      }
+    ]
+  }
+}

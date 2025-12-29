@@ -1,0 +1,192 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yriGhkWQ",
+        "userBounds": [
+          390,
+          285,
+          null,
+          null
+        ],
+        "bounds": [
+          390,
+          285,
+          141,
+          41
+        ],
+        "content": "[SUPERPOZE](https://www.arte.tv/fr/videos/110984-006-A/superpoze/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UMevinYM",
+        "userBounds": [
+          656,
+          140,
+          null,
+          null
+        ],
+        "bounds": [
+          656,
+          140,
+          77,
+          41
+        ],
+        "content": "[YALTA](https://www.youtube.com/watch?v=X9KpHVxru60&t=1375s&ab_channel=PascalM)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lYPhmUtW",
+        "userBounds": [
+          564,
+          563,
+          null,
+          null
+        ],
+        "bounds": [
+          564,
+          563,
+          325,
+          41
+        ],
+        "content": "[Floorplan Aka Lyric & Robert Hood](https://www.arte.tv/fr/videos/109040-003-A/floorplan-aka-lyric-robert-hood/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yePZoeGm",
+        "userBounds": [
+          1124,
+          589,
+          null,
+          null
+        ],
+        "bounds": [
+          1124,
+          589,
+          139,
+          41
+        ],
+        "content": "[ALICIA KEYS](https://www.youtube.com/watch?v=ZW2xa__89p0)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-59AhKKKI",
+        "userBounds": [
+          1363,
+          444,
+          null,
+          null
+        ],
+        "bounds": [
+          1363,
+          444,
+          268,
+          41
+        ],
+        "content": "guadalupe denis neve remix",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6CuAsFuL",
+        "userBounds": [
+          1235,
+          151,
+          236.53125,
+          null
+        ],
+        "bounds": [
+          1235,
+          151,
+          237,
+          64
+        ],
+        "content": "[ENSEMBLE ORCHESTRAL PARIS](https://www.youtube.com/channel/UCLBHBZ1NNHy_rJDXb7Ne2hQ)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SXAlqSXc",
+        "userBounds": [
+          140,
+          500,
+          null,
+          null
+        ],
+        "bounds": [
+          140,
+          500,
+          136,
+          41
+        ],
+        "content": "DOWNLOAD",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o9s3jyja",
+        "userBounds": [
+          123,
+          385,
+          null,
+          null
+        ],
+        "bounds": [
+          123,
+          385,
+          124,
+          41
+        ],
+        "content": "[VIDEOVOR](https://www.videovor.com/de/downloader-online-h5)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gA45iB1J",
+        "userBounds": [
+          847,
+          234,
+          160.078125,
+          null
+        ],
+        "bounds": [
+          847,
+          234,
+          160,
+          64
+        ],
+        "content": "[LA BELLE MUSIQUE](https://www.youtube.com/labellemusique)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-jwQyTtYR",
+        "userBounds": [
+          968,
+          338,
+          153.578125,
+          null
+        ],
+        "bounds": [
+          968,
+          338,
+          154,
+          64
+        ],
+        "content": "[THE GRAND SOUND](https://www.youtube.com/@TheGrandSound)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-dsPIgb3A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hN61Ch2q",
+            "target": "NOTE-o9s3jyja"
+          },
+          {
+            "id": "END-GpeKuhEc",
+            "target": "NOTE-SXAlqSXc"
+          }
+        ]
+      }
+    ]
+  }
+}

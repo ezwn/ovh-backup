@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-noteSynthese100Document",
+  "content": {
+    "index": "note synthèse : 100 - document",
+    "name": "Note Synthèse : 100 - Document",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Extrait du document les informations essentielles qui constituent des indices de récupération optimaux, concis organisés et cohérents, dont la mémorisation active favorisera, dans un second temps, l'apprentissage naturel, en situation, du document et ou des pratiques qui en découlent. Concrètement, il s'agit de conserver l'essentiel, d'enlever les détails, et de formuler le résultat le plus efficacement possible, en anglais, comme le document original.\n\nLe document produit s'adresse à un Architecte Solution, avec un fort rôle de tampon avec le métier, qui va travailler chez ISO dans l'environnement métier décrit dans le document.",
+        "defaultText": null
+      }
+    ]
+  }
+}

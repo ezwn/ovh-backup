@@ -1,0 +1,317 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-4UVWkE4a",
+        "userBounds": [
+          514,
+          229.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          514,
+          229.39999771118164,
+          74,
+          41
+        ],
+        "content": "PODS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-I5eZlZWI",
+        "userBounds": [
+          307,
+          213.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          307,
+          213.39999771118164,
+          154,
+          41
+        ],
+        "content": "[mnt-kafka-tools](http://localhost:8080/ui/msk/topic/telemetry_bcs_event-ingestion/data?sort=Newest&partition=All)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IKvYIteA",
+        "userBounds": [
+          435,
+          131.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          435,
+          131.39999771118164,
+          119,
+          41
+        ],
+        "content": "euf-kafkacli",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8TmuTw4P",
+        "userBounds": [
+          87,
+          418.39999771118164,
+          430.4385986328125,
+          null
+        ],
+        "bounds": [
+          87,
+          418.39999771118164,
+          430,
+          119
+        ],
+        "content": "Connect inside a pod\n```bash\nkubectl exec -it  euf-trigger-api-84c7596977-62vz5 -nnxmultitenant-v2 /bin/bash\n```",
+        "zIndex": 3,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-sG2y8lF8",
+        "userBounds": [
+          150,
+          257.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          150,
+          257.39999771118164,
+          101,
+          41
+        ],
+        "content": "mnt-akhq",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zZMUnN5t",
+        "userBounds": [
+          154,
+          149.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          154,
+          149.39999771118164,
+          153,
+          41
+        ],
+        "content": "mnt-kafka-shell",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7SbS2XWg",
+        "userBounds": [
+          798,
+          227.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          798,
+          227.39999771118164,
+          92,
+          41
+        ],
+        "content": "TOPICS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-jxAN8gJn",
+        "userBounds": [
+          852,
+          116.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          852,
+          116.39999771118164,
+          209,
+          65
+        ],
+        "content": "telemetry_bcs_event-ingestion",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Y4K3tUkX",
+        "userBounds": [
+          346,
+          324,
+          139.5625,
+          null
+        ],
+        "bounds": [
+          346,
+          324,
+          140,
+          49
+        ],
+        "content": "[ACCESS KAFKA TOPICS](https://confluence.intra.nexthink.com/display/ENGAGE/How+to+access+Kafka+topics+and+messages+in+dev+environment)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-yhsZbXZA",
+        "userBounds": [
+          545,
+          488,
+          470.5625,
+          null
+        ],
+        "bounds": [
+          545,
+          488,
+          471,
+          65
+        ],
+        "content": "kubectl logs euf-trigger-api-84c7596977-62vz5 -nnxmultitenant-v2\nkubectl logs euf-trigger-api-84c7596977-skkdh -nnxmultitenant-v2\nkubectl logs euf-campaign-manager-c47ffc9c6-4ctbw -nnxmultitenant-v2",
+        "zIndex": 3,
+        "noteStyle": "TEXT",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-lUyl6F7H",
+        "userBounds": [
+          561,
+          323,
+          232.6875,
+          null
+        ],
+        "bounds": [
+          561,
+          323,
+          233,
+          89
+        ],
+        "content": "nxmultitenant-v2\nmnt-kafka-tools\n8080:8080",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lJUnih6b",
+        "userBounds": [
+          269,
+          28,
+          null,
+          null
+        ],
+        "bounds": [
+          269,
+          28,
+          173,
+          41
+        ],
+        "content": "Pelayo Lartategui",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PuD1kRMx",
+        "userBounds": [
+          1197,
+          170.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1197,
+          170.1436424255371,
+          130,
+          65
+        ],
+        "content": "[REBUILD TOPOLOGY](https://github.com/nexthink/engage.euf-request-manager/pull/94/commits/a4258d550154ee6cb365ac28974d7e38648fd139)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-WZzNVoYT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CYfquQUP",
+            "target": "NOTE-sG2y8lF8"
+          },
+          {
+            "id": "END-3GLBryey",
+            "target": "NOTE-I5eZlZWI"
+          }
+        ]
+      },
+      {
+        "id": "REL-1zAznD7H",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-S8PpYgtb",
+            "target": "NOTE-zZMUnN5t"
+          },
+          {
+            "id": "END-iZeuch8g",
+            "target": "NOTE-I5eZlZWI"
+          }
+        ]
+      },
+      {
+        "id": "REL-T3H7Q9DL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-H3hA4MTv",
+            "target": "NOTE-4UVWkE4a"
+          },
+          {
+            "id": "END-wM8MfeDn",
+            "target": "NOTE-I5eZlZWI"
+          }
+        ]
+      },
+      {
+        "id": "REL-za7J8pAp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-727tQAcP",
+            "target": "NOTE-4UVWkE4a"
+          },
+          {
+            "id": "END-xLw5lCUy",
+            "target": "NOTE-IKvYIteA"
+          }
+        ]
+      },
+      {
+        "id": "REL-bQI9Hxtw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Duq5MSXJ",
+            "target": "NOTE-jxAN8gJn"
+          },
+          {
+            "id": "END-rnab3trs",
+            "target": "NOTE-7SbS2XWg"
+          }
+        ]
+      },
+      {
+        "id": "REL-bhMcGwbq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6eRxLY1C",
+            "target": "NOTE-Y4K3tUkX"
+          },
+          {
+            "id": "END-3eT3lskw",
+            "target": "NOTE-I5eZlZWI"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-E3Mj3prA",
+        "userBounds": [
+          407,
+          243,
+          269.265625,
+          null
+        ],
+        "bounds": [
+          407,
+          243,
+          269,
+          64
+        ],
+        "content": "azote (N), phosphore (P) et potassium (K)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bx51lxxu",
+        "userBounds": [
+          866,
+          132,
+          298.984375,
+          null
+        ],
+        "bounds": [
+          866,
+          132,
+          299,
+          64
+        ],
+        "content": "calcium (Ca), soufre (S) et magnésium (Mg)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oa4GhYCN",
+        "userBounds": [
+          751,
+          524,
+          452,
+          null
+        ],
+        "bounds": [
+          751,
+          524,
+          452,
+          87
+        ],
+        "content": "bore (Bo), cuivre (Cu), fer (Fe), chlore (Cl), cobalt (Co), manganèse (Mn), molybdène (Mo), silicium (Si) et zinc (Zn)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-awsChangeClusterRegion",
+  "content": {
+    "index": "change region and cluster aws",
+    "name": "Change AWS region and cluster",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "aws eks update-kubeconfig --region ${awsRegion:AwsRegion} --name ${awsCluster:AwsCluster}",
+        "defaultText": null
+      }
+    ]
+  }
+}

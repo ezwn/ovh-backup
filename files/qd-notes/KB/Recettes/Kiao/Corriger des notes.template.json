@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-reportunitissues",
+  "content": {
+    "index": "report unit issues kiao correction",
+    "name": "Corriger des notes KIAO",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Dans les notes ci-dessous, signaler :\n\n- informations exactes\n- les imprécisions sémantiques (possibilité de mots plus précis)\n- les fautes d'orthographe et de grammaire\n- les choix sous-optimaux de sélection de notions ou d'aspects des notions.\n\nNe pas considérer les caractéristiques inhérentes à une prise notes comme des problèmes (forte concision, abréviations, absence de majuscules en début de ligne, etc).\n\nCorriger tout biais que tu aurais et qui te conduirait à proposer des changements pour \"être utile\", en rapport avec des mécanismes de fonctionnement des LLM ou quelque autre raison qui ne serait pas vraiment en rapport avec la qualité des notes.\n\n---\n\n${texte}",
+        "defaultText": null
+      }
+    ]
+  }
+}

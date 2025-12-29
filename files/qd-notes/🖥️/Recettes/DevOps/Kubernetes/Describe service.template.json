@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlDescribeService",
+  "content": {
+    "index": "cloud kubernate kubectl describe service",
+    "name": "Kubectl, describe service",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl describe service ${kubeServiceName:KubeService}",
+        "defaultText": null
+      }
+    ]
+  }
+}

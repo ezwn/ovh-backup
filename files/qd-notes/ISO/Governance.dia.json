@@ -1,0 +1,157 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-ah3izVls",
+          "userBounds": [
+            388,
+            133,
+            180.296875,
+            60
+          ],
+          "bounds": [
+            388,
+            133,
+            180,
+            60
+          ],
+          "content": "General Assembly",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-fi24fTIl",
+          "userBounds": [
+            387,
+            336,
+            180.703125,
+            null
+          ],
+          "bounds": [
+            387,
+            336,
+            181,
+            41
+          ],
+          "content": "Council",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-C6GPfxra",
+          "userBounds": [
+            653,
+            339,
+            null,
+            null
+          ],
+          "bounds": [
+            653,
+            339,
+            219,
+            41
+          ],
+          "content": "President's Committee",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-Incq7i9k",
+          "userBounds": [
+            93,
+            370,
+            199,
+            null
+          ],
+          "bounds": [
+            93,
+            370,
+            199,
+            64
+          ],
+          "content": "Policy Development Committees",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-pPpAdH9G",
+          "userBounds": [
+            93,
+            279,
+            197.46875,
+            null
+          ],
+          "bounds": [
+            93,
+            279,
+            197,
+            64
+          ],
+          "content": "Council Standing Committees",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-s26jsFkE",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-NZioRBtv",
+              "target": "NOTE-fi24fTIl"
+            },
+            {
+              "id": "END-rzE2o81C",
+              "target": "NOTE-ah3izVls",
+              "attachPointNumber": 6,
+              "decoration": "FULL_TRIANGLE"
+            }
+          ]
+        },
+        {
+          "id": "REL-YrhcFeje",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-UTK6pQRn",
+              "target": "NOTE-fi24fTIl"
+            },
+            {
+              "id": "END-pBs2PFP6",
+              "target": "NOTE-pPpAdH9G"
+            }
+          ]
+        },
+        {
+          "id": "REL-535S3dgQ",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-oFBMWyMj",
+              "target": "NOTE-fi24fTIl"
+            },
+            {
+              "id": "END-WNtWDJ2x",
+              "target": "NOTE-Incq7i9k"
+            }
+          ]
+        },
+        {
+          "id": "REL-Z8SDc7Bp",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-7TVEKMd9",
+              "target": "NOTE-C6GPfxra"
+            },
+            {
+              "id": "END-n795f9nw",
+              "target": "NOTE-fi24fTIl"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "0add1c3a-9586-4e3b-8391-a12c3ef679e7",
+  "docTypeVersion": 1
+}

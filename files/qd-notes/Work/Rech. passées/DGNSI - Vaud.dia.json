@@ -1,0 +1,724 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-LxpgE9B4",
+        "userBounds": [
+          772,
+          338,
+          null,
+          null
+        ],
+        "content": "Entretien\nDGNSI - Vaud",
+        "bounds": [
+          772,
+          338,
+          208,
+          86
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-94FB89EW",
+        "userBounds": [
+          591,
+          324,
+          null,
+          null
+        ],
+        "content": "EXPERIENCES\nPERTINENTES",
+        "bounds": [
+          591,
+          324,
+          132,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-PyGwkALm",
+        "userBounds": [
+          486,
+          415,
+          null,
+          null
+        ],
+        "content": "[Java/Spring](./Experiences/Java%20&%20Spring.dia.json)",
+        "bounds": [
+          486,
+          415,
+          124,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-IwrPYMKk",
+        "userBounds": [
+          381,
+          310,
+          null,
+          null
+        ],
+        "content": "[Typescript/Angular](./Experiences/Angular.dia.json)",
+        "bounds": [
+          381,
+          310,
+          184,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-HRFvW7Cd",
+        "userBounds": [
+          565,
+          224,
+          null,
+          null
+        ],
+        "content": "LEAD\nTECH",
+        "bounds": [
+          565,
+          224,
+          72,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-zDFMCgHv",
+        "userBounds": [
+          952,
+          473,
+          null,
+          null
+        ],
+        "content": "QUESTIONS",
+        "bounds": [
+          952,
+          473,
+          124,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-okrgqwfo",
+        "userBounds": [
+          971,
+          257,
+          null,
+          null
+        ],
+        "content": "ATTENTES",
+        "bounds": [
+          971,
+          257,
+          111,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-SkFHG3ot",
+        "userBounds": [
+          804,
+          188,
+          null,
+          null
+        ],
+        "content": "[DESIGN\nTECHNIQUE](http://localhost/synchronized-data/Credit%20Suisse/Architecture/Fullstack%20modules.dia.json)",
+        "bounds": [
+          804,
+          188,
+          136,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-kVWZ41Qw",
+        "userBounds": [
+          953,
+          128,
+          null,
+          null
+        ],
+        "content": "DEV\nCOACHING",
+        "bounds": [
+          953,
+          128,
+          126,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-Ws8pcFM9",
+        "userBounds": [
+          1037,
+          43,
+          null,
+          null
+        ],
+        "content": "QUALITY",
+        "bounds": [
+          1037,
+          43,
+          104,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ZujvlJcI",
+        "userBounds": [
+          1100,
+          163,
+          null,
+          null
+        ],
+        "content": "CODAGE\nSPÉCIFIQUE",
+        "bounds": [
+          1100,
+          163,
+          139,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-gCv7Rbrv",
+        "userBounds": [
+          1134,
+          270,
+          null,
+          null
+        ],
+        "content": "QUALIFICATION\n& TESTS ?",
+        "bounds": [
+          1134,
+          270,
+          170,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-2F8ANqov",
+        "userBounds": [
+          1100,
+          416,
+          null,
+          null
+        ],
+        "content": "NO QA?",
+        "bounds": [
+          1100,
+          416,
+          78,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-hDnaw7LM",
+        "userBounds": [
+          686,
+          501,
+          null,
+          null
+        ],
+        "content": "LACUNES",
+        "bounds": [
+          686,
+          501,
+          112,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-NvTd24Su",
+        "userBounds": [
+          485,
+          577,
+          null,
+          null
+        ],
+        "content": "JTA (Atomikos)",
+        "bounds": [
+          485,
+          577,
+          152,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rRFPkuAM",
+        "userBounds": [
+          662,
+          619,
+          null,
+          null
+        ],
+        "content": "JMS",
+        "bounds": [
+          662,
+          619,
+          58,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-nejVAtJ3",
+        "userBounds": [
+          814,
+          586,
+          null,
+          null
+        ],
+        "content": " Quartz",
+        "bounds": [
+          814,
+          586,
+          78,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ACTWNXNo",
+        "userBounds": [
+          738,
+          670,
+          null,
+          null
+        ],
+        "content": " JAXB",
+        "bounds": [
+          738,
+          670,
+          68,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-JQLJuqGP",
+        "userBounds": [
+          301,
+          572,
+          null,
+          null
+        ],
+        "content": "Transactions",
+        "bounds": [
+          301,
+          572,
+          132,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-GJdrufYF",
+        "userBounds": [
+          506,
+          681,
+          null,
+          null
+        ],
+        "content": "Java Messaging",
+        "bounds": [
+          506,
+          681,
+          163,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-pneB83CH",
+        "userBounds": [
+          791,
+          729,
+          null,
+          null
+        ],
+        "content": "Job scheduler",
+        "bounds": [
+          791,
+          729,
+          143,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-RpCXIFXj",
+        "userBounds": [
+          744,
+          98,
+          null,
+          null
+        ],
+        "content": "!!! MICRO\nARCHITECTURE",
+        "bounds": [
+          744,
+          98,
+          143,
+          58
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-5KHv1BLM",
+        "userBounds": [
+          1305,
+          475,
+          null,
+          null
+        ],
+        "content": "Combien\nde projets\nen parallèle ?",
+        "bounds": [
+          1305,
+          475,
+          138,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-P6l9im21",
+        "userBounds": [
+          1539,
+          461,
+          null,
+          null
+        ],
+        "content": "Justice ?\ntransversale ?",
+        "bounds": [
+          1539,
+          461,
+          144,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-e7gCRbox",
+        "userBounds": [
+          1552,
+          589,
+          null,
+          null
+        ],
+        "content": "Sécurité",
+        "bounds": [
+          1552,
+          589,
+          91,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-UplG3HEp",
+        "userBounds": [
+          1311,
+          587,
+          null,
+          null
+        ],
+        "content": "Contraintes\nprotection\ndonnées personnelles",
+        "bounds": [
+          1311,
+          587,
+          214,
+          87
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-r48xPZ6Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zUwPrIRF",
+            "target": "NOTE-94FB89EW"
+          },
+          {
+            "id": "END-aTRWInG8",
+            "target": "NOTE-LxpgE9B4"
+          }
+        ]
+      },
+      {
+        "id": "REL-T8guexFZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jxt1WGsr",
+            "target": "NOTE-PyGwkALm"
+          },
+          {
+            "id": "END-GWWKI6mN",
+            "target": "NOTE-94FB89EW"
+          }
+        ]
+      },
+      {
+        "id": "REL-Zt5zcyU4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GnYqCAxT",
+            "target": "NOTE-IwrPYMKk"
+          },
+          {
+            "id": "END-45ex16xz",
+            "target": "NOTE-94FB89EW"
+          }
+        ]
+      },
+      {
+        "id": "REL-iutmhNGe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2QzzSEkV",
+            "target": "NOTE-HRFvW7Cd"
+          },
+          {
+            "id": "END-9UhUaTX2",
+            "target": "NOTE-94FB89EW"
+          }
+        ]
+      },
+      {
+        "id": "REL-JR7WChgD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-iNKKirUc",
+            "target": "NOTE-zDFMCgHv"
+          },
+          {
+            "id": "END-vQFZB9gS",
+            "target": "NOTE-LxpgE9B4"
+          }
+        ]
+      },
+      {
+        "id": "REL-53oGglE3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4bnShFoq",
+            "target": "NOTE-okrgqwfo"
+          },
+          {
+            "id": "END-xDEIbsMJ",
+            "target": "NOTE-LxpgE9B4"
+          }
+        ]
+      },
+      {
+        "id": "REL-Bfvfypv6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pwWHWiG9",
+            "target": "NOTE-SkFHG3ot"
+          },
+          {
+            "id": "END-IaEggahD",
+            "target": "NOTE-okrgqwfo"
+          }
+        ]
+      },
+      {
+        "id": "REL-wggSHq34",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VaclAbGX",
+            "target": "NOTE-kVWZ41Qw"
+          },
+          {
+            "id": "END-23lk7fBB",
+            "target": "NOTE-okrgqwfo"
+          }
+        ]
+      },
+      {
+        "id": "REL-v19drPBg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sMSIpD7r",
+            "target": "NOTE-Ws8pcFM9"
+          },
+          {
+            "id": "END-l1EI92LQ",
+            "target": "NOTE-kVWZ41Qw"
+          }
+        ]
+      },
+      {
+        "id": "REL-ksmiKp47",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-C7ecuygh",
+            "target": "NOTE-ZujvlJcI"
+          },
+          {
+            "id": "END-oFHML5dx",
+            "target": "NOTE-okrgqwfo"
+          }
+        ]
+      },
+      {
+        "id": "REL-HeulH2sy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bhTCNhR9",
+            "target": "NOTE-gCv7Rbrv"
+          },
+          {
+            "id": "END-99jzW5UE",
+            "target": "NOTE-okrgqwfo"
+          }
+        ]
+      },
+      {
+        "id": "REL-gdHfVufD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PTQMuqZy",
+            "target": "NOTE-2F8ANqov"
+          },
+          {
+            "id": "END-ClRg4VIH",
+            "target": "NOTE-zDFMCgHv"
+          }
+        ]
+      },
+      {
+        "id": "REL-BryRpoEB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rDVLavqy",
+            "target": "NOTE-hDnaw7LM"
+          },
+          {
+            "id": "END-c6ohKhVC",
+            "target": "NOTE-LxpgE9B4"
+          }
+        ]
+      },
+      {
+        "id": "REL-R4S2J1A4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sgpaJLMq",
+            "target": "NOTE-NvTd24Su"
+          },
+          {
+            "id": "END-t4wBBbU8",
+            "target": "NOTE-hDnaw7LM"
+          }
+        ]
+      },
+      {
+        "id": "REL-DjKQGCdC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GTaGgFap",
+            "target": "NOTE-rRFPkuAM"
+          },
+          {
+            "id": "END-8sK1QKrB",
+            "target": "NOTE-hDnaw7LM"
+          }
+        ]
+      },
+      {
+        "id": "REL-PP45Vyh9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9NkMrDb1",
+            "target": "NOTE-ACTWNXNo"
+          },
+          {
+            "id": "END-L5bk5zNR",
+            "target": "NOTE-hDnaw7LM"
+          }
+        ]
+      },
+      {
+        "id": "REL-ipg3oMfQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ynqT6v41",
+            "target": "NOTE-nejVAtJ3"
+          },
+          {
+            "id": "END-vVyVJyqY",
+            "target": "NOTE-hDnaw7LM"
+          }
+        ]
+      },
+      {
+        "id": "REL-8mzPhWQn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nDtyZJyY",
+            "target": "NOTE-JQLJuqGP"
+          },
+          {
+            "id": "END-hJ7NWBsl",
+            "target": "NOTE-NvTd24Su"
+          }
+        ]
+      },
+      {
+        "id": "REL-XEzaVtWW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vBp5dU4D",
+            "target": "NOTE-GJdrufYF"
+          },
+          {
+            "id": "END-s4mqqttr",
+            "target": "NOTE-rRFPkuAM"
+          }
+        ]
+      },
+      {
+        "id": "REL-YC4eo2BJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-j7s6Lu3p",
+            "target": "NOTE-pneB83CH"
+          },
+          {
+            "id": "END-y5DHVmYa",
+            "target": "NOTE-nejVAtJ3"
+          }
+        ]
+      },
+      {
+        "id": "REL-zWMs6tQr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Qyf5mZwp",
+            "target": "NOTE-RpCXIFXj"
+          },
+          {
+            "id": "END-96UpjP94",
+            "target": "NOTE-SkFHG3ot"
+          }
+        ]
+      }
+    ]
+  }
+}

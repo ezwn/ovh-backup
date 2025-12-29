@@ -1,0 +1,43 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VQDxYYKe",
+        "userBounds": [
+          570,
+          313,
+          null,
+          null
+        ],
+        "bounds": [
+          570,
+          313,
+          48,
+          55
+        ],
+        "content": "AI",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-FHEHmFTd",
+        "userBounds": [
+          749,
+          444,
+          null,
+          null
+        ],
+        "bounds": [
+          749,
+          444,
+          74,
+          49
+        ],
+        "content": "DDD",
+        "zIndex": 3,
+        "fontSize": 26
+      }
+    ],
+    "relations": []
+  }
+}

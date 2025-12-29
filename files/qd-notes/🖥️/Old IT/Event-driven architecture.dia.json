@@ -1,0 +1,688 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-WsHic5m3",
+        "userBounds": [
+          852,
+          349,
+          null,
+          null
+        ],
+        "bounds": [
+          852,
+          349,
+          164,
+          80
+        ],
+        "content": "Event-driven\narchitecture",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-4ysJAEzW",
+        "userBounds": [
+          593,
+          366,
+          null,
+          null
+        ],
+        "bounds": [
+          593,
+          366,
+          161,
+          41
+        ],
+        "content": "COMPONENTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ekJ4EQ16",
+        "userBounds": [
+          550,
+          478,
+          null,
+          null
+        ],
+        "bounds": [
+          550,
+          478,
+          98,
+          41
+        ],
+        "content": "EVENTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Mt527DkX",
+        "userBounds": [
+          414,
+          341,
+          null,
+          null
+        ],
+        "bounds": [
+          414,
+          341,
+          129,
+          64
+        ],
+        "content": "EVENT\nLISTENERS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SGD5VCbU",
+        "userBounds": [
+          550,
+          223,
+          null,
+          null
+        ],
+        "bounds": [
+          550,
+          223,
+          127,
+          64
+        ],
+        "content": "EVENT\nHANDLERS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8KIISxjU",
+        "userBounds": [
+          823,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          823,
+          219,
+          214,
+          87
+        ],
+        "content": "BENEFITS\nOF REACTIVITY\nAND RESPONSIVITY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6SbFYUGt",
+        "userBounds": [
+          719,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          719,
+          156,
+          108,
+          50
+        ],
+        "content": "USER\nEXPERIENCE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-GE1L3fIh",
+        "userBounds": [
+          951,
+          117,
+          null,
+          null
+        ],
+        "bounds": [
+          951,
+          117,
+          107,
+          34
+        ],
+        "content": "SCALABILITY",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-o9UxNg35",
+        "userBounds": [
+          821,
+          112,
+          null,
+          null
+        ],
+        "bounds": [
+          821,
+          112,
+          101,
+          34
+        ],
+        "content": "EFFICIENCY",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-wdsLsQAP",
+        "userBounds": [
+          1049,
+          173,
+          null,
+          null
+        ],
+        "bounds": [
+          1049,
+          173,
+          116,
+          34
+        ],
+        "content": "ADAPTABILITY",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-alE6rnpg",
+        "userBounds": [
+          574,
+          579,
+          null,
+          null
+        ],
+        "bounds": [
+          574,
+          579,
+          155,
+          41
+        ],
+        "content": "change of state",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-U7nwgEfP",
+        "userBounds": [
+          451,
+          535,
+          null,
+          null
+        ],
+        "bounds": [
+          451,
+          535,
+          75,
+          41
+        ],
+        "content": "trigger",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-snkw35E7",
+        "userBounds": [
+          1080,
+          283,
+          null,
+          null
+        ],
+        "bounds": [
+          1080,
+          283,
+          84,
+          41
+        ],
+        "content": "KAFKA",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iunqkMVf",
+        "userBounds": [
+          1209,
+          283,
+          null,
+          null
+        ],
+        "bounds": [
+          1209,
+          283,
+          79,
+          41
+        ],
+        "content": "TOPIC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-R4ANt718",
+        "userBounds": [
+          328,
+          241,
+          null,
+          null
+        ],
+        "bounds": [
+          328,
+          241,
+          155,
+          41
+        ],
+        "content": "CONSUMTION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gnRq1ibH",
+        "userBounds": [
+          211,
+          315,
+          null,
+          null
+        ],
+        "bounds": [
+          211,
+          315,
+          121,
+          34
+        ],
+        "content": "STATE UPDATE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-VMctVmAP",
+        "userBounds": [
+          145,
+          229,
+          null,
+          null
+        ],
+        "bounds": [
+          145,
+          229,
+          141,
+          50
+        ],
+        "content": "SENT TO\nOTHER SERVICES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-dIpLbXii",
+        "userBounds": [
+          236,
+          150,
+          null,
+          null
+        ],
+        "bounds": [
+          236,
+          150,
+          138,
+          50
+        ],
+        "content": "ASYNCHRONOUS\nPROCESSING",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-cilzv1xe",
+        "userBounds": [
+          1069,
+          380,
+          null,
+          null
+        ],
+        "bounds": [
+          1069,
+          380,
+          135,
+          34
+        ],
+        "content": "MICROSERVICES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-HsnL1S9H",
+        "userBounds": [
+          1023,
+          437,
+          null,
+          null
+        ],
+        "bounds": [
+          1023,
+          437,
+          201,
+          34
+        ],
+        "content": "TESTING AND DEBUGGING",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-gk1aqedV",
+        "userBounds": [
+          1008,
+          495,
+          null,
+          null
+        ],
+        "bounds": [
+          1008,
+          495,
+          107,
+          50
+        ],
+        "content": "SCALABILITY\n& PERF",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-p6IcBjrg",
+        "userBounds": [
+          851,
+          503,
+          null,
+          null
+        ],
+        "bounds": [
+          851,
+          503,
+          138,
+          66
+        ],
+        "content": "INTEGRATION\nWITH 3RD\nPARTY SERVICES",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Ayy8imCF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PC6Q8FH6",
+            "target": "NOTE-WsHic5m3"
+          },
+          {
+            "id": "END-hz4orlTC",
+            "target": "NOTE-4ysJAEzW"
+          }
+        ]
+      },
+      {
+        "id": "REL-UqNkZ4KS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1ztBG1ej",
+            "target": "NOTE-ekJ4EQ16"
+          },
+          {
+            "id": "END-vwzMsVj3",
+            "target": "NOTE-4ysJAEzW"
+          }
+        ]
+      },
+      {
+        "id": "REL-yGmsSSGG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-raerT39t",
+            "target": "NOTE-4ysJAEzW"
+          },
+          {
+            "id": "END-wv17mYSA",
+            "target": "NOTE-Mt527DkX"
+          }
+        ]
+      },
+      {
+        "id": "REL-MoxSg4Ld",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8hVH21ZF",
+            "target": "NOTE-SGD5VCbU"
+          },
+          {
+            "id": "END-4sMS1zwy",
+            "target": "NOTE-4ysJAEzW"
+          }
+        ]
+      },
+      {
+        "id": "REL-8ULpAc7Z",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Z2oq6KPP",
+            "target": "NOTE-8KIISxjU"
+          },
+          {
+            "id": "END-Xd9FdSfZ",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      },
+      {
+        "id": "REL-6JdFkk8o",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dlJWaiMd",
+            "target": "NOTE-6SbFYUGt"
+          },
+          {
+            "id": "END-Tq9BhQPC",
+            "target": "NOTE-8KIISxjU"
+          }
+        ]
+      },
+      {
+        "id": "REL-jMSjMjbu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cVuytxVe",
+            "target": "NOTE-GE1L3fIh"
+          },
+          {
+            "id": "END-JYATBL3r",
+            "target": "NOTE-8KIISxjU"
+          }
+        ]
+      },
+      {
+        "id": "REL-EJLCucKF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UfyzLUSQ",
+            "target": "NOTE-o9UxNg35"
+          },
+          {
+            "id": "END-SSwBTzV7",
+            "target": "NOTE-8KIISxjU"
+          }
+        ]
+      },
+      {
+        "id": "REL-8S6rx8lx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4obNhwlN",
+            "target": "NOTE-wdsLsQAP"
+          },
+          {
+            "id": "END-81bIRpuh",
+            "target": "NOTE-8KIISxjU"
+          }
+        ]
+      },
+      {
+        "id": "REL-KTRi5lgv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QeZocVzw",
+            "target": "NOTE-alE6rnpg"
+          },
+          {
+            "id": "END-1xFWBW26",
+            "target": "NOTE-ekJ4EQ16"
+          }
+        ]
+      },
+      {
+        "id": "REL-cJl9t1ks",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QJY9YMPi",
+            "target": "NOTE-U7nwgEfP"
+          },
+          {
+            "id": "END-MfbhhJxX",
+            "target": "NOTE-ekJ4EQ16"
+          }
+        ]
+      },
+      {
+        "id": "REL-q4NS1QlE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PdrDE2RW",
+            "target": "NOTE-snkw35E7"
+          },
+          {
+            "id": "END-n6ERnDI6",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      },
+      {
+        "id": "REL-5xoyFNrj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FpmD1tVp",
+            "target": "NOTE-iunqkMVf"
+          },
+          {
+            "id": "END-WJANleaD",
+            "target": "NOTE-snkw35E7"
+          }
+        ]
+      },
+      {
+        "id": "REL-RiLsS1Rb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JKQbmgky",
+            "target": "NOTE-R4ANt718"
+          },
+          {
+            "id": "END-sgoJUZak",
+            "target": "NOTE-SGD5VCbU"
+          }
+        ]
+      },
+      {
+        "id": "REL-loBfRtdh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IUAL1ig6",
+            "target": "NOTE-gnRq1ibH"
+          },
+          {
+            "id": "END-GfLGgwMe",
+            "target": "NOTE-R4ANt718"
+          }
+        ]
+      },
+      {
+        "id": "REL-t6EqQfdZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-M5BRivky",
+            "target": "NOTE-VMctVmAP"
+          },
+          {
+            "id": "END-UuY9IX4y",
+            "target": "NOTE-R4ANt718"
+          }
+        ]
+      },
+      {
+        "id": "REL-fIcKcf8X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ln3c198e",
+            "target": "NOTE-R4ANt718"
+          },
+          {
+            "id": "END-EepploZb",
+            "target": "NOTE-dIpLbXii"
+          }
+        ]
+      },
+      {
+        "id": "REL-R8mbnPNG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8N1haVUd",
+            "target": "NOTE-cilzv1xe"
+          },
+          {
+            "id": "END-isRlb5qC",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      },
+      {
+        "id": "REL-35RCAWMH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RpP62DfT",
+            "target": "NOTE-HsnL1S9H"
+          },
+          {
+            "id": "END-d2Ag4VLk",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      },
+      {
+        "id": "REL-pjZXqDWS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bKU9dMjh",
+            "target": "NOTE-gk1aqedV"
+          },
+          {
+            "id": "END-yUE2FBSY",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      },
+      {
+        "id": "REL-4hBbHuzY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4sFgnHL4",
+            "target": "NOTE-p6IcBjrg"
+          },
+          {
+            "id": "END-aUFMHcZ8",
+            "target": "NOTE-WsHic5m3"
+          }
+        ]
+      }
+    ]
+  }
+}

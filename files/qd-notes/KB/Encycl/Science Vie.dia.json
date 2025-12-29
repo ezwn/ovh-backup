@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-cNpIK2ud",
+        "userBounds": [
+          477,
+          337,
+          null,
+          null
+        ],
+        "bounds": [
+          477,
+          337,
+          247,
+          41
+        ],
+        "content": "[DOCS UNIVERSITAIRES](https://fac.umc.edu.dz/snv/faculte/tc/2023/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

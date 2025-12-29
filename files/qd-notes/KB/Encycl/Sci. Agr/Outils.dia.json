@@ -1,0 +1,56 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-HjtCEyda",
+        "userBounds": [
+          311,
+          227,
+          null,
+          null
+        ],
+        "bounds": [
+          311,
+          227,
+          78,
+          41
+        ],
+        "content": "TAMIS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IHe5claM",
+        "userBounds": [
+          489,
+          241,
+          null,
+          null
+        ],
+        "bounds": [
+          489,
+          241,
+          90,
+          41
+        ],
+        "content": "OUTILS",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-JqVRRbTA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-eMZFQ5Kb",
+            "target": "NOTE-IHe5claM"
+          },
+          {
+            "id": "END-RmpBduCT",
+            "target": "NOTE-HjtCEyda"
+          }
+        ]
+      }
+    ]
+  }
+}

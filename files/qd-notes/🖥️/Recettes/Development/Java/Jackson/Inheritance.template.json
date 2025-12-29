@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonInheritance",
+  "content": {
+    "index": "jackson, inheritance",
+    "name": "Jackson, inheritance",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@JsonTypeInfo(use = JsonTypeInfo.Id.NAME,\ninclude = JsonTypeInfo.As.PROPERTY)\n@JsonSubTypes({\n@JsonSubTypes.Type(value = Cercle.class , name = \"cercle\"),\n@JsonSubTypes.Type(value = Rectangle.class , name = \"rectangle\")})\npublic abstract class Forme {\n   protected Forme() {}\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

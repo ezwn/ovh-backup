@@ -1,0 +1,117 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-cgm4IHw8",
+        "userBounds": [
+          585,
+          323,
+          null
+        ],
+        "content": "spring.test",
+        "bounds": [
+          585,
+          323,
+          138,
+          49
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-gwCQsH6T",
+        "userBounds": [
+          789,
+          307,
+          null
+        ],
+        "content": "Java Spring\nTest",
+        "bounds": [
+          789,
+          307,
+          176,
+          86
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-zLLtqwoy",
+        "userBounds": [
+          990,
+          268,
+          null,
+          null
+        ],
+        "content": "Assertions",
+        "bounds": [
+          990,
+          268,
+          111,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-G5xcmzZX",
+        "userBounds": [
+          1002,
+          422,
+          null,
+          null
+        ],
+        "content": "AssertJ",
+        "bounds": [
+          1002,
+          422,
+          85,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-9ruYyPFj",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Qj51C22v",
+            "target": "NOTE-gwCQsH6T"
+          },
+          {
+            "id": "loGH1xNx",
+            "target": "NOTE-cgm4IHw8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-GAFdIReN",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "7wmEtRFr",
+            "target": "NOTE-zLLtqwoy"
+          },
+          {
+            "id": "Sps8ZIoc",
+            "target": "NOTE-gwCQsH6T"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-jf9xDxX4",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "vzKvB56L",
+            "target": "NOTE-G5xcmzZX"
+          },
+          {
+            "id": "PAdSU1q1",
+            "target": "NOTE-gwCQsH6T"
+          }
+        ]
+      }
+    ]
+  }
+}

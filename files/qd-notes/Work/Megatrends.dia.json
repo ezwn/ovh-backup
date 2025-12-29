@@ -1,0 +1,471 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-o4FEY8Xi",
+        "userBounds": [
+          889,
+          154,
+          145.484375,
+          null
+        ],
+        "bounds": [
+          889,
+          154,
+          145,
+          108
+        ],
+        "content": "# IA\n---\nTransformation\nAutomatisation\nDéveloppement",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ct1sF6xf",
+        "userBounds": [
+          1178,
+          587,
+          132.125,
+          null
+        ],
+        "bounds": [
+          1178,
+          587,
+          132,
+          64
+        ],
+        "content": "Crises écologiques",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vZYanJJW",
+        "userBounds": [
+          1164,
+          218,
+          null,
+          null
+        ],
+        "bounds": [
+          1164,
+          218,
+          214,
+          64
+        ],
+        "content": "Risques géopolitiques\nRé-armement",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zJWXx4Jx",
+        "userBounds": [
+          573,
+          209,
+          130.703125,
+          null
+        ],
+        "bounds": [
+          573,
+          209,
+          131,
+          81
+        ],
+        "content": "Vieillissement de la population",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-IKUIwn5G",
+        "userBounds": [
+          819,
+          410,
+          null,
+          null
+        ],
+        "bounds": [
+          819,
+          410,
+          69,
+          41
+        ],
+        "content": "social",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lPsKDehx",
+        "userBounds": [
+          909,
+          365,
+          null,
+          null
+        ],
+        "bounds": [
+          909,
+          365,
+          143,
+          41
+        ],
+        "content": "technologique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-azGwYnK3",
+        "userBounds": [
+          849,
+          498,
+          null,
+          null
+        ],
+        "bounds": [
+          849,
+          498,
+          127,
+          41
+        ],
+        "content": "économique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m71YCfJ2",
+        "userBounds": [
+          1016,
+          495,
+          null,
+          null
+        ],
+        "bounds": [
+          1016,
+          495,
+          139,
+          41
+        ],
+        "content": "environnment",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-u44b5QUh",
+        "userBounds": [
+          1079,
+          405,
+          null,
+          null
+        ],
+        "bounds": [
+          1079,
+          405,
+          93,
+          41
+        ],
+        "content": "politique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FcNZxWXx",
+        "userBounds": [
+          505,
+          309,
+          null,
+          null
+        ],
+        "bounds": [
+          505,
+          309,
+          105,
+          36
+        ],
+        "content": "urbanisation",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-82Uv1akg",
+        "userBounds": [
+          470,
+          373,
+          150.15625,
+          null
+        ],
+        "bounds": [
+          470,
+          373,
+          150,
+          54
+        ],
+        "content": "croissance démographique",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-gzPsBUai",
+        "userBounds": [
+          714,
+          188,
+          null,
+          null
+        ],
+        "bounds": [
+          714,
+          188,
+          148,
+          36
+        ],
+        "content": "hyper-connectivité",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-WPEVuGhU",
+        "userBounds": [
+          1391,
+          581,
+          138.359375,
+          null
+        ],
+        "bounds": [
+          1391,
+          581,
+          138,
+          64
+        ],
+        "content": "transition énergétique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-v8Cs7RHJ",
+        "userBounds": [
+          1050,
+          127,
+          null,
+          null
+        ],
+        "bounds": [
+          1050,
+          127,
+          141,
+          41
+        ],
+        "content": "Cybersécurité",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uG8jPctE",
+        "userBounds": [
+          882,
+          89,
+          null,
+          null
+        ],
+        "bounds": [
+          882,
+          89,
+          47,
+          41
+        ],
+        "content": "IoT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xnSpIruu",
+        "userBounds": [
+          967,
+          69,
+          null,
+          null
+        ],
+        "bounds": [
+          967,
+          69,
+          70,
+          41
+        ],
+        "content": "Cloud",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fCWFfetD",
+        "userBounds": [
+          1469,
+          460,
+          119.03125,
+          null
+        ],
+        "bounds": [
+          1469,
+          460,
+          119,
+          54
+        ],
+        "content": "Energies renouvelables",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-wgCXT3oT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RqTk4EP4",
+            "target": "NOTE-IKUIwn5G"
+          },
+          {
+            "id": "END-7S6iJBQo",
+            "target": "NOTE-zJWXx4Jx"
+          }
+        ]
+      },
+      {
+        "id": "REL-qgdAKnfl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SfR4kQjh",
+            "target": "NOTE-o4FEY8Xi"
+          },
+          {
+            "id": "END-DmSdQcH9",
+            "target": "NOTE-lPsKDehx"
+          }
+        ]
+      },
+      {
+        "id": "REL-kYbe2kZ8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1St3AC7c",
+            "target": "NOTE-ct1sF6xf"
+          },
+          {
+            "id": "END-5Ac17ihp",
+            "target": "NOTE-m71YCfJ2"
+          }
+        ]
+      },
+      {
+        "id": "REL-CT8bvzKS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AA8L81nG",
+            "target": "NOTE-vZYanJJW"
+          },
+          {
+            "id": "END-RIXynkGc",
+            "target": "NOTE-u44b5QUh"
+          }
+        ]
+      },
+      {
+        "id": "REL-iYYkpoRn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6jKhPDhZ",
+            "target": "NOTE-vZYanJJW"
+          },
+          {
+            "id": "END-PXvjteCD",
+            "target": "NOTE-lPsKDehx"
+          }
+        ]
+      },
+      {
+        "id": "REL-iqpRD5cl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sxbJ4udr",
+            "target": "NOTE-IKUIwn5G"
+          },
+          {
+            "id": "END-HilwNDZ1",
+            "target": "NOTE-FcNZxWXx"
+          }
+        ]
+      },
+      {
+        "id": "REL-mfbQ5bZv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4m1CIkpB",
+            "target": "NOTE-IKUIwn5G"
+          },
+          {
+            "id": "END-GZqibksM",
+            "target": "NOTE-82Uv1akg"
+          }
+        ]
+      },
+      {
+        "id": "REL-hqK7GNmQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g5oyL8f3",
+            "target": "NOTE-gzPsBUai"
+          },
+          {
+            "id": "END-SpyDv6WI",
+            "target": "NOTE-lPsKDehx"
+          }
+        ]
+      },
+      {
+        "id": "REL-1nMEhrVK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Xg1df799",
+            "target": "NOTE-gzPsBUai"
+          },
+          {
+            "id": "END-mvXHJMff",
+            "target": "NOTE-IKUIwn5G"
+          }
+        ]
+      },
+      {
+        "id": "REL-J3528euG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xpzD3GE9",
+            "target": "NOTE-WPEVuGhU"
+          },
+          {
+            "id": "END-aYJggdlc",
+            "target": "NOTE-ct1sF6xf"
+          }
+        ]
+      },
+      {
+        "id": "REL-Cc1lbKBi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6Ucl85B5",
+            "target": "NOTE-v8Cs7RHJ"
+          },
+          {
+            "id": "END-zkIYfygY",
+            "target": "NOTE-lPsKDehx"
+          }
+        ]
+      },
+      {
+        "id": "REL-JzckTbmZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-e7M9fFoD",
+            "target": "NOTE-fCWFfetD"
+          },
+          {
+            "id": "END-EwoKnxoc",
+            "target": "NOTE-WPEVuGhU"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlDefaultNs",
+  "content": {
+    "index": "cloud kubernate kubectl set default namespace",
+    "name": "Kubectl, set default namespace",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl config set-context --current --namespace=${kubeNamespace:KubeNamespace}",
+        "defaultText": null
+      }
+    ]
+  }
+}

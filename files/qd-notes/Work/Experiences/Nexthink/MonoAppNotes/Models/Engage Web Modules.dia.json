@@ -1,0 +1,315 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-jlkXLqkc",
+        "userBounds": [
+          792,
+          323,
+          170.421875,
+          null
+        ],
+        "bounds": [
+          792,
+          323,
+          170,
+          70
+        ],
+        "content": "# euf-telemetry-lib\n---\nGeneric telemetry components for EUF.",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-Sx7BmPNp",
+        "userBounds": [
+          720,
+          34,
+          180.421875,
+          null
+        ],
+        "bounds": [
+          720,
+          34,
+          180,
+          80
+        ],
+        "content": "# euf-lib\n---\nA library to share java components between euf-campaign-manager and euf-trigger-api.",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-SrJEgpsK",
+        "userBounds": [
+          350,
+          518,
+          null,
+          null
+        ],
+        "bounds": [
+          350,
+          518,
+          142,
+          41
+        ],
+        "content": "euf-trigger-api",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nS9sembh",
+        "userBounds": [
+          983,
+          559,
+          null,
+          null
+        ],
+        "bounds": [
+          983,
+          559,
+          225,
+          41
+        ],
+        "content": "euf-campaign-manager",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TA2g5tCG",
+        "userBounds": [
+          1206,
+          420,
+          null,
+          null
+        ],
+        "bounds": [
+          1206,
+          420,
+          162,
+          41
+        ],
+        "content": "investigations-fe",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zgN4bdgZ",
+        "userBounds": [
+          1501,
+          416,
+          null,
+          null
+        ],
+        "bounds": [
+          1501,
+          416,
+          72,
+          41
+        ],
+        "content": "gsp-ui",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kKNH3WLm",
+        "userBounds": [
+          1278,
+          195,
+          null,
+          null
+        ],
+        "bounds": [
+          1278,
+          195,
+          213,
+          41
+        ],
+        "content": "euf-campaign-widgets",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-LWABrns6",
+        "userBounds": [
+          591,
+          326,
+          170.421875,
+          null
+        ],
+        "bounds": [
+          591,
+          326,
+          170,
+          70
+        ],
+        "content": "# euf-bcs-lib\n---\nGeneric telemetry components for EUF.",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-WUgtvEV2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-s5zi5ZPY",
+            "target": "NOTE-jlkXLqkc",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-6deGSLwa",
+            "target": "NOTE-SrJEgpsK"
+          }
+        ]
+      },
+      {
+        "id": "REL-RyKB2fdP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zyq6RHQX",
+            "target": "NOTE-jlkXLqkc",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-SctbaU9K",
+            "target": "NOTE-nS9sembh"
+          }
+        ]
+      },
+      {
+        "id": "REL-4tPyeKci",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ynql5ln7",
+            "target": "NOTE-Sx7BmPNp",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-VPfesIz9",
+            "target": "NOTE-SrJEgpsK"
+          }
+        ]
+      },
+      {
+        "id": "REL-V8aQ66Po",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tT131sfz",
+            "target": "NOTE-Sx7BmPNp",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-zbbsymvN",
+            "target": "NOTE-nS9sembh"
+          }
+        ]
+      },
+      {
+        "id": "REL-crGlvIVl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-boIeVmoi",
+            "target": "NOTE-jlkXLqkc"
+          },
+          {
+            "id": "END-YJsEfvkN",
+            "target": "NOTE-Sx7BmPNp",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-Lrrnt3JT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IFZGnWSa",
+            "target": "NOTE-kKNH3WLm",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE",
+            "textOver": {
+              "content": "===1.4.0"
+            },
+            "textUnder": {
+              "content": "_"
+            }
+          },
+          {
+            "id": "END-d2EeY32N",
+            "target": "NOTE-TA2g5tCG"
+          }
+        ]
+      },
+      {
+        "id": "REL-q8VaBXyy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-k6BtYFPR",
+            "target": "NOTE-kKNH3WLm",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE",
+            "textOver": {
+              "content": "===1.3.0"
+            },
+            "textUnder": {
+              "content": "_"
+            }
+          },
+          {
+            "id": "END-K3KHhHhm",
+            "target": "NOTE-zgN4bdgZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-6fSupzal",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-aKJhfScB",
+            "target": "NOTE-LWABrns6"
+          },
+          {
+            "id": "END-d3vvGNbX",
+            "target": "NOTE-SrJEgpsK"
+          }
+        ]
+      },
+      {
+        "id": "REL-TXj52Uvg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AD7T9gwI",
+            "target": "NOTE-LWABrns6"
+          },
+          {
+            "id": "END-osrczz3L",
+            "target": "NOTE-nS9sembh"
+          }
+        ]
+      },
+      {
+        "id": "REL-ykeVX5hZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Liw97uPG",
+            "target": "NOTE-LWABrns6"
+          },
+          {
+            "id": "END-8XiFH4nE",
+            "target": "NOTE-Sx7BmPNp",
+            "attachPointNumber": 8,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

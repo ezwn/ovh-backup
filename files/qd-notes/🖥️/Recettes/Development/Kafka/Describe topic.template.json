@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaDescribeTopic",
+  "content": {
+    "index": "kafka, describe topic",
+    "name": "Kafka, describe topic",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kafka-topics.sh --bootstrap-server localhost:9092 --describe --topic build-requests",
+        "defaultText": null
+      }
+    ]
+  }
+}

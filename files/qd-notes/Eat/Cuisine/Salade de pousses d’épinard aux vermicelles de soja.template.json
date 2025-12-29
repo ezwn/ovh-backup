@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-saladeDePoussesDEpinardAuxVermicellesDeSoja",
+  "content": {
+    "index": "salade épinard vermicelles soja cuisine chine chinois chinoise",
+    "name": "Salade de pousses d’épinard aux vermicelles de soja",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Salade de pousses d’épinard aux vermicelles de soja\n\n**Préparation :** 8 minutes  \n**Trempage :** 1 heure  \n**Cuisson :** 1 minute  \n\n### Ingrédients :\n- 30 g de vermicelles de soja  \n- 1 carotte  \n- 2 œufs  \n- 200 g de pousses d’épinard  \n- 1 c. à s. d’huile pimentée  \n- 1 c. à s. de sauce soja  \n- 1 c. à s. d’huile de sésame  \n- 2 c. à s. de vinaigre chinois  \n- ½ cube de bouillon de volaille écrasé  \n- 1 c. à c. de graines de sésame blanc  \n- 1 c. à c. de sel  \n- 1 c. à c. de poivre blanc moulu  \n\n### Instructions :\n1. Laissez tremper les vermicelles dans de l’eau tiède pendant 1 heure. Égouttez.\n2. Émincez la carotte en fines lamelles de 1 mm d’épaisseur.\n3. Faites une omelette fine avec les œufs. Émincez-la en fines lamelles de 1 mm d’épaisseur.\n4. Lavez et faites blanchir les épinards dans une casserole d’eau chaude légèrement salée pendant 1 minute. Plongez-les dans de l’eau froide. Égouttez et réservez.\n5. Ajoutez les émincés d’omelette et de carotte dans un saladier, l’huile pimentée, le sel, le poivre blanc moulu, la sauce soja, l’huile de sésame, le vinaigre chinois et le demi-cube de bouillon de volaille. Mélangez.\n6. Parsemez de graines de sésame.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

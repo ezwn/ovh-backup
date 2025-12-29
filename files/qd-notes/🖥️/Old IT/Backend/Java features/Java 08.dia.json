@@ -1,0 +1,596 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Z9WZK7ko",
+        "userBounds": [
+          794,
+          408,
+          null
+        ],
+        "content": "Java 8\nFunktionen",
+        "bounds": [
+          794,
+          408,
+          147,
+          80
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-J2SYrSGZ",
+        "userBounds": [
+          946,
+          713,
+          null
+        ],
+        "content": "Funktionale\nSchnittstellen",
+        "bounds": [
+          946,
+          713,
+          101,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-2RUR6NIJ",
+        "userBounds": [
+          544,
+          223,
+          null
+        ],
+        "content": "Optional<>",
+        "bounds": [
+          544,
+          223,
+          87,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-EehSPn8D",
+        "userBounds": [
+          332,
+          443,
+          null
+        ],
+        "content": "forEach () -Methode\nin iterierbarer\nSchnittstelle",
+        "bounds": [
+          332,
+          443,
+          143,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ryWbC4Zd",
+        "userBounds": [
+          1134,
+          593,
+          null
+        ],
+        "content": "Statische\nMethoden\nin Schnittstellen",
+        "bounds": [
+          1134,
+          593,
+          102,
+          60
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-CNdWLKwq",
+        "userBounds": [
+          760,
+          741,
+          null
+        ],
+        "content": "Methodenreferenzen",
+        "bounds": [
+          760,
+          741,
+          147,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-3IYH1o6q",
+        "userBounds": [
+          440,
+          557,
+          null
+        ],
+        "content": "Java Stream API",
+        "bounds": [
+          440,
+          557,
+          122,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-o2vDpuNL",
+        "userBounds": [
+          1047,
+          372,
+          null
+        ],
+        "content": "Java Date Time\nAPI",
+        "bounds": [
+          1047,
+          372,
+          115,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-BhCybJaV",
+        "userBounds": [
+          748,
+          116,
+          null
+        ],
+        "content": "Nashorn\n(JavaScript Engine)",
+        "bounds": [
+          748,
+          116,
+          123,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-U3cnridM",
+        "userBounds": [
+          635,
+          157,
+          null
+        ],
+        "content": "Base64\nEncode\nDecode",
+        "bounds": [
+          635,
+          157,
+          66,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-xiHzcMuy",
+        "userBounds": [
+          363,
+          323,
+          null
+        ],
+        "content": "Verbess.\nSammlungs-API",
+        "bounds": [
+          363,
+          323,
+          119,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-oAFCFsM5",
+        "userBounds": [
+          1000,
+          288,
+          null
+        ],
+        "content": "Parallelitäts-API",
+        "bounds": [
+          1000,
+          288,
+          132,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-LkYjtC5e",
+        "userBounds": [
+          879,
+          250,
+          null
+        ],
+        "content": "Java IO\nVerbess.",
+        "bounds": [
+          879,
+          250,
+          72,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-9bD2I3E5",
+        "userBounds": [
+          1085,
+          488,
+          null
+        ],
+        "content": "Verbess.\nCore-API",
+        "bounds": [
+          1085,
+          488,
+          100,
+          64
+        ],
+        "fontSize": 20
+      },
+      {
+        "id": "NOTE-ca1gFc2s",
+        "userBounds": [
+          440,
+          59,
+          null,
+          null
+        ],
+        "content": "[Quelle](https://ger.myservername.com/prominent-java-8-features-with-code-examples)",
+        "bounds": [
+          440,
+          59,
+          58,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-XTBUI7MQ",
+        "userBounds": [
+          538,
+          398,
+          null
+        ],
+        "content": "Sammlungen\nIterierbarer",
+        "bounds": [
+          538,
+          398,
+          136,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-fVqClwkY",
+        "userBounds": [
+          789,
+          577,
+          null
+        ],
+        "content": "Funktionale\nProgrammierung",
+        "bounds": [
+          789,
+          577,
+          167,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-k35yRTxy",
+        "userBounds": [
+          678,
+          676,
+          null
+        ],
+        "content": "Lambda-\nAusdrücke",
+        "bounds": [
+          678,
+          676,
+          84,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-DZ6HjGYh",
+        "userBounds": [
+          707,
+          262,
+          null
+        ],
+        "content": "Werkzeuge",
+        "bounds": [
+          707,
+          262,
+          119,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-2EC8yZyB",
+        "userBounds": [
+          1226,
+          500,
+          null
+        ],
+        "content": "Standard-\nMethoden\nin Schnittstellen",
+        "bounds": [
+          1226,
+          500,
+          102,
+          60
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-KbZ8HqmM",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "JRjSlMNr",
+            "target": "NOTE-XTBUI7MQ"
+          },
+          {
+            "id": "lumYbelM",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-8FMPzIzS",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Quw5iI6C",
+            "target": "NOTE-DZ6HjGYh"
+          },
+          {
+            "id": "ic5hAzkc",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-c2XQnqPh",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "WgkHoMHJ",
+            "target": "NOTE-Z9WZK7ko"
+          },
+          {
+            "id": "XZA5lAUB",
+            "target": "NOTE-fVqClwkY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-C8FICNnV",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ihVKLXpH",
+            "target": "NOTE-DZ6HjGYh"
+          },
+          {
+            "id": "fXdMJ8sW",
+            "target": "NOTE-2RUR6NIJ"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-cVU6PQES",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "N6CU6sYp",
+            "target": "NOTE-DZ6HjGYh"
+          },
+          {
+            "id": "16tudwAR",
+            "target": "NOTE-U3cnridM"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-C3BI9gKY",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "qPAuGQUd",
+            "target": "NOTE-DZ6HjGYh"
+          },
+          {
+            "id": "dEzee7sB",
+            "target": "NOTE-BhCybJaV"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-elv9ZdTM",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UUFxEtFI",
+            "target": "NOTE-XTBUI7MQ"
+          },
+          {
+            "id": "rcAPtMdB",
+            "target": "NOTE-xiHzcMuy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-omjZ8aGi",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "cwnlBNqK",
+            "target": "NOTE-XTBUI7MQ"
+          },
+          {
+            "id": "qaubQL8q",
+            "target": "NOTE-3IYH1o6q"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-KBHkGql4",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "XoBdHtQm",
+            "target": "NOTE-XTBUI7MQ"
+          },
+          {
+            "id": "4vNhCp8Q",
+            "target": "NOTE-EehSPn8D"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-PfGt9bXd",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "fsT1Ca1k",
+            "target": "NOTE-k35yRTxy"
+          },
+          {
+            "id": "SWjBWpYx",
+            "target": "NOTE-fVqClwkY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-KHc2h8KD",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Yuo33phz",
+            "target": "NOTE-CNdWLKwq"
+          },
+          {
+            "id": "8oPYSuTM",
+            "target": "NOTE-fVqClwkY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-uqFHTUCT",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "eyawXHrh",
+            "target": "NOTE-J2SYrSGZ"
+          },
+          {
+            "id": "ACCFDWcX",
+            "target": "NOTE-fVqClwkY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-yCvLrIdy",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "1qAWmZXV",
+            "target": "NOTE-9bD2I3E5"
+          },
+          {
+            "id": "HA9qUW9K",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-9JGfoMSX",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YoN2gCIg",
+            "target": "NOTE-ryWbC4Zd"
+          },
+          {
+            "id": "iTmSsrtx",
+            "target": "NOTE-9bD2I3E5"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Bd9QQwRc",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "qBp5bCJg",
+            "target": "NOTE-2EC8yZyB"
+          },
+          {
+            "id": "BprbDqvN",
+            "target": "NOTE-9bD2I3E5"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-3lGCMJL5",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "H6KhlYe7",
+            "target": "NOTE-LkYjtC5e"
+          },
+          {
+            "id": "52EpeRYe",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-aewB1fvC",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "zYupXieS",
+            "target": "NOTE-oAFCFsM5"
+          },
+          {
+            "id": "Auxozmdk",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-4Y8lTXJN",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "WQSXmAQw",
+            "target": "NOTE-o2vDpuNL"
+          },
+          {
+            "id": "8wPWMNne",
+            "target": "NOTE-Z9WZK7ko"
+          }
+        ]
+      }
+    ]
+  }
+}

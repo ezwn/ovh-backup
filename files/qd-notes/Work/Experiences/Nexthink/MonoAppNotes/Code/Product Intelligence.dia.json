@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-SNTypJHy",
+        "userBounds": [
+          206,
+          198,
+          null,
+          null
+        ],
+        "bounds": [
+          206,
+          198,
+          242,
+          41
+        ],
+        "content": "[TELEMETRY SCHEMAS](https://github.com/nexthink/product-intelligence.telemetry-schemas)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

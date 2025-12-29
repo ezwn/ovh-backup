@@ -1,0 +1,616 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-McZU1t8z",
+        "userBounds": [
+          541,
+          285,
+          null,
+          null
+        ],
+        "bounds": [
+          541,
+          285,
+          84,
+          41
+        ],
+        "content": "TYPES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-s2ztJTML",
+        "userBounds": [
+          321,
+          184,
+          null,
+          null
+        ],
+        "bounds": [
+          321,
+          184,
+          88,
+          41
+        ],
+        "content": "LONGS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4NAg9vln",
+        "userBounds": [
+          369,
+          116,
+          null,
+          null
+        ],
+        "bounds": [
+          369,
+          116,
+          105,
+          41
+        ],
+        "content": "MOYENS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nyqTv1A4",
+        "userBounds": [
+          513,
+          109,
+          null,
+          null
+        ],
+        "bounds": [
+          513,
+          109,
+          102,
+          41
+        ],
+        "content": "COURTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cqgBYKYf",
+        "userBounds": [
+          459,
+          198,
+          null,
+          null
+        ],
+        "bounds": [
+          459,
+          198,
+          95,
+          41
+        ],
+        "content": "GRAINS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xquazhqe",
+        "userBounds": [
+          623,
+          208,
+          null,
+          null
+        ],
+        "bounds": [
+          623,
+          208,
+          116,
+          41
+        ],
+        "content": "COULEUR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JBqNQvqZ",
+        "userBounds": [
+          161,
+          185,
+          null,
+          null
+        ],
+        "bounds": [
+          161,
+          185,
+          104,
+          41
+        ],
+        "content": "BASMATI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ypqSXQ4f",
+        "userBounds": [
+          534,
+          10,
+          null,
+          null
+        ],
+        "bounds": [
+          534,
+          10,
+          79,
+          41
+        ],
+        "content": "SUSHI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8sX3JciL",
+        "userBounds": [
+          108,
+          128,
+          null,
+          null
+        ],
+        "bounds": [
+          108,
+          128,
+          86,
+          41
+        ],
+        "content": "INDIEN",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WMR8nQKZ",
+        "userBounds": [
+          941,
+          319,
+          null,
+          null
+        ],
+        "bounds": [
+          941,
+          319,
+          109,
+          41
+        ],
+        "content": "CUISSON",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Sjm95UtQ",
+        "userBounds": [
+          931,
+          212,
+          null,
+          null
+        ],
+        "bounds": [
+          931,
+          212,
+          95,
+          41
+        ],
+        "content": "BOUILLI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DoDuJldj",
+        "userBounds": [
+          1044,
+          218,
+          null,
+          null
+        ],
+        "bounds": [
+          1044,
+          218,
+          99,
+          41
+        ],
+        "content": "VAPEUR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vwgnHnmw",
+        "userBounds": [
+          1137,
+          267,
+          null,
+          null
+        ],
+        "bounds": [
+          1137,
+          267,
+          85,
+          41
+        ],
+        "content": "SAUTÉ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-56TnMxEK",
+        "userBounds": [
+          1160,
+          328,
+          null,
+          null
+        ],
+        "bounds": [
+          1160,
+          328,
+          75,
+          41
+        ],
+        "content": "FOUR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DFNukaip",
+        "userBounds": [
+          419,
+          501,
+          null,
+          null
+        ],
+        "bounds": [
+          419,
+          501,
+          109,
+          41
+        ],
+        "content": "RINCAGE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8ltxpULp",
+        "userBounds": [
+          218,
+          490,
+          null,
+          null
+        ],
+        "bounds": [
+          218,
+          490,
+          83,
+          82
+        ],
+        "content": "MOINS\nAMIDON\nMOINS\nCOLLANT",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-XHaYF3Rs",
+        "userBounds": [
+          714,
+          420,
+          null,
+          null
+        ],
+        "bounds": [
+          714,
+          420,
+          86,
+          66
+        ],
+        "content": "RIZ",
+        "zIndex": 3,
+        "fontSize": 42
+      },
+      {
+        "id": "NOTE-gQdLQWA3",
+        "userBounds": [
+          975,
+          451,
+          null,
+          null
+        ],
+        "bounds": [
+          975,
+          451,
+          105,
+          41
+        ],
+        "content": "ALIMENT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pwXyJwtC",
+        "userBounds": [
+          1228,
+          433,
+          null,
+          null
+        ],
+        "bounds": [
+          1228,
+          433,
+          108,
+          41
+        ],
+        "content": "ENERGIE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wlt4IkxB",
+        "userBounds": [
+          1213,
+          511,
+          null,
+          null
+        ],
+        "bounds": [
+          1213,
+          511,
+          168,
+          41
+        ],
+        "content": "PAS DE FIBRES",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-DTNeGu5n",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LIU4B1q5",
+            "target": "NOTE-cqgBYKYf"
+          },
+          {
+            "id": "END-Framf8Jq",
+            "target": "NOTE-nyqTv1A4"
+          }
+        ]
+      },
+      {
+        "id": "REL-9juTVMEt",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NG9e79uw",
+            "target": "NOTE-cqgBYKYf"
+          },
+          {
+            "id": "END-Z5Az6cLq",
+            "target": "NOTE-4NAg9vln"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZkyhGwhk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-djeaRTMw",
+            "target": "NOTE-cqgBYKYf"
+          },
+          {
+            "id": "END-8GNXHxEl",
+            "target": "NOTE-s2ztJTML"
+          }
+        ]
+      },
+      {
+        "id": "REL-lDkFvNcA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wC2j6uPI",
+            "target": "NOTE-McZU1t8z"
+          },
+          {
+            "id": "END-wzcTsTEf",
+            "target": "NOTE-cqgBYKYf"
+          }
+        ]
+      },
+      {
+        "id": "REL-53ihMEKk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kgMcvQBj",
+            "target": "NOTE-McZU1t8z"
+          },
+          {
+            "id": "END-4ob7KxXu",
+            "target": "NOTE-xquazhqe"
+          }
+        ]
+      },
+      {
+        "id": "REL-dSuwa9nn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mdfhg7NW",
+            "target": "NOTE-JBqNQvqZ"
+          },
+          {
+            "id": "END-MJLMrony",
+            "target": "NOTE-s2ztJTML"
+          }
+        ]
+      },
+      {
+        "id": "REL-guqI64Tc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Y2TGzIEI",
+            "target": "NOTE-ypqSXQ4f"
+          },
+          {
+            "id": "END-XLhZImj8",
+            "target": "NOTE-nyqTv1A4"
+          }
+        ]
+      },
+      {
+        "id": "REL-jHZwZoEE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-eyTbEnsr",
+            "target": "NOTE-8sX3JciL"
+          },
+          {
+            "id": "END-kbcVlEWI",
+            "target": "NOTE-JBqNQvqZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-fmIfwTJn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-volVoPv9",
+            "target": "NOTE-WMR8nQKZ"
+          },
+          {
+            "id": "END-eyFByJ3q",
+            "target": "NOTE-56TnMxEK"
+          }
+        ]
+      },
+      {
+        "id": "REL-dCZpr9Py",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-85HKUBqm",
+            "target": "NOTE-WMR8nQKZ"
+          },
+          {
+            "id": "END-AzVNWTHI",
+            "target": "NOTE-vwgnHnmw"
+          }
+        ]
+      },
+      {
+        "id": "REL-voew7ooL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-P9lYWHRQ",
+            "target": "NOTE-WMR8nQKZ"
+          },
+          {
+            "id": "END-IQrclhtk",
+            "target": "NOTE-DoDuJldj"
+          }
+        ]
+      },
+      {
+        "id": "REL-wZ4v8UaF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-V7YJ7Exf",
+            "target": "NOTE-WMR8nQKZ"
+          },
+          {
+            "id": "END-9Kf7VGV6",
+            "target": "NOTE-Sjm95UtQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-rrMenaFl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PeHsD5p9",
+            "target": "NOTE-8ltxpULp"
+          },
+          {
+            "id": "END-TZxxF86y",
+            "target": "NOTE-DFNukaip"
+          }
+        ]
+      },
+      {
+        "id": "REL-MixMfGjs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-luCddXRE",
+            "target": "NOTE-gQdLQWA3"
+          },
+          {
+            "id": "END-8sz18Hhf",
+            "target": "NOTE-wlt4IkxB"
+          }
+        ]
+      },
+      {
+        "id": "REL-7BivErYf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Vq7PE8Po",
+            "target": "NOTE-gQdLQWA3"
+          },
+          {
+            "id": "END-qll4mV4s",
+            "target": "NOTE-pwXyJwtC"
+          }
+        ]
+      },
+      {
+        "id": "REL-duIK7rl2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bBiNamb4",
+            "target": "NOTE-XHaYF3Rs"
+          },
+          {
+            "id": "END-69IvPZGk",
+            "target": "NOTE-DFNukaip"
+          }
+        ]
+      },
+      {
+        "id": "REL-TUPzjQua",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vZ1WCWqS",
+            "target": "NOTE-XHaYF3Rs"
+          },
+          {
+            "id": "END-E7sDds83",
+            "target": "NOTE-McZU1t8z"
+          }
+        ]
+      },
+      {
+        "id": "REL-6qWcLLsf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2kMhny9G",
+            "target": "NOTE-XHaYF3Rs"
+          },
+          {
+            "id": "END-ywpSnZZQ",
+            "target": "NOTE-WMR8nQKZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-bJQMWLtp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kWRmJ3HU",
+            "target": "NOTE-XHaYF3Rs"
+          },
+          {
+            "id": "END-X1PdfoLu",
+            "target": "NOTE-gQdLQWA3"
+          }
+        ]
+      }
+    ]
+  }
+}

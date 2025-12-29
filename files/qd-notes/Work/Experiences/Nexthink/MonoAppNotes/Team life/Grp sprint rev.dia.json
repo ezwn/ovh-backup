@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2Q3nZrKl",
+        "userBounds": [
+          428,
+          276,
+          195.46875,
+          null
+        ],
+        "bounds": [
+          428,
+          276,
+          195,
+          64
+        ],
+        "content": "[PREPARE THE PRESENTATION](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=199591184)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nA7vEKiH",
+        "userBounds": [
+          523,
+          427,
+          null,
+          null
+        ],
+        "bounds": [
+          523,
+          427,
+          126,
+          41
+        ],
+        "content": "[SPEAKERS](https://confluence.intra.nexthink.com/display/ENGAGE/Sprint+Reviews+Schedule)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IxPJvfYe",
+        "userBounds": [
+          745,
+          282,
+          null,
+          null
+        ],
+        "bounds": [
+          745,
+          282,
+          175,
+          41
+        ],
+        "content": "[SPRINT REVIEW](https://nexthink.sharepoint.com/:p:/r/sites/engineering-product/_layouts/15/Doc.aspx?sourcedoc=%7B3A2E8D59-9D51-408F-AB09-ADAA8F0D07B2%7D&file=Sprint%20Review%202024.3.S2%20Experience.pptx&action=edit&mobileredirect=true)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-zimwIeCb",
+        "userBounds": [
+          798,
+          353,
+          null,
+          null
+        ],
+        "bounds": [
+          798,
+          353,
+          149,
+          41
+        ],
+        "content": "TECHNIQUES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tV1ev8S9",
+        "userBounds": [
+          637,
+          308,
+          null,
+          null
+        ],
+        "bounds": [
+          637,
+          308,
+          120,
+          41
+        ],
+        "content": "Aéroponie?",
+        "zIndex": 3,
+        "noteStyle": "WARNING"
+      },
+      {
+        "id": "NOTE-j6nIduHY",
+        "userBounds": [
+          791,
+          258,
+          null,
+          null
+        ],
+        "bounds": [
+          791,
+          258,
+          114,
+          41
+        ],
+        "content": "Aquaponie",
+        "zIndex": 3,
+        "noteStyle": "WARNING"
+      },
+      {
+        "id": "NOTE-oqEn8W9Y",
+        "userBounds": [
+          816,
+          549,
+          null,
+          null
+        ],
+        "bounds": [
+          816,
+          549,
+          121,
+          34
+        ],
+        "content": "[ATLERNATIVES](https://www.latige.fr/post/hydroponie-comment-%C3%A7a-marche)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-riUv13Lv",
+        "userBounds": [
+          819,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          819,
+          456,
+          117,
+          41
+        ],
+        "content": "SOURCES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9DlFbZND",
+        "userBounds": [
+          1218,
+          166,
+          null,
+          null
+        ],
+        "bounds": [
+          1218,
+          166,
+          80,
+          41
+        ],
+        "content": "[PELLE](https://www.galaxus.ch/fr/s3/product/quechua-camp-de-pelle-tente-accessoires-15876864?supplier=5084471)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-K7blYrHi",
+        "userBounds": [
+          1313,
+          269,
+          null,
+          null
+        ],
+        "bounds": [
+          1313,
+          269,
+          108,
+          49
+        ],
+        "content": "MATOS",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-2LN7HdM7",
+        "userBounds": [
+          1383,
+          143,
+          null,
+          null
+        ],
+        "bounds": [
+          1383,
+          143,
+          90,
+          64
+        ],
+        "content": "POMPE\nA EAU",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bIYFJtD9",
+        "userBounds": [
+          1475,
+          251,
+          null,
+          null
+        ],
+        "bounds": [
+          1475,
+          251,
+          139,
+          87
+        ],
+        "content": "RESERVOIR\nEAU\nBOUTEILLE?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mizlQx1l",
+        "userBounds": [
+          1496,
+          77,
+          null,
+          null
+        ],
+        "bounds": [
+          1496,
+          77,
+          98,
+          41
+        ],
+        "content": "TUYAUX",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mhT4CuYe",
+        "userBounds": [
+          1379,
+          382,
+          null,
+          null
+        ],
+        "bounds": [
+          1379,
+          382,
+          102,
+          64
+        ],
+        "content": "BILLES\nARGILE?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RbxR7w8p",
+        "userBounds": [
+          1539,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          1539,
+          456,
+          112,
+          41
+        ],
+        "content": "[GALAXUS](https://www.galaxus.ch/fr/s4/product/europalms-billes-dargile-expansee-10-l-hydrospheres-terreaux-pour-fleurs-18251623?ip=billes+argile)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vku6JbML",
+        "userBounds": [
+          1156,
+          356,
+          null,
+          null
+        ],
+        "bounds": [
+          1156,
+          356,
+          144,
+          41
+        ],
+        "content": "[SWITCH USB](https://fr.aliexpress.com/item/4000045000234.html?spm=a2g0o.productlist.main.11.509e493cvApd2o&algo_pvid=8db929c3-557d-429d-8f8e-c5177c550b5d&algo_exp_id=8db929c3-557d-429d-8f8e-c5177c550b5d-5&pdp_ext_f=%7B%22sku_id%22%3A%2210000000101720806%22%7D&pdp_npi=3%40dis%21CHF%218.35%213.59%21%21%21%21%21%40211bf3f116796419929011512d0761%2110000000101720806%21sea%21CH%214488329318&curPageLogUid=TN0bT9jW13zq)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ItXlz5i1",
+        "userBounds": [
+          1121,
+          477,
+          182.78125,
+          null
+        ],
+        "bounds": [
+          1121,
+          477,
+          183,
+          87
+        ],
+        "content": "Power-line Communication (PLC)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7kh1swwf",
+        "userBounds": [
+          1114,
+          223,
+          null,
+          null
+        ],
+        "bounds": [
+          1114,
+          223,
+          115,
+          64
+        ],
+        "content": "Domotique\nDIY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VfP4dyvN",
+        "userBounds": [
+          476,
+          134,
+          null,
+          null
+        ],
+        "bounds": [
+          476,
+          134,
+          163,
+          41
+        ],
+        "content": "[TYPES DE SOL](https://www.alloprof.qc.ca/fr/eleves/bv/sciences/les-types-de-sols-s1330)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-BPok4SeJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RHNjXt8K",
+            "target": "NOTE-riUv13Lv"
+          },
+          {
+            "id": "END-FzfrUiv1",
+            "target": "NOTE-zimwIeCb"
+          }
+        ]
+      },
+      {
+        "id": "REL-xpRXFnEs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-D7LmTnck",
+            "target": "NOTE-oqEn8W9Y"
+          },
+          {
+            "id": "END-epegRhra",
+            "target": "NOTE-riUv13Lv"
+          }
+        ]
+      },
+      {
+        "id": "REL-w7Xpsgzt",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-h8YvPBRV",
+            "target": "NOTE-zimwIeCb"
+          },
+          {
+            "id": "END-Wu3zFMUg",
+            "target": "NOTE-tV1ev8S9"
+          }
+        ]
+      },
+      {
+        "id": "REL-5fWNd7Ta",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Qv6s6kIY",
+            "target": "NOTE-zimwIeCb"
+          },
+          {
+            "id": "END-9dBT7Xqz",
+            "target": "NOTE-j6nIduHY"
+          }
+        ]
+      },
+      {
+        "id": "REL-ulkSCwsi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wjU5ssif",
+            "target": "NOTE-9DlFbZND"
+          },
+          {
+            "id": "END-2Fuc7WYI",
+            "target": "NOTE-K7blYrHi"
+          }
+        ]
+      },
+      {
+        "id": "REL-EEXmJ6aQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Eep2yfjh",
+            "target": "NOTE-2LN7HdM7"
+          },
+          {
+            "id": "END-SaeigrWe",
+            "target": "NOTE-K7blYrHi"
+          }
+        ]
+      },
+      {
+        "id": "REL-xdSk5t2S",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WdfEWBMG",
+            "target": "NOTE-bIYFJtD9"
+          },
+          {
+            "id": "END-4aESaQZH",
+            "target": "NOTE-K7blYrHi"
+          }
+        ]
+      },
+      {
+        "id": "REL-yN8lTVdr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UEZjhCx2",
+            "target": "NOTE-mizlQx1l"
+          },
+          {
+            "id": "END-QXhkZyBt",
+            "target": "NOTE-2LN7HdM7"
+          }
+        ]
+      },
+      {
+        "id": "REL-BEsr9c85",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-D3avzIbc",
+            "target": "NOTE-mhT4CuYe"
+          },
+          {
+            "id": "END-ZD94SRYC",
+            "target": "NOTE-K7blYrHi"
+          }
+        ]
+      },
+      {
+        "id": "REL-tzrQyiAs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MgEDRtCj",
+            "target": "NOTE-RbxR7w8p"
+          },
+          {
+            "id": "END-5kjP3Q7C",
+            "target": "NOTE-mhT4CuYe"
+          }
+        ]
+      },
+      {
+        "id": "REL-LfVA586P",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NQUMGEBE",
+            "target": "NOTE-ItXlz5i1"
+          },
+          {
+            "id": "END-cfqz3A4Q",
+            "target": "NOTE-vku6JbML"
+          }
+        ]
+      }
+    ]
+  }
+}

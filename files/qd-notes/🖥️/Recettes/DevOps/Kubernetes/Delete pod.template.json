@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlDeletePod",
+  "content": {
+    "index": "cloud kubernate kubectl delete pod",
+    "name": "Kubectl, delete pod",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl delete pod ${podName} -n ${kubeNamespace:KubeNamespace}",
+        "defaultText": null
+      }
+    ]
+  }
+}

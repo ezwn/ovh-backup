@@ -1,0 +1,172 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5HNIsNCG",
+        "userBounds": [
+          676,
+          343,
+          null,
+          null
+        ],
+        "bounds": [
+          676,
+          343,
+          101,
+          50
+        ],
+        "content": "# [沉肩松肩](https://www.youtube.com/watch?v=xgoXVXKfgwA)\nchén jiān sǒng jiān",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-a1vjNEPz",
+        "userBounds": [
+          854,
+          357,
+          null,
+          null
+        ],
+        "bounds": [
+          854,
+          357,
+          95,
+          70
+        ],
+        "content": "# 太极拳\ntài jí quán",
+        "zIndex": 3,
+        "noteStyle": "VIOLET",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-rbQ4zBbH",
+        "userBounds": [
+          757,
+          204,
+          null,
+          null
+        ],
+        "bounds": [
+          757,
+          204,
+          104,
+          65
+        ],
+        "content": "# 松胯\n松 (sōng): détendre\n胯 (kuà): hanche",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-z526uCmd",
+        "userBounds": [
+          948,
+          215,
+          null,
+          null
+        ],
+        "bounds": [
+          948,
+          215,
+          51,
+          50
+        ],
+        "content": "# 抱球\nbào qiú",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-UXWi5Z5A",
+        "userBounds": [
+          915,
+          139,
+          null,
+          null
+        ],
+        "bounds": [
+          915,
+          139,
+          57,
+          27
+        ],
+        "content": "[YOUTUBE](https://www.youtube.com/watch?v=AuwkPF70hxg)",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-x6697weM",
+        "userBounds": [
+          995,
+          385,
+          null,
+          null
+        ],
+        "bounds": [
+          995,
+          385,
+          121,
+          41
+        ],
+        "content": "[BAO YANG](https://www.youtube.com/watch?v=0YBzS64unNU&list=PLQP8iEpkOY3RdSu79_rzCXnRyPgUBlJwL&index=2)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-9CUdor6E",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AdZf4Xgl",
+            "target": "NOTE-5HNIsNCG"
+          },
+          {
+            "id": "END-tnyRAgHo",
+            "target": "NOTE-a1vjNEPz"
+          }
+        ]
+      },
+      {
+        "id": "REL-mNXRfqDr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2gsU9Es6",
+            "target": "NOTE-rbQ4zBbH"
+          },
+          {
+            "id": "END-QuRiLqsd",
+            "target": "NOTE-a1vjNEPz"
+          }
+        ]
+      },
+      {
+        "id": "REL-DaHmKQqE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8EvPkwly",
+            "target": "NOTE-z526uCmd"
+          },
+          {
+            "id": "END-jzwWI5Zh",
+            "target": "NOTE-a1vjNEPz"
+          }
+        ]
+      },
+      {
+        "id": "REL-o7PdBMTJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ApHLabF2",
+            "target": "NOTE-UXWi5Z5A"
+          },
+          {
+            "id": "END-Ph5JUmui",
+            "target": "NOTE-z526uCmd"
+          }
+        ]
+      }
+    ]
+  }
+}

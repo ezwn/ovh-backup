@@ -1,0 +1,119 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-AryCvKYj",
+        "userBounds": [
+          530,
+          295,
+          null,
+          null
+        ],
+        "bounds": [
+          530,
+          295,
+          150,
+          41
+        ],
+        "content": "BOURGOGNE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Y5h5p6DS",
+        "userBounds": [
+          424,
+          191,
+          null,
+          null
+        ],
+        "bounds": [
+          424,
+          191,
+          92,
+          41
+        ],
+        "content": "MEDOC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nAf1DH49",
+        "userBounds": [
+          173,
+          112,
+          null,
+          null
+        ],
+        "bounds": [
+          173,
+          112,
+          201,
+          87
+        ],
+        "content": "CHATEAU\nRAMAFORT\n(CRU BOURGEOIS)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oQllEhnW",
+        "userBounds": [
+          40,
+          115,
+          null,
+          null
+        ],
+        "bounds": [
+          40,
+          115,
+          79,
+          72
+        ],
+        "content": "2013\n11 €\ntrès bien",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-C2MEg2MV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F1oAhRF4",
+            "target": "NOTE-Y5h5p6DS"
+          },
+          {
+            "id": "END-JTSK8x3z",
+            "target": "NOTE-AryCvKYj"
+          }
+        ]
+      },
+      {
+        "id": "REL-Kpx1ac5S",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SWvUGW83",
+            "target": "NOTE-nAf1DH49"
+          },
+          {
+            "id": "END-N81FUtKI",
+            "target": "NOTE-Y5h5p6DS"
+          }
+        ]
+      },
+      {
+        "id": "REL-YjSqe32t",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZJ2MBuFA",
+            "target": "NOTE-oQllEhnW"
+          },
+          {
+            "id": "END-t4pP6vav",
+            "target": "NOTE-nAf1DH49"
+          }
+        ]
+      }
+    ]
+  }
+}

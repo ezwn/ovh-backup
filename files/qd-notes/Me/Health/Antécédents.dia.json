@@ -1,0 +1,873 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-FGMxFXxI",
+        "userBounds": [
+          852,
+          356,
+          null,
+          null
+        ],
+        "content": "MES\nANTÉCÉDENTS",
+        "zIndex": 3,
+        "bounds": [
+          852,
+          356,
+          212,
+          80
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-p45cUSs3",
+        "userBounds": [
+          565,
+          588,
+          null,
+          null
+        ],
+        "content": "PÈRE",
+        "zIndex": 3,
+        "bounds": [
+          565,
+          588,
+          56,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Ng2WLymY",
+        "userBounds": [
+          459,
+          513,
+          null,
+          null
+        ],
+        "content": "MÈRE",
+        "zIndex": 3,
+        "bounds": [
+          459,
+          513,
+          58,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-j5BBxU49",
+        "userBounds": [
+          306,
+          262,
+          null,
+          null
+        ],
+        "content": "GRAND\nMÈRE",
+        "zIndex": 3,
+        "bounds": [
+          306,
+          262,
+          69,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-TScvq7Pq",
+        "userBounds": [
+          162,
+          561,
+          null,
+          null
+        ],
+        "content": "!!! SURPOIDS",
+        "zIndex": 3,
+        "bounds": [
+          162,
+          561,
+          143,
+          46
+        ]
+      },
+      {
+        "id": "NOTE-emuZVWEu",
+        "userBounds": [
+          240,
+          206,
+          78.4375,
+          null
+        ],
+        "content": "!!! RÉTENTION\n!!! EAU",
+        "zIndex": 3,
+        "bounds": [
+          240,
+          206,
+          78,
+          40
+        ],
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-DZNHMFqC",
+        "userBounds": [
+          30,
+          302,
+          null,
+          null
+        ],
+        "content": "!!! ACCIDENT\n!!! CARDIAQUE",
+        "zIndex": 3,
+        "bounds": [
+          30,
+          302,
+          163,
+          74
+        ]
+      },
+      {
+        "id": "NOTE-V1etdVQW",
+        "userBounds": [
+          327,
+          335,
+          null,
+          null
+        ],
+        "content": "GRAND\nMÈRE",
+        "zIndex": 3,
+        "bounds": [
+          327,
+          335,
+          69,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-gBWFhQoZ",
+        "userBounds": [
+          473,
+          434,
+          null,
+          null
+        ],
+        "content": "SOEUR",
+        "zIndex": 3,
+        "bounds": [
+          473,
+          434,
+          68,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-tkuwSnat",
+        "userBounds": [
+          571,
+          373,
+          null,
+          null
+        ],
+        "content": "FAMILIAUX",
+        "zIndex": 3,
+        "bounds": [
+          571,
+          373,
+          122,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-hJ3ZFPaJ",
+        "userBounds": [
+          378,
+          176,
+          null,
+          null
+        ],
+        "content": "GRAND\nPÈRE\nPATERNEL",
+        "zIndex": 3,
+        "bounds": [
+          378,
+          176,
+          90,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Bh6Waebh",
+        "userBounds": [
+          409,
+          63,
+          null,
+          null
+        ],
+        "content": "!!! DÉMENCE",
+        "zIndex": 3,
+        "bounds": [
+          409,
+          63,
+          138,
+          46
+        ]
+      },
+      {
+        "id": "NOTE-X21AXheo",
+        "userBounds": [
+          495,
+          172,
+          null,
+          null
+        ],
+        "content": "GRAND\nPÈRE\nMATERNEL",
+        "zIndex": 3,
+        "bounds": [
+          495,
+          172,
+          93,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-sTDmRQc3",
+        "userBounds": [
+          453,
+          631,
+          null,
+          null
+        ],
+        "content": "!!! ARTHROSE\n!!! GENOUX",
+        "zIndex": 3,
+        "bounds": [
+          453,
+          631,
+          112,
+          58
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-jgKxoN7l",
+        "userBounds": [
+          539,
+          471,
+          null,
+          null
+        ],
+        "content": "PARENTS\nDIRECTS",
+        "zIndex": 3,
+        "bounds": [
+          539,
+          471,
+          111,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-UcCkjkVi",
+        "userBounds": [
+          446,
+          287,
+          null,
+          null
+        ],
+        "content": "GRAND\nPARENTS",
+        "zIndex": 3,
+        "bounds": [
+          446,
+          287,
+          83,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Y1hIdQrf",
+        "userBounds": [
+          1207,
+          373,
+          null,
+          null
+        ],
+        "content": "PERSONNELS",
+        "zIndex": 3,
+        "bounds": [
+          1207,
+          373,
+          155,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-yPqKTBqd",
+        "userBounds": [
+          591,
+          633,
+          null,
+          null
+        ],
+        "content": "!!! CRISES\n!!! ANGOISSES",
+        "zIndex": 3,
+        "bounds": [
+          591,
+          633,
+          89,
+          46
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-jgw6QZVr",
+        "userBounds": [
+          382,
+          410,
+          null,
+          null
+        ],
+        "content": "!!! bouffée\n!!! délirante",
+        "zIndex": 3,
+        "bounds": [
+          382,
+          410,
+          78,
+          50
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-1pkxjMTB",
+        "userBounds": [
+          407,
+          562,
+          null,
+          null
+        ],
+        "content": "!!! DIABÈTE\n!!! 2",
+        "zIndex": 3,
+        "bounds": [
+          407,
+          562,
+          71,
+          46
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-lY1zPvWo",
+        "userBounds": [
+          865,
+          166,
+          null,
+          null
+        ],
+        "content": "DENTISTE\nLeonte-cazacu",
+        "zIndex": 3,
+        "bounds": [
+          865,
+          166,
+          149,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-vzuH6HkP",
+        "userBounds": [
+          33,
+          578,
+          null,
+          null
+        ],
+        "content": "Endurance\nphysique",
+        "zIndex": 3,
+        "bounds": [
+          33,
+          578,
+          95,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-n7U3TXmI",
+        "userBounds": [
+          68,
+          639,
+          null,
+          null
+        ],
+        "content": "Alimentation",
+        "zIndex": 3,
+        "bounds": [
+          68,
+          639,
+          106,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aTirNUPx",
+        "userBounds": [
+          1212,
+          282,
+          null,
+          null
+        ],
+        "content": "DÉPRESSION",
+        "zIndex": 3,
+        "bounds": [
+          1212,
+          282,
+          149,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-e1ucRXcv",
+        "userBounds": [
+          1426,
+          358,
+          null,
+          null
+        ],
+        "bounds": [
+          1426,
+          358,
+          118,
+          64
+        ],
+        "content": "BEANCE\nCARDIALE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HUMmGW2W",
+        "userBounds": [
+          1495,
+          256,
+          null,
+          null
+        ],
+        "bounds": [
+          1495,
+          256,
+          123,
+          54
+        ],
+        "content": "REFLUX\nGASTRIQUES",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-gfpDblbr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kKFyLBRx",
+            "target": "NOTE-TScvq7Pq"
+          },
+          {
+            "id": "END-UFuAk7ih",
+            "target": "NOTE-j5BBxU49"
+          }
+        ]
+      },
+      {
+        "id": "REL-xQUv8pJM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6jbvC7VS",
+            "target": "NOTE-emuZVWEu"
+          },
+          {
+            "id": "END-CyFbdvpJ",
+            "target": "NOTE-j5BBxU49"
+          }
+        ]
+      },
+      {
+        "id": "REL-EcADQJAe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Eoyh6Ayo",
+            "target": "NOTE-DZNHMFqC"
+          },
+          {
+            "id": "END-rW9AEsQB",
+            "target": "NOTE-j5BBxU49"
+          }
+        ]
+      },
+      {
+        "id": "REL-BTregpp2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PDAYSQ65",
+            "target": "NOTE-V1etdVQW"
+          },
+          {
+            "id": "END-nLHppthd",
+            "target": "NOTE-TScvq7Pq"
+          }
+        ]
+      },
+      {
+        "id": "REL-a4NaCuAC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mjkzSMlp",
+            "target": "NOTE-DZNHMFqC"
+          },
+          {
+            "id": "END-c6qK6uPq",
+            "target": "NOTE-V1etdVQW"
+          }
+        ]
+      },
+      {
+        "id": "REL-5lMqgey9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xrbnwXiu",
+            "target": "NOTE-TScvq7Pq"
+          },
+          {
+            "id": "END-out4oFCe",
+            "target": "NOTE-Ng2WLymY"
+          }
+        ]
+      },
+      {
+        "id": "REL-MBKyVdNB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-i686VDKT",
+            "target": "NOTE-TScvq7Pq"
+          },
+          {
+            "id": "END-EeM9TBSa",
+            "target": "NOTE-gBWFhQoZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-D37p1Ma7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-psExpgZB",
+            "target": "NOTE-tkuwSnat"
+          },
+          {
+            "id": "END-GdynxILB",
+            "target": "NOTE-FGMxFXxI"
+          }
+        ]
+      },
+      {
+        "id": "REL-YxMM8fLT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6UetILHZ",
+            "target": "NOTE-Bh6Waebh"
+          },
+          {
+            "id": "END-NdqPNBQj",
+            "target": "NOTE-X21AXheo"
+          }
+        ]
+      },
+      {
+        "id": "REL-6iU9b4I9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1ZudGNvY",
+            "target": "NOTE-hJ3ZFPaJ"
+          },
+          {
+            "id": "END-qaxGTLuI",
+            "target": "NOTE-Bh6Waebh"
+          }
+        ]
+      },
+      {
+        "id": "REL-6x78eUl9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-H3B9j6ds",
+            "target": "NOTE-sTDmRQc3"
+          },
+          {
+            "id": "END-4kcZNUvl",
+            "target": "NOTE-p45cUSs3"
+          }
+        ]
+      },
+      {
+        "id": "REL-7ZLaiG5s",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-is33mssm",
+            "target": "NOTE-jgKxoN7l"
+          },
+          {
+            "id": "END-LnyrAfzo",
+            "target": "NOTE-tkuwSnat"
+          }
+        ]
+      },
+      {
+        "id": "REL-WxqhofQj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tdk16e6q",
+            "target": "NOTE-Ng2WLymY"
+          },
+          {
+            "id": "END-Fa6uR19M",
+            "target": "NOTE-jgKxoN7l"
+          }
+        ]
+      },
+      {
+        "id": "REL-E8uXk2Dk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kWrbVYST",
+            "target": "NOTE-p45cUSs3"
+          },
+          {
+            "id": "END-s8VGnkFz",
+            "target": "NOTE-jgKxoN7l"
+          }
+        ]
+      },
+      {
+        "id": "REL-UXtty8FG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IcKqkRvq",
+            "target": "NOTE-UcCkjkVi"
+          },
+          {
+            "id": "END-wL9vLLjh",
+            "target": "NOTE-tkuwSnat"
+          }
+        ]
+      },
+      {
+        "id": "REL-yZxzqiT7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bFBlWSyV",
+            "target": "NOTE-X21AXheo"
+          },
+          {
+            "id": "END-eyoWxmjk",
+            "target": "NOTE-UcCkjkVi"
+          }
+        ]
+      },
+      {
+        "id": "REL-35u3wGJc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YxtCe9Hw",
+            "target": "NOTE-hJ3ZFPaJ"
+          },
+          {
+            "id": "END-2YmA8ZGm",
+            "target": "NOTE-UcCkjkVi"
+          }
+        ]
+      },
+      {
+        "id": "REL-Wm15QKA6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Kgik4R4M",
+            "target": "NOTE-j5BBxU49"
+          },
+          {
+            "id": "END-fBd4s5yp",
+            "target": "NOTE-UcCkjkVi"
+          }
+        ]
+      },
+      {
+        "id": "REL-M1e2ww9b",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RATlfUY6",
+            "target": "NOTE-V1etdVQW"
+          },
+          {
+            "id": "END-R5vDp4TT",
+            "target": "NOTE-UcCkjkVi"
+          }
+        ]
+      },
+      {
+        "id": "REL-fbk8HSm8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2KIVlG8a",
+            "target": "NOTE-gBWFhQoZ"
+          },
+          {
+            "id": "END-F1dyi71q",
+            "target": "NOTE-tkuwSnat"
+          }
+        ]
+      },
+      {
+        "id": "REL-WCUDnewa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-aa9RrCvM",
+            "target": "NOTE-Y1hIdQrf"
+          },
+          {
+            "id": "END-9aoXSFts",
+            "target": "NOTE-FGMxFXxI"
+          }
+        ]
+      },
+      {
+        "id": "REL-STdt76DG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6pslWfTo",
+            "target": "NOTE-yPqKTBqd"
+          },
+          {
+            "id": "END-ALmN7jz7",
+            "target": "NOTE-p45cUSs3"
+          }
+        ]
+      },
+      {
+        "id": "REL-S3gwPNzp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-V1va5GL2",
+            "target": "NOTE-jgw6QZVr"
+          },
+          {
+            "id": "END-GkX1gxqM",
+            "target": "NOTE-gBWFhQoZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-1fVzcDTw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lHsZXzDB",
+            "target": "NOTE-1pkxjMTB"
+          },
+          {
+            "id": "END-KUWWsos7",
+            "target": "NOTE-Ng2WLymY"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZHYKrl7y",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bdbFaGuz",
+            "target": "NOTE-n7U3TXmI"
+          },
+          {
+            "id": "END-XzWdZqth",
+            "target": "NOTE-TScvq7Pq"
+          }
+        ]
+      },
+      {
+        "id": "REL-9yRNnWEc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3u7HRpaT",
+            "target": "NOTE-vzuH6HkP"
+          },
+          {
+            "id": "END-uq3ZYZzt",
+            "target": "NOTE-TScvq7Pq"
+          }
+        ]
+      },
+      {
+        "id": "REL-8zAnq7xf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xw8ln5Aw",
+            "target": "NOTE-aTirNUPx"
+          },
+          {
+            "id": "END-IVxv6fLm",
+            "target": "NOTE-Y1hIdQrf"
+          }
+        ]
+      },
+      {
+        "id": "REL-k1gIDdNe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IokRXP7j",
+            "target": "NOTE-e1ucRXcv"
+          },
+          {
+            "id": "END-vyLyNlog",
+            "target": "NOTE-Y1hIdQrf"
+          }
+        ]
+      },
+      {
+        "id": "REL-ePgoe6wv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pdMV3cBP",
+            "target": "NOTE-HUMmGW2W"
+          },
+          {
+            "id": "END-FtFYIUuY",
+            "target": "NOTE-e1ucRXcv"
+          }
+        ]
+      }
+    ]
+  }
+}

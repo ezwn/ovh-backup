@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-promptRedigerNoteRechercheSynthese",
+  "content": {
+    "index": "prompt rédiger note recherche synthese",
+    "name": "Note Synthèse : 9 - Rédiger",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant qu'expert, à la fois du domaine et de la pédagogie. Rédige une note de synthèse sur le thème \"${theme:text}\".\n\nVoici le plan à suivre :\n\n---\n\n${plan:text}\n\n---\n\nPrivilégie :\n\n- le vocabulaire précis\n- l'objectivité\n- la structure logique\n\nLe style de ce document est **didactique, synthétique et structuré comme un support de cours technique**. L’objectif est la **clarté et la mémorisation**. Le texte privilégie les **relations logiques** (causes, différences, avantages/inconvénients) et la **rigueur terminologique**, typique d’un **résumé de cours** destiné à la **transmission rapide de savoirs techniques**.\n\n- ne produit ni introduction, ni conclusion\n- sans digression ni contextualisation historique",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaJavaSimpleProducer",
+  "content": {
+    "index": "kafka java, simple producer",
+    "name": "Kafka Java, Simple producer",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "import org.apache.kafka.clients.producer.KafkaProducer;\nimport org.apache.kafka.clients.producer.ProducerRecord;\nimport java.util.Properties;\n\npublic class Init {\n\n    public static void main(String[] args) {\n        Properties props = new Properties();\n        props.put(\"bootstrap.servers\", \"localhost:9094\");\n        props.put(\"key.serializer\", \"org.apache.kafka.common.serialization.StringSerializer\");\n        props.put(\"value.serializer\", \"org.apache.kafka.common.serialization.StringSerializer\");\n\n        KafkaProducer<String, String> producer = new KafkaProducer<>(props);\n\n        String topic = \"engage_document_campaign-legacy\";\n        String key = \"document123\";\n        String value = \"{\\\"documentId\\\":\\\"12345\\\", \\\"campaign\\\":\\\"Spring Sale\\\", \\\"status\\\":\\\"active\\\"}\";\n\n        ProducerRecord<String, String> record = new ProducerRecord<>(topic, key, value);\n\n        producer.send(record, (metadata, exception) -> {\n            if (exception == null) {\n                System.out.println(\"Message sent successfully: \" + metadata.toString());\n            } else {\n                exception.printStackTrace();\n            }\n        });\n\n        producer.close();\n    }\n\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

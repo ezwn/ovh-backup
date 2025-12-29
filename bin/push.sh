@@ -1,0 +1,1 @@
+rsync -avz --progress --delete --no-g --no-o ./files/ ubuntu@5.196.26.126:/home/ubuntu/data/files/

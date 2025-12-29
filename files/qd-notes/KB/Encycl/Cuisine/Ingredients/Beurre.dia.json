@@ -1,0 +1,92 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-p3RDK3uI",
+        "userBounds": [
+          387,
+          244,
+          null,
+          null
+        ],
+        "bounds": [
+          387,
+          244,
+          153,
+          64
+        ],
+        "content": "Point de fûmée\n150 à 175 °C",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rq7yE5LY",
+        "userBounds": [
+          403,
+          412,
+          null,
+          null
+        ],
+        "bounds": [
+          403,
+          412,
+          136,
+          64
+        ],
+        "content": "Conservation\n< 7 °C",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-krJ3QFFR",
+        "userBounds": [
+          1087,
+          275,
+          null,
+          null
+        ],
+        "bounds": [
+          1087,
+          275,
+          112,
+          41
+        ],
+        "content": "bain-marie",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-b1zxdnCC",
+        "userBounds": [
+          1083,
+          409,
+          null,
+          null
+        ],
+        "bounds": [
+          1083,
+          409,
+          87,
+          41
+        ],
+        "content": "Écumer",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pDgrQoc7",
+        "userBounds": [
+          601,
+          351,
+          null,
+          null
+        ],
+        "bounds": [
+          601,
+          351,
+          100,
+          41
+        ],
+        "content": "CARACT",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-NvdnIfgn",
+          "userBounds": [
+            464,
+            576,
+            null,
+            null
+          ],
+          "content": "# Paymium",
+          "bounds": [
+            464,
+            576,
+            75,
+            33
+          ],
+          "fontSize": 8
+        },
+        {
+          "id": "NOTE-fYsN5zYi",
+          "userBounds": [
+            33,
+            462,
+            null,
+            null
+          ],
+          "content": "# Binance\n< opened: 2/3/2021\n< closed: \n< N° 91322133\n< Binance Europe Services Limited\n< LEVEL G (OFFICE 1/1235), Quantum House\n< 75 Abate Rigord Street TA' XBIEX\n< XBX 1120 Malta",
+          "bounds": [
+            33,
+            462,
+            226,
+            113
+          ],
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-JjMuFHXU",
+          "userBounds": [
+            280,
+            541,
+            null,
+            null
+          ],
+          "content": "# Kraken\n\n< opened: 7/1/2021\n< closed:\n\n< N° AA29N84GMDB7AZ7A\n\n< PAYWARD LTD.\n< 6th Floor, One London Wall\n< London, EC2Y 5EB\n< UNITED KINGDOM",
+          "bounds": [
+            280,
+            541,
+            148,
+            146
+          ],
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-TVwMHnWQ",
+          "userBounds": [
+            611,
+            58,
+            null,
+            null
+          ],
+          "content": "# neon\n---\nCH22 0830 7000 4561 8330 2",
+          "bounds": [
+            611,
+            58,
+            152,
+            59
+          ],
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-fdIthru3",
+          "userBounds": [
+            314,
+            345,
+            null,
+            null
+          ],
+          "content": "## Moi\n---\n077 486 72 11\n+41774867211\n06 70381670\n---\n756.3736.1156.75",
+          "bounds": [
+            314,
+            345,
+            130,
+            137
+          ],
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-z7LPW8u3",
+          "userBounds": [
+            1128,
+            349,
+            null,
+            null
+          ],
+          "content": "Boursorama\n---\n+33390419750\n+33146094949",
+          "bounds": [
+            1128,
+            349,
+            139,
+            101
+          ],
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-pvR9x8pn",
+          "userBounds": [
+            753,
+            122,
+            null,
+            null
+          ],
+          "content": "## Anne\n---\n0774837808\n---\n756.7570.5359.89",
+          "bounds": [
+            753,
+            122,
+            131,
+            105
+          ],
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-qsFIJVi8",
+          "userBounds": [
+            1061,
+            206,
+            null,
+            null
+          ],
+          "bounds": [
+            1061,
+            206,
+            129,
+            54
+          ],
+          "content": "# Nexthink\nRH: Audrey Schmied",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-EEBMvzN5",
+          "userBounds": [
+            319,
+            244,
+            null,
+            null
+          ],
+          "bounds": [
+            319,
+            244,
+            121,
+            46
+          ],
+          "content": "BANQUE MIGROS\nEB80644973",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-hWatfRTu",
+          "userBounds": [
+            1469,
+            623,
+            198.1875,
+            null
+          ],
+          "bounds": [
+            1469,
+            623,
+            198,
+            155
+          ],
+          "content": "# Voiture\n---\nMitsubishi Space Star 1.2 1340kg, 52kW\nVIN : MMCXNA03APH007326\nVD-353-985",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-TzB33mAs",
+          "userBounds": [
+            137,
+            367,
+            null,
+            null
+          ],
+          "bounds": [
+            137,
+            367,
+            121,
+            60
+          ],
+          "content": "Secu soc, France\n---\n1 79 02 57 227 068",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-2Fubiv6p",
+          "userBounds": [
+            772,
+            476,
+            105.71875,
+            null
+          ],
+          "bounds": [
+            772,
+            476,
+            106,
+            80
+          ],
+          "content": "## APPART PRILLY\n1772",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-YQijEFdS",
+          "userBounds": [
+            50,
+            102,
+            null,
+            null
+          ],
+          "bounds": [
+            50,
+            102,
+            206,
+            172
+          ],
+          "content": "- IBAN\nCH90 0840 1000 0705 4767 0\n\nQR IBAN\nCH17 3013 2000 0705 4767 0\n\nN° CLEARING\n8401\n\nBIC/SWIFT\nMIGRCHZZXXX",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-garvY2vn",
+          "userBounds": [
+            854,
+            599,
+            null,
+            null
+          ],
+          "bounds": [
+            854,
+            599,
+            96,
+            32
+          ],
+          "content": "[ELECTRICITE](https://www.lausanne.ch/de/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=produits)",
+          "zIndex": 3,
+          "noteStyle": "NOTE",
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-Pr4PZ77t",
+          "userBounds": [
+            508,
+            222,
+            null,
+            null
+          ],
+          "bounds": [
+            508,
+            222,
+            179,
+            220
+          ],
+          "content": "## Credit Suisse\n08 488 808 42\n022 392 49 81\n\nCredit Suisse (Suisse) SA\n\nSCAN 100\nEuropastrasse 29\nCH-8070 Zurich\n\nCase postale 100\nCH-​8070 Zurich\n\nCH51 0483 5167 9372 8000 0",
+          "zIndex": 3,
+          "noteStyle": "NOTE",
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-g6V4ehuR",
+          "userBounds": [
+            371,
+            152,
+            null,
+            null
+          ],
+          "bounds": [
+            371,
+            152,
+            126,
+            60
+          ],
+          "content": "Garanties de Loyers\nSHDK 35\n8070",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-gi5R59yb",
+          "userBounds": [
+            544,
+            479,
+            null,
+            null
+          ],
+          "bounds": [
+            544,
+            479,
+            119,
+            64
+          ],
+          "content": "SANITAS\n48.13000-5",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-mAb3idJv",
+          "userBounds": [
+            913,
+            102,
+            null,
+            null
+          ],
+          "bounds": [
+            913,
+            102,
+            119,
+            64
+          ],
+          "content": "SANITAS\n48.13000-5",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-1G45kMdw",
+          "userBounds": [
+            849,
+            317,
+            null,
+            null
+          ],
+          "bounds": [
+            849,
+            317,
+            197,
+            54
+          ],
+          "content": "# PRESTATION VAUD\ncf. Fichier KeePassXC",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-QitqzTRD",
+          "userBounds": [
+            1059,
+            637,
+            null,
+            null
+          ],
+          "bounds": [
+            1059,
+            637,
+            174,
+            54
+          ],
+          "content": "# Bernard Connect\ncf. Fichier KeePassXC",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-geb7yNXR",
+          "userBounds": [
+            1047,
+            500,
+            140.390625,
+            null
+          ],
+          "bounds": [
+            1047,
+            500,
+            140,
+            74
+          ],
+          "content": "ORDRE PERMANENT NICOD\nService comptabilité \n021 331 17 74",
+          "zIndex": 3,
+          "noteStyle": "NOTE",
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-RcQulwEL",
+          "userBounds": [
+            1342,
+            52,
+            184.21875,
+            64
+          ],
+          "bounds": [
+            1342,
+            52,
+            184,
+            64
+          ],
+          "content": "# IBIS / ACCORD\ncf. Fichier KeePassXC",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-qgRpzRXT",
+          "userBounds": [
+            1421,
+            440,
+            177.390625,
+            160
+          ],
+          "bounds": [
+            1421,
+            440,
+            177,
+            160
+          ],
+          "content": "Léa BENOIT-GUYOD\n# Administration des Français\nCours des Bastions,2 – 1205 Genève\nTél : (+41) (0) 22 319 00 00\nwww.consulfrance-geneve.org",
+          "zIndex": 3,
+          "fontSize": 12,
+          "noteStyle": "RED"
+        },
+        {
+          "id": "NOTE-WtiVPCnm",
+          "userBounds": [
+            1549,
+            140,
+            294,
+            null
+          ],
+          "bounds": [
+            1549,
+            140,
+            294,
+            252
+          ],
+          "content": "dossier n°A-1-NJ8G0RSCB\nVous êtes inscrit(e) jusqu'au 31-08-2026.\nLe NUMéro d'Identification Consulaire (NUMIC) qui vous est attribué est le : 04214701.\n\nVotre relevé intégral d'inscription, votre attestation d'inscription et de résidence et votre carte d'inscription consulaire, sont disponibles dans l'onglet « Mes documents » de votre Espace personnel service-public.fr.",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-WA82Mb6c",
+          "userBounds": [
+            638,
+            673,
+            null,
+            null
+          ],
+          "bounds": [
+            638,
+            673,
+            129,
+            64
+          ],
+          "content": "Consulat\n0225679559",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-bqWWHP6X",
+          "userBounds": [
+            1308,
+            740,
+            127.421875,
+            null
+          ],
+          "bounds": [
+            1308,
+            740,
+            127,
+            72
+          ],
+          "content": "Révision\n20 000 km ou 12 mois",
+          "zIndex": 3,
+          "fontSize": 16
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-PhEUkiG1",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-VFWscDfG",
+              "target": "NOTE-YQijEFdS"
+            },
+            {
+              "id": "END-lVheGcAk",
+              "target": "NOTE-EEBMvzN5"
+            }
+          ]
+        },
+        {
+          "id": "REL-xcSLCePH",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-RxFnAhbH",
+              "target": "NOTE-fdIthru3"
+            },
+            {
+              "id": "END-tdVre2Qh",
+              "target": "NOTE-EEBMvzN5"
+            }
+          ]
+        },
+        {
+          "id": "REL-TzXYjhyC",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-qsZrxiWr",
+              "target": "NOTE-TzB33mAs"
+            },
+            {
+              "id": "END-JojoAWny",
+              "target": "NOTE-fdIthru3"
+            }
+          ]
+        },
+        {
+          "id": "REL-DcV5hI2C",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-yrvHQprX",
+              "target": "NOTE-pvR9x8pn"
+            },
+            {
+              "id": "END-zBUfoGqV",
+              "target": "NOTE-TVwMHnWQ"
+            }
+          ]
+        },
+        {
+          "id": "REL-V5leV3Hh",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-H1TuuYsg",
+              "target": "NOTE-fdIthru3"
+            },
+            {
+              "id": "END-gEjwGPpd",
+              "target": "NOTE-NvdnIfgn"
+            }
+          ]
+        },
+        {
+          "id": "REL-cMWfEjWM",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-1xgsA6Jj",
+              "target": "NOTE-fdIthru3"
+            },
+            {
+              "id": "END-8sZ6fIHW",
+              "target": "NOTE-JjMuFHXU"
+            }
+          ]
+        },
+        {
+          "id": "REL-qQwsKCbt",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-dtZAreFk",
+              "target": "NOTE-fdIthru3"
+            },
+            {
+              "id": "END-p5I7TDxc",
+              "target": "NOTE-fYsN5zYi"
+            }
+          ]
+        },
+        {
+          "id": "REL-lZrx63VH",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-LEj9XGJ5",
+              "target": "NOTE-garvY2vn"
+            },
+            {
+              "id": "END-P3Y4qIPf",
+              "target": "NOTE-2Fubiv6p"
+            }
+          ]
+        },
+        {
+          "id": "REL-vTXCD6Yv",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Xjnht8ww",
+              "target": "NOTE-Pr4PZ77t"
+            },
+            {
+              "id": "END-rQ5Nzhc7",
+              "target": "NOTE-fdIthru3"
+            }
+          ]
+        },
+        {
+          "id": "REL-UrvgLDBj",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-W1FNNRTf",
+              "target": "NOTE-g6V4ehuR"
+            },
+            {
+              "id": "END-NaAFo1xq",
+              "target": "NOTE-Pr4PZ77t"
+            }
+          ]
+        },
+        {
+          "id": "REL-X8kIxlo3",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Ss91z9Am",
+              "target": "NOTE-gi5R59yb"
+            },
+            {
+              "id": "END-ejUTePj9",
+              "target": "NOTE-fdIthru3"
+            }
+          ]
+        },
+        {
+          "id": "REL-Q4oMHFyY",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-J9T1JGMm",
+              "target": "NOTE-mAb3idJv"
+            },
+            {
+              "id": "END-U46had3D",
+              "target": "NOTE-pvR9x8pn"
+            }
+          ]
+        },
+        {
+          "id": "REL-2z1Z4Qg5",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-rJBjY3w1",
+              "target": "NOTE-geb7yNXR"
+            },
+            {
+              "id": "END-qngNes8B",
+              "target": "NOTE-QitqzTRD"
+            }
+          ]
+        },
+        {
+          "id": "REL-otno6f8K",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-odAIcEkZ",
+              "target": "NOTE-bqWWHP6X"
+            },
+            {
+              "id": "END-tIca3qq8",
+              "target": "NOTE-hWatfRTu"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "2a7b74c7-7e6f-4b0e-af92-a11fbe6102fd",
+  "docTypeVersion": 1
+}

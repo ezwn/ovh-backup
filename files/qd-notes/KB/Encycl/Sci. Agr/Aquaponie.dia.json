@@ -1,0 +1,124 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-dnqMqu5Q",
+        "userBounds": [
+          228,
+          188,
+          null,
+          null
+        ],
+        "bounds": [
+          228,
+          188,
+          122,
+          41
+        ],
+        "content": "[POISSONS](https://www.aquaponiefrance.com/fiches-poissons/7-poissons-faciles-a-elever-en-aquaponie.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Dc8h6nfI",
+        "userBounds": [
+          31,
+          252,
+          189.15625,
+          null
+        ],
+        "bounds": [
+          31,
+          252,
+          189,
+          64
+        ],
+        "content": "[CREVETTE EAU DOUCE](https://fr.wikipedia.org/wiki/Macrobrachium_rosenbergii)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-R3fS9b2e",
+        "userBounds": [
+          442,
+          422,
+          null,
+          null
+        ],
+        "bounds": [
+          442,
+          422,
+          144,
+          41
+        ],
+        "content": "[ECOSPHERE](https://www.ecosphere-store.com/un-veritable-ecosysteme-dans-une-sphere-en-verre.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CWIeby1A",
+        "userBounds": [
+          300,
+          94,
+          null,
+          null
+        ],
+        "bounds": [
+          300,
+          94,
+          132,
+          41
+        ],
+        "content": "ECREVISSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6EccdpXi",
+        "userBounds": [
+          135,
+          117,
+          null,
+          null
+        ],
+        "bounds": [
+          135,
+          117,
+          70,
+          41
+        ],
+        "content": "tilapia",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l55VW7u5",
+        "userBounds": [
+          748,
+          223,
+          null,
+          null
+        ],
+        "bounds": [
+          748,
+          223,
+          62,
+          41
+        ],
+        "content": "[LIEN](https://www.aquaponia.com/aquaponie-by-echologia/index.php/aquaponie/aquaponie-c-est-quoi-definition)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-iK3jj7XD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cKVqGIfE",
+            "target": "NOTE-6EccdpXi"
+          },
+          {
+            "id": "END-t76TPy5i",
+            "target": "NOTE-dnqMqu5Q"
+          }
+        ]
+      }
+    ]
+  }
+}

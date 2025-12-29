@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-rizAuCurry",
+  "content": {
+    "index": "riz au curry indien cuisine",
+    "name": "Riz au curry",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Riz au curry\n\n- laver le riz et retiter l'eau\n- laisser macérer dans de l'huile de colza avec du sel et du curry\n- ajouter deux fois le volume de riz en eau\n- cuire au cuiseur",
+        "defaultText": null
+      }
+    ]
+  }
+}

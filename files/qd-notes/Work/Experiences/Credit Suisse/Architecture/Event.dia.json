@@ -1,0 +1,507 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-l5lT5MzC",
+        "userBounds": [
+          825,
+          166,
+          null,
+          null
+        ],
+        "content": "<< model >>\n## Event\n---\n- targetType: string\n- targetId: string\n- snapshotBefore: JSon\n- diff: JSon\n- originId: string",
+        "bounds": [
+          825,
+          166,
+          189,
+          170
+        ],
+        "noteStyle": "UML_CLASS",
+        "fontSize": 16,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-VlXQpwQr",
+        "userBounds": [
+          554,
+          59,
+          null,
+          null
+        ],
+        "content": "<< service >>\n## EventBroadcastService\n---\n+ broadcast(event: Event)",
+        "bounds": [
+          554,
+          59,
+          268,
+          98
+        ],
+        "fontSize": 16,
+        "noteStyle": "UML_CLASS",
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-yJxSNf8D",
+        "userBounds": [
+          988,
+          59,
+          null,
+          null
+        ],
+        "content": "<< interface >>\n## EventListener\n---\nonEvent(event: Event): void",
+        "bounds": [
+          988,
+          59,
+          215,
+          98
+        ],
+        "fontSize": 16,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-lf6lCJLi",
+        "userBounds": [
+          1391,
+          43,
+          null,
+          null
+        ],
+        "content": "<< component >>\n## BusinessLoggerAdapter\n---",
+        "bounds": [
+          1391,
+          43,
+          181,
+          57
+        ],
+        "fontSize": 10,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-kNabUwVr",
+        "userBounds": [
+          527,
+          424,
+          null,
+          null
+        ],
+        "content": "<< component >>\n## DiffUtil\n---\n- createDiff(before: object, after: object): Diff\n- executeDiff(before: object, diff: Diff)",
+        "bounds": [
+          527,
+          424,
+          308,
+          105
+        ],
+        "fontSize": 14,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-dXKi4Vvc",
+        "userBounds": [
+          507,
+          358,
+          354.640625,
+          204
+        ],
+        "content": "lib.diff (backend)",
+        "bounds": [
+          507,
+          358,
+          355,
+          204
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-n5ZK82t3",
+        "userBounds": [
+          509,
+          17,
+          831.5,
+          332
+        ],
+        "content": "lib.events (backend)",
+        "bounds": [
+          509,
+          17,
+          832,
+          332
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-b22R753G",
+        "userBounds": [
+          174,
+          221,
+          null,
+          null
+        ],
+        "content": "<< service >>\n## PersistenceService",
+        "bounds": [
+          174,
+          221,
+          223,
+          62
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-BI5dUyIS",
+        "userBounds": [
+          1391,
+          283,
+          null,
+          null
+        ],
+        "content": "<< component >>\n## LocalHistoryAdapter\n---",
+        "bounds": [
+          1391,
+          283,
+          183,
+          66
+        ],
+        "fontSize": 12,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-cfQSeXa7",
+        "userBounds": [
+          883,
+          359,
+          458.328125,
+          204
+        ],
+        "content": "lib.event.persistence (backend)",
+        "bounds": [
+          883,
+          359,
+          458,
+          204
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-JPUcUVji",
+        "userBounds": [
+          913,
+          481,
+          null,
+          null
+        ],
+        "content": "<< entity >>\n## EventEntity",
+        "bounds": [
+          913,
+          481,
+          110,
+          52
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-FeJgC9hh",
+        "userBounds": [
+          912,
+          410,
+          null,
+          null
+        ],
+        "content": "<< repository >>\n## EventRepository",
+        "bounds": [
+          912,
+          410,
+          151,
+          52
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Y2T3o8yj",
+        "userBounds": [
+          1126,
+          410,
+          null,
+          null
+        ],
+        "content": "<< service >>\n## EventPersistenceService",
+        "bounds": [
+          1126,
+          410,
+          185,
+          45
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-uxhhigEx",
+        "userBounds": [
+          979,
+          616,
+          null,
+          null
+        ],
+        "content": "useDiff(currentVersion, eventId): Diff",
+        "bounds": [
+          979,
+          616,
+          340,
+          41
+        ],
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-aSGifMey",
+        "userBounds": [
+          1032,
+          672,
+          null,
+          null
+        ],
+        "content": "browseDiff(diff, path): Diff",
+        "bounds": [
+          1032,
+          672,
+          243,
+          41
+        ],
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-23uvPm7L",
+        "userBounds": [
+          962,
+          575,
+          379.15625,
+          156
+        ],
+        "content": "lib.diff (frontend)",
+        "bounds": [
+          962,
+          575,
+          379,
+          156
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-a3VB6ZkB",
+        "userBounds": [
+          1072,
+          470,
+          null,
+          null
+        ],
+        "content": "<< controller >>\n## EventPersistenceController\n---\n+ findDiff(currentVersion, eventId): Diff",
+        "bounds": [
+          1072,
+          470,
+          238,
+          80
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-APIs3UdQ",
+        "userBounds": [
+          1029,
+          767,
+          null,
+          null
+        ],
+        "content": "SameHeight",
+        "bounds": [
+          1029,
+          767,
+          128,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-cgdayp1W",
+        "userBounds": [
+          1176,
+          770,
+          null,
+          null
+        ],
+        "content": "Highlighting",
+        "bounds": [
+          1176,
+          770,
+          123,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-8cVo114d",
+        "userBounds": [
+          1416,
+          637,
+          null,
+          null
+        ],
+        "content": "AssessmentForm",
+        "bounds": [
+          1416,
+          637,
+          174,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-VhHiGC97",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-G13TsdqY",
+            "target": "NOTE-lf6lCJLi",
+            "attachPointNumber": 9
+          },
+          {
+            "id": "END-LoEoZmpG",
+            "target": "NOTE-yJxSNf8D",
+            "attachPointNumber": 3,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZctcMxTW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Fs9m39Yr",
+            "target": "NOTE-VlXQpwQr",
+            "attachPointNumber": 3,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-DZNmo87B",
+            "target": "NOTE-yJxSNf8D",
+            "attachPointNumber": 9
+          }
+        ]
+      },
+      {
+        "id": "REL-wjDCWaJA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-D9FxEice",
+            "target": "NOTE-BI5dUyIS",
+            "attachPointNumber": 11
+          },
+          {
+            "id": "END-fJ5xNU89",
+            "target": "NOTE-yJxSNf8D",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-9MepKMH9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-l4m5a1gF",
+            "target": "NOTE-b22R753G",
+            "attachPointNumber": 2
+          },
+          {
+            "id": "END-ZQlxU6YJ",
+            "target": "NOTE-VlXQpwQr",
+            "attachPointNumber": 9
+          }
+        ]
+      },
+      {
+        "id": "REL-Sc6gCsio",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fdZ42AjT",
+            "target": "NOTE-b22R753G",
+            "attachPointNumber": 4
+          },
+          {
+            "id": "END-pkJ2xt1c",
+            "target": "NOTE-kNabUwVr"
+          }
+        ]
+      },
+      {
+        "id": "REL-iqeMY8oE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y6UQ2qKB",
+            "target": "NOTE-BI5dUyIS"
+          },
+          {
+            "id": "END-JhRjgWmr",
+            "target": "NOTE-Y2T3o8yj",
+            "attachPointNumber": 1,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-fpr63cUN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qnDCPv8Q",
+            "target": "NOTE-8cVo114d"
+          },
+          {
+            "id": "END-fgBjJxsx",
+            "target": "NOTE-uxhhigEx"
+          }
+        ]
+      },
+      {
+        "id": "REL-osD9JcII",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WUFyePPG",
+            "target": "NOTE-8cVo114d"
+          },
+          {
+            "id": "END-BHhFvEl2",
+            "target": "NOTE-aSGifMey"
+          }
+        ]
+      },
+      {
+        "id": "REL-JvWNbTD9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gQ9duYiF",
+            "target": "NOTE-8cVo114d"
+          },
+          {
+            "id": "END-6u6zcXeQ",
+            "target": "NOTE-APIs3UdQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-cBGYoCKA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EkzfwDWf",
+            "target": "NOTE-cgdayp1W"
+          },
+          {
+            "id": "END-UeW4ihnC",
+            "target": "NOTE-8cVo114d"
+          }
+        ]
+      }
+    ]
+  }
+}

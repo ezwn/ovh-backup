@@ -1,0 +1,97 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-SIUSzra1",
+        "userBounds": [
+          1440,
+          32,
+          null,
+          null
+        ],
+        "bounds": [
+          1440,
+          32,
+          127,
+          50
+        ],
+        "content": "PORTAL",
+        "zIndex": 3,
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-KAlBIBhg",
+        "userBounds": [
+          7,
+          7,
+          1193.34375,
+          null
+        ],
+        "bounds": [
+          7,
+          7,
+          1193,
+          243
+        ],
+        "content": "if that won't work, I have another call to try out\n```bash\ncurl --request GET \\  --url https://api.eu-west-3.dev.nexthink.cloud/api/v1/arm/echo \\  --header 'Authorization: Bearer eyJraWQiOiJGT3g2Qmlac2dwTEdOS1ZtcDJfaG5ZMGJoMjlhRTFub3lGek85TnM4bXFFIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULk54N1dQREtCRzh1cGtkWG1PSzN6eVZnQk5LOUxCYVdKOUk5VzhYSjExbDQiLCJpc3MiOiJodHRwczovL254LWVuZ2FnZS1kZXYub2t0YS5jb20vb2F1dGgyL2RlZmF1bHQiLCJhdWQiOiJhcGk6Ly90ZW5hbnQvOTMwZTYwZmUtYTRmZi00NzA0LWJiNDMtYTBiNzZmNDI3Yjc2IiwiaWF0IjoxNjc1MjQyNTM4LCJleHAiOjE2NzUyNDM0MzgsImNpZCI6ImVkN2RmMmNlNDNiNjQxMDQ4YmRkOGUyMDUzNzU5Y2FmIiwic2NwIjpbInNlcnZpY2U6aW50ZWdyYXRpb24iXSwic3ViIjoiZWQ3ZGYyY2U0M2I2NDEwNDhiZGQ4ZTIwNTM3NTljYWYiLCJ0ZW5hbnRfdXVpZCI6IjkzMGU2MGZlLWE0ZmYtNDcwNC1iYjQzLWEwYjc2ZjQyN2I3NiJ9.UwLe08qVEc_6wPuzjkD-3CTrJSwUC7Atay9AetI4gB-KCeu4WkZZe4QhE9TWhC4LLrR6v0iiVhU86dlWoQbYyi6ZKsrKm-qDfaGj3RPTBL-3gOJb2Ldz-yNa_vJQsswkBGHz2LxCR4122poyOQ5Uqu1Dh0WjF6LI93kZ6wWoRGaMKMpm0bayqqJLcWwLUrhZ1y6MNvmZSgYOOOv1uS8E3VoWdqj4LgQH0Ydq5hSDXve8BmtWFC9ilrmPRB8oNZTDivduoZ_3jYY1gK_hjN0T9EUpAK0Evr4aLSKiOHy_pLG0X_OzLdpQANxvNowsn1pTLAOwgevlqpe0-fOAa4ifLQ' same thing with Authorization: Bearer eyJraW..., replace with your portal token that you get from browser/insomnia plugin/curl\n```",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-uBs9T42b",
+        "userBounds": [
+          1414,
+          141,
+          null,
+          null
+        ],
+        "bounds": [
+          1414,
+          141,
+          114,
+          41
+        ],
+        "content": "Nxt123456",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GkZaFnj7",
+        "userBounds": [
+          536,
+          284.66666412353516,
+          491,
+          null
+        ],
+        "bounds": [
+          536,
+          284.66666412353516,
+          491,
+          315
+        ],
+        "content": "## Get a token :)\n\nhttps://api.eu-west-3.dev.nexthink.cloud/api/v1/euf/campaign/trigger\n\nl'addresse ou trigger mais cette fois il faut plus de tenant-UUID\n\n```bash\ncurl --request POST \\\n  --url https://api.eu-west-3.dev.nexthink.cloud/api/v1/token \\\n  --header 'Authorization: Basic NzU5ZTk1Zjg1ZjQyNDcyZmJiOTE5OWU0YWY1ZjlmODE6MnZSVWdPd2FveWxOY3NkUHI5NEQ4NmdfOURWTVhVSS10eUUyZFZXWQ==' \\\n  --data '{ \"clientId\":\"759e95f85f42472fbb9199e4af5f9f81\" }'\n```",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-VYe4muDh",
+        "userBounds": [
+          1099,
+          286,
+          null,
+          null
+        ],
+        "bounds": [
+          1099,
+          286,
+          258,
+          260
+        ],
+        "content": "### Get a token\n```sh\ncurl --request POST \\\n  --url https://eng-01-aws.dev.nexthink.cloud/auth/v1 \\\n  --header 'Content-Type: application/x-www-form-urlencoded' \\\n  --data username=nicolas \\\n  --data password=Nxt123456\n```",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

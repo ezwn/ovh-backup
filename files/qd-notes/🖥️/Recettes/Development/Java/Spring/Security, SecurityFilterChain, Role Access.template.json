@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-springSecuritySecurityfilterchainRoleAccess",
+  "content": {
+    "index": "spring security, securityfilterchain, role access",
+    "name": "Spring security, SecurityFilterChain, Role Access",
+    "templates": [
+      {
+        "id": "runtimeCode",
+        "textTemplate": "// seul un client connecté peut visualiser ses données\na.requestMatchers(HttpMethod.GET, \"/customer/viewself\").hasRole(\"CUST\");",
+        "defaultText": null
+      },
+      {
+        "id": "tests",
+        "textTemplate": "    @Test\n    @WithMockUser(username = \"username1\", roles = { \"CUST\" })\n    public void testViewSelf() throws Exception {\n        mockMvc.perform(get(\"/customer/viewself\")).andExpectAll(\n                status().isOk(),\n                content().string(\n                        stringContainsInOrder(\n                                customer.getFirstname(),\n                                customer.getLastname(),\n                                customer.getEmail(),\n                                customer.getTelephone(),\n                                customer.getStreet1(),\n                                customer.getStreet2(),\n                                customer.getCity(),\n                                customer.getCountry()\n                                )));\n    }\n\n\n    @Test\n    @WithAnonymousUser\n    public void testViewSelfError() throws Exception {\n        mockMvc.perform(get(\"/customer/viewself\")).andExpectAll(\n                status().is3xxRedirection(),\n                redirectedUrlPattern(\"**/login\"));\n    }\n\n    @Test\n    @WithMockUser(username = \"username1\", roles = \"EMP\")\n    public void testViewSelfErrorForEmp() throws Exception {\n        mockMvc.perform(get(\"/customer/viewself\")).andExpectAll(\n                status().isForbidden()\n        );\n    }",
+        "defaultText": null
+      }
+    ]
+  }
+}

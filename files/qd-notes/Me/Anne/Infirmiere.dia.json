@@ -1,0 +1,612 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-pIcyiBWV",
+        "userBounds": [
+          813,
+          351,
+          null
+        ],
+        "content": "Infirmière",
+        "bounds": [
+          813,
+          351,
+          168,
+          60
+        ],
+        "fontSize": 36
+      },
+      {
+        "id": "NOTE-DPirwhoo",
+        "userBounds": [
+          826,
+          223,
+          null
+        ],
+        "content": "# CMS\n= à domicile",
+        "bounds": [
+          826,
+          223,
+          72,
+          47
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-ZRwLNDPE",
+        "userBounds": [
+          660,
+          360,
+          null
+        ],
+        "content": "# EMS\n= maison de vieux\n= gériatrie",
+        "bounds": [
+          660,
+          360,
+          99,
+          58
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-PYasukCh",
+        "userBounds": [
+          1067,
+          343,
+          null
+        ],
+        "content": "Hôpital\nClinique",
+        "bounds": [
+          1067,
+          343,
+          90,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-SN4drdCy",
+        "userBounds": [
+          1006,
+          251,
+          null
+        ],
+        "content": "Médecine\n2",
+        "bounds": [
+          1006,
+          251,
+          79,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-g9bGaz1r",
+        "userBounds": [
+          1110,
+          207,
+          null
+        ],
+        "content": "Chirurgie\n3",
+        "bounds": [
+          1110,
+          207,
+          75,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Q6IGI3Tt",
+        "userBounds": [
+          1224,
+          433,
+          null
+        ],
+        "content": "Urgences\n0",
+        "bounds": [
+          1224,
+          433,
+          78,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Yx3k9ju5",
+        "userBounds": [
+          1197,
+          246,
+          null
+        ],
+        "content": "Bloc opératoire\n0",
+        "bounds": [
+          1197,
+          246,
+          112,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Mh386yR5",
+        "userBounds": [
+          1258,
+          306,
+          null
+        ],
+        "content": "Soins intensifs\n1",
+        "bounds": [
+          1258,
+          306,
+          108,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-eZeE2uR2",
+        "userBounds": [
+          1043,
+          452,
+          null
+        ],
+        "content": "Psychiatrie\n0",
+        "bounds": [
+          1043,
+          452,
+          86,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Z1HtAzPe",
+        "userBounds": [
+          804,
+          493,
+          null
+        ],
+        "content": "Maison\nde fous\n0",
+        "bounds": [
+          804,
+          493,
+          77,
+          81
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-RK7KZG6Y",
+        "userBounds": [
+          684,
+          196,
+          null
+        ],
+        "content": "Infirmier\nRéférent\n1",
+        "bounds": [
+          684,
+          196,
+          72,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-mIt9eWWa",
+        "userBounds": [
+          131,
+          146,
+          null
+        ],
+        "content": "Infirmier HES",
+        "bounds": [
+          131,
+          146,
+          137,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-otzdeA9h",
+        "userBounds": [
+          137,
+          316,
+          null
+        ],
+        "content": "ASSC",
+        "bounds": [
+          137,
+          316,
+          72,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-qTKPEX41",
+        "userBounds": [
+          132,
+          221,
+          null,
+          null
+        ],
+        "content": "Infimier ES\nHöheren Fachschule",
+        "bounds": [
+          132,
+          221,
+          203,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-5gUruJko",
+        "userBounds": [
+          133,
+          404,
+          null
+        ],
+        "content": "Aide soignant",
+        "bounds": [
+          133,
+          404,
+          139,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-WVMAfTIJ",
+        "userBounds": [
+          1145,
+          464,
+          null
+        ],
+        "content": "Urologie\n3",
+        "bounds": [
+          1145,
+          464,
+          70,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-n63wcadD",
+        "userBounds": [
+          1256,
+          369,
+          null
+        ],
+        "content": "Cardiologie\n2",
+        "bounds": [
+          1256,
+          369,
+          89,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-6nT1VvND",
+        "userBounds": [
+          1605,
+          71,
+          null
+        ],
+        "content": "# Pooliste\n# Jocker\n= remplacement",
+        "bounds": [
+          1605,
+          71,
+          90,
+          65
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-JyBDMjCa",
+        "userBounds": [
+          132,
+          492,
+          null
+        ],
+        "content": "Aide infirmiere ?",
+        "bounds": [
+          132,
+          492,
+          163,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-xE7soRU5",
+        "userBounds": [
+          791,
+          110,
+          null
+        ],
+        "content": "Infirmier\nDe terrain\n1",
+        "bounds": [
+          791,
+          110,
+          79,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-BXopgEen",
+        "userBounds": [
+          515,
+          349,
+          null
+        ],
+        "content": "Sur place\n2",
+        "bounds": [
+          515,
+          349,
+          77,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-5UuBQYaP",
+        "userBounds": [
+          1436,
+          490,
+          null,
+          null
+        ],
+        "content": "HES canton de Vaux",
+        "bounds": [
+          1436,
+          490,
+          202,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-6lWMmJpf",
+        "userBounds": [
+          1295,
+          622,
+          null,
+          null
+        ],
+        "content": "ASI-VAUD.CH\n0216480350\nL 10 -> 12\nM -> 16",
+        "bounds": [
+          1295,
+          622,
+          145,
+          110
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-M94MGPZX",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "1eC2a9xZ",
+            "target": "NOTE-DPirwhoo"
+          },
+          {
+            "id": "dPgqpE4Q",
+            "target": "NOTE-pIcyiBWV"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-RBk1XeMU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "IueabFAn",
+            "target": "NOTE-ZRwLNDPE"
+          },
+          {
+            "id": "dpoXkLWl",
+            "target": "NOTE-pIcyiBWV"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-s494w4dU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "EkrYBXl6",
+            "target": "NOTE-PYasukCh"
+          },
+          {
+            "id": "gAEXE9tV",
+            "target": "NOTE-pIcyiBWV"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-LtWTQekx",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "r6ZXZDFR",
+            "target": "NOTE-PYasukCh"
+          },
+          {
+            "id": "2kSkjJU3",
+            "target": "NOTE-SN4drdCy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-l1FtiSV7",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "b1uLvLlx",
+            "target": "NOTE-PYasukCh"
+          },
+          {
+            "id": "MB6YDuxh",
+            "target": "NOTE-g9bGaz1r"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-QlIieiUo",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UGBybaLk",
+            "target": "NOTE-Yx3k9ju5"
+          },
+          {
+            "id": "pGX369EQ",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-TvsC2SyP",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "l7N7w9ME",
+            "target": "NOTE-Q6IGI3Tt"
+          },
+          {
+            "id": "tWElMXuL",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-hzMemTlp",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "7zV3UWf7",
+            "target": "NOTE-Mh386yR5"
+          },
+          {
+            "id": "IEaxxaIE",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-hcYWnUlp",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Kphqeksp",
+            "target": "NOTE-eZeE2uR2"
+          },
+          {
+            "id": "iQcx8VoH",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-6S3nmfx7",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "gW3EnfaE",
+            "target": "NOTE-Z1HtAzPe"
+          },
+          {
+            "id": "IdmqGnjc",
+            "target": "NOTE-pIcyiBWV"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-iDraYvXP",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "aJepxmzh",
+            "target": "NOTE-RK7KZG6Y"
+          },
+          {
+            "id": "WwrFi7QI",
+            "target": "NOTE-DPirwhoo"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-fU53Hs5e",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "o4BI3Pms",
+            "target": "NOTE-WVMAfTIJ"
+          },
+          {
+            "id": "DocrN4fL",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-mI49xUes",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "lbr1Nv6n",
+            "target": "NOTE-xE7soRU5"
+          },
+          {
+            "id": "BIiAnFDe",
+            "target": "NOTE-DPirwhoo"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-fkxZuf7z",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YoLZH6VU",
+            "target": "NOTE-BXopgEen"
+          },
+          {
+            "id": "dQmWZETr",
+            "target": "NOTE-ZRwLNDPE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-JDxxsnZT",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dDnwZfMF",
+            "target": "NOTE-n63wcadD"
+          },
+          {
+            "id": "8IET4pjT",
+            "target": "NOTE-PYasukCh"
+          }
+        ]
+      }
+    ]
+  }
+}

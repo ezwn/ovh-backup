@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaAndKafkaStreamsProperties",
+  "content": {
+    "index": "kafka and kafka streams properties",
+    "name": "Kafka and Kafka streams properties",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kafka:\n  bootstrap:\n    servers: \"localhost:9094\"\n  security:\n    protocol: \"PLAINTEXT\"\n    sasl:\n      mechanism: \"PLAIN\"\n  health:\n    streams:\n      enabled: true\n  streams:\n    default:\n      num:\n        stream:\n          threads: 1\n      health:\n        enabled: false\n      key:\n        serde: org.apache.kafka.common.serialization.StringSerde\n      value:\n        deserializer: org.apache.kafka.common.serialization.ByteArrayDeserializer\n      application:\n        id: \"word-count\"\n      processing:\n        guarantee: \"at_least_once\"\n      replication:\n        factor: \"-1\"",
+        "defaultText": null
+      }
+    ]
+  }
+}

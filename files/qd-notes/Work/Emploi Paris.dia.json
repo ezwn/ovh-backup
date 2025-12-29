@@ -1,0 +1,174 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-PYS4vCyo",
+        "userBounds": [
+          306,
+          85.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          306,
+          85.70486068725586,
+          134,
+          41
+        ],
+        "content": "[Ville de Paris](https://travaillerpourparis.offres.paris.fr/search/remove-search_vacancy_published_since-14/en-ligne-depuis-2-semaines)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aiLeCEtq",
+        "userBounds": [
+          306,
+          138.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          306,
+          138.70486068725586,
+          78,
+          41
+        ],
+        "content": "[AP HP](https://recrutement.aphp.fr/jobs?d=23270)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WXdk6Sru",
+        "userBounds": [
+          303,
+          193.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          303,
+          193.70486068725586,
+          70,
+          41
+        ],
+        "content": "[RATP](https://ratp.wd3.myworkdayjobs.com/fr-FR/RATP_Externe?jobFamilyGroup=e89a9bbfa61601f477cc8b5c1301dda8)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-naMI5GYS",
+        "userBounds": [
+          308,
+          248.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          308,
+          248.70486068725586,
+          72,
+          41
+        ],
+        "content": "[SNCF](https://emploi.sncf.com/nos-offres?f%5B193%5D=2428)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rBTlNKGb",
+        "userBounds": [
+          304,
+          301.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          304,
+          301.70486068725586,
+          50,
+          41
+        ],
+        "content": "[IDF](https://www.iledefrance.fr/region-recrute#page-search---1-liste-d-offres)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8Ihkbc2M",
+        "userBounds": [
+          987,
+          120,
+          null,
+          null
+        ],
+        "bounds": [
+          987,
+          120,
+          78,
+          39
+        ],
+        "content": "Seyos?",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-iITXoVHS",
+        "userBounds": [
+          945,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          945,
+          194,
+          36,
+          41
+        ],
+        "content": "IT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4NTwIHsz",
+        "userBounds": [
+          1027,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          1027,
+          222,
+          177,
+          41
+        ],
+        "content": "Transactis France",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-zvNdq1lv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vagrbRxk",
+            "target": "NOTE-iITXoVHS"
+          },
+          {
+            "id": "END-NJttpuja",
+            "target": "NOTE-8Ihkbc2M"
+          }
+        ]
+      },
+      {
+        "id": "REL-LRpicXha",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oAqvQBpg",
+            "target": "NOTE-4NTwIHsz"
+          },
+          {
+            "id": "END-mk1i4psY",
+            "target": "NOTE-iITXoVHS"
+          }
+        ]
+      }
+    ]
+  }
+}

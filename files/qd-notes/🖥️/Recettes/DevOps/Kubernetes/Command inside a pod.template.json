@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlExec",
+  "content": {
+    "index": "kubectl kubernate execute inside pod\n\nOld:\nkubectl exec ${podName} -n${kubeNamespace} -it ${command}",
+    "name": "Kubectl, command inside a pod",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl exec ${podName} -n${kubeNamespace:KubeNamespace} -it -- ${command}",
+        "defaultText": null
+      }
+    ]
+  }
+}

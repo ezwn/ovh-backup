@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-lxyFKFob",
+        "userBounds": [
+          522,
+          292,
+          null,
+          null
+        ],
+        "content": "!!! sealed\nclass & interfaces",
+        "bounds": [
+          522,
+          292,
+          175,
+          69
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

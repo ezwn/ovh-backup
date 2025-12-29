@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonSolveNestedReferenceIssue",
+  "content": {
+    "index": "jackson,  solve nested reference issue",
+    "name": "Jackson,  solve nested reference issue",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "class Personne {\n   private String nom;\n   @JsonManagedReference\n   private Maison maison;\n}\n\nclass Maison {\n   private String adresse;\n   @JsonBackReference\n   private Personne personne;\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

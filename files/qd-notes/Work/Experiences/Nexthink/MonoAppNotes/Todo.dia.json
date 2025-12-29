@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-CSBXBTUI",
+        "userBounds": [
+          380,
+          175.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          380,
+          175.1436424255371,
+          142,
+          41
+        ],
+        "content": "Repair docker",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ji1tlcc8",
+        "userBounds": [
+          587,
+          288.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          587,
+          288.1436424255371,
+          154,
+          41
+        ],
+        "content": "UBIKEY on VM",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-L4zDs9jz",
+        "userBounds": [
+          451,
+          413.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          451,
+          413.1436424255371,
+          129,
+          41
+        ],
+        "content": "Train to grpc",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

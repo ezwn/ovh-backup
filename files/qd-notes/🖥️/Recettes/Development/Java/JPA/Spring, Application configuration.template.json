@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaSpringApplicationConfiguraion",
+  "content": {
+    "index": "jpa, spring, application configuraion",
+    "name": "Jpa, Spring, Application configuration",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "spring.jpa.show-sql=true\nspring.jpa.hibernate.ddl-auto=update\nspring.jpa.properties.hibernate.dialect=org.hibernate.dialect.H2Dialect\nspring.jpa.open-in-view=false",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rveQclgf",
+        "userBounds": [
+          179,
+          418,
+          null,
+          null
+        ],
+        "bounds": [
+          179,
+          418,
+          144,
+          64
+        ],
+        "content": "NQL WIDGET\n7 400 ms x 10",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VoRvtRKu",
+        "userBounds": [
+          159,
+          36,
+          null,
+          null
+        ],
+        "bounds": [
+          159,
+          36,
+          195,
+          64
+        ],
+        "content": "NON-NQL WIDGET\n1 560 ms",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qSmtJCay",
+        "userBounds": [
+          611,
+          43,
+          null,
+          null
+        ],
+        "bounds": [
+          611,
+          43,
+          203,
+          41
+        ],
+        "content": "GRAPHQL SERVER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-b7E5a1gc",
+        "userBounds": [
+          440,
+          50,
+          null,
+          null
+        ],
+        "bounds": [
+          440,
+          50,
+          119,
+          29
+        ],
+        "content": "FetchCampaignDetails",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-p9CsSmrD",
+        "userBounds": [
+          477,
+          383,
+          null,
+          null
+        ],
+        "bounds": [
+          477,
+          383,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BoUiatss",
+        "userBounds": [
+          482,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          482,
+          199,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RmNikKKG",
+        "userBounds": [
+          480,
+          320,
+          null,
+          null
+        ],
+        "bounds": [
+          480,
+          320,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6L66xmmD",
+        "userBounds": [
+          480,
+          264,
+          null,
+          null
+        ],
+        "bounds": [
+          480,
+          264,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iFADNWr7",
+        "userBounds": [
+          480,
+          443,
+          null,
+          null
+        ],
+        "bounds": [
+          480,
+          443,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-a3Y1wEix",
+        "userBounds": [
+          478,
+          496,
+          null,
+          null
+        ],
+        "bounds": [
+          478,
+          496,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Esfdq76A",
+        "userBounds": [
+          477,
+          549,
+          null,
+          null
+        ],
+        "bounds": [
+          477,
+          549,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-g99fDqRN",
+        "userBounds": [
+          480,
+          609,
+          null,
+          null
+        ],
+        "bounds": [
+          480,
+          609,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IgPI2YDu",
+        "userBounds": [
+          482,
+          667,
+          null,
+          null
+        ],
+        "bounds": [
+          482,
+          667,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Fu8eBigA",
+        "userBounds": [
+          480,
+          735,
+          null,
+          null
+        ],
+        "bounds": [
+          480,
+          735,
+          134,
+          41
+        ],
+        "content": "dash/graphql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m8WGVntH",
+        "userBounds": [
+          1134,
+          36,
+          null,
+          null
+        ],
+        "bounds": [
+          1134,
+          36,
+          148,
+          64
+        ],
+        "content": "CLICKHOUSE\n1 480 ms",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Wf6diWXf",
+        "userBounds": [
+          1103,
+          335,
+          216.03125,
+          270
+        ],
+        "bounds": [
+          1103,
+          335,
+          216,
+          270
+        ],
+        "content": "CLICKHOUSE",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-bqSEx1TS",
+        "userBounds": [
+          871,
+          466,
+          null,
+          null
+        ],
+        "bounds": [
+          871,
+          466,
+          90,
+          50
+        ],
+        "content": "NQL > SQL\n43 ms x 10",
+        "zIndex": 9,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-5SFArBHu",
+        "userBounds": [
+          807,
+          334,
+          223.390625,
+          260
+        ],
+        "bounds": [
+          807,
+          334,
+          223,
+          260
+        ],
+        "content": "nql-query-service",
+        "zIndex": 1,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-rrDI1tfa",
+        "userBounds": [
+          1158,
+          392,
+          null,
+          null
+        ],
+        "bounds": [
+          1158,
+          392,
+          100,
+          50
+        ],
+        "content": "QUERY\n1119 ms x 10",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-1m8ti5Zs",
+        "userBounds": [
+          826,
+          390,
+          182.46875,
+          170
+        ],
+        "bounds": [
+          826,
+          390,
+          182,
+          170
+        ],
+        "content": "EXECUTE\n1310 x 10",
+        "zIndex": 2
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Uw5Kq1je",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MpwuP9BD",
+            "target": "NOTE-qSmtJCay"
+          },
+          {
+            "id": "END-sBNQEwPq",
+            "target": "NOTE-VoRvtRKu"
+          }
+        ]
+      },
+      {
+        "id": "REL-hfr1QSnC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-swBGmluK",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-KXspyucL",
+            "target": "NOTE-BoUiatss"
+          }
+        ]
+      },
+      {
+        "id": "REL-j7LC5DAq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4nsTqdKE",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-L27Bgu8z",
+            "target": "NOTE-6L66xmmD"
+          }
+        ]
+      },
+      {
+        "id": "REL-kUAfTMLG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xfiNxGW7",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-2lvZIhZp",
+            "target": "NOTE-RmNikKKG"
+          }
+        ]
+      },
+      {
+        "id": "REL-KYmuvelC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YQWEd6pz",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-9V8DpVsu",
+            "target": "NOTE-p9CsSmrD"
+          }
+        ]
+      },
+      {
+        "id": "REL-9cDFszQL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tUiLqsdu",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-2t9G5Kca",
+            "target": "NOTE-iFADNWr7"
+          }
+        ]
+      },
+      {
+        "id": "REL-Atj4a5Gy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nGMhtb1n",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-JHpnmnST",
+            "target": "NOTE-a3Y1wEix"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qjk2qfF7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KgnAA48M",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-6sCm3rv9",
+            "target": "NOTE-Esfdq76A"
+          }
+        ]
+      },
+      {
+        "id": "REL-IMfof7PN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-44ljwbJH",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-9UlT5GbS",
+            "target": "NOTE-g99fDqRN"
+          }
+        ]
+      },
+      {
+        "id": "REL-ScdJChEa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mNSUn6A2",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-Uxt8S8CB",
+            "target": "NOTE-IgPI2YDu"
+          }
+        ]
+      },
+      {
+        "id": "REL-CCAVBVDb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-h9bHH2II",
+            "target": "NOTE-rveQclgf"
+          },
+          {
+            "id": "END-EBydEs4P",
+            "target": "NOTE-Fu8eBigA"
+          }
+        ]
+      },
+      {
+        "id": "REL-gfyqm3Ch",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZMNeiWtN",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-2gVgm7Uz",
+            "target": "NOTE-BoUiatss"
+          }
+        ]
+      },
+      {
+        "id": "REL-TxyJrTXs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DkyGwMIo",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-f6IU5yCu",
+            "target": "NOTE-6L66xmmD"
+          }
+        ]
+      },
+      {
+        "id": "REL-ALAXiQkq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cUzsIMXe",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-gWDxcvV5",
+            "target": "NOTE-RmNikKKG"
+          }
+        ]
+      },
+      {
+        "id": "REL-GbSGJ67g",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-G5BNQruD",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-Ugu72QgD",
+            "target": "NOTE-p9CsSmrD"
+          }
+        ]
+      },
+      {
+        "id": "REL-rgw5JBUA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7MTqE47C",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-TUTBvzfQ",
+            "target": "NOTE-iFADNWr7"
+          }
+        ]
+      },
+      {
+        "id": "REL-RlNM2FlQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mMEtzk2r",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-v6UYdLWb",
+            "target": "NOTE-a3Y1wEix"
+          }
+        ]
+      },
+      {
+        "id": "REL-kBhQdCtX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NBIoaTUp",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-HgxXrtbb",
+            "target": "NOTE-Esfdq76A"
+          }
+        ]
+      },
+      {
+        "id": "REL-hMfW12KH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4zTXB4VE",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-7szh9jDd",
+            "target": "NOTE-IgPI2YDu"
+          }
+        ]
+      },
+      {
+        "id": "REL-ydnpHIIY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ygfmAS2h",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-vfl5JhSw",
+            "target": "NOTE-Fu8eBigA"
+          }
+        ]
+      },
+      {
+        "id": "REL-Gp2yeMYi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KRzFnTB4",
+            "target": "NOTE-5SFArBHu"
+          },
+          {
+            "id": "END-Ens2i89u",
+            "target": "NOTE-g99fDqRN"
+          }
+        ]
+      },
+      {
+        "id": "REL-vG87mPSy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AJfWzfID",
+            "target": "NOTE-m8WGVntH"
+          },
+          {
+            "id": "END-bSxzjMVP",
+            "target": "NOTE-qSmtJCay"
+          }
+        ]
+      }
+    ]
+  }
+}

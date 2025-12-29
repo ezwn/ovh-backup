@@ -1,0 +1,126 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5xHftvWy",
+        "userBounds": [
+          10,
+          4,
+          null,
+          null
+        ],
+        "bounds": [
+          10,
+          4,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-116)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aSD7I7hU",
+        "userBounds": [
+          77,
+          6,
+          null,
+          null
+        ],
+        "bounds": [
+          77,
+          6,
+          247,
+          41
+        ],
+        "content": "[TOP BANNER EXAMPLE](https://global-05-qa.dev.nexthink.cloud/diagnostic/issue/device-reliable-1)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-I7ewGGbX",
+        "userBounds": [
+          336,
+          12,
+          null,
+          null
+        ],
+        "bounds": [
+          336,
+          12,
+          223,
+          41
+        ],
+        "content": "[EXEMPLE CAMPAIGN](http://localhost:3001/engage/c20a96ba-0299-4617-bb1f-85e189152a0d)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-D5Ku4EFM",
+        "userBounds": [
+          574,
+          13,
+          null,
+          null
+        ],
+        "bounds": [
+          574,
+          13,
+          199,
+          41
+        ],
+        "content": "[WITH RESPONSES](http://localhost:3001/engage/f0f6d233-7dbf-4598-974d-b8d69109a4c0)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-acpFFp4E",
+        "userBounds": [
+          592,
+          253,
+          null,
+          null
+        ],
+        "bounds": [
+          592,
+          253,
+          81,
+          41
+        ],
+        "content": "[FIGMA](https://www.figma.com/file/igIWTnl1p02AYL8sLwkvFM/%F0%9F%9A%80-Engage---Exploration?type=design&node-id=1627-26264&mode=design&t=5cJNbmE1mTcfMvDa-0)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6H1XEzpq",
+        "userBounds": [
+          901,
+          207,
+          null,
+          null
+        ],
+        "bounds": [
+          901,
+          207,
+          143,
+          41
+        ],
+        "content": "[DEX Example](https://ci-manual.dev.nexthink.cloud/digital-experience/overview)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1jafhBF5",
+        "userBounds": [
+          792,
+          124,
+          null,
+          null
+        ],
+        "bounds": [
+          792,
+          124,
+          102,
+          41
+        ],
+        "content": "[JENKINS](https://jenkins-euf-master.intra.nexthink.com/job/euf-dashboards-github/view/change-requests/job/PR-530/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

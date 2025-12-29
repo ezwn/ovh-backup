@@ -1,0 +1,126 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-R9ubfYaW",
+        "userBounds": [
+          510,
+          159,
+          null,
+          null
+        ],
+        "bounds": [
+          510,
+          159,
+          238,
+          41
+        ],
+        "content": "[ACT IMPLEMENTATION](https://bitbucket.intra.nexthink.com/projects/ACT/repos/remote-action-manager/browse/src/main/java/com/nexthink/remoteaction/manager/service/BuiltInContentService.java#128)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hYDrhhzc",
+        "userBounds": [
+          455,
+          263,
+          null,
+          null
+        ],
+        "bounds": [
+          455,
+          263,
+          241,
+          41
+        ],
+        "content": "[How to serve REST API?](https://jira.nexthink.com:1443/browse/MPL-5502)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-QcDi2nU2",
+        "userBounds": [
+          523,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          523,
+          387,
+          233,
+          41
+        ],
+        "content": "[CONTENT ADMIN DOC](https://confluence.intra.nexthink.com/display/CAD/Nexthink+library+-+create+a+copy)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GeMUKWC3",
+        "userBounds": [
+          888,
+          299,
+          null,
+          null
+        ],
+        "bounds": [
+          888,
+          299,
+          245,
+          41
+        ],
+        "content": "[DOWNLOAD EDNPOINT](https://bitbucket.intra.nexthink.com/projects/CA/repos/content-admin-api/browse/src/main/java/com/nexthink/cadm/api/controller/v1/BuiltinContentController.java#68)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eq9BLPlX",
+        "userBounds": [
+          904,
+          498,
+          null,
+          null
+        ],
+        "bounds": [
+          904,
+          498,
+          184,
+          41
+        ],
+        "content": "[LOCAL TEST URL](http://localhost:3001/euf/campaigns/library/copy?libraryUUID=tttt2cce-8e53-4533-bcee-e8dda14fbf08)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rrzkKG4e",
+        "userBounds": [
+          1155,
+          143,
+          null,
+          null
+        ],
+        "bounds": [
+          1155,
+          143,
+          392,
+          41
+        ],
+        "content": "opop3a6f-e4c9-4a73-aa52-36ea24cbc3eb",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8g8GPSoQ",
+        "userBounds": [
+          1327,
+          330,
+          null,
+          null
+        ],
+        "bounds": [
+          1327,
+          330,
+          392,
+          64
+        ],
+        "content": "ALREADY EXISTS\nopop3a6f-e4c9-4a73-aa52-36ea24cbc3eb",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,59 @@
+Matrices et systèmes linéaires:
+    - Matrices:
+        - Matrice carrée : nCols = nRows
+        - Matrice identité : diagonale \ 1
+        - Déterminant: valeur scalaire donne info sur propriétés matrice. Ex det null + mat carrée => inversible.
+        - Ordre ou taille
+        - Matrice nulle et non-nulle
+        - Inversibilité
+        - Dépendances linéaires dans une matrice
+        - Rang: [00:05:45]
+            - nombre de lignes ou colonnes linéairement indépendantes [00:07:30]
+            - dépendance linéaires : une ligne peut être déduite des autres (multiplication, addition, ...) [00:07:30]
+            - dépendance linéaires : comment les détecter dans une matrice [00:07:30]
+            - taille de la plus grande matrice carrée inversible qu'on peut extraire
+        - Mutliplication matricielle
+            - quand est-elle possible : colonne à gauche = lignes à droite
+            - comment la faire
+    - Systèmes d'équations linéaires:
+        - Définitions [00:00:30]
+        - Système incompatible : pas de solution
+        - Forme matricielle d'un système d'équation linéaire
+    - Existance et unicité des solutions:
+        - Nombre de solutions, 3 cas : inexistante, unique, infinité [00:03:00]
+        - Critères de détermination du nombre de solutions (théorème de Rouché-Fontené) [00:14:00]
+          - Solution(s) <=> rang(A) = rang(A|B)
+            - Unique solution <= rang(A) = rang(A|B) ET rang(A) = n (nombre d'inconnues)
+            - Infinité solutions <= rang(A) = rang(A|B) ET rang(A) < n (nombre d'inconnues)
+          - Exemple [00:17:24]
+    - Résolution de systèmes linéaires (méthode d'élimination de Gauss-Jordan) [00:20:10]:
+        - matrice échelonnée réduite [00:22:00]
+          - échelonnée : nbr de zéro prefix augmente strictement à chq ligne jusqu'à éventuellement uniquement zéros
+          - pivot : premier chiffre non nul
+          - réduite : pivots vallent 1 et même col = 0 [00:23:50]
+        - algorithme de Gauss-Jordan: [00:25:20]
+            - description: échange, multiplication, ajout mult autre ligne [00:25:20]
+            - pseudocode  [00:27:20]
+            - exemple d'application [00:31:20]
+        - Gauss-Jordan pour résoudre un système linéaire
+        - Solution(s) du système à partir de la matrice étdendue échelonnée-réduite [00:45:00]:
+            - pas de solution <=> dernier pivot dans dernière colonne
+            - une seule solution <=> dernier pivot pas dans dernière colonne ET autant de pivots que d'inconnues
+            - infinité de solutions <=> dernier pivot pas dans dernière colonne ET moins de pivots que d'inconnues
+        - Exemple à une solution [00:46:50]
+          - Application de l'algo de Gauss-Jordan
+          - Conclusion [00:55:13]
+        - Exemple infinité de solutions [00:56:28]
+          - Décrire l'ensemble des solutions
+    - Autres utilisations de Gauss-Jordan [01:03:00]:
+        - Calcul de rang : = nombre de pivots
+        - Inversion de matrice
+          - Inversibilité : carré:
+            - inversible <=> tt lignes (ou clonone) indépendantes
+            - inversible <=> échelonné réduite = identité [01:06:00]
+            - inversible <=> déterminant non nul [01:06:00]
+            - inversible <=> il ex. B | A*B = I
+          - Calcul de la matrice inverse [01:11:06]
+            - mat augmentée (A|In) >> Gauss-Jordan >> si on obtient In à gauche, on a l'inverse
+        - Calcul du déterminant [01:12:00]
+          - (-1)^p * prod(A(k, j)), A(k, j) = coeff max de ligne, p = nombre permut.

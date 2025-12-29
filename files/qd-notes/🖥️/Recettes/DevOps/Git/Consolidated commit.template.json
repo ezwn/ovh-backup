@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gitConsolidatedCommit",
+  "content": {
+    "index": "git, consolidated commit",
+    "name": "Git, consolidated commit",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "commit_count=$(git rev-list --count HEAD)\ngit reset --soft HEAD~$(($commit_count - 1))\ngit commit --amend -m \"Consolidated commit\"",
+        "defaultText": null
+      }
+    ]
+  }
+}

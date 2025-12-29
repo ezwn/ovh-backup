@@ -1,0 +1,103 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-GVxLjCep",
+        "userBounds": [
+          322,
+          240,
+          null,
+          null
+        ],
+        "content": "Bailly Alice",
+        "bounds": [
+          322,
+          240,
+          114,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-zyUBXZfQ",
+        "userBounds": [
+          443,
+          168,
+          null,
+          null
+        ],
+        "content": "Franz Marc",
+        "bounds": [
+          443,
+          168,
+          119,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-HtHG7yZB",
+        "userBounds": [
+          1042,
+          192,
+          null,
+          null
+        ],
+        "content": "Pissarro, Camille",
+        "bounds": [
+          1042,
+          192,
+          169,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-hYH5bY6T",
+        "userBounds": [
+          1079,
+          314,
+          null,
+          null
+        ],
+        "content": "Renoir Pierre Auguste",
+        "bounds": [
+          1079,
+          314,
+          214,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-qzX9EKb5",
+        "userBounds": [
+          1003,
+          423,
+          null,
+          null
+        ],
+        "content": "Manet Edouard",
+        "bounds": [
+          1003,
+          423,
+          155,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-KvtLBeCA",
+        "userBounds": [
+          969,
+          565,
+          null,
+          null
+        ],
+        "content": "Monet Claude",
+        "bounds": [
+          969,
+          565,
+          143,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

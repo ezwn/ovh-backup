@@ -1,0 +1,285 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-iZN1avPg",
+        "userBounds": [
+          304,
+          322,
+          null,
+          null
+        ],
+        "bounds": [
+          304,
+          322,
+          201,
+          41
+        ],
+        "content": "[JwtValidationService](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-trigger-api/browse/src/main/java/com/nexthink/euf/triggerapi/rest/JwtValidationService.java#40)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6Np1EvMt",
+        "userBounds": [
+          433,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          433,
+          222,
+          138,
+          41
+        ],
+        "content": "[PolicyService](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-trigger-api/browse/src/main/java/com/nexthink/euf/triggerapi/domain/entities/PolicyServiceResponse.java#16)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ekkn4lyY",
+        "userBounds": [
+          590,
+          321,
+          null,
+          null
+        ],
+        "bounds": [
+          590,
+          321,
+          160,
+          41
+        ],
+        "content": "[PORT TOK VAL](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-campaign-manager/browse/src/main/java/com/nexthink/euf/common/security/PortalTokenValidatorServiceEngage.java)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bHqi8elX",
+        "userBounds": [
+          897,
+          189,
+          null,
+          null
+        ],
+        "bounds": [
+          897,
+          189,
+          46,
+          41
+        ],
+        "content": "[PR](https://github.com/nexthink/access-rights-management.policy-service/pull/75)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qpQsURgG",
+        "userBounds": [
+          1129,
+          182,
+          null,
+          null
+        ],
+        "bounds": [
+          1129,
+          182,
+          138,
+          41
+        ],
+        "content": "[USAGE DOC](https://confluence.intra.nexthink.com/display/automation/Policy+Service+%7C+How+to+use)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-R4UVSnTI",
+        "userBounds": [
+          986,
+          164,
+          null,
+          null
+        ],
+        "bounds": [
+          986,
+          164,
+          102,
+          41
+        ],
+        "content": "[JENKINS](https://jenkins-neb-master.intra.nexthink.com/blue/organizations/jenkins/policy-service/detail/chore_add_euf_campaign_manager/2/pipeline)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sBobCWvw",
+        "userBounds": [
+          974,
+          265,
+          null,
+          null
+        ],
+        "bounds": [
+          974,
+          265,
+          137,
+          41
+        ],
+        "content": "POLICY SRV",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CF5NTncZ",
+        "userBounds": [
+          877,
+          90,
+          null,
+          null
+        ],
+        "bounds": [
+          877,
+          90,
+          120,
+          41
+        ],
+        "content": "[PR Hyphen](https://jenkins-neb-master.intra.nexthink.com/blue/organizations/jenkins/policy-service/detail/chore-add-euf-campaign-manager/1/pipeline/152)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-j2YTGCjB",
+        "userBounds": [
+          1080,
+          454,
+          null,
+          null
+        ],
+        "bounds": [
+          1080,
+          454,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5609)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GclUwc57",
+        "userBounds": [
+          737,
+          518,
+          null,
+          null
+        ],
+        "bounds": [
+          737,
+          518,
+          102,
+          41
+        ],
+        "content": "[BRANCH](https://github.com/nexthink/engage.euf-campaign-manager/tree/fix_MPL-5609_secure_endpoints_2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-se8sXnCf",
+        "userBounds": [
+          604,
+          123,
+          null,
+          null
+        ],
+        "bounds": [
+          604,
+          123,
+          134,
+          41
+        ],
+        "content": "[COMMiT CM](https://github.com/nexthink/engage.euf-campaign-manager/commit/365b4eecb83579cf15b731a58371920446e211f1#diff-2dd0611e2cac7c7201d75767586bf87f41af39dc005f8fdce467c257bd16fe7e)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-huifENbc",
+        "userBounds": [
+          1375,
+          315,
+          null,
+          null
+        ],
+        "bounds": [
+          1375,
+          315,
+          225,
+          41
+        ],
+        "content": "euf-campaign-manager",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-25YaYmEq",
+        "userBounds": [
+          172,
+          535,
+          null,
+          null
+        ],
+        "bounds": [
+          172,
+          535,
+          299,
+          136
+        ],
+        "content": "SETTINGS\n\nHost: http://policy-service:80\nPath: /api/v1/claims\nSource: euf-campaign-manager",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-6WDIPhlh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gkdueftJ",
+            "target": "NOTE-sBobCWvw"
+          },
+          {
+            "id": "END-f6Te95ii",
+            "target": "NOTE-bHqi8elX"
+          }
+        ]
+      },
+      {
+        "id": "REL-H3g8cwac",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pVRf5XnB",
+            "target": "NOTE-sBobCWvw"
+          },
+          {
+            "id": "END-KNMVfifn",
+            "target": "NOTE-R4UVSnTI"
+          }
+        ]
+      },
+      {
+        "id": "REL-ninriVNL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TEPWtfRa",
+            "target": "NOTE-sBobCWvw"
+          },
+          {
+            "id": "END-I1BeFE8D",
+            "target": "NOTE-qpQsURgG"
+          }
+        ]
+      },
+      {
+        "id": "REL-w6yjfchh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uDZK8k6r",
+            "target": "NOTE-CF5NTncZ"
+          },
+          {
+            "id": "END-cD9oonh7",
+            "target": "NOTE-R4UVSnTI"
+          }
+        ]
+      }
+    ]
+  }
+}

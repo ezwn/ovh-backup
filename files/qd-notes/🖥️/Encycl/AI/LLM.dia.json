@@ -1,0 +1,191 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2K4nxYjI",
+        "userBounds": [
+          434,
+          340,
+          null,
+          null
+        ],
+        "bounds": [
+          434,
+          340,
+          81,
+          41
+        ],
+        "content": "[LLaMA](https://arxiv.org/abs/2302.13971)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nSGJ4eur",
+        "userBounds": [
+          683,
+          248,
+          null,
+          null
+        ],
+        "bounds": [
+          683,
+          248,
+          147,
+          41
+        ],
+        "content": "Chinchilla-70B",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nNG7U2Ey",
+        "userBounds": [
+          522,
+          258,
+          null,
+          null
+        ],
+        "bounds": [
+          522,
+          258,
+          124,
+          41
+        ],
+        "content": "PaLM-540B",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hovz1fKc",
+        "userBounds": [
+          258,
+          343,
+          null,
+          null
+        ],
+        "bounds": [
+          258,
+          343,
+          94,
+          41
+        ],
+        "content": "[GITHUB](https://github.com/facebookresearch/llama)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MA5uaUmJ",
+        "userBounds": [
+          443,
+          436,
+          null,
+          null
+        ],
+        "bounds": [
+          443,
+          436,
+          128,
+          41
+        ],
+        "content": "[LLaMA.CPP](https://github.com/ggerganov/llama.cpp/tree/0e018fe008eacebdbcfa2d61b6c988c245c961cd)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zj2Pmj78",
+        "userBounds": [
+          733,
+          480,
+          null,
+          null
+        ],
+        "bounds": [
+          733,
+          480,
+          92,
+          41
+        ],
+        "content": "[GPT4All](https://github.com/nomic-ai/gpt4all)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-361BiWSb",
+        "userBounds": [
+          1160,
+          376,
+          null,
+          null
+        ],
+        "bounds": [
+          1160,
+          376,
+          150,
+          41
+        ],
+        "content": "FreedomGTP?",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-1hC9HUjX",
+        "userBounds": [
+          1174,
+          243,
+          null,
+          null
+        ],
+        "bounds": [
+          1174,
+          243,
+          158,
+          41
+        ],
+        "content": "[LLM (wikipedia)](https://en.wikipedia.org/wiki/Large_language_model)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GyrbL3Jy",
+        "userBounds": [
+          263,
+          484,
+          140.375,
+          null
+        ],
+        "bounds": [
+          263,
+          484,
+          140,
+          76
+        ],
+        "content": "# GGML\nC tensor library for machine learning",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-KYQ2Sd3G",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vRrpw2xn",
+            "target": "NOTE-hovz1fKc"
+          },
+          {
+            "id": "END-hPtv8ZcV",
+            "target": "NOTE-2K4nxYjI"
+          }
+        ]
+      },
+      {
+        "id": "REL-KaviCrF1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5258IIga",
+            "target": "NOTE-GyrbL3Jy"
+          },
+          {
+            "id": "END-u8C1ZFDV",
+            "target": "NOTE-MA5uaUmJ"
+          }
+        ]
+      }
+    ]
+  }
+}

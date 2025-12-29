@@ -1,0 +1,92 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ndmaStoD",
+        "userBounds": [
+          648,
+          273,
+          113.421875,
+          null
+        ],
+        "bounds": [
+          648,
+          273,
+          113,
+          64
+        ],
+        "content": "Climate Change",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZwNJfir1",
+        "userBounds": [
+          671,
+          446,
+          225.734375,
+          null
+        ],
+        "bounds": [
+          671,
+          446,
+          226,
+          64
+        ],
+        "content": "Biodiversity Loss and Ecosystem Collapse",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tHIY6n2F",
+        "userBounds": [
+          925,
+          204,
+          null,
+          null
+        ],
+        "bounds": [
+          925,
+          204,
+          117,
+          41
+        ],
+        "content": "Pandemics",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-v1h2t3RT",
+        "userBounds": [
+          1073,
+          362,
+          143.65625,
+          null
+        ],
+        "bounds": [
+          1073,
+          362,
+          144,
+          64
+        ],
+        "content": "Antibiotic Resistance",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pzAiEu4i",
+        "userBounds": [
+          532,
+          325,
+          null,
+          null
+        ],
+        "bounds": [
+          532,
+          325,
+          60,
+          41
+        ],
+        "content": "[CAN](https://climatenetwork.org/overview/governance/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

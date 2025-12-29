@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-adbDevicesL",
+  "content": {
+    "index": "detect adb devices android studio",
+    "name": "Detect adb devices",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "sudo /home/nicolas/Android/Sdk/platform-tools/adb devices -l",
+        "defaultText": null
+      }
+    ]
+  }
+}

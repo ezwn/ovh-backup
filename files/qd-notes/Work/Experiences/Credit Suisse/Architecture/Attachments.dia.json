@@ -1,0 +1,133 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-m9jLM4Lv",
+        "userBounds": [
+          428,
+          217,
+          null,
+          null
+        ],
+        "content": "# Attachment\n---\nLinks a document to\nan entity",
+        "bounds": [
+          428,
+          217,
+          143,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-f8NWhHYY",
+        "userBounds": [
+          693,
+          209,
+          159.375,
+          null
+        ],
+        "content": "# Document\n---\nStored in a document management system, like DMMS",
+        "bounds": [
+          693,
+          209,
+          159,
+          108
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-KNuUMd1a",
+        "userBounds": [
+          957,
+          144,
+          153.046875,
+          null
+        ],
+        "content": "# File\n---\nPhysical  object containing the raw data",
+        "bounds": [
+          957,
+          144,
+          153,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-lJQzBoxH",
+        "userBounds": [
+          968,
+          313,
+          null,
+          null
+        ],
+        "content": "# Metadata\n---",
+        "bounds": [
+          968,
+          313,
+          101,
+          54
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-HLaCuAfo",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Yh5S1N8W",
+            "target": "NOTE-m9jLM4Lv",
+            "attachPointNumber": 3,
+            "textOver": {
+              "content": "1"
+            }
+          },
+          {
+            "id": "n2NiGYGr",
+            "target": "NOTE-f8NWhHYY",
+            "attachPointNumber": 9,
+            "textOver": {
+              "content": "0..1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "RELATION-aN7R8afx",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2wUrlliD",
+            "target": "NOTE-f8NWhHYY",
+            "attachPointNumber": 2
+          },
+          {
+            "id": "Bi38jP6y",
+            "target": "NOTE-KNuUMd1a",
+            "attachPointNumber": 8
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Xbmkesy7",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ynhX6CL3",
+            "target": "NOTE-f8NWhHYY",
+            "attachPointNumber": 4
+          },
+          {
+            "id": "xuMsFpn2",
+            "target": "NOTE-lJQzBoxH",
+            "attachPointNumber": 10
+          }
+        ]
+      }
+    ]
+  }
+}

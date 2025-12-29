@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-4STgLioG",
+        "userBounds": [
+          357,
+          149,
+          null,
+          null
+        ],
+        "bounds": [
+          357,
+          149,
+          129,
+          41
+        ],
+        "content": "[FRONTEND](https://github.com/nexthink/digital-experience.dex-ui-v3/tree/c3fe094ab95c2c77999753b7b4b46633bd4ab3f7)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

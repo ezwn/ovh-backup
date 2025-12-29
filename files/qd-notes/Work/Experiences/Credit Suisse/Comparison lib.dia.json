@@ -1,0 +1,333 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-tK4YE6H5",
+        "userBounds": [
+          838,
+          330,
+          null
+        ],
+        "content": "# VersionBrowser  (Web)\n---\nEnables to select / compare versions",
+        "bounds": [
+          838,
+          330,
+          256,
+          76
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-JywQksUM",
+        "userBounds": [
+          1102,
+          755,
+          290.5
+        ],
+        "content": "# SameHeight (Web)\n---\nMake it easy to align react components horizontally",
+        "bounds": [
+          1102,
+          755,
+          291,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-4AUG7QCk",
+        "userBounds": [
+          807,
+          605,
+          null
+        ],
+        "content": "# VersionDiffHighlighting (Web)\n---\nAdds difference highlighting given a \"diff\".",
+        "bounds": [
+          807,
+          605,
+          335,
+          76
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-NU6KId6K",
+        "userBounds": [
+          849,
+          762,
+          null
+        ],
+        "content": "# Highlighted (Web)\n---\nAdds highlighting above anything",
+        "bounds": [
+          849,
+          762,
+          224,
+          76
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-8NELHUnM",
+        "userBounds": [
+          522,
+          608,
+          null
+        ],
+        "content": "# DiffBrowser (Web)\n---\nEnables to browse diff tree easily.",
+        "bounds": [
+          522,
+          608,
+          226,
+          76
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-WRpCqPwU",
+        "userBounds": [
+          521,
+          4,
+          269.578125
+        ],
+        "content": "# DataEvent (Api)\n---\nStandard way to handle data changes (Business Audit Tail, persistence, ...)",
+        "bounds": [
+          521,
+          4,
+          270,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-FU4ibUMA",
+        "userBounds": [
+          1122,
+          4,
+          274.375
+        ],
+        "content": "# Diff (Api)\n---\nComputes the difference between two java objects.",
+        "bounds": [
+          1122,
+          4,
+          274,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-4xaPfoxI",
+        "userBounds": [
+          826,
+          3,
+          271.140625
+        ],
+        "content": "# Snapshot system (Api)\n---\nHistorize data models and keep them comparable.",
+        "bounds": [
+          826,
+          3,
+          271,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-bYQNycGm",
+        "userBounds": [
+          523,
+          152,
+          877.703125
+        ],
+        "content": "# Services\nGeneric + adaptation to concreate cases",
+        "bounds": [
+          523,
+          152,
+          878,
+          78
+        ]
+      },
+      {
+        "id": "NOTE-V1Uh5egA",
+        "userBounds": [
+          523,
+          233,
+          876.71875
+        ],
+        "content": "# Controllers",
+        "bounds": [
+          523,
+          233,
+          877,
+          55
+        ]
+      },
+      {
+        "id": "NOTE-cP9BCv1Z",
+        "userBounds": [
+          523,
+          452,
+          875.328125
+        ],
+        "content": "# UI Components\n(common react components implementing forms or views)",
+        "bounds": [
+          523,
+          452,
+          875,
+          78
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-BMAEASbk",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2EkePyDe",
+            "target": "NOTE-tK4YE6H5"
+          },
+          {
+            "id": "CCFFKo8g",
+            "target": "NOTE-V1Uh5egA"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-5aaX4ukC",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dyiAcmWp",
+            "target": "NOTE-tK4YE6H5"
+          },
+          {
+            "id": "MXtRPFiI",
+            "target": "NOTE-cP9BCv1Z",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-lBmDmICY",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "jMUEUJEF",
+            "target": "NOTE-bYQNycGm"
+          },
+          {
+            "id": "4CJ1j4xW",
+            "target": "NOTE-WRpCqPwU",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-ofg6Ym5E",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Sh1j5Px1",
+            "target": "NOTE-bYQNycGm"
+          },
+          {
+            "id": "ZVBX1yWz",
+            "target": "NOTE-4xaPfoxI",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BctCuooQ",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "gBRiHUUS",
+            "target": "NOTE-bYQNycGm"
+          },
+          {
+            "id": "1a2iHBJH",
+            "target": "NOTE-FU4ibUMA",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-sy7ozdWn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "x8XLLNkt",
+            "target": "NOTE-cP9BCv1Z"
+          },
+          {
+            "id": "ZKiZx4v7",
+            "target": "NOTE-8NELHUnM",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Tn5Quu1h",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "hcqi8exy",
+            "target": "NOTE-cP9BCv1Z"
+          },
+          {
+            "id": "LurfbwMS",
+            "target": "NOTE-4AUG7QCk",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-FswCpmtV",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "EQ5MBNhh",
+            "target": "NOTE-cP9BCv1Z",
+            "attachPointNumber": 5
+          },
+          {
+            "id": "X13beNBD",
+            "target": "NOTE-JywQksUM",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-5mp9ZjKq",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "JVWRTyA7",
+            "target": "NOTE-4AUG7QCk"
+          },
+          {
+            "id": "ioSmSB9Z",
+            "target": "NOTE-NU6KId6K",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

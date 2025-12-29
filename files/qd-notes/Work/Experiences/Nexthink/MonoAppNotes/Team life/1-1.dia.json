@@ -1,0 +1,219 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Rj3Jm7GR",
+        "userBounds": [
+          340,
+          202,
+          null,
+          null
+        ],
+        "bounds": [
+          340,
+          202,
+          125,
+          41
+        ],
+        "content": "Architecture",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yyJFNtID",
+        "userBounds": [
+          301,
+          291,
+          null,
+          null
+        ],
+        "bounds": [
+          301,
+          291,
+          81,
+          41
+        ],
+        "content": "Tooling",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KHgPZcho",
+        "userBounds": [
+          283,
+          382,
+          null,
+          null
+        ],
+        "bounds": [
+          283,
+          382,
+          122,
+          54
+        ],
+        "content": "PRODUCT\nKNOWLEDGE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-5HF4qZTg",
+        "userBounds": [
+          349,
+          476,
+          null,
+          null
+        ],
+        "bounds": [
+          349,
+          476,
+          114,
+          60
+        ],
+        "content": "PRODUCT\nSTRATEGY",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-VMUcB2Po",
+        "userBounds": [
+          755,
+          102,
+          null,
+          null
+        ],
+        "bounds": [
+          755,
+          102,
+          134,
+          41
+        ],
+        "content": "[CONF PAGE](https://confluence.intra.nexthink.com/display/~dkajita/1-1+Nicolas)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VgKTIyVT",
+        "userBounds": [
+          461,
+          342,
+          168.390625,
+          null
+        ],
+        "bounds": [
+          461,
+          342,
+          168,
+          64
+        ],
+        "content": "[COMPETENCY MATRIX](https://nexthink-my.sharepoint.com/:x:/p/vlad_lapadatescu/EeXJrxUW9i9BhulcvRf-_UUB5ipt6P3QidX5GhXBD4cT5g?e=3eF4TS&isSPOFile=1&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTYxMzAuMjAzOTQiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=816C1D82-40F3-4372-A47D-8274FFA57470&wdLOR=c3FA39B96-D332-4046-8C41-3312D34A6C2B)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZuqBGtMY",
+        "userBounds": [
+          1137,
+          248,
+          null,
+          null
+        ],
+        "bounds": [
+          1137,
+          248,
+          139,
+          41
+        ],
+        "content": "FEEDBACKS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qHgZrwCR",
+        "userBounds": [
+          1134,
+          169,
+          null,
+          null
+        ],
+        "bounds": [
+          1134,
+          169,
+          217,
+          41
+        ],
+        "content": "TRAINING PROBLEM",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1AwAp8C9",
+        "userBounds": [
+          1135,
+          337,
+          null,
+          null
+        ],
+        "bounds": [
+          1135,
+          337,
+          136,
+          41
+        ],
+        "content": "QUESTIONS",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-eV8bpjQd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bmDDop5d",
+            "target": "NOTE-VgKTIyVT"
+          },
+          {
+            "id": "END-yjeUX63D",
+            "target": "NOTE-Rj3Jm7GR"
+          }
+        ]
+      },
+      {
+        "id": "REL-JmtJEIHh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fu1mSG56",
+            "target": "NOTE-VgKTIyVT"
+          },
+          {
+            "id": "END-MGAJ5PDz",
+            "target": "NOTE-yyJFNtID"
+          }
+        ]
+      },
+      {
+        "id": "REL-pcxARFHx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QFhAvWbh",
+            "target": "NOTE-VgKTIyVT"
+          },
+          {
+            "id": "END-X1VnX54u",
+            "target": "NOTE-KHgPZcho"
+          }
+        ]
+      },
+      {
+        "id": "REL-5zGfckAp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-R8VfhuSl",
+            "target": "NOTE-VgKTIyVT"
+          },
+          {
+            "id": "END-rRFXUT7s",
+            "target": "NOTE-5HF4qZTg"
+          }
+        ]
+      }
+    ]
+  }
+}

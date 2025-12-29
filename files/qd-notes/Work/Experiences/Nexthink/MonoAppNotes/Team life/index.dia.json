@@ -1,0 +1,160 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-IiQxXuEV",
+        "userBounds": [
+          53,
+          171,
+          null,
+          null
+        ],
+        "bounds": [
+          53,
+          171,
+          224,
+          41
+        ],
+        "content": "[CAPACITY PLANNING](https://nexthink.sharepoint.com/:x:/s/Maple/EaS0TZFm8uJArms5I5i2InoBLPjKr6-9jtPm9lQqXmjOUg?e=M2fPyR&isSPOFile=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMzA3MDMwNzM0NiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WRbvx4y5",
+        "userBounds": [
+          497,
+          206,
+          null,
+          null
+        ],
+        "bounds": [
+          497,
+          206,
+          96,
+          41
+        ],
+        "content": "TERRY?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fwbSjyEz",
+        "userBounds": [
+          332,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          332,
+          329,
+          159,
+          89
+        ],
+        "content": "SOME USERS\nDO REJECTED\nQUERIES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-C6zg4Hxz",
+        "userBounds": [
+          107,
+          455,
+          null,
+          null
+        ],
+        "bounds": [
+          107,
+          455,
+          114,
+          41
+        ],
+        "content": "[MR TRAIN](https://confluence.intra.nexthink.com/display/RM/Scheduled+CFB+and+MR+trains)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-T9QmeyIz",
+        "userBounds": [
+          137,
+          544,
+          null,
+          null
+        ],
+        "bounds": [
+          137,
+          544,
+          127,
+          41
+        ],
+        "content": "[MGT HOME](https://confluence.intra.nexthink.com/display/RM/Release+Management+Home)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kWDnDgiK",
+        "userBounds": [
+          295,
+          625,
+          null,
+          null
+        ],
+        "bounds": [
+          295,
+          625,
+          152,
+          41
+        ],
+        "content": "[DEMO TURNS](https://confluence.intra.nexthink.com/display/ENGAGE/Sprint+Reviews+Schedule)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PzCFthog",
+        "userBounds": [
+          755,
+          380,
+          null,
+          null
+        ],
+        "bounds": [
+          755,
+          380,
+          113,
+          41
+        ],
+        "content": "[ABSENCE](https://nexthink.ilucca.net/timmi-absences#/planning)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cZAkpE2Z",
+        "userBounds": [
+          1275,
+          284,
+          null,
+          null
+        ],
+        "bounds": [
+          1275,
+          284,
+          75,
+          41
+        ],
+        "content": "TODO",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZuvGkDSm",
+        "userBounds": [
+          776,
+          141,
+          null,
+          null
+        ],
+        "bounds": [
+          776,
+          141,
+          123,
+          41
+        ],
+        "content": "[RELEASES](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=RM&title=Scheduled+CFB+and+MR+trains)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

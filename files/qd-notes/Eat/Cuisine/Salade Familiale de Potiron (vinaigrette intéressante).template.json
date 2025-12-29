@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-saladeFamilialeDePotiron",
+  "content": {
+    "index": "salade familiale potiron cuisine chinois chine chinoise",
+    "name": "Salade Familiale de Potiron (vinaigrette intéressante)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Salade Familiale de Potiron\n\n**Préparation :** 10 minutes  \n**Cuisson :** 1 minute  \n\n### Ingrédients :\n- 400 g de potiron  \n- 1 c. à s. de poivron vert coupé en petits cubes  \n- 1 c. à s. de poivron rouge coupé en petits cubes  \n- 1 c. à s. de ciboulette finement ciselée  \n- 1 c. à s. d’huile de sésame  \n- 1 c. à c. de sucre en poudre  \n- 1 c. à s. de vinaigre blanc  \n- 1 c. à s. de sauce Arôme Maggi®  \n- 2 c. à c. de sel  \n\n### Instructions :\n1. **Préparer le potiron :**  \n   - Épluchez le potiron et coupez-le en lamelles de 5 cm de longueur et 5 mm d’épaisseur.  \n2. **Blanchir le potiron :**  \n   - Faites blanchir le potiron pendant 1 minute dans une casserole d’eau bouillante légèrement salée.  \n   - Plongez le potiron dans de l’eau froide. Égouttez et réservez dans un saladier.  \n3. **Ajouter les ingrédients :**  \n   - Ajoutez les poivrons, la ciboulette et l’huile de sésame dans le saladier. Mélangez.  \n4. **Préparer la sauce :**  \n   - Réunissez le sucre, le vinaigre, la sauce Arôme Maggi® et le sel dans un petit bol.  \n   - Versez cette préparation sur le potiron. Mélangez et servez.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

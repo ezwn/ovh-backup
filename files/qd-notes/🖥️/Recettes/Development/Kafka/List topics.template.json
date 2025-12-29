@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaListTopics",
+  "content": {
+    "index": "kafka, list topics",
+    "name": "Kafka, list topics",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kafka-topics.sh --bootstrap-server localhost:9092 --list",
+        "defaultText": null
+      }
+    ]
+  }
+}

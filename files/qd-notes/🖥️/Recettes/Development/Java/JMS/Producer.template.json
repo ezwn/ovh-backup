@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jmsProducer",
+  "content": {
+    "index": "jms producer",
+    "name": "JMS Producer",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "import javax.jms.*;\nimport javax.naming.InitialContext;\n\npublic class JMSProducer {\n    public static void main(String[] args) {\n        Connection connection = null;\n        try {\n            InitialContext ctx = new InitialContext();\n\n            ConnectionFactory factory = (ConnectionFactory) ctx.lookup(\"jms/ConnectionFactory\");\n            Destination destination = (Destination) ctx.lookup(\"jms/Queue\");\n// Topic topic = (Topic) ctx.lookup(\"jms/Topic\");\n\n            connection = factory.createConnection();\n\n            Session session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);\n\n            MessageProducer producer = session.createProducer(destination);\n\n            TextMessage message = session.createTextMessage(\"Hello JMS!\");\n            producer.send(message);\n\n            System.out.println(\"Message envoyé : \" + message.getText());\n\n            producer.close();\n            session.close();\n        } catch (Exception e) {\n            e.printStackTrace();\n        } finally {\n            if (connection != null) {\n                try {\n                    connection.close();\n                } catch (JMSException e) {\n                    e.printStackTrace();\n                }\n            }\n        }\n    }\n}\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-F7p2sLtU",
+        "userBounds": [
+          500,
+          305,
+          null,
+          null
+        ],
+        "bounds": [
+          500,
+          305,
+          151,
+          52
+        ],
+        "content": "BESOINS",
+        "zIndex": 3,
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-ZtwRHken",
+        "userBounds": [
+          392,
+          172,
+          null,
+          null
+        ],
+        "bounds": [
+          392,
+          172,
+          118,
+          64
+        ],
+        "content": "SYNCHRO\nPC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Qq4FLNZw",
+        "userBounds": [
+          268,
+          302,
+          null,
+          null
+        ],
+        "bounds": [
+          268,
+          302,
+          125,
+          64
+        ],
+        "content": "ACCESS\nDIAGRAMS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-moIHVJLj",
+        "userBounds": [
+          291,
+          452,
+          214.0625,
+          null
+        ],
+        "bounds": [
+          291,
+          452,
+          214,
+          64
+        ],
+        "content": "MESURE / PLANIF ACTIVITÉS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PonPkD2f",
+        "userBounds": [
+          185,
+          70,
+          null,
+          null
+        ],
+        "bounds": [
+          185,
+          70,
+          142,
+          64
+        ],
+        "content": "DRIVESYNC\n(AUTOSYNC)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2TQX1d8L",
+        "userBounds": [
+          1109,
+          310,
+          null,
+          null
+        ],
+        "bounds": [
+          1109,
+          310,
+          170,
+          86
+        ],
+        "content": "CRITERES\nACHAT",
+        "zIndex": 3,
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-dSSPARvH",
+        "userBounds": [
+          1246,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          1246,
+          156,
+          105,
+          64
+        ],
+        "content": "FACILITÉ\nSAISIE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-XcCRB6y2",
+        "userBounds": [
+          1390,
+          218,
+          null,
+          null
+        ],
+        "bounds": [
+          1390,
+          218,
+          195,
+          87
+        ],
+        "content": "EQUILIBRE TAILLE\nPORTABILITÉ\nVISIBILITÉ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fEMPpxdk",
+        "userBounds": [
+          1406,
+          378,
+          null,
+          null
+        ],
+        "bounds": [
+          1406,
+          378,
+          160,
+          41
+        ],
+        "content": "RÉPARABILITÉ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-R2LrSgfl",
+        "userBounds": [
+          1388,
+          514,
+          null,
+          null
+        ],
+        "bounds": [
+          1388,
+          514,
+          60,
+          41
+        ],
+        "content": "GPS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wTDBHoSK",
+        "userBounds": [
+          1174,
+          469,
+          null,
+          null
+        ],
+        "bounds": [
+          1174,
+          469,
+          110,
+          41
+        ],
+        "content": "FIABILITÉ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cUGLgKbD",
+        "userBounds": [
+          1226,
+          579,
+          null,
+          null
+        ],
+        "bounds": [
+          1226,
+          579,
+          140,
+          41
+        ],
+        "content": "BLUETOOTH",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-tA7naVIX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YqinRcgF",
+            "target": "NOTE-ZtwRHken"
+          },
+          {
+            "id": "END-UM1UR1vZ",
+            "target": "NOTE-F7p2sLtU"
+          }
+        ]
+      },
+      {
+        "id": "REL-3bCuV6zR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ysdrKBQF",
+            "target": "NOTE-PonPkD2f"
+          },
+          {
+            "id": "END-smgG7hJz",
+            "target": "NOTE-ZtwRHken"
+          }
+        ]
+      },
+      {
+        "id": "REL-m1kTqayr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8oSfoTDV",
+            "target": "NOTE-2TQX1d8L"
+          },
+          {
+            "id": "END-GJpXAmV5",
+            "target": "NOTE-fEMPpxdk"
+          }
+        ]
+      },
+      {
+        "id": "REL-5MXgjetX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-eVPcB4PZ",
+            "target": "NOTE-2TQX1d8L"
+          },
+          {
+            "id": "END-LPrnMZBG",
+            "target": "NOTE-XcCRB6y2"
+          }
+        ]
+      },
+      {
+        "id": "REL-NJILSzRU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yZPYzIrq",
+            "target": "NOTE-2TQX1d8L"
+          },
+          {
+            "id": "END-XQLG3bSf",
+            "target": "NOTE-dSSPARvH"
+          }
+        ]
+      },
+      {
+        "id": "REL-cVjpPFXm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SLjUD8CC",
+            "target": "NOTE-wTDBHoSK"
+          },
+          {
+            "id": "END-DXPEaHDb",
+            "target": "NOTE-cUGLgKbD"
+          }
+        ]
+      },
+      {
+        "id": "REL-9TiBl3R3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lGFzAmnQ",
+            "target": "NOTE-wTDBHoSK"
+          },
+          {
+            "id": "END-xXnkgHZi",
+            "target": "NOTE-R2LrSgfl"
+          }
+        ]
+      },
+      {
+        "id": "REL-4buaE1Zg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-51SNu4nA",
+            "target": "NOTE-wTDBHoSK"
+          },
+          {
+            "id": "END-QRBNtdAX",
+            "target": "NOTE-2TQX1d8L"
+          }
+        ]
+      }
+    ]
+  }
+}

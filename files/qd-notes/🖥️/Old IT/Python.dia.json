@@ -1,0 +1,211 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-s3bBk2yg",
+        "userBounds": [
+          634,
+          367,
+          176.328125,
+          null
+        ],
+        "bounds": [
+          634,
+          367,
+          176,
+          64
+        ],
+        "content": "[PYTHON PACKAGING](https://www.youtube.com/watch?v=v6tALyc4C10)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PIH7y49k",
+        "userBounds": [
+          448,
+          498,
+          null,
+          null
+        ],
+        "bounds": [
+          448,
+          498,
+          230,
+          41
+        ],
+        "content": "python -m pip install -e .",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-p31x8aPH",
+        "userBounds": [
+          534,
+          209,
+          null,
+          null
+        ],
+        "bounds": [
+          534,
+          209,
+          203,
+          41
+        ],
+        "content": "python -m venv venv",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6ywEoCu5",
+        "userBounds": [
+          855,
+          251,
+          null,
+          null
+        ],
+        "bounds": [
+          855,
+          251,
+          233,
+          41
+        ],
+        "content": "source venv/bin/activate",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NcEbfRYP",
+        "userBounds": [
+          904,
+          102,
+          null,
+          null
+        ],
+        "bounds": [
+          904,
+          102,
+          109,
+          41
+        ],
+        "content": "deactivate",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-y2FqRUsq",
+        "userBounds": [
+          811,
+          525,
+          null,
+          null
+        ],
+        "bounds": [
+          811,
+          525,
+          332,
+          41
+        ],
+        "content": "python3 -m pip install --upgrade pip",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Aw1cKQ2Q",
+        "userBounds": [
+          848,
+          672,
+          null,
+          null
+        ],
+        "bounds": [
+          848,
+          672,
+          276,
+          41
+        ],
+        "content": "python3 -m pip install . --user",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-HPm5Ht4B",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-s6WDhImt",
+            "target": "NOTE-PIH7y49k"
+          },
+          {
+            "id": "END-rFqcX2Sv",
+            "target": "NOTE-s3bBk2yg"
+          }
+        ]
+      },
+      {
+        "id": "REL-nivjFbZM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ykxIU9t7",
+            "target": "NOTE-s3bBk2yg"
+          },
+          {
+            "id": "END-CYtGKhDX",
+            "target": "NOTE-6ywEoCu5"
+          }
+        ]
+      },
+      {
+        "id": "REL-LLfRL5FE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DPLhkqYs",
+            "target": "NOTE-s3bBk2yg"
+          },
+          {
+            "id": "END-PTQnGhfK",
+            "target": "NOTE-p31x8aPH"
+          }
+        ]
+      },
+      {
+        "id": "REL-6VUqHy37",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J1pwS1D9",
+            "target": "NOTE-NcEbfRYP"
+          },
+          {
+            "id": "END-3S2EafUw",
+            "target": "NOTE-6ywEoCu5"
+          }
+        ]
+      },
+      {
+        "id": "REL-aSpD3SUm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VXy2R3qd",
+            "target": "NOTE-y2FqRUsq"
+          },
+          {
+            "id": "END-AWRiRA4o",
+            "target": "NOTE-s3bBk2yg"
+          }
+        ]
+      },
+      {
+        "id": "REL-1j7NzzhU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fbyYV5TC",
+            "target": "NOTE-Aw1cKQ2Q"
+          },
+          {
+            "id": "END-i9bL2o53",
+            "target": "NOTE-y2FqRUsq"
+          }
+        ]
+      }
+    ]
+  }
+}

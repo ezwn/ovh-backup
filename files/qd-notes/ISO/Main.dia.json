@@ -1,0 +1,103 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-FIPVdfN4",
+          "userBounds": [
+            117,
+            86,
+            null,
+            null
+          ],
+          "bounds": [
+            117,
+            86,
+            122,
+            102
+          ],
+          "content": "Matin :\nDépart: 6h57\nISO: 8h30\n(11h42)",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-S2Y4wlG7",
+          "userBounds": [
+            316,
+            44,
+            255.140625,
+            null
+          ],
+          "bounds": [
+            316,
+            44,
+            255,
+            39
+          ],
+          "content": "Soir : viser 17h30 (14h18)",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-cMz4H6vi",
+          "userBounds": [
+            405,
+            117,
+            null,
+            null
+          ],
+          "bounds": [
+            405,
+            117,
+            117,
+            39
+          ],
+          "content": "[ISO courses](https://www.youtube.com/watch?v=3HJhgYOPfQw&list=PLzWy9mJIOjaSFidT3wxZLhZC7-hXZQVY4)",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-y5ifUbpZ",
+          "userBounds": [
+            64,
+            314,
+            null,
+            null
+          ],
+          "bounds": [
+            64,
+            314,
+            319,
+            39
+          ],
+          "content": "Chem. de Blandonnet 8, 1214 Vernier",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-dihKIBna",
+          "userBounds": [
+            341,
+            189,
+            null,
+            null
+          ],
+          "bounds": [
+            341,
+            189,
+            70,
+            41
+          ],
+          "content": "[Notes](http://localhost:50303/notes/hk1zxybn4awuecyzcyme7i)",
+          "zIndex": 3,
+          "fontSize": 20
+        }
+      ],
+      "relations": []
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "0add1c3a-9586-4e3b-8391-a12c3ef679e7",
+  "docTypeVersion": 1
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-listFilesContainingString",
+  "content": {
+    "index": "list files containing string grep search",
+    "name": "List files containing string",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "grep -r${showMatches} \"${string}\" ${path}${include}",
+        "defaultText": null
+      },
+      {
+        "id": "showMatches",
+        "textTemplate": "n",
+        "defaultText": "l"
+      },
+      {
+        "id": "include",
+        "textTemplate": " --include=\"*.java\"",
+        "defaultText": ""
+      }
+    ]
+  }
+}

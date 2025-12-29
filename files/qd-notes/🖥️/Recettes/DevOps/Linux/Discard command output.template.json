@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-linuxDiscardCommandOutput",
+  "content": {
+    "index": "linux discard command output",
+    "name": "Linux discard command output",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "```shell\n${command} 2> /dev/null\n```",
+        "defaultText": null
+      }
+    ]
+  }
+}

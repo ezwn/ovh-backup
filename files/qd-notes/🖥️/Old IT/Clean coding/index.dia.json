@@ -1,0 +1,458 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-DEkH4lmn",
+        "userBounds": [
+          827,
+          486,
+          null
+        ],
+        "content": "Clean\nCoding",
+        "fontSize": 54,
+        "bounds": [
+          827,
+          486,
+          189,
+          142
+        ]
+      },
+      {
+        "id": "NOTE-7sdeS2BE",
+        "userBounds": [
+          426,
+          452,
+          null
+        ],
+        "content": "Separate\nLevels of\nGenericity",
+        "bounds": [
+          426,
+          452,
+          108,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-KVM8doVy",
+        "userBounds": [
+          630,
+          432,
+          null
+        ],
+        "content": "2.\nGenericity\nlevels",
+        "bounds": [
+          630,
+          432,
+          135,
+          111
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-U2N2ghxK",
+        "userBounds": [
+          635,
+          688,
+          null
+        ],
+        "content": "1. Naming",
+        "bounds": [
+          635,
+          688,
+          148,
+          52
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-vwDej8tK",
+        "userBounds": [
+          847,
+          334,
+          null
+        ],
+        "content": "3. Business\nfeatures",
+        "bounds": [
+          847,
+          334,
+          142,
+          74
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-EnSZsd6l",
+        "userBounds": [
+          273,
+          520,
+          null
+        ],
+        "content": "1. Global\n= library",
+        "bounds": [
+          273,
+          520,
+          102,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-bTByW2Yf",
+        "userBounds": [
+          123,
+          412,
+          null
+        ],
+        "content": "2. Project\n= shared\ncomponents",
+        "bounds": [
+          123,
+          412,
+          132,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-2Af48JaY",
+        "userBounds": [
+          266,
+          357,
+          null
+        ],
+        "content": "3. (Business)\nfeatures",
+        "bounds": [
+          266,
+          357,
+          121,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-UsSNLPP1",
+        "userBounds": [
+          486,
+          271,
+          null
+        ],
+        "content": "Forbidden\ndependencies",
+        "bounds": [
+          486,
+          271,
+          143,
+          64
+        ],
+        "fontSize": 20
+      },
+      {
+        "id": "NOTE-ix81a2ng",
+        "userBounds": [
+          346,
+          191,
+          null
+        ],
+        "content": "From generic\nto specific",
+        "bounds": [
+          346,
+          191,
+          100,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-R7aNUUag",
+        "userBounds": [
+          976,
+          177,
+          null
+        ],
+        "content": "Isolation",
+        "bounds": [
+          976,
+          177,
+          78,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-PsiekazM",
+        "userBounds": [
+          383,
+          120,
+          null
+        ],
+        "content": "Cyclic\ndependencies",
+        "bounds": [
+          383,
+          120,
+          118,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-cboFv683",
+        "userBounds": [
+          741,
+          184,
+          null
+        ],
+        "content": "Keep related\nthings together",
+        "bounds": [
+          741,
+          184,
+          124,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-dT9aANEX",
+        "userBounds": [
+          1110,
+          501,
+          null
+        ],
+        "content": "4. New code\norganisation",
+        "bounds": [
+          1110,
+          501,
+          176,
+          74
+        ],
+        "fontSize": 24
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-abwAdCLQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "y8YbiDC9",
+            "target": "NOTE-U2N2ghxK"
+          },
+          {
+            "id": "n4jDn8oK",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-DBgS2Iyn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "JYs4F3xb",
+            "target": "NOTE-7sdeS2BE"
+          },
+          {
+            "id": "2FtiepUE",
+            "target": "NOTE-KVM8doVy"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-z25vKeHk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dqI32wAs",
+            "target": "NOTE-EnSZsd6l"
+          },
+          {
+            "id": "bqLrcFF8",
+            "target": "NOTE-7sdeS2BE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-cah65Cdx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "NoKgGgJd",
+            "target": "NOTE-bTByW2Yf"
+          },
+          {
+            "id": "eFZlkKPE",
+            "target": "NOTE-7sdeS2BE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-cTD9B8HD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "vL9esnIJ",
+            "target": "NOTE-2Af48JaY"
+          },
+          {
+            "id": "Wvh5nPEj",
+            "target": "NOTE-7sdeS2BE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-zEUUIrjE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "V5dB1enr",
+            "target": "NOTE-ix81a2ng"
+          },
+          {
+            "id": "AcSKmAWB",
+            "target": "NOTE-UsSNLPP1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-StnTmt59",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "6w65ehK1",
+            "target": "NOTE-PsiekazM"
+          },
+          {
+            "id": "kWDk1uPc",
+            "target": "NOTE-UsSNLPP1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-hBqqpgq8",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-4SXEbvgg",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-omwVKzT8",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-SavLJzbx",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-wasjZeG3",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-LRkkSyfF",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-q4gmLTth",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "RELATION-CQUdhC7W",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "IseE91NA",
+            "target": "NOTE-dT9aANEX"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-6z2AEPQF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ZmGhP1Xb",
+            "target": "NOTE-vwDej8tK"
+          },
+          {
+            "id": "wgpMH4Ja",
+            "target": "NOTE-R7aNUUag"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-H2SQinkL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "qcJ2XPWx",
+            "target": "NOTE-KVM8doVy"
+          },
+          {
+            "id": "QAWdfGEw",
+            "target": "NOTE-UsSNLPP1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-PDHYLKxa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "nxPiXhhX",
+            "target": "NOTE-cboFv683"
+          },
+          {
+            "id": "sCE7UDfr",
+            "target": "NOTE-vwDej8tK"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-JbkPXE3k",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "r2tS9x6a",
+            "target": "NOTE-KVM8doVy"
+          },
+          {
+            "id": "5SiWdJ8Z",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-MqiB35Z5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "AICRvh6j",
+            "target": "NOTE-vwDej8tK"
+          },
+          {
+            "id": "KTeGmx6i",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-EnTrfnFf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "F6nGDbwG",
+            "target": "NOTE-dT9aANEX"
+          },
+          {
+            "id": "2vPSuAVA",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      }
+    ]
+  }
+}

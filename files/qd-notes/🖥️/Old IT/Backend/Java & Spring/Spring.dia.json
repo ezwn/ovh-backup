@@ -1,0 +1,203 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-kp2vd4VE",
+        "userBounds": [
+          942,
+          43,
+          74.828125
+        ],
+        "content": "maven",
+        "bounds": [
+          942,
+          43,
+          75,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-bQtMlvtw",
+        "userBounds": [
+          696,
+          44,
+          194.03125
+        ],
+        "content": "Many constructor but only one @Autowired.",
+        "bounds": [
+          696,
+          44,
+          194,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-fmHxZDqr",
+        "userBounds": [
+          358,
+          47,
+          265.765625
+        ],
+        "content": "@SpringBootConfiguration: enable registration of extra configuration.",
+        "bounds": [
+          358,
+          47,
+          266,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-6CYChWdG",
+        "userBounds": [
+          419,
+          181,
+          null
+        ],
+        "content": "spring-boot-devtools:\n\n* disable cache",
+        "bounds": [
+          419,
+          181,
+          210,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-vRfDkKnv",
+        "userBounds": [
+          691,
+          179,
+          564
+        ],
+        "content": "https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using.structuring-your-code",
+        "bounds": [
+          691,
+          179,
+          564,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-jhqUgice",
+        "userBounds": [
+          1306,
+          502
+        ],
+        "content": "Spring",
+        "bounds": [
+          1306,
+          502,
+          76,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-hoikiCiL",
+        "userBounds": [
+          1203,
+          468,
+          null
+        ],
+        "content": "AOP",
+        "bounds": [
+          1203,
+          468,
+          60,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-vJHj6U1y",
+        "userBounds": [
+          1287,
+          435,
+          null
+        ],
+        "content": "SpEL",
+        "bounds": [
+          1287,
+          435,
+          67,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-R4HKKmu2",
+        "userBounds": [
+          1377,
+          441,
+          null
+        ],
+        "content": "spring-tx",
+        "bounds": [
+          1377,
+          441,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-SIhYdcLR",
+        "userBounds": [
+          1197,
+          548,
+          null
+        ],
+        "content": "Caching",
+        "bounds": [
+          1197,
+          548,
+          91,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-WXnLcRxF",
+        "userBounds": [
+          1320,
+          567,
+          null
+        ],
+        "content": "Async",
+        "bounds": [
+          1320,
+          567,
+          72,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-kSnKLoRr",
+        "userBounds": [
+          173,
+          402,
+          null,
+          null
+        ],
+        "content": "-Dspring.profiles.active=test",
+        "bounds": [
+          173,
+          402,
+          265,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-JlRz2Z3r",
+        "userBounds": [
+          548,
+          456,
+          null,
+          null
+        ],
+        "content": "@Service\n= pas d'état",
+        "bounds": [
+          548,
+          456,
+          121,
+          64
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

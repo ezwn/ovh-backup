@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-wspCoyq9",
+        "userBounds": [
+          452,
+          265,
+          null,
+          null
+        ],
+        "bounds": [
+          452,
+          265,
+          46,
+          41
+        ],
+        "content": "[PR](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-dashboards/pull-requests/241/diff#src/__tests__/screens/CampaignKebabMenu.spec.tsx)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Y6xJ6ckl",
+        "userBounds": [
+          533,
+          169,
+          null,
+          null
+        ],
+        "bounds": [
+          533,
+          169,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5027)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

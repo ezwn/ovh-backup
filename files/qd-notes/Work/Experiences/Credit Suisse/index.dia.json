@@ -1,0 +1,247 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-X1hc4Nb4",
+        "userBounds": [
+          1669,
+          602,
+          null,
+          null
+        ],
+        "content": "!! Book holidays 13.5\n---\n- 27 juin -> 1er juillet\n- 18 août\n- 19 août\n---\n- 26 sept -> 30 sept [ANNUL]\n- 14 oct -> 20 oct\n---\nrest: 2",
+        "bounds": [
+          1669,
+          602,
+          241,
+          206
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-sUCriIEP",
+        "userBounds": [
+          39,
+          138,
+          null,
+          null
+        ],
+        "content": "SFI-BRIDGE to SCV-API alignment",
+        "bounds": [
+          39,
+          138,
+          331,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-HKmLvuST",
+        "userBounds": [
+          559,
+          311,
+          null,
+          null
+        ],
+        "content": "global-api",
+        "bounds": [
+          559,
+          311,
+          105,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5HvJCUlt",
+        "userBounds": [
+          695,
+          212,
+          null,
+          null
+        ],
+        "content": "global-web",
+        "bounds": [
+          695,
+          212,
+          115,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3oyH3vZJ",
+        "userBounds": [
+          891,
+          238,
+          null,
+          null
+        ],
+        "content": "scv-api",
+        "bounds": [
+          891,
+          238,
+          81,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-XcGdEP9E",
+        "userBounds": [
+          943,
+          364,
+          null,
+          null
+        ],
+        "content": "ui",
+        "bounds": [
+          943,
+          364,
+          34,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-I7se8CrP",
+        "userBounds": [
+          734,
+          415,
+          null,
+          null
+        ],
+        "content": "foundation",
+        "bounds": [
+          734,
+          415,
+          111,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-M2IEqlGQ",
+        "userBounds": [
+          317,
+          312,
+          null,
+          null
+        ],
+        "content": "@Transactional",
+        "bounds": [
+          317,
+          312,
+          158,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-vtUBEp7Q",
+        "userBounds": [
+          373,
+          246,
+          null,
+          null
+        ],
+        "content": "@Profile",
+        "bounds": [
+          373,
+          246,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-quDfM5S1",
+        "userBounds": [
+          317,
+          390,
+          null,
+          null
+        ],
+        "content": "swagger.@Operation",
+        "bounds": [
+          317,
+          390,
+          206,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-oK1mijub",
+        "userBounds": [
+          75,
+          243,
+          null,
+          null
+        ],
+        "content": "spring.scheduling.@Async",
+        "bounds": [
+          75,
+          243,
+          254,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Z2j2qkvE",
+        "userBounds": [
+          46,
+          463,
+          null,
+          null
+        ],
+        "content": "CommonsRequestLoginFilter",
+        "bounds": [
+          46,
+          463,
+          277,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ZvJu86uZ",
+        "userBounds": [
+          115,
+          324,
+          null,
+          null
+        ],
+        "content": "Thymeleaf\nfor emails + PDF",
+        "bounds": [
+          115,
+          324,
+          167,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-yB733JJ9",
+        "userBounds": [
+          349,
+          453,
+          null,
+          null
+        ],
+        "content": "@TestInstance",
+        "bounds": [
+          349,
+          453,
+          151,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-QDTUBqWG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EXR5v9rF",
+            "target": "NOTE-M2IEqlGQ"
+          },
+          {
+            "id": "END-BxhshokD",
+            "target": "NOTE-HKmLvuST"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmConvertirPhotoEnMarkdown",
+  "content": {
+    "index": "llm, convertir photo en markdown",
+    "name": "LLM, Convertir photo en markdown",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Bonjour,\nMes yeux ne me permettent pas de lire le texte que j'ai pris en photo à cause du contraste et de la petitesse des caractères. Y parviens-tu STP? Peux tu me le donner au format markdown?",
+        "defaultText": null
+      }
+    ]
+  }
+}

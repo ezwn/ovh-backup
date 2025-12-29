@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonXml",
+  "content": {
+    "index": "jackson, xml",
+    "name": "Jackson, XML",
+    "templates": [
+      {
+        "id": "code",
+        "textTemplate": "XmlMapper xmlMapper = new XmlMapper();\nPersonne p1 = xmlMapper.readValue(data, Personne.class);\nString computedXml = xmlMapper.writeValueAsString(p);\n// ou plus souvent :\nxmlMapper.writeValue(out, p);",
+        "defaultText": null
+      },
+      {
+        "id": "dependency",
+        "textTemplate": "implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml'",
+        "defaultText": null
+      }
+    ]
+  }
+}

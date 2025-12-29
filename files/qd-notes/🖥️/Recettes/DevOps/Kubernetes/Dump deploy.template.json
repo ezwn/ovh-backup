@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlDumpDeploy",
+  "content": {
+    "index": "cloud kubernate kubectl dump deploy",
+    "name": "Kubectl, dump deploy",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl -n ${kubeNamespace:KubeNamespace} get deployment ${kubeServiceName:KubeService} -o json",
+        "defaultText": null
+      }
+    ]
+  }
+}

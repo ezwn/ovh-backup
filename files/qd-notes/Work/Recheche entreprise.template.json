@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiRechecheEntreprise",
+  "content": {
+    "index": "emploi : recheche entreprise",
+    "name": "Emploi : recheche entreprise",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant que professionnel du recrutement et recherche des informations concernant l'entreprise ${entreprise} à ${lieu}.\n\nEn particulier :\n- quels sont les enjeux actuels de cette entreprise ?\n- quels sont les publications récentes à son sujet ?",
+        "defaultText": null
+      }
+    ]
+  }
+}

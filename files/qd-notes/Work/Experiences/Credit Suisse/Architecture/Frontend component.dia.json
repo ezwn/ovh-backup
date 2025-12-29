@@ -1,0 +1,285 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-DKyZuwmq",
+        "userBounds": [
+          1406,
+          316,
+          163.25,
+          71
+        ],
+        "content": "# Backend\n# controllers",
+        "bounds": [
+          1406,
+          316,
+          163,
+          71
+        ],
+        "fontSize": 14,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-5aFkhYlA",
+        "userBounds": [
+          855,
+          100,
+          451.5625,
+          614
+        ],
+        "content": "# apiClient",
+        "bounds": [
+          855,
+          100,
+          452,
+          614
+        ],
+        "fontSize": 14,
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-BHr12CHH",
+        "userBounds": [
+          902,
+          452,
+          130.828125,
+          null
+        ],
+        "content": "## DTOs\n---\nelements of the common language with the API",
+        "bounds": [
+          902,
+          452,
+          131,
+          94
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Z1AAPGH1",
+        "userBounds": [
+          1084,
+          485,
+          140.59375,
+          null
+        ],
+        "content": "<< hook >>\n## useDtoToEntity\n---\nprovides a function mapping a DTO to an entity",
+        "bounds": [
+          1084,
+          485,
+          141,
+          108
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-XIoljc1L",
+        "userBounds": [
+          988,
+          302,
+          160.171875,
+          null
+        ],
+        "content": "<< hook >>\n## useApiClient\n---\nprovide functions to interact with the backend",
+        "bounds": [
+          988,
+          302,
+          160,
+          94
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-imWpxWRo",
+        "userBounds": [
+          982,
+          159,
+          174.09375,
+          null
+        ],
+        "content": "<< context >>\n# ApiSettings\n---\ncustomizable endpoint routes",
+        "bounds": [
+          982,
+          159,
+          174,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-bmQ4FJ3S",
+        "userBounds": [
+          978,
+          606,
+          148.828125,
+          null
+        ],
+        "content": "<< hook >>\n# useEntityToDto\n---\nprovides a function mapping an entity to a DTO",
+        "bounds": [
+          978,
+          606,
+          149,
+          81
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-M6e9Db8f",
+        "userBounds": [
+          579,
+          519,
+          172.765625,
+          null
+        ],
+        "content": "# Entity\n---\nData structure optimized for JS/TS processing",
+        "bounds": [
+          579,
+          519,
+          173,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-5XN3j8UP",
+        "userBounds": [
+          591,
+          313,
+          null,
+          null
+        ],
+        "content": "# Component(s)\n---\nReact components",
+        "bounds": [
+          591,
+          313,
+          148,
+          68
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-Z6ADeKTk",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "XNEkBEC2",
+            "target": "NOTE-XIoljc1L",
+            "attachPointNumber": 3
+          },
+          {
+            "id": "DeiLbeFa",
+            "target": "NOTE-DKyZuwmq",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BWim91iS",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "NLzSLcN4",
+            "target": "NOTE-XIoljc1L",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "a6sUAPLi",
+            "target": "NOTE-BHr12CHH",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-t4onZr2r",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "MXBoiNqI",
+            "target": "NOTE-XIoljc1L",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "iVbPP1uV",
+            "target": "NOTE-Z1AAPGH1",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-o4IciK3x",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "u4aEnrwx",
+            "target": "NOTE-XIoljc1L"
+          },
+          {
+            "id": "PFY1rJFb",
+            "target": "NOTE-bmQ4FJ3S",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-sBaG3vTP",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "BoLnpji8",
+            "target": "NOTE-XIoljc1L"
+          },
+          {
+            "id": "bIrrYv6t",
+            "target": "NOTE-imWpxWRo",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-1ViUXwGN",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "E56UtY6f",
+            "target": "NOTE-5XN3j8UP"
+          },
+          {
+            "id": "g2VgT5Wl",
+            "target": "NOTE-XIoljc1L",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-J1B3gkKy",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "MhneSiSX",
+            "target": "NOTE-5XN3j8UP"
+          },
+          {
+            "id": "SvcKutrz",
+            "target": "NOTE-M6e9Db8f",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

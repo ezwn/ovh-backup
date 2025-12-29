@@ -1,0 +1,76 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yFtKApzL",
+        "userBounds": [
+          601,
+          159,
+          null,
+          null
+        ],
+        "bounds": [
+          601,
+          159,
+          87,
+          41
+        ],
+        "content": "[jobscan](https://www.jobscan.co/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8gRF4Nti",
+        "userBounds": [
+          687,
+          593,
+          null,
+          null
+        ],
+        "bounds": [
+          687,
+          593,
+          82,
+          54
+        ],
+        "content": "# Fyte4U\nTest CV",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-qHQgyume",
+        "userBounds": [
+          900,
+          352,
+          null,
+          null
+        ],
+        "bounds": [
+          900,
+          352,
+          169,
+          41
+        ],
+        "content": "[Resume scanner](https://enhancv.com/resources/resume-scanner/?utm_source=google&utm_medium=cpc&utm_campaign=search_resume_checker_core&utm_content=666875672610&gad_source=1&gad_campaignid=20393425353&gbraid=0AAAAADmzJlurH8RGB7yOw3vu8a2gc_13_&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKKgqcPqBldLMflimG2tnuR5Ldbog3bZuuU7SbUOJ7CcY5jAOnUEgLAaAtFWEALw_wcB)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kRWEbWsa",
+        "userBounds": [
+          521,
+          318,
+          null,
+          null
+        ],
+        "bounds": [
+          521,
+          318,
+          130,
+          78
+        ],
+        "content": "<< notion >>\n# ATS",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerComposeDown",
+  "content": {
+    "index": "docker instance stop",
+    "name": "Delete a docker container",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker compose${projectOption} down",
+        "defaultText": ""
+      },
+      {
+        "id": "projectOption",
+        "textTemplate": " -p ${projectName}-${processFunction}",
+        "defaultText": ""
+      }
+    ]
+  }
+}

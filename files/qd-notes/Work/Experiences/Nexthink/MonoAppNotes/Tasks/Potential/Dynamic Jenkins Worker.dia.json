@@ -1,0 +1,192 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-FM1CzTy5",
+        "userBounds": [
+          1089,
+          173,
+          null,
+          null
+        ],
+        "bounds": [
+          1089,
+          173,
+          135,
+          41
+        ],
+        "content": "[Internal DOC](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=EngProd&title=Dynamic+Jenkins+worker+nodes)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vPYHrcB2",
+        "userBounds": [
+          223,
+          214,
+          160.375,
+          null
+        ],
+        "bounds": [
+          223,
+          214,
+          160,
+          54
+        ],
+        "content": "[Comments Earthly not supported](https://jira.nexthink.com:1443/browse/BRE-2337)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-VI4bYnPj",
+        "userBounds": [
+          212,
+          336,
+          179.484375,
+          null
+        ],
+        "bounds": [
+          212,
+          336,
+          179,
+          108
+        ],
+        "content": "[workaround by Farzan where Earthly is installed on dynamic worker during init phase](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-graphql-gateway-helm/pull-requests/29/diff#Jenkinsfile)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-opVcVeGS",
+        "userBounds": [
+          415,
+          275,
+          null,
+          null
+        ],
+        "bounds": [
+          415,
+          275,
+          108,
+          64
+        ],
+        "content": "EARTHLY\nISSUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xMuLj3ax",
+        "userBounds": [
+          1078,
+          460,
+          233.265625,
+          null
+        ],
+        "bounds": [
+          1078,
+          460,
+          233,
+          60
+        ],
+        "content": "[Java services with Dynamic Workers](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-campaign-manager/diff/customize/Jenkinsfile?until=033296cf7fbfc911f32789990219865af637957f)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-fwPW1JZL",
+        "userBounds": [
+          730,
+          348,
+          null,
+          null
+        ],
+        "bounds": [
+          730,
+          348,
+          132,
+          87
+        ],
+        "content": "done for\njava but not\nfor typescript",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HSTDyXkY",
+        "userBounds": [
+          1466,
+          738,
+          null,
+          null
+        ],
+        "bounds": [
+          1466,
+          738,
+          216,
+          41
+        ],
+        "content": "dash-graphql-gateway",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-i82NI6kr",
+        "userBounds": [
+          1355,
+          684,
+          null,
+          null
+        ],
+        "bounds": [
+          1355,
+          684,
+          127,
+          41
+        ],
+        "content": "deliver team",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2pqG8oxr",
+        "userBounds": [
+          1298,
+          573,
+          null,
+          null
+        ],
+        "bounds": [
+          1298,
+          573,
+          157,
+          87
+        ],
+        "content": "farzan\nknows\nwho succeeded",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-DNPUJlh2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1WjPchCI",
+            "target": "NOTE-opVcVeGS"
+          },
+          {
+            "id": "END-YNWZMNPc",
+            "target": "NOTE-vPYHrcB2"
+          }
+        ]
+      },
+      {
+        "id": "REL-aohwBTqk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-r2jSkkJ3",
+            "target": "NOTE-opVcVeGS"
+          },
+          {
+            "id": "END-cp65nqzu",
+            "target": "NOTE-VI4bYnPj"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-RVRZQC7c",
+        "userBounds": [
+          423,
+          280,
+          null,
+          null
+        ],
+        "bounds": [
+          423,
+          280,
+          156,
+          41
+        ],
+        "content": "[DEPENDABOT](https://confluence.intra.nexthink.com/display/PSEC/Dependabot+Q4+2023)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gTLCUmKp",
+        "userBounds": [
+          399,
+          166,
+          null,
+          null
+        ],
+        "bounds": [
+          399,
+          166,
+          116,
+          34
+        ],
+        "content": "[DASHBOARDS](https://github.com/orgs/nexthink/security/alerts/dependabot?q=is%3Aopen+has%3Apatch+sort%3Aseverity+repo%3Aengage.euf-dashboards)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Dw6r4a6B",
+        "userBounds": [
+          1311,
+          161,
+          null,
+          null
+        ],
+        "bounds": [
+          1311,
+          161,
+          139,
+          64
+        ],
+        "content": "Joris Vanhoof\nSecu Engin.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4sHuWdt3",
+        "userBounds": [
+          76,
+          493,
+          412,
+          null
+        ],
+        "bounds": [
+          76,
+          493,
+          412,
+          234
+        ],
+        "content": "The requirement of the Definition of Done for any development story is that all medium+ severity findings need to be resolved (or the updates planned at least) before your changes can be merged. \n\nBut you can remove the ones in test code and then start with the critical ones. It only applies to repositories with the topic prod_*, and within those you could start with the most front-end facing ones (or anything that parses user input)?\n\nJoris Vanhoof",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-P2Tng5vf",
+        "userBounds": [
+          854,
+          226,
+          null,
+          null
+        ],
+        "bounds": [
+          854,
+          226,
+          106,
+          36
+        ],
+        "content": "[MAIN PAGE](https://confluence.intra.nexthink.com/display/PSEC/Security+Champions)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-a4tSzTXr",
+        "userBounds": [
+          507,
+          91,
+          null,
+          null
+        ],
+        "bounds": [
+          507,
+          91,
+          121,
+          32
+        ],
+        "content": "[DEP BOT FARZAN](https://github.com/nexthink/engage.euf-dashboards/network/updates)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-16dUkUL7",
+        "userBounds": [
+          752,
+          418,
+          null,
+          null
+        ],
+        "bounds": [
+          752,
+          418,
+          205,
+          41
+        ],
+        "content": "Secure Code Warrior",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BgyJskZ7",
+        "userBounds": [
+          1055,
+          257,
+          null,
+          null
+        ],
+        "bounds": [
+          1055,
+          257,
+          113,
+          41
+        ],
+        "content": "[SYNC Log](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=PSEC&title=Security+Synchronization)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wlwY9pGb",
+        "userBounds": [
+          861,
+          102,
+          null,
+          null
+        ],
+        "bounds": [
+          861,
+          102,
+          221,
+          39
+        ],
+        "content": "[SERVICE CHEATSHEET](https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html#input-validation)",
+        "zIndex": 3,
+        "fontSize": 18
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-4agYQ8gt",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Efgq5gLh",
+            "target": "NOTE-gTLCUmKp"
+          },
+          {
+            "id": "END-7fwrEJRZ",
+            "target": "NOTE-RVRZQC7c"
+          }
+        ]
+      },
+      {
+        "id": "REL-nAtlElGP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J6LYASvK",
+            "target": "NOTE-a4tSzTXr"
+          },
+          {
+            "id": "END-9RP3UYk8",
+            "target": "NOTE-gTLCUmKp"
+          }
+        ]
+      }
+    ]
+  }
+}

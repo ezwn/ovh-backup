@@ -1,0 +1,42 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-dnnkLvM8",
+        "userBounds": [
+          190,
+          232,
+          null,
+          null
+        ],
+        "bounds": [
+          190,
+          232,
+          159,
+          175
+        ],
+        "content": "# 3 lacs\n---\nVillars-sur-Ollon\nBretaye\nLac de Chavonne\n---\ntrajet: 2h35",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-4Uq9u4qr",
+        "userBounds": [
+          437,
+          256,
+          184.3125,
+          null
+        ],
+        "bounds": [
+          437,
+          256,
+          184,
+          109
+        ],
+        "content": "Beaume les Messieurs\n---\ntrajet: 2h",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gradlewDependencyInsight",
+  "content": {
+    "index": "gradle dependency insight",
+    "name": "Gradle, dependency insight",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "./gradlew dependencyInsight --dependency ${gradleDependency:GradleDependency}",
+        "defaultText": null
+      }
+    ]
+  }
+}

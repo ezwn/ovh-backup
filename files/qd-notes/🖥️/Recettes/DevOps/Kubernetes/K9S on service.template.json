@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlK9sOnService",
+  "content": {
+    "index": "kubectl, k9s on service",
+    "name": "Kubectl, K9S on service",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "k9s -n ${kubeNamespace:KubeNamespace} -c service",
+        "defaultText": null
+      }
+    ]
+  }
+}

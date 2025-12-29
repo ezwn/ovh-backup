@@ -1,0 +1,86 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-E9V381DK",
+        "userBounds": [
+          390,
+          288,
+          null,
+          null
+        ],
+        "content": "Athène",
+        "bounds": [
+          390,
+          288,
+          81,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Syn4KxeQ",
+        "userBounds": [
+          320,
+          182,
+          null,
+          null
+        ],
+        "content": "# avion\n### de Genève\n3h\n300 €",
+        "bounds": [
+          320,
+          182,
+          79,
+          72
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-d6CqsXVn",
+        "userBounds": [
+          447,
+          171,
+          null,
+          null
+        ],
+        "content": "# avion\n### de Zürich\n3h\n375 €",
+        "bounds": [
+          447,
+          171,
+          72,
+          72
+        ],
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-1n3vmm8R",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KHAhrDmR",
+            "target": "NOTE-Syn4KxeQ"
+          },
+          {
+            "id": "END-jDgmKjjx",
+            "target": "NOTE-E9V381DK"
+          }
+        ]
+      },
+      {
+        "id": "REL-l91tkQ6A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8rCxVb8K",
+            "target": "NOTE-d6CqsXVn"
+          },
+          {
+            "id": "END-i3S8iIyn",
+            "target": "NOTE-E9V381DK"
+          }
+        ]
+      }
+    ]
+  }
+}

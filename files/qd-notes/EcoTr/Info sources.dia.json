@@ -1,0 +1,78 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-lP1FbdYn",
+        "userBounds": [
+          1360,
+          573,
+          86.1875,
+          null
+        ],
+        "bounds": [
+          1360,
+          573,
+          86,
+          50
+        ],
+        "content": "[JOURNAL OFFICIEL](https://www.legifrance.gouv.fr/jorf/jo)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-jd7ifWba",
+        "userBounds": [
+          1283,
+          492,
+          null,
+          null
+        ],
+        "bounds": [
+          1283,
+          492,
+          123,
+          36
+        ],
+        "content": "[BOT CLIMATE](https://huggingface.co/spaces/Ekimetrics/climate-question-answering)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-jRHZjG16",
+        "userBounds": [
+          972,
+          605,
+          null,
+          null
+        ],
+        "bounds": [
+          972,
+          605,
+          57,
+          41
+        ],
+        "content": "[AR6](https://www.ipcc.ch/report/ar6/wg1/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-LvuQP6nG",
+        "userBounds": [
+          1318,
+          203,
+          130.703125,
+          null
+        ],
+        "bounds": [
+          1318,
+          203,
+          131,
+          54
+        ],
+        "content": "[EFFICACITE GESTES CLIM](https://www.letemps.ch/sciences/environnement/en-graphiques-quelles-sont-les-actions-les-plus-efficaces-pour-reduire-son-empreinte-carbone#:~:text=R%C3%A9partition%20des%20%C3%A9missions%20annuelles%20de,cat%C3%A9gories%20des%20postes%20d'%C3%A9missions.&text=Publi%C3%A9%20le%2022%20juin%202023,juin%202023%20%C3%A0%2007%3A04.)",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": []
+  }
+}

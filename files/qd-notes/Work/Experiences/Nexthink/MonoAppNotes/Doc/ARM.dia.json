@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TsDAEsCz",
+        "userBounds": [
+          684,
+          346,
+          null,
+          null
+        ],
+        "bounds": [
+          684,
+          346,
+          155,
+          41
+        ],
+        "content": "[ARM SERVICE](https://github.com/nexthink/access-rights-management.arm-service)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gVPNFzbM",
+        "userBounds": [
+          382,
+          241,
+          152.015625,
+          null
+        ],
+        "bounds": [
+          382,
+          241,
+          152,
+          66
+        ],
+        "content": "ARM's product manager needs to approv",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-IMKIQgDG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BqUvJZkN",
+            "target": "NOTE-gVPNFzbM"
+          },
+          {
+            "id": "END-3oyccMab",
+            "target": "NOTE-TsDAEsCz"
+          }
+        ]
+      }
+    ]
+  }
+}

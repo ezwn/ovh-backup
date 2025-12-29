@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-h5aqyX4C",
+        "userBounds": [
+          123,
+          250,
+          null,
+          null
+        ],
+        "content": "Pattern matching for instanceof\n```java\nif (object instanceof String s) {\n    int length = s.length();\n    System.out.println(\"This object is a string of length \" + length);\n}\n```",
+        "bounds": [
+          123,
+          250,
+          414,
+          158
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

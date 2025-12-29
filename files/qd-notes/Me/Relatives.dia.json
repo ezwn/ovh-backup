@@ -1,0 +1,629 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-oEJEe2Sv",
+        "userBounds": [
+          660,
+          503,
+          null,
+          null
+        ],
+        "content": "Papa",
+        "bounds": [
+          660,
+          503,
+          64,
+          40
+        ],
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-XzfiheQI",
+        "userBounds": [
+          713,
+          131,
+          null,
+          null
+        ],
+        "content": "Rémi",
+        "bounds": [
+          713,
+          131,
+          64,
+          40
+        ]
+      },
+      {
+        "id": "NOTE-L7ciIcPj",
+        "userBounds": [
+          589,
+          118,
+          null,
+          null
+        ],
+        "content": "Yann",
+        "bounds": [
+          589,
+          118,
+          62,
+          40
+        ]
+      },
+      {
+        "id": "NOTE-YS9jUAms",
+        "userBounds": [
+          778,
+          179,
+          null,
+          null
+        ],
+        "content": "David C",
+        "bounds": [
+          778,
+          179,
+          88,
+          40
+        ]
+      },
+      {
+        "id": "NOTE-USwPcbA8",
+        "userBounds": [
+          1097,
+          392
+        ],
+        "content": "Frère Anne",
+        "bounds": [
+          1097,
+          392,
+          65,
+          63
+        ]
+      },
+      {
+        "id": "NOTE-NJ9guHFV",
+        "userBounds": [
+          1112,
+          301,
+          null
+        ],
+        "content": "Soeur Anne",
+        "bounds": [
+          1112,
+          301,
+          71,
+          63
+        ]
+      },
+      {
+        "id": "NOTE-AuCXP1bw",
+        "userBounds": [
+          446,
+          268,
+          null,
+          null
+        ],
+        "content": "Elisabeth",
+        "bounds": [
+          446,
+          268,
+          99,
+          40
+        ],
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-LCe66Bjx",
+        "userBounds": [
+          1181,
+          475,
+          null,
+          null
+        ],
+        "content": "Père et mère\nde Anne",
+        "bounds": [
+          1181,
+          475,
+          64,
+          131
+        ]
+      },
+      {
+        "id": "NOTE-IQBrGR9f",
+        "userBounds": [
+          463,
+          469,
+          null
+        ],
+        "content": "Inge Lore",
+        "bounds": [
+          463,
+          469,
+          102,
+          40
+        ],
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-RseCpTRi",
+        "userBounds": [
+          704,
+          66,
+          null,
+          null
+        ],
+        "content": "Angie",
+        "bounds": [
+          704,
+          66,
+          68,
+          40
+        ]
+      },
+      {
+        "id": "NOTE-K3xhn3VE",
+        "userBounds": [
+          603,
+          189,
+          null,
+          null
+        ],
+        "content": "Quentin Ly",
+        "bounds": [
+          603,
+          189,
+          113,
+          40
+        ]
+      },
+      {
+        "id": "NOTE-R1vIAabW",
+        "userBounds": [
+          1275,
+          307,
+          120.09375,
+          null
+        ],
+        "bounds": [
+          1275,
+          307,
+          120,
+          59
+        ],
+        "content": "[Tai Chi Saarbrücken](https://www.susanne-huth.com/taichi/29-traditionelles-wu-tai-chi-fuer-anfaenger-ab-18-2009-und-061112)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-E8TzWnee",
+        "userBounds": [
+          867,
+          44,
+          null,
+          null
+        ],
+        "bounds": [
+          867,
+          44,
+          169,
+          40
+        ],
+        "content": "Parabole parents",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-gc4zhsJZ",
+        "userBounds": [
+          1266,
+          404,
+          null,
+          null
+        ],
+        "bounds": [
+          1266,
+          404,
+          79,
+          63
+        ],
+        "content": "Montre santé",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6DpSCtFE",
+        "userBounds": [
+          303,
+          662,
+          null,
+          null
+        ],
+        "bounds": [
+          303,
+          662,
+          113,
+          40
+        ],
+        "content": "Puy du fou",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qrKNyFgt",
+        "userBounds": [
+          430,
+          716,
+          null,
+          null
+        ],
+        "bounds": [
+          430,
+          716,
+          164,
+          40
+        ],
+        "content": "Neuschwanstein",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-j3D4teLs",
+        "userBounds": [
+          465,
+          626,
+          null,
+          null
+        ],
+        "bounds": [
+          465,
+          626,
+          64,
+          40
+        ],
+        "content": "Anne",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nAGip31e",
+        "userBounds": [
+          902,
+          353,
+          null,
+          null
+        ],
+        "bounds": [
+          902,
+          353,
+          99,
+          40
+        ],
+        "content": "Poulailler",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5HIvwfuX",
+        "userBounds": [
+          831,
+          501,
+          null,
+          null
+        ],
+        "bounds": [
+          831,
+          501,
+          66,
+          40
+        ],
+        "content": "Serre",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wgqQpVW8",
+        "userBounds": [
+          681,
+          624,
+          219.953125,
+          null
+        ],
+        "bounds": [
+          681,
+          624,
+          220,
+          65
+        ],
+        "content": "Xavier : Thomas Andrews : Architecte du Titanic / ou / \nLe Titanic, vérités et légendes",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-icMgkmuR",
+        "userBounds": [
+          821,
+          409,
+          null,
+          null
+        ],
+        "bounds": [
+          821,
+          409,
+          90,
+          38
+        ],
+        "content": "Ordi jeu?",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-Mc7DYNdA",
+        "userBounds": [
+          464,
+          367,
+          null,
+          null
+        ],
+        "bounds": [
+          464,
+          367,
+          92,
+          40
+        ],
+        "content": "Clément",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-mzJFN6Nq",
+        "userBounds": [
+          899,
+          290,
+          133.640625,
+          null
+        ],
+        "bounds": [
+          899,
+          290,
+          134,
+          49
+        ],
+        "content": "Livres,\naudio ordinateur",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-n1lxN2DC",
+        "userBounds": [
+          134,
+          351.3409118652344,
+          null,
+          null
+        ],
+        "bounds": [
+          134,
+          351.3409118652344,
+          153,
+          225
+        ],
+        "content": "Stage plongée\nLavande\nBijou\nScooter\nCuisine\nCours, compétence\nFaire venir sa famille\nVoyage montgolfière\nAutre activité extrème\nFushia\nMiels\nBeauté\nShopping",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-gfs1L2Zw",
+        "userBounds": [
+          665,
+          383.3409118652344,
+          null,
+          null
+        ],
+        "bounds": [
+          665,
+          383.3409118652344,
+          84,
+          40
+        ],
+        "content": "Maman",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-BuwhEDwW",
+        "userBounds": [
+          670,
+          272,
+          null,
+          null
+        ],
+        "content": "La Main Gauche de la Nuit\nLes Dépossédés\nLe Nom du monde est Forêt.",
+        "bounds": [
+          670,
+          272,
+          195,
+          65
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-IcIuE7ht",
+        "userBounds": [
+          122,
+          76.34091186523438,
+          null,
+          null
+        ],
+        "bounds": [
+          122,
+          76.34091186523438,
+          201,
+          40
+        ],
+        "content": "Note NOTE-IcIuE7ht",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DiiJE3dj",
+        "userBounds": [
+          1547,
+          23.340911865234375,
+          168.46588134765625,
+          null
+        ],
+        "bounds": [
+          1547,
+          23.340911865234375,
+          168,
+          168
+        ],
+        "content": "Maman,\nNous te souhaitons un joyeux Noël 2024. Nous sommes heureux de pouvoir en profiter pour passer quelques jours avec vous. Merci pour tout mais n'oublie pas de penser à peu à toi-même parfois. Plein de bisous, Anne et Nicolas",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-v1coBMvj",
+        "userBounds": [
+          1436,
+          217.34091186523438,
+          272.460205078125,
+          null
+        ],
+        "bounds": [
+          1436,
+          217.34091186523438,
+          272,
+          213
+        ],
+        "content": "```text\nJoyeux Noël Maman !\n\nNous te suggérons ces livres :\n- Les Dépossédés\n- La Main Gauche de la Nuit\n- Le Nom du monde est Forêt\n\nDe la part de Anne et Nicolas\n```",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-WUytPSA4",
+        "userBounds": [
+          1428,
+          455.3409118652344,
+          272.460205078125,
+          null
+        ],
+        "bounds": [
+          1428,
+          455.3409118652344,
+          272,
+          115
+        ],
+        "content": "```text\nJoyeux Noël Papa !\n\nDe la part de Anne et Nicolas\n```",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-sLKayLYN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-a1olBmy7",
+            "target": "NOTE-6DpSCtFE"
+          },
+          {
+            "id": "END-tJVGaJ5E",
+            "target": "NOTE-j3D4teLs"
+          }
+        ]
+      },
+      {
+        "id": "REL-95e7Smcx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FLZrtDzq",
+            "target": "NOTE-qrKNyFgt"
+          },
+          {
+            "id": "END-tZ5BkR6j",
+            "target": "NOTE-j3D4teLs"
+          }
+        ]
+      },
+      {
+        "id": "REL-5mhl5w1I",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wlduAXFq",
+            "target": "NOTE-wgqQpVW8"
+          },
+          {
+            "id": "END-dWkax1Bd",
+            "target": "NOTE-oEJEe2Sv"
+          }
+        ]
+      },
+      {
+        "id": "REL-Tv3cyKds",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-eXpGm3e6",
+            "target": "NOTE-n1lxN2DC"
+          },
+          {
+            "id": "END-MQHzZdbu",
+            "target": "NOTE-j3D4teLs"
+          }
+        ]
+      },
+      {
+        "id": "REL-aAqobWuU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qFwit4vJ",
+            "target": "NOTE-gfs1L2Zw"
+          },
+          {
+            "id": "END-ULKRV9EJ",
+            "target": "NOTE-BuwhEDwW"
+          }
+        ]
+      },
+      {
+        "id": "REL-ClUIBsVe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Lo44Rz2t",
+            "target": "NOTE-gfs1L2Zw"
+          },
+          {
+            "id": "END-SfjJgvP5",
+            "target": "NOTE-mzJFN6Nq"
+          }
+        ]
+      },
+      {
+        "id": "REL-6poEDe5e",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IMdayfhC",
+            "target": "NOTE-gfs1L2Zw"
+          },
+          {
+            "id": "END-fF6GJPhc",
+            "target": "NOTE-nAGip31e"
+          }
+        ]
+      },
+      {
+        "id": "REL-61PibN7W",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WMy1GYwu",
+            "target": "NOTE-gfs1L2Zw"
+          },
+          {
+            "id": "END-TeWoVhYE",
+            "target": "NOTE-icMgkmuR"
+          }
+        ]
+      }
+    ]
+  }
+}

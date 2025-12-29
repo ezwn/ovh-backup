@@ -1,0 +1,588 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-pTCva54Q",
+        "userBounds": [
+          87,
+          134,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          134,
+          118,
+          41
+        ],
+        "content": "[TELUQ.CA](https://www.teluq.ca/site/etudes/offre/prog/certificat-en-sciences-de-l-environnement/#structure)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BHWKhaTW",
+        "userBounds": [
+          66,
+          218,
+          null,
+          null
+        ],
+        "bounds": [
+          66,
+          218,
+          138,
+          41
+        ],
+        "content": "[ATHABASCA](https://www.athabascau.ca/course/index.html?/undergraduate/all/all)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oHpdSBn8",
+        "userBounds": [
+          132,
+          520,
+          null,
+          null
+        ],
+        "bounds": [
+          132,
+          520,
+          128,
+          41
+        ],
+        "content": "[OPEN UNIV](https://www.open.ac.uk/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6v6XEmgI",
+        "userBounds": [
+          313,
+          561,
+          null,
+          null
+        ],
+        "bounds": [
+          313,
+          561,
+          44,
+          41
+        ],
+        "content": "[LD](https://www.london.ac.uk/study/courses?page=3)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m3fF76BM",
+        "userBounds": [
+          576,
+          27,
+          null,
+          null
+        ],
+        "bounds": [
+          576,
+          27,
+          152,
+          41
+        ],
+        "content": "[TARIFS CNAM](https://www.cnam-bourgognefranchecomte.fr/les-tarifs)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JpcUFAc9",
+        "userBounds": [
+          1651,
+          85,
+          null,
+          null
+        ],
+        "bounds": [
+          1651,
+          85,
+          77,
+          41
+        ],
+        "content": "CNAM",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SAQu1bvu",
+        "userBounds": [
+          1586,
+          168,
+          null,
+          null
+        ],
+        "bounds": [
+          1586,
+          168,
+          68,
+          41
+        ],
+        "content": "EPFL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yXt5whVG",
+        "userBounds": [
+          975,
+          524,
+          null,
+          null
+        ],
+        "bounds": [
+          975,
+          524,
+          283,
+          86
+        ],
+        "content": "EDX\n---\ncertificats de grandes écoles?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l92dZ2vt",
+        "userBounds": [
+          602,
+          274,
+          null,
+          null
+        ],
+        "bounds": [
+          602,
+          274,
+          125,
+          54
+        ],
+        "content": "Undergraduate\n(UK)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-pQp1iYDz",
+        "userBounds": [
+          812,
+          282,
+          null,
+          null
+        ],
+        "bounds": [
+          812,
+          282,
+          97,
+          41
+        ],
+        "content": "Bachelor",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5Lv25Xa5",
+        "userBounds": [
+          983,
+          276,
+          null,
+          null
+        ],
+        "bounds": [
+          983,
+          276,
+          113,
+          54
+        ],
+        "content": "Postgraduate\n(UK)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xFMPrekU",
+        "userBounds": [
+          1514,
+          636,
+          null,
+          null
+        ],
+        "bounds": [
+          1514,
+          636,
+          80,
+          41
+        ],
+        "content": "[MOOC](https://pedrr.org/MOOC/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rWST78Iu",
+        "userBounds": [
+          1398,
+          670,
+          null,
+          null
+        ],
+        "bounds": [
+          1398,
+          670,
+          84,
+          41
+        ],
+        "content": "[canal-u](https://www.canal-u.tv/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-F5a314fw",
+        "userBounds": [
+          1336,
+          570,
+          null,
+          null
+        ],
+        "bounds": [
+          1336,
+          570,
+          185,
+          41
+        ],
+        "content": "NON DIPLOMANT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zgEXevsp",
+        "userBounds": [
+          697,
+          593,
+          null,
+          null
+        ],
+        "bounds": [
+          697,
+          593,
+          99,
+          41
+        ],
+        "content": "[BAYERN](https://kurse.vhb.org/VHBPORTAL/kursprogramm/kursprogramm.jsp)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TcyhPvNK",
+        "userBounds": [
+          816,
+          536,
+          null,
+          null
+        ],
+        "bounds": [
+          816,
+          536,
+          46,
+          41
+        ],
+        "content": "DE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7JJ8bUhY",
+        "userBounds": [
+          1504,
+          33,
+          null,
+          null
+        ],
+        "bounds": [
+          1504,
+          33,
+          60,
+          41
+        ],
+        "content": "Bern",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nawxf9rT",
+        "userBounds": [
+          1458,
+          109,
+          null,
+          null
+        ],
+        "bounds": [
+          1458,
+          109,
+          88,
+          41
+        ],
+        "content": "Genève",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TnPct4RE",
+        "userBounds": [
+          896,
+          76,
+          249.734375,
+          null
+        ],
+        "bounds": [
+          896,
+          76,
+          250,
+          64
+        ],
+        "content": "software test validation course credits ects",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-i7M3l9sd",
+        "userBounds": [
+          383,
+          256,
+          110.71875,
+          null
+        ],
+        "bounds": [
+          383,
+          256,
+          111,
+          101
+        ],
+        "content": "[SOFTWARE TESTING 7.5 ECTS](https://www.kau.se/en/education/programmes-and-courses/courses/DVGB17)\n# S2",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-NHR9mXRa",
+        "userBounds": [
+          301,
+          172,
+          null,
+          null
+        ],
+        "bounds": [
+          301,
+          172,
+          74,
+          41
+        ],
+        "content": "[ACDA](https://www.kau.se/en/education/programmes-and-courses/programmes/TACDA)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KxbUaeVS",
+        "userBounds": [
+          192,
+          327,
+          143.359375,
+          null
+        ],
+        "bounds": [
+          192,
+          327,
+          143,
+          98
+        ],
+        "content": "[METHODS IN COMPUTER SCIENCES](https://www.kau.se/en/education/programmes-and-courses/courses/DVAD12)\n## ON SITE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-MuuG3g1M",
+        "userBounds": [
+          1363,
+          318,
+          null,
+          null
+        ],
+        "bounds": [
+          1363,
+          318,
+          38,
+          41
+        ],
+        "content": "[IU](https://www.iu.org/master/computer-science/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BdgwEWLU",
+        "userBounds": [
+          1440,
+          361,
+          null,
+          null
+        ],
+        "bounds": [
+          1440,
+          361,
+          71,
+          41
+        ],
+        "content": "[UI DE](https://www.iu.de/master/informatik/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rAs9i6Vq",
+        "userBounds": [
+          527,
+          152,
+          null,
+          null
+        ],
+        "bounds": [
+          527,
+          152,
+          170,
+          41
+        ],
+        "content": "[UNIGE (Genève)](https://www.unige.ch/formcont/programmes/trouver-un-programme?domaine=Informatique%20et%20technologies)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-h7lo4YHK",
+        "userBounds": [
+          1182,
+          419,
+          null,
+          null
+        ],
+        "bounds": [
+          1182,
+          419,
+          188,
+          41
+        ],
+        "content": "[mobileuniversity.de](https://www.mobile-university.de/)",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-YhhcPrpk",
+        "userBounds": [
+          1143,
+          159,
+          213.453125,
+          null
+        ],
+        "bounds": [
+          1143,
+          159,
+          213,
+          39
+        ],
+        "content": "[EPFL DATASCIENCES](https://www.epfl.ch/education/master/wp-content/uploads/2018/08/IC_DS_MA-1.pdf)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-XDNqxojP",
+        "userBounds": [
+          988,
+          658,
+          null,
+          null
+        ],
+        "bounds": [
+          988,
+          658,
+          283,
+          86
+        ],
+        "content": "Coursera\n---\ncertificats de grandes écoles?",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-uJtBXyMb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5yZC5F8n",
+            "target": "NOTE-5Lv25Xa5"
+          },
+          {
+            "id": "END-6FnrRhWw",
+            "target": "NOTE-pQp1iYDz"
+          }
+        ]
+      },
+      {
+        "id": "REL-h3HUk5pG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wqMUfSui",
+            "target": "NOTE-l92dZ2vt"
+          },
+          {
+            "id": "END-iAURW16c",
+            "target": "NOTE-pQp1iYDz"
+          }
+        ]
+      },
+      {
+        "id": "REL-tE2Cpmet",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-m6yfEUUR",
+            "target": "NOTE-F5a314fw"
+          },
+          {
+            "id": "END-GjNrAgyi",
+            "target": "NOTE-rWST78Iu"
+          }
+        ]
+      },
+      {
+        "id": "REL-dVpXhlne",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qfVVych2",
+            "target": "NOTE-F5a314fw"
+          },
+          {
+            "id": "END-vSD6TtGN",
+            "target": "NOTE-xFMPrekU"
+          }
+        ]
+      },
+      {
+        "id": "REL-PsEMRad4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-iRZpqKQ3",
+            "target": "NOTE-zgEXevsp"
+          },
+          {
+            "id": "END-TMyR9FZd",
+            "target": "NOTE-TcyhPvNK"
+          }
+        ]
+      },
+      {
+        "id": "REL-3KrPQFlP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mlipNPJH",
+            "target": "NOTE-NHR9mXRa"
+          },
+          {
+            "id": "END-Wke17xNy",
+            "target": "NOTE-i7M3l9sd"
+          }
+        ]
+      },
+      {
+        "id": "REL-hxICX6vo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uINQeUfL",
+            "target": "NOTE-KxbUaeVS"
+          },
+          {
+            "id": "END-qvucHvHA",
+            "target": "NOTE-NHR9mXRa"
+          }
+        ]
+      }
+    ]
+  }
+}

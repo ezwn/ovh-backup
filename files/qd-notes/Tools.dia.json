@@ -1,0 +1,746 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-ar1N2Zhu",
+          "userBounds": [
+            572,
+            401,
+            null,
+            null
+          ],
+          "bounds": [
+            572,
+            401,
+            117,
+            64
+          ],
+          "content": "INFO\nSOURCES",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-XjsvaPMd",
+          "userBounds": [
+            882,
+            252,
+            null,
+            null
+          ],
+          "bounds": [
+            882,
+            252,
+            101,
+            41
+          ],
+          "content": "SEARCH",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-8r63GTY4",
+          "userBounds": [
+            1097,
+            413,
+            null,
+            null
+          ],
+          "bounds": [
+            1097,
+            413,
+            134,
+            41
+          ],
+          "content": "TRANSLATE",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-tZpTbiDJ",
+          "userBounds": [
+            865,
+            401,
+            null,
+            null
+          ],
+          "bounds": [
+            865,
+            401,
+            139,
+            60
+          ],
+          "content": "TOOLS",
+          "zIndex": 3,
+          "fontSize": 36
+        },
+        {
+          "id": "NOTE-iyGnjGlf",
+          "userBounds": [
+            435,
+            423,
+            null,
+            null
+          ],
+          "bounds": [
+            435,
+            423,
+            111,
+            36
+          ],
+          "content": "[beijingreview](http://french.beijingreview.com.cn/mindex.html)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-thMgXYwP",
+          "userBounds": [
+            757,
+            214,
+            null,
+            null
+          ],
+          "bounds": [
+            757,
+            214,
+            84,
+            36
+          ],
+          "content": "[wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-MjyNPqwl",
+          "userBounds": [
+            803,
+            315,
+            null,
+            null
+          ],
+          "bounds": [
+            803,
+            315,
+            76,
+            36
+          ],
+          "content": "[pubmed](https://pubmed.ncbi.nlm.nih.gov/)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-aZepD9JE",
+          "userBounds": [
+            774,
+            155,
+            null,
+            null
+          ],
+          "bounds": [
+            774,
+            155,
+            82,
+            41
+          ],
+          "content": "[sci-hub](https://fr.wikipedia.org/wiki/Sci-Hub)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-u8ERUbiE",
+          "userBounds": [
+            760,
+            270,
+            null,
+            null
+          ],
+          "bounds": [
+            760,
+            270,
+            72,
+            39
+          ],
+          "content": "[google](https://www.google.com/)",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-vAKUdRV9",
+          "userBounds": [
+            871,
+            147,
+            121.1875,
+            null
+          ],
+          "bounds": [
+            871,
+            147,
+            121,
+            36
+          ],
+          "content": "[scholar.google](https://scholar.google.com/schhp?hl=fr&as_sdt=0,5)",
+          "zIndex": 3,
+          "fontSize": 16,
+          "noteStyle": "NOTE"
+        },
+        {
+          "id": "NOTE-eKjsEH5g",
+          "userBounds": [
+            1045,
+            564,
+            null,
+            null
+          ],
+          "bounds": [
+            1045,
+            564,
+            107,
+            41
+          ],
+          "content": "PROXIES",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-R19vBT8G",
+          "userBounds": [
+            1187,
+            559,
+            null,
+            null
+          ],
+          "bounds": [
+            1187,
+            559,
+            113,
+            41
+          ],
+          "content": "[tunnelbear](https://www.tunnelbear.com/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-4hnCQ6h2",
+          "userBounds": [
+            901,
+            539,
+            null,
+            null
+          ],
+          "bounds": [
+            901,
+            539,
+            68,
+            41
+          ],
+          "content": "MISC",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-96MKcCwq",
+          "userBounds": [
+            1010,
+            268,
+            null,
+            null
+          ],
+          "bounds": [
+            1010,
+            268,
+            85,
+            36
+          ],
+          "content": "[ChatGPT](https://chat.openai.com/chat)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-34loSmr1",
+          "userBounds": [
+            1230,
+            348,
+            null,
+            null
+          ],
+          "bounds": [
+            1230,
+            348,
+            81,
+            36
+          ],
+          "content": "[WordRef](https://www.wordreference.com/fr/)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-oqE9fxmu",
+          "userBounds": [
+            1243,
+            167,
+            null,
+            null
+          ],
+          "bounds": [
+            1243,
+            167,
+            53,
+            39
+          ],
+          "content": "[CFF](https://www.sbb.ch/fr/)",
+          "zIndex": 3,
+          "fontSize": 18
+        },
+        {
+          "id": "NOTE-qE979qVF",
+          "userBounds": [
+            1343,
+            386,
+            null,
+            null
+          ],
+          "bounds": [
+            1343,
+            386,
+            72,
+            34
+          ],
+          "content": "[DE 2 EN](https://www.wordreference.com/deen/)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-qyojz6pR",
+          "userBounds": [
+            1388,
+            207,
+            120.265625,
+            null
+          ],
+          "bounds": [
+            1388,
+            207,
+            120,
+            64
+          ],
+          "content": "[ACM digital library](https://dl.acm.org/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-quhIon4a",
+          "userBounds": [
+            530,
+            123,
+            null,
+            null
+          ],
+          "bounds": [
+            530,
+            123,
+            99,
+            41
+          ],
+          "content": "[MIGROS](https://ebanking.migrosbank.ch/ssms-services/fcma/ebanking/qrlogin/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-7NSuaghh",
+          "userBounds": [
+            1659,
+            357,
+            null,
+            null
+          ],
+          "bounds": [
+            1659,
+            357,
+            56,
+            41
+          ],
+          "content": "[TTS](https://ttsmaker.com/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-hBBAcPPA",
+          "userBounds": [
+            1356,
+            86,
+            null,
+            null
+          ],
+          "bounds": [
+            1356,
+            86,
+            130,
+            36
+          ],
+          "content": "[LIBRAIRIE.LOL](https://library.lol/main/C2F0EC8C7653EADB45C697F578F30B76)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-bFdJhusC",
+          "userBounds": [
+            1552,
+            99,
+            147.953125,
+            null
+          ],
+          "bounds": [
+            1552,
+            99,
+            148,
+            54
+          ],
+          "content": "[N° TELEPHONE AILLEURS](https://pvaguys.com/)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-BZEGgWF5",
+          "userBounds": [
+            1686,
+            278,
+            null,
+            null
+          ],
+          "bounds": [
+            1686,
+            278,
+            159,
+            41
+          ],
+          "content": "[TEXTTOVOICE](https://www.texttovoice.online/?lang=cmn-CN)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-qlsKavTH",
+          "userBounds": [
+            741,
+            51,
+            null,
+            null
+          ],
+          "bounds": [
+            741,
+            51,
+            164,
+            47
+          ],
+          "content": "# Powerpoints par IA\nGamma",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-KM7f6Guy",
+          "userBounds": [
+            932,
+            50,
+            null,
+            null
+          ],
+          "bounds": [
+            932,
+            50,
+            215,
+            47
+          ],
+          "content": "# Recherche dans base doc\nNotebook LM",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-GzEFaFcV",
+          "userBounds": [
+            4,
+            10,
+            null,
+            null
+          ],
+          "bounds": [
+            4,
+            10,
+            116,
+            41
+          ],
+          "content": "[Operations](http://localhost:3001/operations)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-oRnsWAEW",
+          "userBounds": [
+            61,
+            152,
+            null,
+            null
+          ],
+          "bounds": [
+            61,
+            152,
+            167,
+            41
+          ],
+          "content": "[Optimize Prompt](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-6y7DYn2k",
+          "userBounds": [
+            395,
+            20,
+            null,
+            null
+          ],
+          "bounds": [
+            395,
+            20,
+            130,
+            41
+          ],
+          "content": "[Hungingface](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-pRc4TmuT",
+          "userBounds": [
+            105,
+            66,
+            null,
+            null
+          ],
+          "bounds": [
+            105,
+            66,
+            131,
+            41
+          ],
+          "content": "[NotebookLM](https://notebooklm.google/)",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-Bwdpdkdn",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-i5YzJEfS",
+              "target": "NOTE-ar1N2Zhu"
+            },
+            {
+              "id": "END-TpAQFtaa",
+              "target": "NOTE-tZpTbiDJ"
+            }
+          ]
+        },
+        {
+          "id": "REL-GmgaujUr",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-crbpLomT",
+              "target": "NOTE-ar1N2Zhu"
+            },
+            {
+              "id": "END-hhjfy7IV",
+              "target": "NOTE-iyGnjGlf"
+            }
+          ]
+        },
+        {
+          "id": "REL-htz563Fa",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-rkLhBc78",
+              "target": "NOTE-tZpTbiDJ"
+            },
+            {
+              "id": "END-QDzRhhD8",
+              "target": "NOTE-8r63GTY4"
+            }
+          ]
+        },
+        {
+          "id": "REL-Zx8dMqlP",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-soZ1xzHD",
+              "target": "NOTE-u8ERUbiE"
+            },
+            {
+              "id": "END-vv6sBhuJ",
+              "target": "NOTE-XjsvaPMd"
+            }
+          ]
+        },
+        {
+          "id": "REL-E56VS3iH",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-apVvsv4Q",
+              "target": "NOTE-XjsvaPMd"
+            },
+            {
+              "id": "END-CToCXlsF",
+              "target": "NOTE-tZpTbiDJ"
+            }
+          ]
+        },
+        {
+          "id": "REL-GDgb5dlz",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-YEt4osPh",
+              "target": "NOTE-XjsvaPMd"
+            },
+            {
+              "id": "END-wFIVKffA",
+              "target": "NOTE-MjyNPqwl"
+            }
+          ]
+        },
+        {
+          "id": "REL-UQQwSN4m",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-QIV2ZIHR",
+              "target": "NOTE-XjsvaPMd"
+            },
+            {
+              "id": "END-UopRdWob",
+              "target": "NOTE-thMgXYwP"
+            }
+          ]
+        },
+        {
+          "id": "REL-sf8CuCbh",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Jeac4lov",
+              "target": "NOTE-XjsvaPMd"
+            },
+            {
+              "id": "END-NdFeXbWc",
+              "target": "NOTE-aZepD9JE"
+            }
+          ]
+        },
+        {
+          "id": "REL-fVe4jyhi",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-6Sa3Ib8h",
+              "target": "NOTE-vAKUdRV9"
+            },
+            {
+              "id": "END-Tldvu71M",
+              "target": "NOTE-XjsvaPMd"
+            }
+          ]
+        },
+        {
+          "id": "REL-JqUa1qQ6",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-oLAs2Mh6",
+              "target": "NOTE-eKjsEH5g"
+            },
+            {
+              "id": "END-R3wuucxQ",
+              "target": "NOTE-R19vBT8G"
+            }
+          ]
+        },
+        {
+          "id": "REL-H3aMDvmR",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-EImu3kCd",
+              "target": "NOTE-4hnCQ6h2"
+            },
+            {
+              "id": "END-kNBEGNGC",
+              "target": "NOTE-eKjsEH5g"
+            }
+          ]
+        },
+        {
+          "id": "REL-x1EcbHhT",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-CToFzVK5",
+              "target": "NOTE-4hnCQ6h2"
+            },
+            {
+              "id": "END-jM3CNjCr",
+              "target": "NOTE-tZpTbiDJ"
+            }
+          ]
+        },
+        {
+          "id": "REL-oMhSN159",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Tj169b4r",
+              "target": "NOTE-96MKcCwq"
+            },
+            {
+              "id": "END-UjdH8qkQ",
+              "target": "NOTE-XjsvaPMd"
+            }
+          ]
+        },
+        {
+          "id": "REL-LPLeg51A",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-1scb8Sc3",
+              "target": "NOTE-34loSmr1"
+            },
+            {
+              "id": "END-sxGeKhrG",
+              "target": "NOTE-8r63GTY4"
+            }
+          ]
+        },
+        {
+          "id": "REL-BGq4VvAw",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-9vvFQ4cH",
+              "target": "NOTE-qE979qVF"
+            },
+            {
+              "id": "END-qvfZigVu",
+              "target": "NOTE-34loSmr1"
+            }
+          ]
+        },
+        {
+          "id": "REL-qQ1WdcfY",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Hna8Gf4k",
+              "target": "NOTE-7NSuaghh"
+            },
+            {
+              "id": "END-AgdJVDK1",
+              "target": "NOTE-BZEGgWF5"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "30309fed-3fdf-41ee-b05f-2d4542683588",
+  "docTypeVersion": 1
+}

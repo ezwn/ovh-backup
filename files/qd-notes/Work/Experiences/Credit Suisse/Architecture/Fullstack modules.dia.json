@@ -1,0 +1,232 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-dsRvzmAL",
+        "userBounds": [
+          542,
+          56,
+          193.09375,
+          null
+        ],
+        "content": "# rfi\n---\nRequest For Information support",
+        "bounds": [
+          542,
+          56,
+          193,
+          68
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Bz7VYBUo",
+        "userBounds": [
+          137,
+          352,
+          180.96875,
+          null
+        ],
+        "content": "# comment\n---\nEnables to add, edit and delete comments related to any entity. Supports attached files.",
+        "bounds": [
+          137,
+          352,
+          181,
+          110
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-C8YFVN7V",
+        "userBounds": [
+          323,
+          632,
+          176,
+          null
+        ],
+        "content": "# attachment\n---\nEnables to upload/download files and metadata attached to any entity.",
+        "bounds": [
+          323,
+          632,
+          176,
+          96
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-IkNXplGZ",
+        "userBounds": [
+          560,
+          456,
+          159.796875,
+          null
+        ],
+        "content": "# team\n---\nEnables to select teams sorted by custom groups.",
+        "bounds": [
+          560,
+          456,
+          160,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-zGXIXtjr",
+        "userBounds": [
+          843,
+          514,
+          170.109375,
+          null
+        ],
+        "content": "# dynamic data\n# description\n---\nSupports dynamic data models stored in a database.",
+        "bounds": [
+          843,
+          514,
+          170,
+          118
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-A6s8Dy5z",
+        "userBounds": [
+          976,
+          317,
+          160.109375,
+          null
+        ],
+        "content": "# dynamic data\n# storage\n---\nOffers persistence for data matching dynamic data models.",
+        "bounds": [
+          976,
+          317,
+          160,
+          118
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-3xhjaqkH",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dIpeE8oW",
+            "target": "NOTE-Bz7VYBUo",
+            "attachPointNumber": 5
+          },
+          {
+            "id": "V3HjUqGz",
+            "target": "NOTE-C8YFVN7V",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-XEgI8eok",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "W4H94Y7H",
+            "target": "NOTE-dsRvzmAL",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "hVYwUurl",
+            "target": "NOTE-Bz7VYBUo",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-7VMfnm8u",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "CwcMb8uy",
+            "target": "NOTE-dsRvzmAL",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "ho2sRfQ8",
+            "target": "NOTE-C8YFVN7V",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-cMCWha5k",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UEXvQrB7",
+            "target": "NOTE-dsRvzmAL",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "sxajMjSN",
+            "target": "NOTE-IkNXplGZ",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-Cvaxdhum",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DGqsfsfi",
+            "target": "NOTE-dsRvzmAL",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "END-byNxzLNz",
+            "target": "NOTE-A6s8Dy5z",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-Cs1fRS7o",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-z8Z8ZCjv",
+            "target": "NOTE-dsRvzmAL",
+            "attachPointNumber": 99
+          },
+          {
+            "id": "END-4L3zQcFr",
+            "target": "NOTE-zGXIXtjr",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-MjTHS4Ja",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cLqKLrR8",
+            "target": "NOTE-A6s8Dy5z"
+          },
+          {
+            "id": "END-CoVPaRti",
+            "target": "NOTE-zGXIXtjr",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiCorrespondanceEntreCvEtOffre",
+  "content": {
+    "index": "emploi : correspondance entre cv et offre",
+    "name": "Candidature 20 : correspondance expérience, motivations et offre (emploi)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en conseiller de placement professionnel. Ci-dessous une offre d'emploi, des informations me concernant, et la liste de mes expériences.\n\nPrésente sous la forme de listes de points essentiels et courts :\n\n- jusqu'à 3 caractéristiques motivantes de cette entreprise, qu'elle aimerait probablement qu'on mentionne dans une lettre de motivation. Supprimer cependant celles qui sont standard pour la Suisse, ou qui sont des clichés. Les numéroter A1, A2, A3, ... Pour que je puisse y référer facilement.\n\n- jusqu'à 5 de mes compétences, expériences et projets les plus pertinents pour valoriser mon profil pour candidater. Numéroter B1, B2, B3, ...\n\n- jusqu'à 4 éléments de convergence entre les besoins de l'offre, ma stratégie et mes valeurs. Numéroter C1, C2, C3, ...\n\n---\n\n1. L'offre\n\n${contenuOffre:text}\n\n---\n\n2. Informations sur moi\n\n${infoMoi:text}\n\n---\n\n3. Mes expériences\n\n${cv:text}",
+        "defaultText": null
+      }
+    ]
+  }
+}

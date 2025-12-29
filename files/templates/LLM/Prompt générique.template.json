@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-promptGenerique",
+  "content": {
+    "index": "prompt générique",
+    "name": "Prompt générique",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "${action}\n${contexte}\n${tonalité}\n${identité}\n${format}",
+        "defaultText": null
+      }
+    ]
+  }
+}

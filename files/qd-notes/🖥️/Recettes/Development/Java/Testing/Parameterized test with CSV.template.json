@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-junitParameterizedTestCsv",
+  "content": {
+    "index": "junit parameterized test with csv nsy102",
+    "name": "Junit, Parameterized test with CSV",
+    "templates": [
+      {
+        "id": "code",
+        "textTemplate": "\t@ParameterizedTest\n\t@CsvSource({\"6, 3, 18\", \"1, 0, 0\", \"1, 1, 1\", \"5, 4, 20\"})\n\tvoid testProdParam(int x, int y, int expected) {\n\t\tint actual = calc.prod(x, y);\n\t\tassertEquals(expected, actual);\n\t}",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5haCTLkh",
+        "userBounds": [
+          43,
+          35,
+          288.53125,
+          null
+        ],
+        "bounds": [
+          43,
+          35,
+          289,
+          223
+        ],
+        "content": "[16:16] Basavanagouda Patil\nNo, you need to port manager, graphql server, and nql store\n[16:16] Basavanagouda Patil\n \n8083 - port forward to  - svc-nqlstore-release  \n \nbusiness service1: Container Port:50054\nlocalhost: 50054\n \nbusiness service2: Container Port:8080\nlocalhost: 8085",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-hjk41WfA",
+        "userBounds": [
+          47,
+          282,
+          272.734375,
+          null
+        ],
+        "bounds": [
+          47,
+          282,
+          273,
+          97
+        ],
+        "content": "[16:17] Basavanagouda Patil\nAnd run graphql gateway in your locala\n[16:17] Basavanagouda Patil\nIf all your services are deployed, you can just sync command in UI service",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-PdV5Ww96",
+        "userBounds": [
+          385,
+          202.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          385,
+          202.2620620727539,
+          177,
+          41
+        ],
+        "content": "Generate schema",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uuaqIHuF",
+        "userBounds": [
+          1411,
+          95,
+          null,
+          null
+        ],
+        "bounds": [
+          1411,
+          95,
+          147,
+          41
+        ],
+        "content": "[GLOBAL DOC](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=271624014)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iKrWGccB",
+        "userBounds": [
+          1481,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          1481,
+          194,
+          113,
+          41
+        ],
+        "content": "[Lila's DOC](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=274274859)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-znKiT4qj",
+        "userBounds": [
+          1333,
+          206.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          1333,
+          206.2620620727539,
+          72,
+          41
+        ],
+        "content": "CI/CD",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sh4diPdr",
+        "userBounds": [
+          923,
+          446,
+          null,
+          null
+        ],
+        "bounds": [
+          923,
+          446,
+          144,
+          41
+        ],
+        "content": "[WIDGETS???](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=278972764)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-2VaAF8u5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fKWhjB4C",
+            "target": "NOTE-PdV5Ww96"
+          },
+          {
+            "id": "END-XFSId6ti",
+            "target": "NOTE-5haCTLkh"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZJmxYEtA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TQil6oYE",
+            "target": "NOTE-PdV5Ww96"
+          },
+          {
+            "id": "END-MPauKDl4",
+            "target": "NOTE-hjk41WfA"
+          }
+        ]
+      },
+      {
+        "id": "REL-goJDoAll",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NPacGINl",
+            "target": "NOTE-znKiT4qj"
+          },
+          {
+            "id": "END-cvykP9on",
+            "target": "NOTE-uuaqIHuF"
+          }
+        ]
+      },
+      {
+        "id": "REL-knVwEZot",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9zkWWHVU",
+            "target": "NOTE-znKiT4qj"
+          },
+          {
+            "id": "END-LRP1D5kt",
+            "target": "NOTE-iKrWGccB"
+          }
+        ]
+      }
+    ]
+  }
+}

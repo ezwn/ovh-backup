@@ -1,0 +1,169 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-QJLgwEgT",
+        "userBounds": [
+          414,
+          360,
+          null,
+          null
+        ],
+        "bounds": [
+          414,
+          360,
+          140,
+          87
+        ],
+        "content": "AVION\nPASSAGERS\n3%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-s3koV7c1",
+        "userBounds": [
+          1002,
+          374,
+          null,
+          null
+        ],
+        "bounds": [
+          1002,
+          374,
+          172,
+          41
+        ],
+        "content": "PRODUCTEURS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PsM58MMr",
+        "userBounds": [
+          1320,
+          247,
+          null,
+          null
+        ],
+        "bounds": [
+          1320,
+          247,
+          80,
+          41
+        ],
+        "content": "CHINE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-J6hUMln1",
+        "userBounds": [
+          1336,
+          514,
+          null,
+          null
+        ],
+        "bounds": [
+          1336,
+          514,
+          46,
+          41
+        ],
+        "content": "US",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dyf4b78p",
+        "userBounds": [
+          1316,
+          386,
+          null,
+          null
+        ],
+        "bounds": [
+          1316,
+          386,
+          81,
+          32
+        ],
+        "content": "COSOMME",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-iVmUm42j",
+        "userBounds": [
+          704,
+          381,
+          null,
+          null
+        ],
+        "bounds": [
+          704,
+          381,
+          121,
+          41
+        ],
+        "content": "ACTIVITES",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-CCsXoeoS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qXGhtTW6",
+            "target": "NOTE-J6hUMln1"
+          },
+          {
+            "id": "END-HFhLKzm2",
+            "target": "NOTE-PsM58MMr",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-X4ZEoKBt",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yraDfArk",
+            "target": "NOTE-s3koV7c1"
+          },
+          {
+            "id": "END-Lq9R2ZLy",
+            "target": "NOTE-PsM58MMr"
+          }
+        ]
+      },
+      {
+        "id": "REL-MU4JxDM4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6iut4Dgt",
+            "target": "NOTE-s3koV7c1"
+          },
+          {
+            "id": "END-xtTqRCN3",
+            "target": "NOTE-J6hUMln1"
+          }
+        ]
+      },
+      {
+        "id": "REL-B7BNp6L7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TpADtAok",
+            "target": "NOTE-iVmUm42j"
+          },
+          {
+            "id": "END-qvmRDX9m",
+            "target": "NOTE-QJLgwEgT"
+          }
+        ]
+      }
+    ]
+  }
+}

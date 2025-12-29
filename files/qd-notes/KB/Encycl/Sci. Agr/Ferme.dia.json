@@ -1,0 +1,792 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-1P9kEnkz",
+        "userBounds": [
+          657,
+          350,
+          null,
+          null
+        ],
+        "bounds": [
+          657,
+          350,
+          176,
+          111
+        ],
+        "content": "Ferme\nhydroponique\nautomatique",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-tKDAVudK",
+        "userBounds": [
+          505,
+          381,
+          null,
+          null
+        ],
+        "bounds": [
+          505,
+          381,
+          86,
+          41
+        ],
+        "content": "SPECS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wCw5vSel",
+        "userBounds": [
+          714,
+          204,
+          null,
+          null
+        ],
+        "bounds": [
+          714,
+          204,
+          86,
+          41
+        ],
+        "content": "TECHS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-S2izmuZG",
+        "userBounds": [
+          490,
+          490,
+          null,
+          null
+        ],
+        "bounds": [
+          490,
+          490,
+          111,
+          50
+        ],
+        "content": "PROGRAMME\nPAR PLANTE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-FhmKW39G",
+        "userBounds": [
+          591,
+          193,
+          null,
+          null
+        ],
+        "bounds": [
+          591,
+          193,
+          78,
+          66
+        ],
+        "content": "MIROIRS\nETAGES\nBAS",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-iJjrNCkF",
+        "userBounds": [
+          346,
+          424,
+          null,
+          null
+        ],
+        "bounds": [
+          346,
+          424,
+          119,
+          50
+        ],
+        "content": "AROSAGE\nAUTOMATIQUE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-nWT3Hp34",
+        "userBounds": [
+          499,
+          610,
+          null,
+          null
+        ],
+        "bounds": [
+          499,
+          610,
+          99,
+          41
+        ],
+        "content": "PHASES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5ArJ6ADB",
+        "userBounds": [
+          517,
+          686,
+          null,
+          null
+        ],
+        "bounds": [
+          517,
+          686,
+          111,
+          34
+        ],
+        "content": "CROISSANCE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-1Q48Vvtv",
+        "userBounds": [
+          397,
+          713,
+          null,
+          null
+        ],
+        "bounds": [
+          397,
+          713,
+          99,
+          34
+        ],
+        "content": "FLORAISON",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-T9cN3Uzu",
+        "userBounds": [
+          303,
+          646,
+          null,
+          null
+        ],
+        "bounds": [
+          303,
+          646,
+          134,
+          34
+        ],
+        "content": "FRUCTIFICATION",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-dsslwDer",
+        "userBounds": [
+          931,
+          386,
+          null,
+          null
+        ],
+        "bounds": [
+          931,
+          386,
+          77,
+          41
+        ],
+        "content": "DEFIS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AmHEemyg",
+        "userBounds": [
+          891,
+          254,
+          null,
+          null
+        ],
+        "bounds": [
+          891,
+          254,
+          157,
+          41
+        ],
+        "content": "POLINISATION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-QIarX2Hm",
+        "userBounds": [
+          1084,
+          305,
+          null,
+          null
+        ],
+        "bounds": [
+          1084,
+          305,
+          141,
+          64
+        ],
+        "content": "RECYCLAGE\nEAU",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FG9X5qn9",
+        "userBounds": [
+          1083,
+          423,
+          null,
+          null
+        ],
+        "bounds": [
+          1083,
+          423,
+          210,
+          41
+        ],
+        "content": "REFROIDISSEMENT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UKUCa6dF",
+        "userBounds": [
+          961,
+          490,
+          null,
+          null
+        ],
+        "bounds": [
+          961,
+          490,
+          114,
+          64
+        ],
+        "content": "FILTRAGE\nAIR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7WBfVZeQ",
+        "userBounds": [
+          1158,
+          548,
+          null,
+          null
+        ],
+        "bounds": [
+          1158,
+          548,
+          154,
+          64
+        ],
+        "content": "PHYTO-\nPATHOGENES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZAopKQx6",
+        "userBounds": [
+          326,
+          322,
+          null,
+          null
+        ],
+        "bounds": [
+          326,
+          322,
+          112,
+          41
+        ],
+        "content": "ESPECES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2KUEMH4N",
+        "userBounds": [
+          203,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          203,
+          222,
+          80,
+          41
+        ],
+        "content": "FUNGI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-exocBKwe",
+        "userBounds": [
+          180,
+          337,
+          null,
+          null
+        ],
+        "bounds": [
+          180,
+          337,
+          108,
+          41
+        ],
+        "content": "PLANTAE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l2uQu3h1",
+        "userBounds": [
+          628,
+          96,
+          null,
+          null
+        ],
+        "bounds": [
+          628,
+          96,
+          105,
+          54
+        ],
+        "content": "PANNEAUX\nSOLAIRES",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-EPqyJPXr",
+        "userBounds": [
+          454,
+          266,
+          null,
+          null
+        ],
+        "bounds": [
+          454,
+          266,
+          62,
+          41
+        ],
+        "content": "LIEU",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-3LiGiu7f",
+        "userBounds": [
+          746,
+          20,
+          null,
+          null
+        ],
+        "bounds": [
+          746,
+          20,
+          129,
+          41
+        ],
+        "content": "STOCKAGE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YGrQzLXT",
+        "userBounds": [
+          699,
+          534,
+          null,
+          null
+        ],
+        "bounds": [
+          699,
+          534,
+          172,
+          41
+        ],
+        "content": "COMPETENCES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-53oeEKSA",
+        "userBounds": [
+          876,
+          626,
+          null,
+          null
+        ],
+        "bounds": [
+          876,
+          626,
+          176,
+          41
+        ],
+        "content": "ELECTRONIQUE",
+        "zIndex": 3,
+        "noteStyle": "WARNING"
+      },
+      {
+        "id": "NOTE-gQpdqWlu",
+        "userBounds": [
+          756,
+          683,
+          null,
+          null
+        ],
+        "bounds": [
+          756,
+          683,
+          182,
+          64
+        ],
+        "content": "AGRICULTURE\nHYDROPONIQUE",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-4MSeENUl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F4ttFDxL",
+            "target": "NOTE-tKDAVudK"
+          },
+          {
+            "id": "END-ArtAWkwi",
+            "target": "NOTE-1P9kEnkz"
+          }
+        ]
+      },
+      {
+        "id": "REL-2gT6f3Wb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9o1nYUeI",
+            "target": "NOTE-wCw5vSel"
+          },
+          {
+            "id": "END-3xMdC18N",
+            "target": "NOTE-1P9kEnkz"
+          }
+        ]
+      },
+      {
+        "id": "REL-prGBKFNK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WtQ5Bj2e",
+            "target": "NOTE-S2izmuZG"
+          },
+          {
+            "id": "END-iNB32Llm",
+            "target": "NOTE-tKDAVudK"
+          }
+        ]
+      },
+      {
+        "id": "REL-L8UoUxVH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zuXj2QKR",
+            "target": "NOTE-FhmKW39G"
+          },
+          {
+            "id": "END-wlvvE38U",
+            "target": "NOTE-wCw5vSel"
+          }
+        ]
+      },
+      {
+        "id": "REL-qojz9JuL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PCUJ38X4",
+            "target": "NOTE-iJjrNCkF"
+          },
+          {
+            "id": "END-w8f6KMDX",
+            "target": "NOTE-tKDAVudK"
+          }
+        ]
+      },
+      {
+        "id": "REL-RC8kgul6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hUqautaB",
+            "target": "NOTE-nWT3Hp34"
+          },
+          {
+            "id": "END-zbEKG5zz",
+            "target": "NOTE-S2izmuZG"
+          }
+        ]
+      },
+      {
+        "id": "REL-fiAKScjV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-owBtjAT2",
+            "target": "NOTE-5ArJ6ADB"
+          },
+          {
+            "id": "END-hWemk6Vv",
+            "target": "NOTE-nWT3Hp34"
+          }
+        ]
+      },
+      {
+        "id": "REL-yAN4DNh9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oCaj1ZGG",
+            "target": "NOTE-1Q48Vvtv"
+          },
+          {
+            "id": "END-oVciTyw7",
+            "target": "NOTE-nWT3Hp34"
+          }
+        ]
+      },
+      {
+        "id": "REL-9ASecaou",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rew53jhA",
+            "target": "NOTE-T9cN3Uzu"
+          },
+          {
+            "id": "END-QRqAccER",
+            "target": "NOTE-nWT3Hp34"
+          }
+        ]
+      },
+      {
+        "id": "REL-RqFhwiyI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hJUfsQGy",
+            "target": "NOTE-dsslwDer"
+          },
+          {
+            "id": "END-LLrHjWAS",
+            "target": "NOTE-1P9kEnkz"
+          }
+        ]
+      },
+      {
+        "id": "REL-qpwCz5VC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9Sx7ZX5k",
+            "target": "NOTE-AmHEemyg"
+          },
+          {
+            "id": "END-bFvdH6bQ",
+            "target": "NOTE-dsslwDer"
+          }
+        ]
+      },
+      {
+        "id": "REL-UK2rmFQy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xBU962HX",
+            "target": "NOTE-QIarX2Hm"
+          },
+          {
+            "id": "END-QcyLq7q7",
+            "target": "NOTE-dsslwDer"
+          }
+        ]
+      },
+      {
+        "id": "REL-fQzMhanx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oPfMbh7d",
+            "target": "NOTE-FG9X5qn9"
+          },
+          {
+            "id": "END-MknsHCkz",
+            "target": "NOTE-dsslwDer"
+          }
+        ]
+      },
+      {
+        "id": "REL-HcfkqDeE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ToqiURGY",
+            "target": "NOTE-UKUCa6dF"
+          },
+          {
+            "id": "END-sXBIH2Ca",
+            "target": "NOTE-dsslwDer"
+          }
+        ]
+      },
+      {
+        "id": "REL-o4vZ75df",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Mw5hslP8",
+            "target": "NOTE-7WBfVZeQ"
+          },
+          {
+            "id": "END-5MTheANx",
+            "target": "NOTE-UKUCa6dF"
+          }
+        ]
+      },
+      {
+        "id": "REL-DA7aVFIz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pyBswngZ",
+            "target": "NOTE-ZAopKQx6"
+          },
+          {
+            "id": "END-rRDWxyIl",
+            "target": "NOTE-tKDAVudK"
+          }
+        ]
+      },
+      {
+        "id": "REL-eXut2Llh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BIaBHhGp",
+            "target": "NOTE-ZAopKQx6"
+          },
+          {
+            "id": "END-6frcKaWZ",
+            "target": "NOTE-exocBKwe"
+          }
+        ]
+      },
+      {
+        "id": "REL-rP5Swrth",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oWCtfzFl",
+            "target": "NOTE-ZAopKQx6"
+          },
+          {
+            "id": "END-XxNxhz2f",
+            "target": "NOTE-2KUEMH4N"
+          }
+        ]
+      },
+      {
+        "id": "REL-jjYtrplF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3PuVKsEk",
+            "target": "NOTE-l2uQu3h1"
+          },
+          {
+            "id": "END-RXe5qjQF",
+            "target": "NOTE-wCw5vSel"
+          }
+        ]
+      },
+      {
+        "id": "REL-qtYkHuJu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pwfbgRC7",
+            "target": "NOTE-dsslwDer"
+          },
+          {
+            "id": "END-kSF9L7zF",
+            "target": "NOTE-tKDAVudK"
+          }
+        ]
+      },
+      {
+        "id": "REL-1xQJ5BGW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZT6Nvprm",
+            "target": "NOTE-EPqyJPXr"
+          },
+          {
+            "id": "END-HaHispqa",
+            "target": "NOTE-tKDAVudK"
+          }
+        ]
+      },
+      {
+        "id": "REL-f2bBFJxm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xV2eay9j",
+            "target": "NOTE-3LiGiu7f"
+          },
+          {
+            "id": "END-TUgvNImh",
+            "target": "NOTE-l2uQu3h1"
+          }
+        ]
+      },
+      {
+        "id": "REL-9MkRqKAl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QU9HJsyg",
+            "target": "NOTE-YGrQzLXT"
+          },
+          {
+            "id": "END-nTu1RBJy",
+            "target": "NOTE-1P9kEnkz"
+          }
+        ]
+      },
+      {
+        "id": "REL-LBAkEpks",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-A1TXA99F",
+            "target": "NOTE-53oeEKSA"
+          },
+          {
+            "id": "END-cR5MM1UE",
+            "target": "NOTE-YGrQzLXT"
+          }
+        ]
+      },
+      {
+        "id": "REL-qGyCMLpw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BxnyYfxW",
+            "target": "NOTE-gQpdqWlu"
+          },
+          {
+            "id": "END-dUxrqwZ7",
+            "target": "NOTE-YGrQzLXT"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ZMcMo1f7",
+        "userBounds": [
+          1217,
+          483,
+          null,
+          null
+        ],
+        "bounds": [
+          1217,
+          483,
+          629,
+          317
+        ],
+        "content": "- Approximations réelles.\n- Manipulations algébriques. Calcul littéral. Exposant.\n- Logarithmes. Exponentielles.\n- Fonction linéaire. Fonction affine. Équation de droite.\n- Équations et inéquations du premier et du deuxième degré.\n- Définition d'un angle.\n- Cercle trigonométrique. sinus, cosinus, tangente.\n- Valeurs remarquables.\n- Triangles semblables. Relations trigonométriques dans le triangle.\n- Notion de vecteur. Produit scalaire.\n- Notions de fonction, formule, courbe représentative.\n- Continuité (intuitive). Limites.\n- Nombre dérivé",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-XyVPdU5Q",
+        "userBounds": [
+          814,
+          346,
+          null,
+          null
+        ],
+        "bounds": [
+          814,
+          346,
+          131,
+          41
+        ],
+        "content": "SELECTION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ARQb6pcC",
+        "userBounds": [
+          525,
+          268,
+          null,
+          null
+        ],
+        "bounds": [
+          525,
+          268,
+          197,
+          64
+        ],
+        "content": "APPROXIMATIONS\nREELLES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RlDrjLll",
+        "userBounds": [
+          264,
+          165,
+          null,
+          null
+        ],
+        "bounds": [
+          264,
+          165,
+          211,
+          41
+        ],
+        "content": "[MANUEL PREMIERE](https://mesmanuels.fr/acces-libre/9782017102083)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-wMsJipDs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-78X7BJfx",
+            "target": "NOTE-ARQb6pcC"
+          },
+          {
+            "id": "END-hg7gbHQJ",
+            "target": "NOTE-XyVPdU5Q"
+          }
+        ]
+      }
+    ]
+  }
+}

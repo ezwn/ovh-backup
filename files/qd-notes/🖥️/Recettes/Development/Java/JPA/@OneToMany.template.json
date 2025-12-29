@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaOnetomany",
+  "content": {
+    "index": "jpa onetomany",
+    "name": "Jpa, @OneToMany",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "/**\n * Un forum a un titre et contient une liste de messages.\n */\n@Entity\npublic class Forum {\n    @Id\n    @GeneratedValue(strategy = GenerationType.SEQUENCE)\n    private Long id;\n    private String titre;\n    \n    @OneToMany(mappedBy = \"forum\", cascade = CascadeType.ALL)\n    // ALL = PERSIST, MERGE, REMOVE, REFRESH, DETACH\n    @OrderColumn  // On se rappelle la position des messages...\n    private List<Message> messages = new ArrayList<>();\n    ",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-Xjqg8fwl",
+          "userBounds": [
+            190,
+            228,
+            null,
+            null
+          ],
+          "bounds": [
+            190,
+            228,
+            188,
+            41
+          ],
+          "content": "[INSTALL DOCKER](https://linuxiac.com/how-to-install-docker-on-linux-mint-21/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-ztg3lAfY",
+          "userBounds": [
+            351,
+            333,
+            null,
+            null
+          ],
+          "bounds": [
+            351,
+            333,
+            102,
+            41
+          ],
+          "content": "ON MINT",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-jnkziDIu",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-x8DANsfF",
+              "target": "NOTE-ztg3lAfY"
+            },
+            {
+              "id": "END-IduwYmGJ",
+              "target": "NOTE-Xjqg8fwl"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "209a7d60-06d5-421b-9100-775b207ea4db",
+  "docTypeVersion": 1
+}

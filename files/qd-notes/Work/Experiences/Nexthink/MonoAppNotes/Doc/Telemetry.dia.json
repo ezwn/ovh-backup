@@ -1,0 +1,77 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-n8HPMd6o",
+        "userBounds": [
+          335,
+          213,
+          null,
+          null
+        ],
+        "bounds": [
+          335,
+          213,
+          124,
+          41
+        ],
+        "content": "[E2E Testing](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=EC&title=Telemetry+Cloud+Platform+-+E2E+instructions)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-EKzrMIPz",
+        "userBounds": [
+          592,
+          160,
+          null,
+          null
+        ],
+        "bounds": [
+          592,
+          160,
+          246,
+          41
+        ],
+        "content": "[PROCESS FOR ADDING](https://confluence.intra.nexthink.com/display/PI/Process+for+adding+Telemetry)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wnkbxujo",
+        "userBounds": [
+          545,
+          461,
+          null,
+          null
+        ],
+        "bounds": [
+          545,
+          461,
+          86,
+          41
+        ],
+        "content": "[SPECS](https://confluence.intra.nexthink.com/display/EC/Telemetry+Cloud+Platform+-+Generic+Telemetry+for+BCS#TelemetryCloudPlatformGenericTelemetryforBCS-Architecture)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AezuVVsD",
+        "userBounds": [
+          551,
+          261,
+          152.71875,
+          null
+        ],
+        "bounds": [
+          551,
+          261,
+          153,
+          60
+        ],
+        "content": "[TASK EXAMPLE](https://jira.nexthink.com:1443/browse/MPL-5645)",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "RED"
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VhrJTUvo",
+        "userBounds": [
+          1073,
+          370,
+          null
+        ],
+        "content": "shared",
+        "bounds": [
+          1073,
+          370,
+          98,
+          49
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-7QZV17MD",
+        "userBounds": [
+          802,
+          350,
+          230.25,
+          null
+        ],
+        "content": "5. Frontend\norganization",
+        "bounds": [
+          802,
+          350,
+          230,
+          96
+        ],
+        "fontSize": 34
+      },
+      {
+        "id": "NOTE-YcxmSK3W",
+        "userBounds": [
+          1181,
+          264,
+          null
+        ],
+        "content": "version-browser",
+        "bounds": [
+          1181,
+          264,
+          146,
+          39
+        ],
+        "fontSize": 18
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-TXZ6rqfh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "yBzfuMli",
+            "target": "NOTE-VhrJTUvo"
+          },
+          {
+            "id": "LvcN2qxr",
+            "target": "NOTE-7QZV17MD"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-EoKmztiy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Jczd5G4N",
+            "target": "NOTE-YcxmSK3W"
+          },
+          {
+            "id": "tVdMouJC",
+            "target": "NOTE-VhrJTUvo"
+          }
+        ]
+      }
+    ]
+  }
+}

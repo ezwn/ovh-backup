@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaRunnableInThread",
+  "content": {
+    "index": "java runnable thread execute",
+    "name": "Java, Runnable in Thread",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Thread thread = new Thread(s);\nthread.start();",
+        "defaultText": null
+      }
+    ]
+  }
+}

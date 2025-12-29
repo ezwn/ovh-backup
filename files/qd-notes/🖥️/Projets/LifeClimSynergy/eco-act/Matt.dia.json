@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TpxWyUyV",
+        "userBounds": [
+          237,
+          128,
+          129.359375,
+          null
+        ],
+        "bounds": [
+          237,
+          128,
+          129,
+          87
+        ],
+        "content": "[THE SUPER HE.RO](https://thesuperhe.ro/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-utGdrLSk",
+        "userBounds": [
+          155,
+          292,
+          null,
+          null
+        ],
+        "bounds": [
+          155,
+          292,
+          94,
+          41
+        ],
+        "content": "[GITHUB](https://github.com/mattlevett/thesuperhero.github.io)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DhuUhza2",
+        "userBounds": [
+          185,
+          418,
+          null,
+          null
+        ],
+        "bounds": [
+          185,
+          418,
+          70,
+          41
+        ],
+        "content": "[MIRO](https://miro.com/app/board/uXjVKXqSjwc=/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

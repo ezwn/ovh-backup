@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-awsVault",
+  "content": {
+    "index": "execute an aws command",
+    "name": "Execute an AWS command",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "aws-vault.exe exec ${awsProfileName:AwsProfileName} -- ${command:AwsVaultCommand}",
+        "defaultText": null
+      }
+    ]
+  }
+}

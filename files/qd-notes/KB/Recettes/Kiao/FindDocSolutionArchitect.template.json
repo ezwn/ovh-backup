@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-finddocsolutionarchitect",
+  "content": {
+    "index": "find documents solution architect",
+    "name": "findDocSolutionArchitect",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "I am an expert fullstack Java/React developer, with a few years of experience with microservices (AWS), API design and cloud.\n\nI'd need an article or a movie to explain ... to me for a Solution Architect job, I'll start soon. ",
+        "defaultText": null
+      }
+    ]
+  }
+}

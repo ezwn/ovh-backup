@@ -1,0 +1,385 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-9vmkclo1",
+        "userBounds": [
+          584,
+          357,
+          null,
+          null
+        ],
+        "bounds": [
+          584,
+          357,
+          100,
+          41
+        ],
+        "content": "AWS CLI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ay21zNRq",
+        "userBounds": [
+          525,
+          428,
+          null,
+          null
+        ],
+        "bounds": [
+          525,
+          428,
+          83,
+          32
+        ],
+        "content": "SCRIPTING",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-RYAThza4",
+        "userBounds": [
+          448,
+          388,
+          null,
+          null
+        ],
+        "bounds": [
+          448,
+          388,
+          97,
+          32
+        ],
+        "content": "AUTOMATION",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-6yPrkUZJ",
+        "userBounds": [
+          431,
+          304,
+          null,
+          null
+        ],
+        "bounds": [
+          431,
+          304,
+          103,
+          60
+        ],
+        "content": "MANAGING\nCLOUDWATCH\nALARMS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-HYqNW8uR",
+        "userBounds": [
+          545,
+          297,
+          null,
+          null
+        ],
+        "bounds": [
+          545,
+          297,
+          88,
+          46
+        ],
+        "content": "DEPLOYING\nAPPS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-CuHGGqf2",
+        "userBounds": [
+          315,
+          311,
+          null,
+          null
+        ],
+        "bounds": [
+          315,
+          311,
+          86,
+          51
+        ],
+        "content": "MONITOR\nTHRESHOLDS\nBREACHED",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-jqllfY2Y",
+        "userBounds": [
+          808,
+          235,
+          null,
+          null
+        ],
+        "bounds": [
+          808,
+          235,
+          131,
+          41
+        ],
+        "content": "AWS-VAULT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tnJdCc6j",
+        "userBounds": [
+          1107,
+          322,
+          null,
+          null
+        ],
+        "bounds": [
+          1107,
+          322,
+          110,
+          41
+        ],
+        "content": "KUBECTL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sG2tSycQ",
+        "userBounds": [
+          1139,
+          481,
+          null,
+          null
+        ],
+        "bounds": [
+          1139,
+          481,
+          56,
+          41
+        ],
+        "content": "K9S",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BjuD5EAd",
+        "userBounds": [
+          796,
+          92,
+          null,
+          null
+        ],
+        "bounds": [
+          796,
+          92,
+          159,
+          74
+        ],
+        "content": "SAFE AND CONVENIENT\nSTORAGE\nFOR AWS\nACCESS KEYS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-mcL38huN",
+        "userBounds": [
+          1486,
+          416,
+          null,
+          null
+        ],
+        "bounds": [
+          1486,
+          416,
+          154,
+          41
+        ],
+        "content": "KUBERNETES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SvjINDdn",
+        "userBounds": [
+          1578,
+          293,
+          null,
+          null
+        ],
+        "bounds": [
+          1578,
+          293,
+          148,
+          46
+        ],
+        "content": "RUN & ORCHESTRATE\nCONTAINES",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-LbdAepT8",
+        "userBounds": [
+          1671,
+          483,
+          null,
+          null
+        ],
+        "bounds": [
+          1671,
+          483,
+          99,
+          50
+        ],
+        "content": "AUTOMATIC\nSCALING",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-nLUwjpey",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p2wy77Rs",
+            "target": "NOTE-9vmkclo1"
+          },
+          {
+            "id": "END-dyKR5zpi",
+            "target": "NOTE-HYqNW8uR"
+          }
+        ]
+      },
+      {
+        "id": "REL-LAx4G6r7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J5lj2kSM",
+            "target": "NOTE-9vmkclo1"
+          },
+          {
+            "id": "END-Gin1BSru",
+            "target": "NOTE-6yPrkUZJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-RAnIhAiv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yzWvNaIf",
+            "target": "NOTE-9vmkclo1"
+          },
+          {
+            "id": "END-waKYkupQ",
+            "target": "NOTE-RYAThza4"
+          }
+        ]
+      },
+      {
+        "id": "REL-tweebLdd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LHVkzZs1",
+            "target": "NOTE-9vmkclo1"
+          },
+          {
+            "id": "END-Xt95JS8G",
+            "target": "NOTE-Ay21zNRq"
+          }
+        ]
+      },
+      {
+        "id": "REL-ehLTb5eG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zo7XhMCX",
+            "target": "NOTE-CuHGGqf2"
+          },
+          {
+            "id": "END-9yNev6E8",
+            "target": "NOTE-6yPrkUZJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-GTViovqr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lrdevhYF",
+            "target": "NOTE-jqllfY2Y"
+          },
+          {
+            "id": "END-I7iE7dWV",
+            "target": "NOTE-BjuD5EAd"
+          }
+        ]
+      },
+      {
+        "id": "REL-W1pYsYgc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GAg5EPyF",
+            "target": "NOTE-mcL38huN"
+          },
+          {
+            "id": "END-AXATNXsi",
+            "target": "NOTE-tnJdCc6j",
+            "attachPointNumber": 3,
+            "textOver": {
+              "content": "CLI TO MANAGE >"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-yPlZxlWQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kH6pndUo",
+            "target": "NOTE-mcL38huN"
+          },
+          {
+            "id": "END-ncwPdyyx",
+            "target": "NOTE-SvjINDdn"
+          }
+        ]
+      },
+      {
+        "id": "REL-MlDr8uhD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xef3fGMa",
+            "target": "NOTE-LbdAepT8"
+          },
+          {
+            "id": "END-djuhHAI4",
+            "target": "NOTE-mcL38huN"
+          }
+        ]
+      },
+      {
+        "id": "REL-1q4Yrp9A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9Qpo14jT",
+            "target": "NOTE-sG2tSycQ",
+            "textOver": {
+              "content": "DASHBOARD FOR >"
+            },
+            "attachPointNumber": 3
+          },
+          {
+            "id": "END-JbMJt6wp",
+            "target": "NOTE-mcL38huN"
+          }
+        ]
+      }
+    ]
+  }
+}

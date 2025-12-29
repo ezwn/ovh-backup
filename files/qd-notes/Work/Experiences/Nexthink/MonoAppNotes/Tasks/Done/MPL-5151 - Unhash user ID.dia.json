@@ -1,0 +1,217 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-WFmKCdFz",
+        "userBounds": [
+          571,
+          155,
+          null,
+          null
+        ],
+        "bounds": [
+          571,
+          155,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5151)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oJIQyasm",
+        "userBounds": [
+          138,
+          50,
+          305.09375,
+          null
+        ],
+        "bounds": [
+          138,
+          50,
+          305,
+          87
+        ],
+        "content": "contains information how to test in New Relic that change has been correctly applied",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Xa5SUy9G",
+        "userBounds": [
+          1056,
+          364,
+          null,
+          null
+        ],
+        "bounds": [
+          1056,
+          364,
+          160,
+          41
+        ],
+        "content": "[euf-kafka library](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-kafka/browse)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9oxKi7hi",
+        "userBounds": [
+          1233,
+          529,
+          207.125,
+          null
+        ],
+        "bounds": [
+          1233,
+          529,
+          207,
+          110
+        ],
+        "content": "[it can be found in many Engage Platform microservices](https://bitbucket.intra.nexthink.com/plugins/servlet/search?q=project%3AEUF%20%22euf-kafka%22)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-f1RM784A",
+        "userBounds": [
+          424,
+          528,
+          null,
+          null
+        ],
+        "bounds": [
+          424,
+          528,
+          65,
+          41
+        ],
+        "content": "[Page](https://confluence.intra.nexthink.com/display/MPL/Engineering+Initiatives)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HMUIdVfa",
+        "userBounds": [
+          474,
+          702,
+          null,
+          null
+        ],
+        "bounds": [
+          474,
+          702,
+          65,
+          41
+        ],
+        "content": "[EPIC](https://jira.nexthink.com:1443/browse/MPL-4884)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NCQF2vBq",
+        "userBounds": [
+          520,
+          613,
+          null,
+          null
+        ],
+        "bounds": [
+          520,
+          613,
+          187,
+          41
+        ],
+        "content": "Engineer Initiatives",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JCc38ZoN",
+        "userBounds": [
+          956,
+          619,
+          null,
+          null
+        ],
+        "bounds": [
+          956,
+          619,
+          159,
+          41
+        ],
+        "content": "[PR test schema](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-campaign-manager/commits/29cb7c9493d09653a48324b9585d301e465c4ca6#src/test/java/com/nexthink/euf/telemetry/TelemetryHelperTest.java)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qt6y7ear",
+        "userBounds": [
+          681,
+          220,
+          null,
+          null
+        ],
+        "bounds": [
+          681,
+          220,
+          61,
+          41
+        ],
+        "content": "[BUG](https://jira.nexthink.com:1443/browse/MPL-5245)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-fEcWuPGY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QwrjSgCr",
+            "target": "NOTE-9oxKi7hi"
+          },
+          {
+            "id": "END-BGzhbnzu",
+            "target": "NOTE-Xa5SUy9G"
+          }
+        ]
+      },
+      {
+        "id": "REL-t7Mb9pHq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ynWXuxqZ",
+            "target": "NOTE-NCQF2vBq"
+          },
+          {
+            "id": "END-wiKiMLLp",
+            "target": "NOTE-f1RM784A"
+          }
+        ]
+      },
+      {
+        "id": "REL-TNPZCSIz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rse4hEPl",
+            "target": "NOTE-NCQF2vBq"
+          },
+          {
+            "id": "END-cELyx4ys",
+            "target": "NOTE-HMUIdVfa"
+          }
+        ]
+      },
+      {
+        "id": "REL-alTLiH21",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4dqdY3SX",
+            "target": "NOTE-WFmKCdFz"
+          },
+          {
+            "id": "END-aVaXvmru",
+            "target": "NOTE-qt6y7ear"
+          }
+        ]
+      }
+    ]
+  }
+}

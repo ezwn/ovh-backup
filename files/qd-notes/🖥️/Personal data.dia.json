@@ -1,0 +1,340 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5Pbp2ce4",
+        "userBounds": [
+          84,
+          358,
+          null,
+          null
+        ],
+        "bounds": [
+          84,
+          358,
+          127,
+          57
+        ],
+        "content": "## 124 Go\nCLE CHASSEUR",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-cT5z9gBl",
+        "userBounds": [
+          433,
+          363,
+          null,
+          null
+        ],
+        "bounds": [
+          433,
+          363,
+          93,
+          62
+        ],
+        "content": "## 232 Go\nSDD #1",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xvAWNT8z",
+        "userBounds": [
+          1641,
+          364,
+          null,
+          null
+        ],
+        "bounds": [
+          1641,
+          364,
+          110,
+          62
+        ],
+        "content": "## 1000 Go\nFlash Mx500",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-C3Btjb5K",
+        "userBounds": [
+          975,
+          363,
+          null,
+          null
+        ],
+        "bounds": [
+          975,
+          363,
+          68,
+          60
+        ],
+        "content": "# 8 Go\nLexar",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Lc97ouhh",
+        "userBounds": [
+          947,
+          679,
+          null,
+          null
+        ],
+        "bounds": [
+          947,
+          679,
+          122,
+          57
+        ],
+        "content": "## 6.1 Go\nISO Windows 10",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-8GqDTxXn",
+        "userBounds": [
+          1639,
+          667,
+          null,
+          null
+        ],
+        "bounds": [
+          1639,
+          667,
+          100,
+          86
+        ],
+        "content": "## 331 Go\n## Medias\nnon personnels\ndont Pimsleur",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-UI8jUY8F",
+        "userBounds": [
+          198,
+          687,
+          null,
+          null
+        ],
+        "bounds": [
+          198,
+          687,
+          93,
+          57
+        ],
+        "content": "## 14 Go\nNotes perso",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-xr95S5Yo",
+        "userBounds": [
+          1484,
+          675,
+          null,
+          null
+        ],
+        "bounds": [
+          1484,
+          675,
+          104,
+          57
+        ],
+        "content": "## 44Go\nJeux archivés",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-A2eSgVgw",
+        "userBounds": [
+          1788,
+          664,
+          null,
+          null
+        ],
+        "bounds": [
+          1788,
+          664,
+          96,
+          57
+        ],
+        "content": "## 11 Go\nOS + drivers",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-7CNsxI6i",
+        "userBounds": [
+          22,
+          692,
+          null,
+          null
+        ],
+        "bounds": [
+          22,
+          692,
+          92,
+          57
+        ],
+        "content": "## 12.5 GO\nPhotos",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-tRJeLzzF",
+        "userBounds": [
+          361,
+          43,
+          null,
+          null
+        ],
+        "bounds": [
+          361,
+          43,
+          125,
+          41
+        ],
+        "content": "Desktop PC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m4S6RgLn",
+        "userBounds": [
+          309,
+          362,
+          null,
+          null
+        ],
+        "bounds": [
+          309,
+          362,
+          93,
+          62
+        ],
+        "content": "## 256 Go\nSDD #2",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-YoJlbWA1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8gExCgbi",
+            "target": "NOTE-Lc97ouhh"
+          },
+          {
+            "id": "END-osktnJ5j",
+            "target": "NOTE-C3Btjb5K"
+          }
+        ]
+      },
+      {
+        "id": "REL-9fTYr1di",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-28L2qnsh",
+            "target": "NOTE-8GqDTxXn"
+          },
+          {
+            "id": "END-XvMvegkg",
+            "target": "NOTE-xvAWNT8z"
+          }
+        ]
+      },
+      {
+        "id": "REL-CUjfhjqw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xI8GUtUi",
+            "target": "NOTE-xr95S5Yo"
+          },
+          {
+            "id": "END-iw3zjvLl",
+            "target": "NOTE-xvAWNT8z"
+          }
+        ]
+      },
+      {
+        "id": "REL-KkKQ2UA8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5ljrIwWD",
+            "target": "NOTE-A2eSgVgw"
+          },
+          {
+            "id": "END-8BWuViA7",
+            "target": "NOTE-xvAWNT8z"
+          }
+        ]
+      },
+      {
+        "id": "REL-MvseuFmC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Sov3SSnB",
+            "target": "NOTE-UI8jUY8F"
+          },
+          {
+            "id": "END-BU72sUFc",
+            "target": "NOTE-5Pbp2ce4"
+          }
+        ]
+      },
+      {
+        "id": "REL-HJHrinb6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oeBjedKQ",
+            "target": "NOTE-7CNsxI6i"
+          },
+          {
+            "id": "END-QHRudUsa",
+            "target": "NOTE-5Pbp2ce4"
+          }
+        ]
+      },
+      {
+        "id": "REL-kUtkuKbh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-svsFfnqW",
+            "target": "NOTE-tRJeLzzF"
+          },
+          {
+            "id": "END-bJfNlp57",
+            "target": "NOTE-cT5z9gBl"
+          }
+        ]
+      },
+      {
+        "id": "REL-FYvzESAC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nNw233Az",
+            "target": "NOTE-m4S6RgLn"
+          },
+          {
+            "id": "END-YqvZiIIq",
+            "target": "NOTE-tRJeLzzF"
+          }
+        ]
+      }
+    ]
+  }
+}

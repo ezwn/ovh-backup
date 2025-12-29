@@ -1,0 +1,192 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-zL3euAgk",
+        "userBounds": [
+          691,
+          260,
+          null,
+          null
+        ],
+        "bounds": [
+          691,
+          260,
+          157,
+          60
+        ],
+        "content": "# Théorème\nproposition démontrée",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-rMjZb5Ek",
+        "userBounds": [
+          458,
+          106,
+          208.34375,
+          null
+        ],
+        "bounds": [
+          458,
+          106,
+          208,
+          76
+        ],
+        "content": "# Lemme\nproposition mineure vers théorème",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-FyonxzwD",
+        "userBounds": [
+          434,
+          282,
+          null,
+          null
+        ],
+        "bounds": [
+          434,
+          282,
+          147,
+          60
+        ],
+        "content": "# Corollaire\nconséquence directe",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-N6N71yv5",
+        "userBounds": [
+          927,
+          319,
+          null,
+          null
+        ],
+        "bounds": [
+          927,
+          319,
+          99,
+          41
+        ],
+        "content": "Propriété",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-U3bxXKQP",
+        "userBounds": [
+          638,
+          411,
+          null,
+          null
+        ],
+        "bounds": [
+          638,
+          411,
+          101,
+          41
+        ],
+        "content": "Définition",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BFDWhPH3",
+        "userBounds": [
+          992,
+          429,
+          null,
+          null
+        ],
+        "bounds": [
+          992,
+          429,
+          96,
+          41
+        ],
+        "content": "Exemple",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZrZvdYy1",
+        "userBounds": [
+          782,
+          534,
+          null,
+          null
+        ],
+        "bounds": [
+          782,
+          534,
+          114,
+          41
+        ],
+        "content": "Algorithme",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7H4TGv9D",
+        "userBounds": [
+          723,
+          102,
+          null,
+          null
+        ],
+        "bounds": [
+          723,
+          102,
+          222,
+          60
+        ],
+        "content": "# postulat ou axiome\n= admis",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-4YD28FMR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uTQ4JyT2",
+            "target": "NOTE-FyonxzwD"
+          },
+          {
+            "id": "END-CAjPhr3N",
+            "target": "NOTE-zL3euAgk"
+          }
+        ]
+      },
+      {
+        "id": "REL-vLyzDJ7l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-djwnWGnB",
+            "target": "NOTE-rMjZb5Ek"
+          },
+          {
+            "id": "END-oG7kiFbC",
+            "target": "NOTE-zL3euAgk"
+          }
+        ]
+      },
+      {
+        "id": "REL-EQgvhSUl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lRAzKBK8",
+            "target": "NOTE-7H4TGv9D"
+          },
+          {
+            "id": "END-14zjegp1",
+            "target": "NOTE-zL3euAgk"
+          }
+        ]
+      }
+    ]
+  }
+}

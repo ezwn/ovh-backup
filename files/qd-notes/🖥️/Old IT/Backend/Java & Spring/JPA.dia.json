@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-HGmin8t8",
+        "userBounds": [
+          369,
+          271,
+          null,
+          null
+        ],
+        "content": "@EntityGraph",
+        "zIndex": 3,
+        "bounds": [
+          369,
+          271,
+          144,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

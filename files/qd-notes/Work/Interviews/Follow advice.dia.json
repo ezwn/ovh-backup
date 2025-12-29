@@ -1,0 +1,1068 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-9EYQ86gV",
+        "userBounds": [
+          228,
+          336,
+          null,
+          null
+        ],
+        "content": "reason of\njob changing",
+        "bounds": [
+          228,
+          336,
+          165,
+          80
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-2A1jsHMl",
+        "userBounds": [
+          1092,
+          264,
+          null,
+          null
+        ],
+        "content": "consulted and\nfollowed\nadvice",
+        "bounds": [
+          1092,
+          264,
+          167,
+          102
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-8LRU853h",
+        "userBounds": [
+          1272,
+          18,
+          null,
+          null
+        ],
+        "content": "SG\n---\nPoC\njava\nvalidations\nmethods",
+        "bounds": [
+          1272,
+          18,
+          84,
+          114
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-B1XUKR58",
+        "userBounds": [
+          1378,
+          111,
+          null,
+          null
+        ],
+        "content": "development\ncycle monitoring\npro or agains?",
+        "bounds": [
+          1378,
+          111,
+          134,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-QTbZ9Cg9",
+        "userBounds": [
+          1399,
+          48,
+          null,
+          null
+        ],
+        "content": "which one\ndo you prefer?",
+        "bounds": [
+          1399,
+          48,
+          121,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-2BXPrpYN",
+        "userBounds": [
+          1499,
+          214,
+          null,
+          null
+        ],
+        "content": "Resource\nselection",
+        "bounds": [
+          1499,
+          214,
+          95,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-CHyTfaQg",
+        "userBounds": [
+          1375,
+          195,
+          null,
+          null
+        ],
+        "content": "JIRA notations",
+        "bounds": [
+          1375,
+          195,
+          121,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-n8RgFxCS",
+        "userBounds": [
+          1030,
+          54,
+          null,
+          null
+        ],
+        "content": "PDF export\nArchivist",
+        "bounds": [
+          1030,
+          54,
+          79,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-5HyR5tC7",
+        "userBounds": [
+          995,
+          108,
+          null,
+          null
+        ],
+        "content": "SFI Bridge",
+        "bounds": [
+          995,
+          108,
+          84,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-nsfGAYMU",
+        "userBounds": [
+          962,
+          249,
+          null,
+          null
+        ],
+        "content": "PR\nand linter",
+        "bounds": [
+          962,
+          249,
+          100,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-JXKoaBjZ",
+        "userBounds": [
+          932,
+          340,
+          null,
+          null
+        ],
+        "content": "FORMATING",
+        "bounds": [
+          932,
+          340,
+          101,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-XbQliUU7",
+        "userBounds": [
+          921,
+          177,
+          null,
+          null
+        ],
+        "content": "COMMITS",
+        "bounds": [
+          921,
+          177,
+          84,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-gZH5Qli9",
+        "userBounds": [
+          734,
+          221,
+          null,
+          null
+        ],
+        "content": "ING\n---\n2-levels destructuring\n{ person: { age, name } }",
+        "bounds": [
+          734,
+          221,
+          191,
+          90
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-nvBKG3uR",
+        "userBounds": [
+          1095,
+          139,
+          null,
+          null
+        ],
+        "content": "SOFT\nDESIGN",
+        "bounds": [
+          1095,
+          139,
+          79,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-oUSWwLtj",
+        "userBounds": [
+          853,
+          340,
+          null,
+          null
+        ],
+        "content": "```javascript\n[\na, \nb, \nc,\n]\n```",
+        "bounds": [
+          853,
+          340,
+          58,
+          155
+        ]
+      },
+      {
+        "id": "NOTE-HgieRr2Q",
+        "userBounds": [
+          945,
+          389,
+          null,
+          null
+        ],
+        "content": "```javascript\n[\na, \nb, \nc\n]\n```",
+        "bounds": [
+          945,
+          389,
+          58,
+          155
+        ]
+      },
+      {
+        "id": "NOTE-CFN47Jra",
+        "userBounds": [
+          829,
+          160,
+          null,
+          null
+        ],
+        "content": "chore:",
+        "bounds": [
+          829,
+          160,
+          57,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-jhxuMFLT",
+        "userBounds": [
+          884,
+          79,
+          null,
+          null
+        ],
+        "content": "feat:",
+        "bounds": [
+          884,
+          79,
+          45,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-r2x744CM",
+        "userBounds": [
+          835,
+          117,
+          null,
+          null
+        ],
+        "content": "refactor:",
+        "bounds": [
+          835,
+          117,
+          69,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-is2i4zod",
+        "userBounds": [
+          1115,
+          61,
+          null,
+          null
+        ],
+        "content": "Snapshots\n(Vijay)",
+        "bounds": [
+          1115,
+          61,
+          84,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-4rIqlKqE",
+        "userBounds": [
+          1199,
+          158,
+          null,
+          null
+        ],
+        "content": "PRACTICES",
+        "bounds": [
+          1199,
+          158,
+          132,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-iKRtnyvm",
+        "userBounds": [
+          1298,
+          264,
+          null,
+          null
+        ],
+        "content": "TEAM\nORGANISATION",
+        "bounds": [
+          1298,
+          264,
+          170,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-W2j2KDk2",
+        "userBounds": [
+          1488,
+          165,
+          null,
+          null
+        ],
+        "content": "MICRO-GROOMING",
+        "bounds": [
+          1488,
+          165,
+          149,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-YBhG9Pnz",
+        "userBounds": [
+          126,
+          273,
+          null,
+          null
+        ],
+        "content": "CS",
+        "bounds": [
+          126,
+          273,
+          46,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QP2pZodk",
+        "userBounds": [
+          252,
+          184,
+          null,
+          null
+        ],
+        "content": "SG",
+        "bounds": [
+          252,
+          184,
+          47,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BE99SNRx",
+        "userBounds": [
+          445,
+          239,
+          null,
+          null
+        ],
+        "content": "ING",
+        "bounds": [
+          445,
+          239,
+          54,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-kReYsAas",
+        "userBounds": [
+          405,
+          468,
+          null,
+          null
+        ],
+        "content": "ILEOTECH",
+        "bounds": [
+          405,
+          468,
+          118,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-4HWdGTAD",
+        "userBounds": [
+          173,
+          480,
+          null,
+          null
+        ],
+        "content": "CEGID",
+        "bounds": [
+          173,
+          480,
+          81,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-lfwN6FDB",
+        "userBounds": [
+          345,
+          159,
+          null,
+          null
+        ],
+        "content": "END\nOF\nCONTRACT",
+        "bounds": [
+          345,
+          159,
+          74,
+          51
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-pDiVcjdY",
+        "userBounds": [
+          213,
+          44,
+          null,
+          null
+        ],
+        "content": "GO TO\nSWITZERLAND",
+        "bounds": [
+          213,
+          44,
+          133,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-EMUAF88j",
+        "userBounds": [
+          552,
+          241,
+          null,
+          null
+        ],
+        "content": "MISSED",
+        "bounds": [
+          552,
+          241,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-PH8d5Fnn",
+        "userBounds": [
+          387,
+          593,
+          null,
+          null
+        ],
+        "content": "BECOMING\nCONTRACTOR",
+        "bounds": [
+          387,
+          593,
+          159,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-cqKr5cTV",
+        "userBounds": [
+          132,
+          588,
+          null,
+          null
+        ],
+        "content": "MOVED\nTO RENNES\n(355 km from Paris)",
+        "bounds": [
+          132,
+          588,
+          158,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-5rokq89b",
+        "userBounds": [
+          10,
+          134,
+          null,
+          null
+        ],
+        "content": "BUDGET\nREDUCTION\nLOST BUSINESS\nFIRED RESOURCES",
+        "bounds": [
+          10,
+          134,
+          172,
+          90
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-XA6TisGa",
+        "userBounds": [
+          1073,
+          454,
+          null,
+          null
+        ],
+        "content": "Automation\nEngagement",
+        "bounds": [
+          1073,
+          454,
+          131,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-XmAIL9Eg",
+        "userBounds": [
+          689,
+          354,
+          null,
+          null
+        ],
+        "content": "Engage\nWEB",
+        "bounds": [
+          689,
+          354,
+          87,
+          64
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-4RQgUvuC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZowPcu5C",
+            "target": "NOTE-QTbZ9Cg9"
+          },
+          {
+            "id": "END-4RVqNq1W",
+            "target": "NOTE-8LRU853h"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qz63Kdtm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LRvIKAGo",
+            "target": "NOTE-XbQliUU7"
+          },
+          {
+            "id": "END-Um4hKzpZ",
+            "target": "NOTE-nsfGAYMU"
+          }
+        ]
+      },
+      {
+        "id": "REL-MLBJe8nS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Ea56SBee",
+            "target": "NOTE-nvBKG3uR"
+          },
+          {
+            "id": "END-GZYNDahX",
+            "target": "NOTE-2A1jsHMl"
+          }
+        ]
+      },
+      {
+        "id": "REL-IHQykTge",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5vV1U3A7",
+            "target": "NOTE-nvBKG3uR"
+          },
+          {
+            "id": "END-yI1fahMj",
+            "target": "NOTE-n8RgFxCS"
+          }
+        ]
+      },
+      {
+        "id": "REL-R2ZsvjGd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9DhSgWX3",
+            "target": "NOTE-5HyR5tC7"
+          },
+          {
+            "id": "END-W7PDvBXU",
+            "target": "NOTE-nvBKG3uR"
+          }
+        ]
+      },
+      {
+        "id": "REL-GNZc5dSZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dQ2dltda",
+            "target": "NOTE-JXKoaBjZ"
+          },
+          {
+            "id": "END-2vrxUHRz",
+            "target": "NOTE-oUSWwLtj"
+          }
+        ]
+      },
+      {
+        "id": "REL-EUsnHU5a",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Y6IK9B9E",
+            "target": "NOTE-JXKoaBjZ"
+          },
+          {
+            "id": "END-hSBylZ9u",
+            "target": "NOTE-HgieRr2Q"
+          }
+        ]
+      },
+      {
+        "id": "REL-v4xxGzCm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y9agkvlu",
+            "target": "NOTE-2A1jsHMl"
+          },
+          {
+            "id": "END-FLaggNWs",
+            "target": "NOTE-nsfGAYMU"
+          }
+        ]
+      },
+      {
+        "id": "REL-wZMcr5kC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-USmSbey2",
+            "target": "NOTE-XbQliUU7"
+          },
+          {
+            "id": "END-YYTgNiNY",
+            "target": "NOTE-CFN47Jra"
+          }
+        ]
+      },
+      {
+        "id": "REL-rYux9jTN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-A463zj8K",
+            "target": "NOTE-jhxuMFLT"
+          },
+          {
+            "id": "END-b9rwmwkR",
+            "target": "NOTE-XbQliUU7"
+          }
+        ]
+      },
+      {
+        "id": "REL-qXq2Mkgr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6cHfYiXa",
+            "target": "NOTE-r2x744CM"
+          },
+          {
+            "id": "END-gQQsPTid",
+            "target": "NOTE-XbQliUU7"
+          }
+        ]
+      },
+      {
+        "id": "REL-urgjleuo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ARCqVvrE",
+            "target": "NOTE-JXKoaBjZ"
+          },
+          {
+            "id": "END-W9XiLq5V",
+            "target": "NOTE-nsfGAYMU"
+          }
+        ]
+      },
+      {
+        "id": "REL-R7m4GAAD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-I7XmhwRv",
+            "target": "NOTE-gZH5Qli9"
+          },
+          {
+            "id": "END-Xde87mml",
+            "target": "NOTE-nsfGAYMU"
+          }
+        ]
+      },
+      {
+        "id": "REL-XNEQG9TU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DstbSAhk",
+            "target": "NOTE-is2i4zod"
+          },
+          {
+            "id": "END-65CWregD",
+            "target": "NOTE-nvBKG3uR"
+          }
+        ]
+      },
+      {
+        "id": "REL-sAzwr5Zi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zcPJshDw",
+            "target": "NOTE-4rIqlKqE"
+          },
+          {
+            "id": "END-2cnWRmE8",
+            "target": "NOTE-2A1jsHMl"
+          }
+        ]
+      },
+      {
+        "id": "REL-cCajPrW3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DPtLcynR",
+            "target": "NOTE-8LRU853h"
+          },
+          {
+            "id": "END-AQQtCvxw",
+            "target": "NOTE-4rIqlKqE"
+          }
+        ]
+      },
+      {
+        "id": "REL-dkjHkLtp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oTB8TqZt",
+            "target": "NOTE-iKRtnyvm"
+          },
+          {
+            "id": "END-hY7T3iDa",
+            "target": "NOTE-2A1jsHMl"
+          }
+        ]
+      },
+      {
+        "id": "REL-WuXTaZC3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fq8nMCzl",
+            "target": "NOTE-CHyTfaQg"
+          },
+          {
+            "id": "END-WZ5pVd2c",
+            "target": "NOTE-iKRtnyvm"
+          }
+        ]
+      },
+      {
+        "id": "REL-W9TJIFjc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ciLBdWMK",
+            "target": "NOTE-2BXPrpYN"
+          },
+          {
+            "id": "END-HWbFT8FZ",
+            "target": "NOTE-iKRtnyvm"
+          }
+        ]
+      },
+      {
+        "id": "REL-DL1Z1auW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p6Gn71Ye",
+            "target": "NOTE-B1XUKR58"
+          },
+          {
+            "id": "END-bbVE4Tow",
+            "target": "NOTE-iKRtnyvm"
+          }
+        ]
+      },
+      {
+        "id": "REL-j87PlhHT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-muE4BAVX",
+            "target": "NOTE-W2j2KDk2"
+          },
+          {
+            "id": "END-ci41m25k",
+            "target": "NOTE-iKRtnyvm"
+          }
+        ]
+      },
+      {
+        "id": "REL-Mma5sqJz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EI1Bn5HQ",
+            "target": "NOTE-9EYQ86gV"
+          },
+          {
+            "id": "END-1DV129bo",
+            "target": "NOTE-YBhG9Pnz"
+          }
+        ]
+      },
+      {
+        "id": "REL-jqB3DNlh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vMPiEMRs",
+            "target": "NOTE-QP2pZodk"
+          },
+          {
+            "id": "END-rAkTLlfg",
+            "target": "NOTE-9EYQ86gV"
+          }
+        ]
+      },
+      {
+        "id": "REL-RDKa5rx1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Dszotl8k",
+            "target": "NOTE-BE99SNRx"
+          },
+          {
+            "id": "END-jCi9yY7q",
+            "target": "NOTE-9EYQ86gV"
+          }
+        ]
+      },
+      {
+        "id": "REL-M8xzPn1k",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8TinPlqm",
+            "target": "NOTE-kReYsAas"
+          },
+          {
+            "id": "END-Dceuldec",
+            "target": "NOTE-9EYQ86gV"
+          }
+        ]
+      },
+      {
+        "id": "REL-scZ7Sh45",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cYine1Hh",
+            "target": "NOTE-4HWdGTAD"
+          },
+          {
+            "id": "END-veGVWzSu",
+            "target": "NOTE-9EYQ86gV"
+          }
+        ]
+      },
+      {
+        "id": "REL-LD2G55zb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-H3fPcqwx",
+            "target": "NOTE-lfwN6FDB"
+          },
+          {
+            "id": "END-LFNoJHfM",
+            "target": "NOTE-QP2pZodk"
+          }
+        ]
+      },
+      {
+        "id": "REL-h2jPjFbF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6fSeElPA",
+            "target": "NOTE-lfwN6FDB"
+          },
+          {
+            "id": "END-vhGq7Fki",
+            "target": "NOTE-BE99SNRx"
+          }
+        ]
+      },
+      {
+        "id": "REL-dY7GGNM3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fs4Qlft1",
+            "target": "NOTE-pDiVcjdY"
+          },
+          {
+            "id": "END-f6JFRQ9E",
+            "target": "NOTE-QP2pZodk"
+          }
+        ]
+      },
+      {
+        "id": "REL-uRL1lHU6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XawBE6gw",
+            "target": "NOTE-EMUAF88j"
+          },
+          {
+            "id": "END-G9cX2SAD",
+            "target": "NOTE-BE99SNRx"
+          }
+        ]
+      },
+      {
+        "id": "REL-bZoi2pHT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qZfxzoIp",
+            "target": "NOTE-PH8d5Fnn"
+          },
+          {
+            "id": "END-j8oPswG3",
+            "target": "NOTE-kReYsAas"
+          }
+        ]
+      },
+      {
+        "id": "REL-7PT2htCE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YesY7vEe",
+            "target": "NOTE-cqKr5cTV"
+          },
+          {
+            "id": "END-LLyfmnBo",
+            "target": "NOTE-4HWdGTAD"
+          }
+        ]
+      },
+      {
+        "id": "REL-rQYaNIHR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8t6aBWzf",
+            "target": "NOTE-5rokq89b"
+          },
+          {
+            "id": "END-ezKkpAl4",
+            "target": "NOTE-YBhG9Pnz"
+          }
+        ]
+      }
+    ]
+  }
+}

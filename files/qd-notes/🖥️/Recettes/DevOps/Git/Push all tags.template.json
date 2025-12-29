@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gitPushTags",
+  "content": {
+    "index": "git push all tag tags",
+    "name": "Git, push all tags",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "git push origin --tags",
+        "defaultText": null
+      }
+    ]
+  }
+}

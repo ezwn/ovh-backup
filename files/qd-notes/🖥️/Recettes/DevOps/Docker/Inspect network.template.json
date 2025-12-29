@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerInspectNetwork",
+  "content": {
+    "index": "docker, inspect network",
+    "name": "Docker, inspect network",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker network inspect kafka-network",
+        "defaultText": null
+      }
+    ]
+  }
+}

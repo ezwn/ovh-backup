@@ -1,0 +1,120 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-jCAiTx6T",
+        "userBounds": [
+          838,
+          355,
+          null,
+          null
+        ],
+        "content": "React",
+        "bounds": [
+          838,
+          355,
+          91,
+          50
+        ],
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-2ZfvA3V7",
+        "userBounds": [
+          694,
+          280,
+          null,
+          null
+        ],
+        "content": "MNT",
+        "bounds": [
+          694,
+          280,
+          61,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-1XWwERtI",
+        "userBounds": [
+          751,
+          200,
+          null,
+          null
+        ],
+        "content": "CEGID",
+        "bounds": [
+          751,
+          200,
+          81,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-A4jz9gjx",
+        "userBounds": [
+          866,
+          178,
+          null,
+          null
+        ],
+        "content": "ILEOTECH",
+        "bounds": [
+          866,
+          178,
+          118,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Z245CLdP",
+        "userBounds": [
+          1043,
+          309,
+          null,
+          null
+        ],
+        "content": "SOCIÉTÉ\nGÉNÉRALE",
+        "bounds": [
+          1043,
+          309,
+          127,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-MjUBFAH8",
+        "userBounds": [
+          1023,
+          215,
+          null,
+          null
+        ],
+        "content": "ING",
+        "bounds": [
+          1023,
+          215,
+          54,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-XpEqWtav",
+        "userBounds": [
+          1056,
+          429,
+          null,
+          null
+        ],
+        "content": "CREDIT\nSUISSE",
+        "bounds": [
+          1056,
+          429,
+          92,
+          64
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

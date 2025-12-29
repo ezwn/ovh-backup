@@ -1,0 +1,210 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-WS2BNXT6",
+        "userBounds": [
+          100,
+          85,
+          null,
+          null
+        ],
+        "content": "Ficus ginseng",
+        "bounds": [
+          100,
+          85,
+          141,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-NBj5bwPe",
+        "userBounds": [
+          145,
+          192,
+          null,
+          null
+        ],
+        "content": "Citrus",
+        "bounds": [
+          145,
+          192,
+          70,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QqZrEe3m",
+        "userBounds": [
+          307,
+          126,
+          null,
+          null
+        ],
+        "content": "Plaqueminier",
+        "bounds": [
+          307,
+          126,
+          135,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-4yzjSxtM",
+        "userBounds": [
+          988,
+          345,
+          null,
+          null
+        ],
+        "content": "Nature\ndu sol",
+        "bounds": [
+          988,
+          345,
+          78,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-zZC96MXA",
+        "userBounds": [
+          1158,
+          285,
+          null,
+          null
+        ],
+        "content": "Ensoleillement",
+        "bounds": [
+          1158,
+          285,
+          148,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-CZNUFzld",
+        "userBounds": [
+          1188,
+          407,
+          null,
+          null
+        ],
+        "content": "Climat",
+        "bounds": [
+          1188,
+          407,
+          75,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-cwII2neN",
+        "userBounds": [
+          856,
+          265,
+          null,
+          null
+        ],
+        "content": "Sableux",
+        "bounds": [
+          856,
+          265,
+          90,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5UWggE44",
+        "userBounds": [
+          815,
+          358,
+          null,
+          null
+        ],
+        "content": "Argileux",
+        "bounds": [
+          815,
+          358,
+          90,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-YRBYGzeq",
+        "userBounds": [
+          915,
+          448,
+          null,
+          null
+        ],
+        "content": "Riche",
+        "bounds": [
+          915,
+          448,
+          69,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3FBeg9vP",
+        "userBounds": [
+          263,
+          334,
+          null,
+          null
+        ],
+        "content": "Vigne",
+        "bounds": [
+          263,
+          334,
+          69,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8g1Xmnqu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2EvbZpLr",
+            "target": "NOTE-cwII2neN"
+          },
+          {
+            "id": "END-EGtfF54L",
+            "target": "NOTE-4yzjSxtM"
+          }
+        ]
+      },
+      {
+        "id": "REL-9jrZZne3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kfciyu4w",
+            "target": "NOTE-5UWggE44"
+          },
+          {
+            "id": "END-qMXSnhtg",
+            "target": "NOTE-4yzjSxtM"
+          }
+        ]
+      },
+      {
+        "id": "REL-x74sj34N",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BXDzQhiX",
+            "target": "NOTE-YRBYGzeq"
+          },
+          {
+            "id": "END-hngDl9qJ",
+            "target": "NOTE-4yzjSxtM"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaManytomany",
+  "content": {
+    "index": "jpa, @manytomany",
+    "name": "Jpa, @ManyToMany",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@Entity\n@Table(name=\"student_in_univ\")\npublic class Etudiant {\n\n    @Id\n    @GeneratedValue(strategy = GenerationType.IDENTITY)\n    private Long id;\n\n    private String nom, prenom;\n\n    private String addressePersonnelle;\n\n    @ManyToMany\n    private Set<Cours> cours = new HashSet<>();",
+        "defaultText": null
+      }
+    ]
+  }
+}

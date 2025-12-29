@@ -1,0 +1,276 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Xaq3NmhQ",
+        "userBounds": [
+          635,
+          320,
+          null,
+          null
+        ],
+        "bounds": [
+          635,
+          320,
+          121,
+          41
+        ],
+        "content": "namespace",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-URALnf7R",
+        "userBounds": [
+          439,
+          376,
+          null,
+          null
+        ],
+        "bounds": [
+          439,
+          376,
+          170,
+          87
+        ],
+        "content": "divide\ncluster resources\namong users",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UfxHhwXW",
+        "userBounds": [
+          474,
+          236,
+          null,
+          null
+        ],
+        "bounds": [
+          474,
+          236,
+          146,
+          64
+        ],
+        "content": "avoid\nname conflicts",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5UwpdsIt",
+        "userBounds": [
+          1003,
+          242,
+          null,
+          null
+        ],
+        "bounds": [
+          1003,
+          242,
+          82,
+          41
+        ],
+        "content": "context",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-r5xHeRmr",
+        "userBounds": [
+          1148,
+          152,
+          null,
+          null
+        ],
+        "bounds": [
+          1148,
+          152,
+          153,
+          87
+        ],
+        "content": "named\nset of\naccess params",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-N5QEEvHn",
+        "userBounds": [
+          968,
+          450,
+          null,
+          null
+        ],
+        "bounds": [
+          968,
+          450,
+          51,
+          41
+        ],
+        "content": "pod",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Dl1ozx4Z",
+        "userBounds": [
+          986,
+          571,
+          null,
+          null
+        ],
+        "bounds": [
+          986,
+          571,
+          121,
+          64
+        ],
+        "content": "process\non a cluster",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5Xxl7nfE",
+        "userBounds": [
+          1170,
+          451,
+          null,
+          null
+        ],
+        "bounds": [
+          1170,
+          451,
+          100,
+          41
+        ],
+        "content": "container",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hhJ3tBse",
+        "userBounds": [
+          805,
+          345,
+          null,
+          null
+        ],
+        "bounds": [
+          805,
+          345,
+          221,
+          52
+        ],
+        "content": "KUBERNETES",
+        "zIndex": 3,
+        "fontSize": 30
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-jl73y6Di",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IiQoBP8E",
+            "target": "NOTE-Xaq3NmhQ"
+          },
+          {
+            "id": "END-oZBMkkaZ",
+            "target": "NOTE-URALnf7R"
+          }
+        ]
+      },
+      {
+        "id": "REL-gwcjs47X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-snbBlP5x",
+            "target": "NOTE-Xaq3NmhQ"
+          },
+          {
+            "id": "END-bcvkg93a",
+            "target": "NOTE-UfxHhwXW"
+          }
+        ]
+      },
+      {
+        "id": "REL-eXg8ewjC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DpWBd8gp",
+            "target": "NOTE-r5xHeRmr"
+          },
+          {
+            "id": "END-ATCpqAgQ",
+            "target": "NOTE-5UwpdsIt"
+          }
+        ]
+      },
+      {
+        "id": "REL-X7JzzJTe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pfn3g8zt",
+            "target": "NOTE-Dl1ozx4Z"
+          },
+          {
+            "id": "END-vGV31mps",
+            "target": "NOTE-N5QEEvHn"
+          }
+        ]
+      },
+      {
+        "id": "REL-pq1uWtMb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Hmce7S5D",
+            "target": "NOTE-5Xxl7nfE"
+          },
+          {
+            "id": "END-gbcV2J78",
+            "target": "NOTE-N5QEEvHn",
+            "attachPointNumber": 3,
+            "decoration": "EMPTY_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-AlH3lRFH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8bRB2jHs",
+            "target": "NOTE-hhJ3tBse"
+          },
+          {
+            "id": "END-a3uyoaA4",
+            "target": "NOTE-Xaq3NmhQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-uVvEuuMG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F57LbRPy",
+            "target": "NOTE-hhJ3tBse"
+          },
+          {
+            "id": "END-nz1vXPhX",
+            "target": "NOTE-5UwpdsIt"
+          }
+        ]
+      },
+      {
+        "id": "REL-Yve5NwqP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jrPHuqpL",
+            "target": "NOTE-hhJ3tBse"
+          },
+          {
+            "id": "END-DFMLQURv",
+            "target": "NOTE-N5QEEvHn"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-55fkA9Xe",
+        "userBounds": [
+          404,
+          210,
+          null,
+          null
+        ],
+        "bounds": [
+          404,
+          210,
+          76,
+          41
+        ],
+        "content": "[WAAS](https://github.com/nexthink/live-dashboards.waas)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

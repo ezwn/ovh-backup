@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kiaoGenerationDIllustration",
+  "content": {
+    "index": "kiao : génération d'illustration",
+    "name": "Kiao : génération d'illustration",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Illustration 512×512 pouvant servir d'icône, optimisée pour fond sombre, style réaliste détaillé. Statue réaliste de la déesse de la Justice, yeux bandés, en métal clair avec reflets. Elle tient une balance parfaitement équilibrée, posée sur un épais livre de loi à reliure rouge sombre bien saturé. Composition centrée, proportions harmonieuses, lumière douce et contrastée, détails nets et lisibles même en petite taille.",
+        "defaultText": null
+      }
+    ]
+  }
+}

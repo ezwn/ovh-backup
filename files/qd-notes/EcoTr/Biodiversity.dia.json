@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-CHYXStJY",
+        "userBounds": [
+          912,
+          465,
+          224.265625,
+          null
+        ],
+        "bounds": [
+          912,
+          465,
+          224,
+          64
+        ],
+        "content": "[GLOBAL FOREST WATCH](https://www.globalforestwatch.org/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VFXrZkQp",
+        "userBounds": [
+          750,
+          249,
+          null,
+          null
+        ],
+        "bounds": [
+          750,
+          249,
+          63,
+          41
+        ],
+        "content": "2005",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4ehEvuiU",
+        "userBounds": [
+          719,
+          164,
+          null,
+          null
+        ],
+        "bounds": [
+          719,
+          164,
+          110,
+          34
+        ],
+        "content": "SAMOROST 2",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-mHB7iptw",
+        "userBounds": [
+          571,
+          339,
+          null,
+          null
+        ],
+        "bounds": [
+          571,
+          339,
+          63,
+          41
+        ],
+        "content": "[2001](https://www.jeuxvideo.com/meilleurs/machine-10/decennie-2000/annee-2001/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7HdEfnHk",
+        "userBounds": [
+          415,
+          336,
+          96.046875,
+          null
+        ],
+        "bounds": [
+          415,
+          336,
+          96,
+          60
+        ],
+        "content": "Schizm: Mysterious Journey",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-QlABMxm8",
+        "userBounds": [
+          1282,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          1282,
+          329,
+          191,
+          34
+        ],
+        "content": "Bramble The Mountain King",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-lEyLzQXE",
+        "userBounds": [
+          1192,
+          326,
+          null,
+          null
+        ],
+        "bounds": [
+          1192,
+          326,
+          63,
+          41
+        ],
+        "content": "2023",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CZmKdEGU",
+        "userBounds": [
+          753,
+          375,
+          null,
+          null
+        ],
+        "bounds": [
+          753,
+          375,
+          72,
+          41
+        ],
+        "content": "TOPS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8lGzntXq",
+        "userBounds": [
+          844,
+          746,
+          null,
+          null
+        ],
+        "content": "Mount & Blade:\nWarband",
+        "bounds": [
+          844,
+          746,
+          127,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-zDYoE9cZ",
+        "userBounds": [
+          936,
+          635,
+          null,
+          null
+        ],
+        "bounds": [
+          936,
+          635,
+          118,
+          41
+        ],
+        "content": "STR / RPG",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GARSztB4",
+        "userBounds": [
+          1020,
+          747,
+          null,
+          null
+        ],
+        "bounds": [
+          1020,
+          747,
+          139,
+          50
+        ],
+        "content": "Mount and Blade II:\nBannerlord",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-FoDDMSB8",
+        "userBounds": [
+          627,
+          58,
+          null,
+          null
+        ],
+        "content": "Downfall",
+        "bounds": [
+          627,
+          58,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rxACT7jJ",
+        "userBounds": [
+          959,
+          137,
+          null,
+          null
+        ],
+        "bounds": [
+          959,
+          137,
+          172,
+          36
+        ],
+        "content": "UNDER THE WAVES",
+        "zIndex": 3,
+        "noteStyle": "VIOLET",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-CrNg8vNl",
+        "userBounds": [
+          1151,
+          170,
+          null,
+          null
+        ],
+        "bounds": [
+          1151,
+          170,
+          124,
+          39
+        ],
+        "content": "Outer Worlds",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-KoNVjQQc",
+        "userBounds": [
+          1071,
+          58,
+          null,
+          null
+        ],
+        "bounds": [
+          1071,
+          58,
+          169,
+          36
+        ],
+        "content": "DREAM OF TURTLE",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-wKr4yDpe",
+        "userBounds": [
+          1249,
+          378,
+          null,
+          null
+        ],
+        "bounds": [
+          1249,
+          378,
+          158,
+          41
+        ],
+        "content": "Genshin Impact",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-C9lRBPvn",
+        "userBounds": [
+          1510,
+          295,
+          null
+        ],
+        "content": "! Diablo 3",
+        "bounds": [
+          1510,
+          295,
+          142,
+          55
+        ]
+      },
+      {
+        "id": "NOTE-DZRrHg3V",
+        "userBounds": [
+          1458,
+          208,
+          null
+        ],
+        "content": "! Syberia 4",
+        "bounds": [
+          1458,
+          208,
+          160,
+          55
+        ]
+      },
+      {
+        "id": "NOTE-isHTEoei",
+        "userBounds": [
+          1207,
+          505,
+          null,
+          null
+        ],
+        "content": "Dragon's\nDogma",
+        "bounds": [
+          1207,
+          505,
+          82,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-a66GbywH",
+        "userBounds": [
+          1341,
+          462,
+          null,
+          null
+        ],
+        "bounds": [
+          1341,
+          462,
+          115,
+          41
+        ],
+        "content": "Openworld",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-c5IyX4Q9",
+        "userBounds": [
+          1334,
+          561,
+          null,
+          null
+        ],
+        "bounds": [
+          1334,
+          561,
+          124,
+          41
+        ],
+        "content": "Hack&slash",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5Y3wFwtM",
+        "userBounds": [
+          1710,
+          641,
+          null,
+          null
+        ],
+        "bounds": [
+          1710,
+          641,
+          104,
+          60
+        ],
+        "content": "Baldur's Gate III\n---\nNot openworld",
+        "zIndex": 3,
+        "noteStyle": "VIOLET",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-7bTymeI6",
+        "userBounds": [
+          1715,
+          711,
+          null,
+          null
+        ],
+        "content": "Les Royaumes\nd'Amalur : Reckoning\n---\nPas openworld",
+        "bounds": [
+          1715,
+          711,
+          132,
+          74
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-ivcKCuhT",
+        "userBounds": [
+          1516,
+          114,
+          null,
+          null
+        ],
+        "bounds": [
+          1516,
+          114,
+          120,
+          41
+        ],
+        "content": "God of War",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cMdopkjE",
+        "userBounds": [
+          917,
+          362,
+          null,
+          null
+        ],
+        "content": "Video\ngames",
+        "bounds": [
+          917,
+          362,
+          108,
+          86
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-poP5SPaG",
+        "userBounds": [
+          963,
+          295,
+          null,
+          null
+        ],
+        "content": "Click & point",
+        "bounds": [
+          963,
+          295,
+          129,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-uFKaJz6F",
+        "userBounds": [
+          1065,
+          474,
+          null,
+          null
+        ],
+        "content": "RPG",
+        "bounds": [
+          1065,
+          474,
+          61,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-DU2r2PA5",
+        "userBounds": [
+          328,
+          128,
+          null,
+          null
+        ],
+        "bounds": [
+          328,
+          128,
+          168,
+          41
+        ],
+        "content": "[LAST OF US DE](https://fitgirl-repacks.site/the-last-of-us-part-1/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-LVEsnLVI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mNRwPZ6X",
+            "target": "NOTE-7HdEfnHk"
+          },
+          {
+            "id": "END-tfCNEGTk",
+            "target": "NOTE-mHB7iptw"
+          }
+        ]
+      },
+      {
+        "id": "REL-DX6M18nx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IZjU5UWv",
+            "target": "NOTE-4ehEvuiU"
+          },
+          {
+            "id": "END-dZU89JXw",
+            "target": "NOTE-VFXrZkQp"
+          }
+        ]
+      },
+      {
+        "id": "REL-BaGTyZp8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Zh9RazoE",
+            "target": "NOTE-QlABMxm8"
+          },
+          {
+            "id": "END-Aw28BCol",
+            "target": "NOTE-lEyLzQXE"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZqSF3dHV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8pzgeshJ",
+            "target": "NOTE-zDYoE9cZ"
+          },
+          {
+            "id": "END-t1UA8bBg",
+            "target": "NOTE-8lGzntXq"
+          }
+        ]
+      },
+      {
+        "id": "REL-QHj1nFvb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YqYKCuBH",
+            "target": "NOTE-zDYoE9cZ"
+          },
+          {
+            "id": "END-pV5BbBoR",
+            "target": "NOTE-GARSztB4"
+          }
+        ]
+      },
+      {
+        "id": "REL-yvTeYSRn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tGuIyZWC",
+            "target": "NOTE-cMdopkjE"
+          },
+          {
+            "id": "END-KUCi7uES",
+            "target": "NOTE-poP5SPaG"
+          }
+        ]
+      },
+      {
+        "id": "REL-u22Nzk1I",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dPfIGaos",
+            "target": "NOTE-cMdopkjE"
+          },
+          {
+            "id": "END-Iz5BrD1j",
+            "target": "NOTE-uFKaJz6F"
+          }
+        ]
+      }
+    ]
+  }
+}

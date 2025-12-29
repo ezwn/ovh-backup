@@ -1,0 +1,42 @@
+Characteristics:
+    - Physical:
+        - Body:
+            - Size
+            - Shape
+            - Coloration
+        - Organs/appendages:
+            - Size
+            - Shape
+    - Internal functioning:
+        - Metabolic rate
+        - Thermoregulation
+        - Stress resistance:
+            - Drought
+            - Cold
+Events and timing:
+    - Biological events:
+        - Life cycle timing:
+            - Plants:
+                - Flowering time
+            - Birds:
+                - Migration timing
+    - Life-history:
+        - Maturity:
+            - Age
+            - Size
+        - Offspring:
+            - Number
+            - Size
+        - Lifespan
+        - Growth
+        - Reproduction
+Behaviors:
+    - Mating habits
+    - Feeding preferences
+    - Aggressiveness
+Abilities:
+    - Performance measures:
+        - Speed:
+            - Running
+        - Strength
+        - Cognitive abilities

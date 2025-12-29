@@ -1,0 +1,145 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ko7QDZs1",
+        "userBounds": [
+          600,
+          418,
+          null,
+          null
+        ],
+        "content": "! métanisation\n! déchets verts",
+        "bounds": [
+          600,
+          418,
+          183,
+          76
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-IwmAjggm",
+        "userBounds": [
+          638,
+          318,
+          null,
+          null
+        ],
+        "content": "[Tente à Gaz](https://www.homebiogas.com/product/homebiogas-2/)",
+        "bounds": [
+          638,
+          318,
+          126,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QNJwu8mj",
+        "userBounds": [
+          831,
+          385,
+          null,
+          null
+        ],
+        "content": "[Usine](https://www.energie-environnement.ch/dechets-recyclage/1432)",
+        "bounds": [
+          831,
+          385,
+          69,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ShQVTnl8",
+        "userBounds": [
+          790,
+          522,
+          null,
+          null
+        ],
+        "content": "[Vidéo complète](https://www.youtube.com/watch?v=FGUyd2cX3SE)",
+        "bounds": [
+          790,
+          522,
+          156,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rd492Ml8",
+        "userBounds": [
+          632,
+          554,
+          null,
+          null
+        ],
+        "content": "[Schémas](https://www.upcycle.org/compostage-ou-methanisation-des-biodechets-comment-choisir/)",
+        "bounds": [
+          632,
+          554,
+          101,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-xHKCTxrC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jWJFb5Zo",
+            "target": "NOTE-ko7QDZs1"
+          },
+          {
+            "id": "END-YqLuz5zp",
+            "target": "NOTE-IwmAjggm"
+          }
+        ]
+      },
+      {
+        "id": "REL-VBIlCTaq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-osHPflep",
+            "target": "NOTE-ko7QDZs1"
+          },
+          {
+            "id": "END-1Gy5V2Gr",
+            "target": "NOTE-QNJwu8mj"
+          }
+        ]
+      },
+      {
+        "id": "REL-bb7KoVsn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-enl4Ihqo",
+            "target": "NOTE-ko7QDZs1"
+          },
+          {
+            "id": "END-lblQjRyA",
+            "target": "NOTE-ShQVTnl8"
+          }
+        ]
+      },
+      {
+        "id": "REL-WcnZ6s7F",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QvBjVqH6",
+            "target": "NOTE-ko7QDZs1"
+          },
+          {
+            "id": "END-hHzceyC7",
+            "target": "NOTE-rd492Ml8"
+          }
+        ]
+      }
+    ]
+  }
+}

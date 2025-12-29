@@ -1,0 +1,109 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-CMEKKD68",
+        "userBounds": [
+          14,
+          31,
+          null,
+          null
+        ],
+        "bounds": [
+          14,
+          31,
+          129,
+          41
+        ],
+        "content": "[Page CNAM](https://formation.cnam.fr/rechercher-par-discipline/outils-mathematiques-pour-informatique-1004471.kjsp?RF=)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7RLJgSPL",
+        "userBounds": [
+          349,
+          216,
+          null,
+          null
+        ],
+        "content": "## [ENF](https://lecnam.net/accueil)\n---\nID: nicolas.enzweiler.auditeur\nMDP: 13@@@@@Mm",
+        "bounds": [
+          349,
+          216,
+          174,
+          80
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-iswl5eCf",
+        "userBounds": [
+          346,
+          531,
+          null,
+          null
+        ],
+        "content": "# [Portail Elève](https://portaileleve.cnam.fr/sites/st/Pages/st-cnx.aspx)\n\nID : enzwe_ni\nMDP: KgXwN6Ns",
+        "bounds": [
+          346,
+          531,
+          152,
+          92
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-15qCd6d6",
+        "userBounds": [
+          50,
+          119,
+          null,
+          null
+        ],
+        "content": "## Portail Eleve\n## Compte inactif ?\n\nID : enzwei_n\nMDP : E775555N",
+        "bounds": [
+          50,
+          119,
+          193,
+          124
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-7KRx4XrK",
+        "userBounds": [
+          52,
+          282,
+          null,
+          null
+        ],
+        "content": "## INFOS\n\nINE: 0g5drnauc17\nemail: enzwe_ni@auditeur.cnam.fr",
+        "bounds": [
+          52,
+          282,
+          264,
+          98
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-sbhZ7mAt",
+        "userBounds": [
+          629,
+          317,
+          null,
+          null
+        ],
+        "bounds": [
+          629,
+          317,
+          206,
+          41
+        ],
+        "content": "Wz_ZG@3f5Bzb=hR",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

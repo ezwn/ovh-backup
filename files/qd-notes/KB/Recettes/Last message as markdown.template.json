@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmLastMessageAsMarkdonw",
+  "content": {
+    "index": "llm last message as markdown",
+    "name": "LLM, last message as markdown",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Pour mes notes de révision, pourrais-tu me donner ton dernier message en markdown, avec à l'intérieur des éléments latex ? Ils doivent être ouverts et fermés par \"$$\", et cela vaut autant pour ceux qui sont \"inline\" que pour les blocks entiers.",
+        "defaultText": null
+      }
+    ]
+  }
+}

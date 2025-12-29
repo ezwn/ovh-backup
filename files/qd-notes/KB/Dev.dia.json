@@ -1,0 +1,335 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-X2boPWKM",
+          "userBounds": [
+            68,
+            76,
+            null,
+            null
+          ],
+          "bounds": [
+            68,
+            76,
+            178,
+            41
+          ],
+          "content": "[Googl TTS Online](https://console.cloud.google.com/speech/text-to-speech)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-9AynGDf1",
+          "userBounds": [
+            55,
+            158,
+            null,
+            null
+          ],
+          "bounds": [
+            55,
+            158,
+            64,
+            41
+          ],
+          "content": "[Archi](https://kiao-lp.github.io/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-ySwlaA37",
+          "userBounds": [
+            167,
+            622,
+            null,
+            null
+          ],
+          "bounds": [
+            167,
+            622,
+            110,
+            41
+          ],
+          "content": "[ADMINER](http://localhost:8080/?pgsql=db&username=postgres&db=kiao_account_store&ns=public&select=kiao_account)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-ItEVtHG2",
+          "userBounds": [
+            314,
+            545,
+            null,
+            null
+          ],
+          "bounds": [
+            314,
+            545,
+            139,
+            41
+          ],
+          "content": "LOCALHOST",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-7L77lfSG",
+          "userBounds": [
+            161,
+            287.70486068725586,
+            null,
+            null
+          ],
+          "bounds": [
+            161,
+            287.70486068725586,
+            110,
+            41
+          ],
+          "content": "[ADMINER](https://kiao-lp.app/adminer/?pgsql=db&username=postgres&db=kiao_catalog&ns=public)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-kiyhs6ap",
+          "userBounds": [
+            348,
+            254.70486068725586,
+            null,
+            null
+          ],
+          "bounds": [
+            348,
+            254.70486068725586,
+            61,
+            41
+          ],
+          "content": "OVH",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-fSydW7Lv",
+          "userBounds": [
+            373,
+            128,
+            null,
+            null
+          ],
+          "bounds": [
+            373,
+            128,
+            75,
+            34
+          ],
+          "content": "[DEV Env](http://localhost:3000/notes/DEVXXXXXXXXXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-3IICf5lG",
+          "userBounds": [
+            394,
+            426,
+            null,
+            null
+          ],
+          "bounds": [
+            394,
+            426,
+            143,
+            41
+          ],
+          "content": "[app password](https://myaccount.google.com/apppasswords)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-fe5XP2b3",
+          "userBounds": [
+            331,
+            654,
+            null,
+            null
+          ],
+          "bounds": [
+            331,
+            654,
+            96,
+            41
+          ],
+          "content": "[keycloak](http://localhost:8085/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-kB49LnDK",
+          "userBounds": [
+            300,
+            342,
+            null,
+            null
+          ],
+          "bounds": [
+            300,
+            342,
+            96,
+            41
+          ],
+          "content": "[keycloak](https://www.kiao-lp.app/auth/admin)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-krZDk2td",
+          "userBounds": [
+            123,
+            539,
+            null,
+            null
+          ],
+          "bounds": [
+            123,
+            539,
+            115,
+            41
+          ],
+          "content": "[Node-RED](http://localhost:1880/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-PFUFpmMB",
+          "userBounds": [
+            526,
+            199,
+            null,
+            null
+          ],
+          "bounds": [
+            526,
+            199,
+            82,
+            36
+          ],
+          "content": "[node-red](https://kiao-lp.app/news/node-red/)",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-ilUN8Nby",
+          "userBounds": [
+            463,
+            259,
+            null,
+            null
+          ],
+          "bounds": [
+            463,
+            259,
+            65,
+            41
+          ],
+          "content": "news",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-K4KVkYwr",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-cJKJUNR6",
+              "target": "NOTE-ItEVtHG2"
+            },
+            {
+              "id": "END-WVU2bCdl",
+              "target": "NOTE-ySwlaA37"
+            }
+          ]
+        },
+        {
+          "id": "REL-Kuea4HEm",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-921wXYfR",
+              "target": "NOTE-7L77lfSG"
+            },
+            {
+              "id": "END-SuxjtFwi",
+              "target": "NOTE-kiyhs6ap"
+            }
+          ]
+        },
+        {
+          "id": "REL-MCJRvDW8",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-9ERk1VR5",
+              "target": "NOTE-fe5XP2b3"
+            },
+            {
+              "id": "END-j4Lvs9JM",
+              "target": "NOTE-ItEVtHG2"
+            }
+          ]
+        },
+        {
+          "id": "REL-8Pk3HstS",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-MYEPq1fW",
+              "target": "NOTE-kB49LnDK"
+            },
+            {
+              "id": "END-191s52kN",
+              "target": "NOTE-kiyhs6ap"
+            }
+          ]
+        },
+        {
+          "id": "REL-mGKDZCLG",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-KHDw1awc",
+              "target": "NOTE-krZDk2td"
+            },
+            {
+              "id": "END-ZLtPHa2R",
+              "target": "NOTE-ItEVtHG2"
+            }
+          ]
+        },
+        {
+          "id": "REL-c6WGgDab",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-swALjR6t",
+              "target": "NOTE-ilUN8Nby"
+            },
+            {
+              "id": "END-YZ7oSrWD",
+              "target": "NOTE-kiyhs6ap"
+            }
+          ]
+        },
+        {
+          "id": "REL-b6CfJQCT",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-YJF7siYK",
+              "target": "NOTE-PFUFpmMB"
+            },
+            {
+              "id": "END-tiNUt8yv",
+              "target": "NOTE-ilUN8Nby"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "e105ce9a-0a0a-42b1-b271-2fbbe719212b",
+  "docTypeVersion": 1
+}

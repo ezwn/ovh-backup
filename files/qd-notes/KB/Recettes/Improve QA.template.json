@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmImproveQuestionResponse",
+  "content": {
+    "index": "llm, improve question response",
+    "name": "LLM, improve question/response",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Je voudrais que tu crées une unité d'apprentissage par répétition espacée d'exercices oraux de rappel/correction à partir des notes que je vais te donner. Cette unité est un texte qui contient des titres délimitant des sections, et des exercices dans ces sections. Un exercice est constitué d'une question et d'une, ou si c'est inévitable plusieurs, réponse(s). Voici un court exemple d'unité.\n\nExemple d'unité :\n\n```\n# Économie : introduction\n\n## Le problème économique\n\nQuelles sont les trois paramètres du problème économique ?\nCe qu'il faut produire, comment le produire et qui obtient la production.\n\nQuelles sont les trois catégories principales de ressources économiques ?\nTerres, travail et capital.\n\n## Rareté et choix\n\nQuelle est la définition économique de la rareté ?\nLes ressources disponibles sont insuffisantes pour satisfaire tous les désirs humains.\n\nQuels sont les trois niveaux d'analyse de l'économie ?\n- décisions individuelles\n- interactions entre acteurs économiques\n- phénomènes économiques globaux\n```\n\nRemarque : Les réponses suivent les questions sans saut de ligne (c'est ainsi que l'exercice est délimité).\n\nL'application utilisant l'unité fonctionne ainsi :\n\n1. elle détermine quels exercices doivent être travaillés maintenant, et les marque \"à faire\".\n2. dans chaque section feuille, elle mélange les exercices aléatoirement.\n3. elle parcours l'unité du haut vers le bas et lit les titre des sections qui contiennent des exercices à faire...\n4. quand elle rencontre un exercice, elle lit la question, laisse le temps de répondre, donne la correction, et demande un feedback.\n\nIl faut donc, pour gagner en efficacité d'apprentissage et favoriser la mémorisation d'informations utiles, être exact, très bref, précis et pertinent. Les exercices doivent rester faisables même si on randomise leur ordre. Il faut, pour chaque exercice, que la question contienne les informations présentes dans la situation d'application des connaissances, et les réponses doivent contenir les informations utiles.\n\nVoici les notes à convertir en unité.\n\nNotes à convertir :\n\n```\n...\n\n```\n\nJe récapitule : pourrais-tu produire l'unité de révision correspondant aux notes que je t'ai fournies, tout optimisant l'exactitude, la précision et la concision ?",
+        "defaultText": null
+      }
+    ]
+  }
+}

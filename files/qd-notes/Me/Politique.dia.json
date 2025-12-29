@@ -1,0 +1,471 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-46QFgMh6",
+        "userBounds": [
+          854,
+          365,
+          null
+        ],
+        "content": "Mesures",
+        "bounds": [
+          854,
+          365,
+          156,
+          60
+        ],
+        "fontSize": 36
+      },
+      {
+        "id": "NOTE-fze48WHu",
+        "userBounds": [
+          795,
+          169,
+          null,
+          null
+        ],
+        "content": "Dév. massif\ntransports en commun",
+        "bounds": [
+          795,
+          169,
+          217,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-6yKb1LWI",
+        "userBounds": [
+          871,
+          80,
+          null,
+          null
+        ],
+        "content": "Baisses taxes carburants\nrégions sans transports",
+        "bounds": [
+          871,
+          80,
+          241,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-Fb3FRLRc",
+        "userBounds": [
+          997,
+          268,
+          null
+        ],
+        "content": "Transports",
+        "bounds": [
+          997,
+          268,
+          141,
+          49
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-2kT6gbQG",
+        "userBounds": [
+          1096,
+          378,
+          null
+        ],
+        "content": "Energie",
+        "bounds": [
+          1096,
+          378,
+          108,
+          49
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-WIa6ohdb",
+        "userBounds": [
+          1244,
+          301,
+          null
+        ],
+        "content": "Renouvelable",
+        "bounds": [
+          1244,
+          301,
+          140,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-uVhS3TpY",
+        "userBounds": [
+          1225,
+          181,
+          null
+        ],
+        "content": "# Stockage hydrolique\nstockage hydraulique gravitaire",
+        "bounds": [
+          1225,
+          181,
+          207,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-SCagaHcb",
+        "userBounds": [
+          954,
+          513,
+          null
+        ],
+        "content": "Environnement",
+        "bounds": [
+          954,
+          513,
+          193,
+          49
+        ],
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-E2TS6k4U",
+        "userBounds": [
+          1093,
+          598,
+          null
+        ],
+        "content": "Crime contre\nla vie",
+        "bounds": [
+          1093,
+          598,
+          132,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-DyvLx5KW",
+        "userBounds": [
+          707,
+          443,
+          null
+        ],
+        "content": "Répression",
+        "bounds": [
+          707,
+          443,
+          119,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-bXwUM8ju",
+        "userBounds": [
+          676,
+          559,
+          null
+        ],
+        "content": "Pas de déli\ninpunis",
+        "bounds": [
+          676,
+          559,
+          117,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-sSZLwBet",
+        "userBounds": [
+          507,
+          468,
+          null
+        ],
+        "content": "+\nd'inspection\nservice publics",
+        "bounds": [
+          507,
+          468,
+          149,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-TV7iDcIg",
+        "userBounds": [
+          693,
+          314,
+          null,
+          null
+        ],
+        "content": "Travail",
+        "bounds": [
+          693,
+          314,
+          89,
+          46
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-BB1CNRdH",
+        "userBounds": [
+          497,
+          209,
+          null,
+          null
+        ],
+        "content": "Souplesse\n(licenciement)",
+        "bounds": [
+          497,
+          209,
+          142,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-fLbS8RMl",
+        "userBounds": [
+          581,
+          41,
+          null,
+          null
+        ],
+        "content": "Hausse\nrégions avec transport",
+        "bounds": [
+          581,
+          41,
+          216,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-diQtf9UR",
+        "userBounds": [
+          356,
+          363,
+          null,
+          null
+        ],
+        "content": "# banir Etiquettes collées",
+        "bounds": [
+          356,
+          363,
+          269,
+          44
+        ],
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-52VeG22m",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "wGXmhNDX",
+            "target": "NOTE-Fb3FRLRc"
+          },
+          {
+            "id": "V6qq1ZQX",
+            "target": "NOTE-fze48WHu"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-afJ9TmUx",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "5y3wk16u",
+            "target": "NOTE-Fb3FRLRc"
+          },
+          {
+            "id": "3AoxlbiX",
+            "target": "NOTE-6yKb1LWI"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-2KL4T9zI",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "xKIa8GG1",
+            "target": "NOTE-Fb3FRLRc"
+          },
+          {
+            "id": "p2cS8QwN",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-6KfCNqhP",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "wZXLe7ZD",
+            "target": "NOTE-2kT6gbQG"
+          },
+          {
+            "id": "2xT7bVgH",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-DtMVyUrs",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "4ICW5rBF",
+            "target": "NOTE-WIa6ohdb"
+          },
+          {
+            "id": "EJX4ujAf",
+            "target": "NOTE-2kT6gbQG"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-W2UKgoCw",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "sUMb1LEq",
+            "target": "NOTE-uVhS3TpY"
+          },
+          {
+            "id": "yxIwFgAT",
+            "target": "NOTE-WIa6ohdb"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-ZUE8bIyj",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "VB7wVn1S",
+            "target": "NOTE-SCagaHcb"
+          },
+          {
+            "id": "NyDDWvAQ",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-QTRaMY9R",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UuJCqLCT",
+            "target": "NOTE-E2TS6k4U"
+          },
+          {
+            "id": "lBt2x1q2",
+            "target": "NOTE-SCagaHcb"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-dzslzjI8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "NUPSIIBs",
+            "target": "NOTE-DyvLx5KW"
+          },
+          {
+            "id": "r5Buc26F",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-mGFVmx1o",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "g8s3Sjji",
+            "target": "NOTE-bXwUM8ju"
+          },
+          {
+            "id": "p6Qxd5Hf",
+            "target": "NOTE-DyvLx5KW"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-l72ztD4L",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "PQ8QMqSw",
+            "target": "NOTE-sSZLwBet"
+          },
+          {
+            "id": "Y1rsnBdR",
+            "target": "NOTE-DyvLx5KW"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-WBPZg9TK",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "oj8PK4TU",
+            "target": "NOTE-TV7iDcIg"
+          },
+          {
+            "id": "73vuom1s",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-pDXtEGZL",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "TUhMNaEh",
+            "target": "NOTE-BB1CNRdH"
+          },
+          {
+            "id": "dHSwY66s",
+            "target": "NOTE-TV7iDcIg"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-isXGrrnp",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "tggjcsUz",
+            "target": "NOTE-fLbS8RMl"
+          },
+          {
+            "id": "MrNWNXyC",
+            "target": "NOTE-6yKb1LWI"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-fondantDAubergineALAil",
+  "content": {
+    "index": "cuisine chine chinois fondant aubergine ail rapide entrée",
+    "name": "Fondant d’Aubergine à l’Ail",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Fondant d’Aubergine à l’Ail\n\n**Préparation** : 10 minutes  \n**Cuisson** : 15 minutes  \n\n### Ingrédients\n- 1 aubergine allongée  \n- ¼ de botte de ciboulette  \n- 2 gousses d’ail  \n- 2 c. à s. de sauce soja  \n- 1 c. à c. de **purée de piments rouges**\n- ½ cube de bouillon de volaille écrasé en poudre  \n- 1 c. à s. de vinaigre de riz chinois  \n- 1 c. à s. d’huile de sésame  \n\n### Instructions\n1. **Préparer l’aubergine**  \n   Lavez l’aubergine puis coupez-la en fines lamelles dans le sens de la longueur.  \n\n2. **Cuisson**  \n   Faites-les cuire dans le panier d’un cuit-vapeur pendant 15 minutes, laissez refroidir.  \n\n3. **Préparer la ciboulette**  \n   Lavez et essorez la ciboulette, ciselez-la.  \n\n4. **Préparer l’ail**  \n   Écrasez l’ail.  \n\n5. **Préparer la sauce**  \n   Réunissez l’ail écrasé, la sauce soja, la purée de piments rouges, le demi-cube de bouillon de volaille en poudre, le vinaigre chinois et l’huile de sésame dans un bol. Mélangez.  \n\n6. **Assemblage**  \n   Versez la sauce sur les lamelles d’aubergine cuites et parsemez de ciboulette ciselée.  \n",
+        "defaultText": null
+      }
+    ]
+  }
+}

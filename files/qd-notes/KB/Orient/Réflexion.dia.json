@@ -1,0 +1,507 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yS3RSMxZ",
+        "userBounds": [
+          243,
+          549,
+          null,
+          null
+        ],
+        "bounds": [
+          243,
+          549,
+          86,
+          41
+        ],
+        "content": "Manger",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DmHxBlEl",
+        "userBounds": [
+          241,
+          614,
+          null,
+          null
+        ],
+        "bounds": [
+          241,
+          614,
+          110,
+          41
+        ],
+        "content": "Être abrité",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-X8J97JqS",
+        "userBounds": [
+          243,
+          464,
+          101.390625,
+          null
+        ],
+        "bounds": [
+          243,
+          464,
+          101,
+          64
+        ],
+        "content": "Conso minimale",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IgNbMxN4",
+        "userBounds": [
+          367,
+          525,
+          null,
+          null
+        ],
+        "bounds": [
+          367,
+          525,
+          145,
+          64
+        ],
+        "content": "Besoins\nfondamentaux",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZYcV2vl3",
+        "userBounds": [
+          542,
+          382,
+          null,
+          null
+        ],
+        "bounds": [
+          542,
+          382,
+          80,
+          36
+        ],
+        "content": "Sommeil",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-q3zWh8cp",
+        "userBounds": [
+          339,
+          676,
+          null,
+          null
+        ],
+        "bounds": [
+          339,
+          676,
+          56,
+          41
+        ],
+        "content": "Lien",
+        "zIndex": 3,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-IwajUjcN",
+        "userBounds": [
+          442,
+          677,
+          null,
+          null
+        ],
+        "bounds": [
+          442,
+          677,
+          159,
+          39
+        ],
+        "content": "Accomplissement",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-i9V8N7vc",
+        "userBounds": [
+          66,
+          535,
+          null,
+          null
+        ],
+        "bounds": [
+          66,
+          535,
+          77,
+          41
+        ],
+        "content": "Argent",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-avXX5IKi",
+        "userBounds": [
+          406,
+          426,
+          null,
+          null
+        ],
+        "bounds": [
+          406,
+          426,
+          70,
+          41
+        ],
+        "content": "Santé",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-ND6IYnI3",
+        "userBounds": [
+          1406,
+          394,
+          null,
+          null
+        ],
+        "bounds": [
+          1406,
+          394,
+          82,
+          41
+        ],
+        "content": "Leviers",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zLq7pbsP",
+        "userBounds": [
+          1330,
+          271,
+          null,
+          null
+        ],
+        "bounds": [
+          1330,
+          271,
+          56,
+          41
+        ],
+        "content": "Lieu",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-F7vTA8c6",
+        "userBounds": [
+          1309,
+          512,
+          null,
+          null
+        ],
+        "bounds": [
+          1309,
+          512,
+          82,
+          41
+        ],
+        "content": "Activité",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-StzsRzQt",
+        "userBounds": [
+          1580,
+          389,
+          null,
+          null
+        ],
+        "bounds": [
+          1580,
+          389,
+          110,
+          41
+        ],
+        "content": "Entourage",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vyiuWXTv",
+        "userBounds": [
+          1424,
+          533,
+          null,
+          null
+        ],
+        "bounds": [
+          1424,
+          533,
+          41,
+          36
+        ],
+        "content": "QE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-A2lrz8lD",
+        "userBounds": [
+          561,
+          531,
+          null,
+          null
+        ],
+        "bounds": [
+          561,
+          531,
+          107,
+          39
+        ],
+        "content": "Stimulation",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-Asnv9Tdd",
+        "userBounds": [
+          49,
+          18,
+          null,
+          null
+        ],
+        "bounds": [
+          49,
+          18,
+          789,
+          238
+        ],
+        "content": "## Diversification\n\n### Analyse de données et modélisation statistique, en mettant l’accent sur l’interprétation humaine\n\n- https://www.akad.de/abschluss/weiterbildung/statistik-nanodegree/#:~:text=Weiterbildung%20Statistik\n\n### Psychologie du travail et facteurs humains\n\nModélisation de systèmes complexes : urbanisme, écologie, économie systémique.\n\nPensée critique et épistémologie appliquée : stratégie d’entreprise, recherche scientifique, conception d’algorithmes, interprétation de données.\n\nModélisation des dynamiques sociales et comportementales : design de politiques publiques, économie comportementale, UX stratégique, transformation organisationnelle.\n\nDDD : il faut comprendre les objectifs métier, les arbitrages, les dépendances, les compromis techniques... et co-construire un modèle avec les parties prenantes.\n\nConception interdisciplinaire et modélisation hybride : modélisation de jumeaux numériques, développement soutenable, simulation d’écosystèmes ou de politiques publiques.\n\nMéta-apprentissage et ingénierie pédagogique : concevoir des méthodes pour apprendre plus vite, mieux structurer des connaissances, favoriser la rétention et l’intégration.",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-WitHFBZX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-i5u8iVZT",
+            "target": "NOTE-IgNbMxN4"
+          },
+          {
+            "id": "END-abBfWxUe",
+            "target": "NOTE-yS3RSMxZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-4jlNdoTy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-InqAlEGI",
+            "target": "NOTE-IgNbMxN4"
+          },
+          {
+            "id": "END-cFkuzeCj",
+            "target": "NOTE-X8J97JqS"
+          }
+        ]
+      },
+      {
+        "id": "REL-W7W6InZs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GSStrGfK",
+            "target": "NOTE-IgNbMxN4"
+          },
+          {
+            "id": "END-Qs1fgaK8",
+            "target": "NOTE-DmHxBlEl"
+          }
+        ]
+      },
+      {
+        "id": "REL-fQZGNcL3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MKoAp7Rr",
+            "target": "NOTE-q3zWh8cp"
+          },
+          {
+            "id": "END-kNuyPPAq",
+            "target": "NOTE-IgNbMxN4"
+          }
+        ]
+      },
+      {
+        "id": "REL-i3QiThTV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yVzh1N86",
+            "target": "NOTE-IwajUjcN"
+          },
+          {
+            "id": "END-dNGngHZh",
+            "target": "NOTE-IgNbMxN4"
+          }
+        ]
+      },
+      {
+        "id": "REL-rbBLaeIr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-L7P7sgJS",
+            "target": "NOTE-i9V8N7vc"
+          },
+          {
+            "id": "END-dxYZ9YwE",
+            "target": "NOTE-X8J97JqS",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-P2zwEXLB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uyhs8TFS",
+            "target": "NOTE-i9V8N7vc"
+          },
+          {
+            "id": "END-HKxrbExI",
+            "target": "NOTE-yS3RSMxZ",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-KCeqdbnE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4FfoAjNk",
+            "target": "NOTE-i9V8N7vc"
+          },
+          {
+            "id": "END-CcimTREN",
+            "target": "NOTE-DmHxBlEl",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-kEYjVf5Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EZJKkiWF",
+            "target": "NOTE-ND6IYnI3"
+          },
+          {
+            "id": "END-F8fUS948",
+            "target": "NOTE-zLq7pbsP"
+          }
+        ]
+      },
+      {
+        "id": "REL-BUFmxZbY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GwNtlvY7",
+            "target": "NOTE-ND6IYnI3"
+          },
+          {
+            "id": "END-ADMYN49A",
+            "target": "NOTE-StzsRzQt"
+          }
+        ]
+      },
+      {
+        "id": "REL-bAepka8c",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-87UkNtC3",
+            "target": "NOTE-ND6IYnI3"
+          },
+          {
+            "id": "END-mQAAqdoG",
+            "target": "NOTE-F7vTA8c6"
+          }
+        ]
+      },
+      {
+        "id": "REL-bBP2CBkF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EH69QQn5",
+            "target": "NOTE-vyiuWXTv"
+          },
+          {
+            "id": "END-jh7cC3jJ",
+            "target": "NOTE-F7vTA8c6"
+          }
+        ]
+      },
+      {
+        "id": "REL-7YyVJrY5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gZskcnqa",
+            "target": "NOTE-A2lrz8lD"
+          },
+          {
+            "id": "END-sU4jH4ry",
+            "target": "NOTE-IgNbMxN4"
+          }
+        ]
+      },
+      {
+        "id": "REL-bcZBZ1tW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xJklpsHP",
+            "target": "NOTE-ZYcV2vl3"
+          },
+          {
+            "id": "END-asK94EXo",
+            "target": "NOTE-avXX5IKi"
+          }
+        ]
+      },
+      {
+        "id": "REL-58P4dLEG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Dqyjk1JM",
+            "target": "NOTE-avXX5IKi"
+          },
+          {
+            "id": "END-ycasjDE1",
+            "target": "NOTE-IgNbMxN4"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Em4UMFcd",
+        "userBounds": [
+          298,
+          77,
+          null,
+          null
+        ],
+        "bounds": [
+          298,
+          77,
+          130,
+          37
+        ],
+        "content": "[DASHBOARDS](https://github.com/nexthink/engage.euf-dashboards)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-BW9bgjI6",
+        "userBounds": [
+          475,
+          262,
+          null,
+          null
+        ],
+        "bounds": [
+          475,
+          262,
+          159,
+          50
+        ],
+        "content": "# [euf-campaign-manager](https://github.com/nexthink/engage.euf-campaign-manager)\n---\n[JENKINS](https://jenkins-euf-master.intra.nexthink.com/job/euf-campaign-manager-github/)",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-uUCkl4Fp",
+        "userBounds": [
+          18,
+          267,
+          null,
+          null
+        ],
+        "bounds": [
+          18,
+          267,
+          104,
+          32
+        ],
+        "content": "# [euf-trigger-api](https://github.com/nexthink/engage.euf-trigger-api)",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-lAg6CbK6",
+        "userBounds": [
+          1323,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          1323,
+          154,
+          178,
+          37
+        ],
+        "content": "[GRAPHQL-GATEWAY](https://github.com/nexthink/engage.euf-graphql-gateway)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tv2kiCxl",
+        "userBounds": [
+          467,
+          45,
+          null,
+          null
+        ],
+        "bounds": [
+          467,
+          45,
+          167,
+          37
+        ],
+        "content": "[GRAPHQL-SERVER](https://github.com/nexthink/engage.euf-graphql-server)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-JbvqCJ5y",
+        "userBounds": [
+          183,
+          36,
+          null,
+          null
+        ],
+        "bounds": [
+          183,
+          36,
+          77,
+          34
+        ],
+        "content": "[JENKINS](https://jenkins-euf-master.intra.nexthink.com/job/euf-dashboards-github/view/change-requests/)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-xzrnzy3u",
+        "userBounds": [
+          479,
+          102,
+          null,
+          null
+        ],
+        "bounds": [
+          479,
+          102,
+          92,
+          37
+        ],
+        "content": "[WIDGETS](https://github.com/nexthink/engage.euf-campaign-widgets)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-DQPuF1V8",
+        "userBounds": [
+          267,
+          620,
+          null,
+          null
+        ],
+        "bounds": [
+          267,
+          620,
+          61,
+          37
+        ],
+        "content": "[euf-lib](https://github.com/nexthink/engage.euf-lib)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-yEhMBJD2",
+        "userBounds": [
+          377,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          377,
+          456,
+          132,
+          37
+        ],
+        "content": "[euf-telemetry-lib](https://github.com/nexthink/engage.euf-telemetry-lib)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-55PnzU7h",
+        "userBounds": [
+          1079,
+          465,
+          null,
+          null
+        ],
+        "bounds": [
+          1079,
+          465,
+          111,
+          37
+        ],
+        "content": "[NX-AWS-CLI](https://github.com/nexthink/engage.nx-aws-cli)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-BQ8kfjGM",
+        "userBounds": [
+          148,
+          459,
+          null,
+          null
+        ],
+        "bounds": [
+          148,
+          459,
+          92,
+          37
+        ],
+        "content": "[euf-bcs-lib](https://github.com/nexthink/engage.euf-bcs-lib)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xtdZMvXN",
+        "userBounds": [
+          1192,
+          300,
+          null,
+          null
+        ],
+        "bounds": [
+          1192,
+          300,
+          187,
+          37
+        ],
+        "content": "[E2E-CYPRESS-TESTS](https://github.com/nexthink/engage.euf-e2e-cypress-tests)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-9is2S3mu",
+        "userBounds": [
+          1377,
+          454,
+          null,
+          null
+        ],
+        "bounds": [
+          1377,
+          454,
+          139,
+          41
+        ],
+        "content": "[GUIDELINES](https://github.com/nexthink/engage.guidelines/pull/2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2KDUNyUN",
+        "userBounds": [
+          770,
+          164,
+          null,
+          null
+        ],
+        "bounds": [
+          770,
+          164,
+          70,
+          41
+        ],
+        "content": "[TRAY](https://github.com/nexthink/engage.euf-tray-communication)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eZueay5Z",
+        "userBounds": [
+          880,
+          89.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          880,
+          89.2620620727539,
+          178,
+          41
+        ],
+        "content": "[response-ingestor](https://github.com/nexthink/engage.euf-response-ingestor/pull/96)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-V3kZsXQG",
+        "userBounds": [
+          966,
+          235.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          966,
+          235.2620620727539,
+          70,
+          37
+        ],
+        "content": "[EUF-AI](https://github.com/nexthink/engage.euf-ai)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-NVo82wvg",
+        "userBounds": [
+          692,
+          54.262062072753906,
+          null,
+          null
+        ],
+        "bounds": [
+          692,
+          54.262062072753906,
+          170,
+          41
+        ],
+        "content": "[request-manager](https://github.com/nexthink/engage.euf-request-manager/pulls)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-x4Adlbzy",
+        "userBounds": [
+          1003,
+          356.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          1003,
+          356.2620620727539,
+          98,
+          41
+        ],
+        "content": "[euf-proto](https://github.com/nexthink/common.euf-proto)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7MuuXqcJ",
+        "userBounds": [
+          1125,
+          150.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          1125,
+          150.2620620727539,
+          139,
+          41
+        ],
+        "content": "[bcs-converter](https://github.com/nexthink/engage.euf-bcs-converter)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oqBYzvhq",
+        "userBounds": [
+          1293,
+          540.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          1293,
+          540.2620620727539,
+          134,
+          32
+        ],
+        "content": "# [euf-model-enricher](https://github.com/nexthink/engage.euf-datamodel-enricher)",
+        "zIndex": 3,
+        "fontSize": 8
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-ZZFY9sUX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pPwwUcxh",
+            "target": "NOTE-JbvqCJ5y"
+          },
+          {
+            "id": "END-8iQvUBC2",
+            "target": "NOTE-Em4UMFcd"
+          }
+        ]
+      },
+      {
+        "id": "REL-h1jYGpfp",
+        "shape": "RIGHT_ANGLE_2",
+        "ends": [
+          {
+            "id": "END-WzhSAFxa",
+            "target": "NOTE-DQPuF1V8"
+          },
+          {
+            "id": "END-9subX7c8",
+            "target": "NOTE-uUCkl4Fp"
+          }
+        ]
+      },
+      {
+        "id": "REL-bFLHX8f8",
+        "shape": "RIGHT_ANGLE_2",
+        "ends": [
+          {
+            "id": "END-fVxt6chg",
+            "target": "NOTE-DQPuF1V8"
+          },
+          {
+            "id": "END-1jBC4EV3",
+            "target": "NOTE-BW9bgjI6"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZLtQSxD1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uySqwRyb",
+            "target": "NOTE-BQ8kfjGM"
+          },
+          {
+            "id": "END-6Rn8nRsS",
+            "target": "NOTE-DQPuF1V8",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-LNe8LLZ4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UsYI1FsN",
+            "target": "NOTE-BW9bgjI6"
+          },
+          {
+            "id": "END-439LoAjo",
+            "target": "NOTE-BQ8kfjGM",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-eBZuUc7d",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uAEM5GH9",
+            "target": "NOTE-BQ8kfjGM",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-9rKA4IZb",
+            "target": "NOTE-uUCkl4Fp"
+          }
+        ]
+      },
+      {
+        "id": "REL-lXExDXFG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pb4bLmb9",
+            "target": "NOTE-yEhMBJD2",
+            "attachPointNumber": 11,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-sFZPmLwu",
+            "target": "NOTE-uUCkl4Fp"
+          }
+        ]
+      },
+      {
+        "id": "REL-oryf65Xl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Vexn9fwz",
+            "target": "NOTE-yEhMBJD2",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-t9UaAKFJ",
+            "target": "NOTE-BW9bgjI6"
+          }
+        ]
+      },
+      {
+        "id": "REL-cTV8dReV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-u8MV49Gr",
+            "target": "NOTE-yEhMBJD2"
+          },
+          {
+            "id": "END-gvHuL5xX",
+            "target": "NOTE-DQPuF1V8",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

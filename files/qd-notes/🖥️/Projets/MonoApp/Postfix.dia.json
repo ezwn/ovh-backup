@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rtpUbuU3",
+        "userBounds": [
+          440,
+          86,
+          null,
+          null
+        ],
+        "content": "# mdl\n---\n(class) model",
+        "bounds": [
+          440,
+          86,
+          113,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-u5qUqxgd",
+        "userBounds": [
+          608,
+          134,
+          null,
+          null
+        ],
+        "content": "# cmp\n---\ncomponent",
+        "bounds": [
+          608,
+          134,
+          97,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-VRQn4bzu",
+        "userBounds": [
+          385,
+          233,
+          null,
+          null
+        ],
+        "content": "# acl\n---\napi client",
+        "bounds": [
+          385,
+          233,
+          81,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-mMVhEjAH",
+        "userBounds": [
+          556,
+          263,
+          null,
+          null
+        ],
+        "content": "# ctx\n---\ncontext",
+        "bounds": [
+          556,
+          263,
+          70,
+          83
+        ],
+        "fontSize": 16
+      }
+    ],
+    "relations": []
+  }
+}

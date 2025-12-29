@@ -1,0 +1,105 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5uQ6WJW2",
+        "userBounds": [
+          1182,
+          125,
+          null,
+          null
+        ],
+        "content": "### Olivia Aubertin\n### ALTEN Switzerland AG\n---",
+        "bounds": [
+          1182,
+          125,
+          200,
+          74
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-6ZCpuWql",
+        "userBounds": [
+          222,
+          158,
+          null,
+          null
+        ],
+        "content": "### Grace\n### Oliver James\n---\n0435085594",
+        "bounds": [
+          222,
+          158,
+          152,
+          111
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-QCA6VN6g",
+        "userBounds": [
+          517,
+          357,
+          null,
+          null
+        ],
+        "content": "OPAN concept SA\n---\nReact\nCartographie",
+        "bounds": [
+          517,
+          357,
+          181,
+          109
+        ]
+      },
+      {
+        "id": "NOTE-rNqt2eRw",
+        "userBounds": [
+          941,
+          283,
+          null,
+          null
+        ],
+        "content": "Nexthink\n---",
+        "bounds": [
+          941,
+          283,
+          96,
+          63
+        ]
+      },
+      {
+        "id": "NOTE-S2ghrcTR",
+        "userBounds": [
+          842,
+          398,
+          null,
+          null
+        ],
+        "content": "nexoya.com\n---\nstartup\nreact\nzürich",
+        "bounds": [
+          842,
+          398,
+          126,
+          132
+        ]
+      },
+      {
+        "id": "NOTE-Gcg2pE7u",
+        "userBounds": [
+          456,
+          144,
+          null,
+          null
+        ],
+        "content": "Jiří Buřil\n---\nSoftwareengineer (m/w/d) im Bereich\nTransportation ",
+        "bounds": [
+          456,
+          144,
+          347,
+          109
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

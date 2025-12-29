@@ -1,0 +1,309 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-6rspfnkq",
+        "userBounds": [
+          30,
+          280.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          30,
+          280.2620620727539,
+          245,
+          81
+        ],
+        "content": "<< interface >>\n# BcsSerializer\\<T>\n---\n- abstract String serialize(T bcsResource)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-p2sCTay1",
+        "userBounds": [
+          30,
+          529.0073165893555,
+          246.78207397460938,
+          null
+        ],
+        "bounds": [
+          30,
+          529.0073165893555,
+          247,
+          121
+        ],
+        "content": "<< component >>\n# CampaignMapper\n---\n- T = CampaignDoc\n---\nProvides \"serialize\", converting a content (CampaignDoc) into a string.",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-kbtTHfz9",
+        "userBounds": [
+          324,
+          67.00731658935547,
+          null,
+          null
+        ],
+        "bounds": [
+          324,
+          67.00731658935547,
+          340,
+          107
+        ],
+        "content": "# TrustedBcsAccessService\\<T>\n---\n- createDocumentTrusted(BcsDocument\\<T> incomingDoc)\n- updateDocumentTrusted(BcsDocument\\<T> incomingDoc)\n---\nHigh level BCS client : works with T instead of String.",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-YofFr8Cb",
+        "userBounds": [
+          1063,
+          85.00731658935547,
+          478.44219970703125,
+          null
+        ],
+        "bounds": [
+          1063,
+          85.00731658935547,
+          478,
+          148
+        ],
+        "content": "# AbstractBcsImportService\\<E, S>\n---\n+ HttpResponse importContent(mode, body)\n---\n* abstract BcsDocument\\<S> exportedToStored(E exportedCampaign)\n* abstract void validate(S document) throws ImportValidationError;\n---\nThe importContent method will implement the logic of \"DRY\", \"CREATE\", \"OVERWRITE\" modes, returning the relevant error messages.",
+        "zIndex": 3,
+        "noteStyle": "UML_CLASS",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-UhyWFKv7",
+        "userBounds": [
+          289,
+          529.0073165893555,
+          412.8760986328125,
+          null
+        ],
+        "bounds": [
+          289,
+          529.0073165893555,
+          413,
+          107
+        ],
+        "content": "<< service >>\n# SecuredBcsCampaignAccessService\n---\n- T = CampaignDoc\n---\nExtends TrustedBcsAccessService providing its dependency (deserializer)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-dCT1qBi6",
+        "userBounds": [
+          565,
+          265.0116958618164,
+          null,
+          null
+        ],
+        "bounds": [
+          565,
+          265.0116958618164,
+          307,
+          121
+        ],
+        "content": "@Client\n# TrustedBcsAccessClient\n---\n- createDocument(BcsDocument\\<String> document)\n- updateDocument(BcsDocument\\<String> document)\n---\nDirect BCS client, reflecting the BCS API",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-whBEPRoe",
+        "userBounds": [
+          1106,
+          473.0116958618164,
+          306.5313720703125,
+          null
+        ],
+        "bounds": [
+          1106,
+          473.0116958618164,
+          307,
+          81
+        ],
+        "content": "<< service >>\n# CampaignImportService\n---\nProvides \"exportedToStored\", \"validate\".",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-WMk3MFeB",
+        "userBounds": [
+          14,
+          12.011695861816406,
+          921.5160903930664,
+          440
+        ],
+        "bounds": [
+          14,
+          12.011695861816406,
+          922,
+          440
+        ],
+        "content": "bcs.access",
+        "zIndex": 0,
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-rs6ckkEr",
+        "userBounds": [
+          992,
+          11.597461700439453,
+          573.6732482910156,
+          440
+        ],
+        "bounds": [
+          992,
+          11.597461700439453,
+          574,
+          440
+        ],
+        "content": "bcs.ie",
+        "zIndex": 0,
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-lDo4m4I6",
+        "userBounds": [
+          1307,
+          620.1367874145508,
+          null,
+          null
+        ],
+        "bounds": [
+          1307,
+          620.1367874145508,
+          262,
+          81
+        ],
+        "content": "<< controller >>\n# CampaignImportController\n---\nSimply calls importContent from the service",
+        "zIndex": 3,
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-czzfEVkh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jkzZ4Hl1",
+            "target": "NOTE-p2sCTay1",
+            "attachPointNumber": 11
+          },
+          {
+            "id": "END-GGjEdz29",
+            "target": "NOTE-6rspfnkq",
+            "decoration": "FULL_TRIANGLE",
+            "attachPointNumber": 7
+          }
+        ]
+      },
+      {
+        "id": "REL-6e9tVwI4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CKixi2B7",
+            "target": "NOTE-YofFr8Cb",
+            "attachPointNumber": 10,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-6Yw91IQF",
+            "target": "NOTE-kbtTHfz9"
+          }
+        ]
+      },
+      {
+        "id": "REL-1jwKuJS8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JwVM7Tvb",
+            "target": "NOTE-UhyWFKv7",
+            "attachPointNumber": 0
+          },
+          {
+            "id": "END-DEDRaTwb",
+            "target": "NOTE-kbtTHfz9",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-oJeonYQe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XylTDSY4",
+            "target": "NOTE-kbtTHfz9",
+            "attachPointNumber": 7,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-j4pMW1br",
+            "target": "NOTE-6rspfnkq"
+          }
+        ]
+      },
+      {
+        "id": "REL-nl2Jyr7q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dRT6hW9U",
+            "target": "NOTE-dCT1qBi6"
+          },
+          {
+            "id": "END-2kK1lguq",
+            "target": "NOTE-kbtTHfz9",
+            "attachPointNumber": 5,
+            "decoration": "EMPTY_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-KWtFxkiv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lQVlfojH",
+            "target": "NOTE-whBEPRoe",
+            "attachPointNumber": 11
+          },
+          {
+            "id": "END-WdgLWFTA",
+            "target": "NOTE-YofFr8Cb",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-9TeWFXVy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rW2Bixka",
+            "target": "NOTE-lDo4m4I6",
+            "attachPointNumber": 11,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-KWLNcWs8",
+            "target": "NOTE-whBEPRoe"
+          }
+        ]
+      }
+    ]
+  }
+}

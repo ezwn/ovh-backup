@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-escalopeDePouletAuPimentEtConcombre",
+  "content": {
+    "index": "poulet piment concombre cuisine",
+    "name": "Escalope de poulet au piment et concombre [***]",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Escalope de Poulet Sauté au Piment et au Concombre (2 personnes)\n\n**Préparation :** 10 minutes  \n**Marinade :** 20 minutes  \n**Cuisson :** 10 minutes  \n\n## Ingrédients\n\n- 150 g d'escalope de poulet  \n- 1/2 c. à s. de fécule de pomme de terre  \n- 1/2 c. à s. de sauce soja  \n- 1/2 c. à s. d'alcool jaune de riz  \n- 1/2 c. à s. d'huile de tournesol  \n- 1/2 gousse d'ail hachée  \n- 1/2 c. à s. de graines de sésame  \n- 1/2 concombre  \n- 1/2 blanc de poireau finement haché  \n- 10 g de cacahuètes grillées et décortiquées  \n- 1/2 c. à c. de piment séché dénoyauté  \n- 1 pincée de sel  \n- 1 pincée de poivre blanc  \n\n## Instructions\n\n1. Coupez l’escalope de poulet en fines lanières.  \n2. Mélangez dans un bol : la fécule, la sauce soja, l'alcool de riz et une pincée de poivre blanc.  \n3. Ajoutez le poulet et laissez mariner pendant 20 minutes.  \n4. Lavez et coupez le concombre en fines rondelles.  \n5. Faites chauffer 1 c. à s. d’huile de tournesol dans une poêle à feu moyen.  \n6. Ajoutez le poulet et faites-le cuire jusqu’à ce qu’il soit doré. Retirez-le et égouttez-le.  \n7. Dans la même poêle, ajoutez 1/2 c. à s. d’huile de tournesol.  \n8. Faites revenir le blanc de poireau et l’ail jusqu’à ce qu’ils soient légèrement dorés.  \n9. Incorporez le poulet et le concombre, puis ajoutez le piment séché et les cacahuètes grillées.  \n10. Faites cuire encore 5 minutes en remuant régulièrement.  \n11. Servez chaud.",
+        "defaultText": null
+      }
+    ]
+  }
+}

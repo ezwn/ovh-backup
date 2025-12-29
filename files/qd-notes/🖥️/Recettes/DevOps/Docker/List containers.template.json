@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerListContainers",
+  "content": {
+    "index": "docker, list containers",
+    "name": "Docker, list containers",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker ps -a",
+        "defaultText": null
+      }
+    ]
+  }
+}

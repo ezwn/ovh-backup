@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-utIQGyqp",
+        "userBounds": [
+          342,
+          253,
+          null,
+          null
+        ],
+        "bounds": [
+          342,
+          253,
+          44,
+          41
+        ],
+        "content": "[FE](https://github.com/nexthink/content-admin.content-admin-fe)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-j6Y5ox2G",
+        "userBounds": [
+          459,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          459,
+          194,
+          50,
+          41
+        ],
+        "content": "[API](https://github.com/nexthink/content-admin.content-admin-api)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

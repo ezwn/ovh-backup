@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-springChooseProfiles",
+  "content": {
+    "index": "spring choose profiles",
+    "name": "Spring choose profiles",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "java -Dspring.profiles.active=dev",
+        "defaultText": null
+      }
+    ]
+  }
+}

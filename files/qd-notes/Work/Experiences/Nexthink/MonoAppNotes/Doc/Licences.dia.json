@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-37WvCIgH",
+        "userBounds": [
+          553,
+          274,
+          null,
+          null
+        ],
+        "bounds": [
+          553,
+          274,
+          216,
+          41
+        ],
+        "content": "[CHANGING VOLUME](https://confluence.intra.nexthink.com/display/ENGAGE/License+Volumes)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

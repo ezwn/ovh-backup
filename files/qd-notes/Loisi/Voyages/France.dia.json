@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-RyyAd4FX",
+        "userBounds": [
+          551,
+          339,
+          null,
+          null
+        ],
+        "content": "Bretagne",
+        "bounds": [
+          551,
+          339,
+          99,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

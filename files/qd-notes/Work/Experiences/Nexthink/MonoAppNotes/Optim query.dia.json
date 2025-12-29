@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Ym2Ko5iS",
+        "userBounds": [
+          155,
+          173.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          155,
+          173.1436424255371,
+          229,
+          41
+        ],
+        "content": "[OptimizedQueryService](https://github.com/nexthink/engage.euf-campaign-manager/blob/main/src/main/java/com/nexthink/euf/campaignmanager/domain/services/OptimizedQueryService.java)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lXLPghG8",
+        "userBounds": [
+          123,
+          255.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          123,
+          255.1436424255371,
+          210,
+          41
+        ],
+        "content": "[CampaignEditService](https://github.com/nexthink/engage.euf-campaign-manager/blob/main/src/main/java/com/nexthink/euf/campaignmanager/domain/services/CampaignEditService.java)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-z6rzITY9",
+        "userBounds": [
+          436,
+          304.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          436,
+          304.1436424255371,
+          344,
+          50
+        ],
+        "content": "## Centralized description?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Gk1jx46V",
+        "userBounds": [
+          449,
+          395.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          449,
+          395.1436424255371,
+          189,
+          41
+        ],
+        "content": "[ORIGINAL TICKET](https://jira.nexthink.com:1443/browse/MPL-5612?src=confmacro)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-n3Y6HoKA",
+        "userBounds": [
+          696,
+          321,
+          null,
+          null
+        ],
+        "content": "# Angular\n2 ans",
+        "bounds": [
+          696,
+          321,
+          139,
+          78
+        ]
+      },
+      {
+        "id": "NOTE-618ppKAl",
+        "userBounds": [
+          507,
+          314,
+          null,
+          null
+        ],
+        "content": "# Ileotech\nIonic Angular\n8 months",
+        "bounds": [
+          507,
+          314,
+          115,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Z5tjQq2c",
+        "userBounds": [
+          569,
+          417,
+          101.21875,
+          null
+        ],
+        "content": "# Evooq\nAngular\n2 months",
+        "bounds": [
+          569,
+          417,
+          101,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-mlbrv943",
+        "userBounds": [
+          569,
+          192,
+          null,
+          null
+        ],
+        "content": "# MNT\nAngularJS + Anuglar2+\n14 months",
+        "bounds": [
+          569,
+          192,
+          183,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-wek1igB9",
+        "userBounds": [
+          924,
+          321,
+          null,
+          null
+        ],
+        "content": "# ES6 / Typescript\n6 ans",
+        "bounds": [
+          924,
+          321,
+          240,
+          72
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-woTRtXi3",
+        "userBounds": [
+          862,
+          209,
+          null,
+          null
+        ],
+        "content": "# Credit Suisse",
+        "bounds": [
+          862,
+          209,
+          182,
+          47
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-KhZ8d7cn",
+        "userBounds": [
+          972,
+          130,
+          null,
+          null
+        ],
+        "content": "# Société Générale",
+        "bounds": [
+          972,
+          130,
+          226,
+          47
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-L8txkJDQ",
+        "userBounds": [
+          1125,
+          207,
+          null,
+          null
+        ],
+        "content": "# ING",
+        "bounds": [
+          1125,
+          207,
+          64,
+          47
+        ],
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8akeL9jk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wmsY41Xc",
+            "target": "NOTE-n3Y6HoKA"
+          },
+          {
+            "id": "END-RCsPXVSF",
+            "target": "NOTE-Z5tjQq2c"
+          }
+        ]
+      },
+      {
+        "id": "REL-Vz2cL9i6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5xrA4fka",
+            "target": "NOTE-n3Y6HoKA"
+          },
+          {
+            "id": "END-UrBlkUPT",
+            "target": "NOTE-618ppKAl"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZqrocfMI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vAcjXJUK",
+            "target": "NOTE-n3Y6HoKA"
+          },
+          {
+            "id": "END-PukrwwEX",
+            "target": "NOTE-mlbrv943"
+          }
+        ]
+      },
+      {
+        "id": "REL-658NYouf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fMd5uEic",
+            "target": "NOTE-woTRtXi3"
+          },
+          {
+            "id": "END-FfPSKAz7",
+            "target": "NOTE-wek1igB9"
+          }
+        ]
+      },
+      {
+        "id": "REL-bqkBdxDf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NREINEkE",
+            "target": "NOTE-KhZ8d7cn"
+          },
+          {
+            "id": "END-3Y1ueqoR",
+            "target": "NOTE-wek1igB9"
+          }
+        ]
+      },
+      {
+        "id": "REL-ewe5aSLK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-I4LKXEYT",
+            "target": "NOTE-L8txkJDQ"
+          },
+          {
+            "id": "END-SpaEJmgJ",
+            "target": "NOTE-wek1igB9"
+          }
+        ]
+      }
+    ]
+  }
+}

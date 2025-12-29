@@ -1,0 +1,625 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-dmT6GvpV",
+        "userBounds": [
+          240,
+          249,
+          null,
+          null
+        ],
+        "bounds": [
+          240,
+          249,
+          167,
+          65
+        ],
+        "content": "WHEN\nTO RUN THEM?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NjZARIUw",
+        "userBounds": [
+          743,
+          373,
+          223.921875,
+          null
+        ],
+        "bounds": [
+          743,
+          373,
+          224,
+          107
+        ],
+        "content": "TESTS\nIN EUF-DASHBOARDS",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-yFWfDUn9",
+        "userBounds": [
+          899,
+          207,
+          null,
+          null
+        ],
+        "bounds": [
+          899,
+          207,
+          172,
+          89
+        ],
+        "content": "WHICH KIND OF\nTESTS FOR\nTHE FUTURE?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-18R7xlIT",
+        "userBounds": [
+          634,
+          84,
+          165.890625,
+          null
+        ],
+        "bounds": [
+          634,
+          84,
+          166,
+          89
+        ],
+        "content": "SWC for speeding unit tests",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-W3esNr3a",
+        "userBounds": [
+          1111,
+          125,
+          null,
+          null
+        ],
+        "bounds": [
+          1111,
+          125,
+          82,
+          89
+        ],
+        "content": "MORE\nUNIT\nTESTS",
+        "zIndex": 3,
+        "noteStyle": "WARNING"
+      },
+      {
+        "id": "NOTE-ndP6BmJJ",
+        "userBounds": [
+          1103,
+          469,
+          null,
+          null
+        ],
+        "bounds": [
+          1103,
+          469,
+          159,
+          95
+        ],
+        "content": "ON FAILURE\nCHECK IF\nREPLACEABLE BY\nE2E / UNIT",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "WARNING"
+      },
+      {
+        "id": "NOTE-GrN281uU",
+        "userBounds": [
+          918,
+          550,
+          null,
+          null
+        ],
+        "bounds": [
+          918,
+          550,
+          111,
+          65
+        ],
+        "content": "EXISTING\nTESTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Idrt9WXG",
+        "userBounds": [
+          513,
+          255,
+          null,
+          null
+        ],
+        "bounds": [
+          513,
+          255,
+          157,
+          65
+        ],
+        "content": "GLOBAL\nAPPROACHES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JeI42yET",
+        "userBounds": [
+          1290,
+          614,
+          null,
+          null
+        ],
+        "bounds": [
+          1290,
+          614,
+          139,
+          65
+        ],
+        "content": "MOVE THEM\nTO E2E ?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yBGIql9V",
+        "userBounds": [
+          1075,
+          638,
+          null,
+          null
+        ],
+        "bounds": [
+          1075,
+          638,
+          113,
+          41
+        ],
+        "content": "CYPRESS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kI73eNg7",
+        "userBounds": [
+          275,
+          350,
+          null,
+          null
+        ],
+        "bounds": [
+          275,
+          350,
+          95,
+          41
+        ],
+        "content": "NOT ON",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VwbqCZFq",
+        "userBounds": [
+          312,
+          421,
+          null,
+          null
+        ],
+        "bounds": [
+          312,
+          421,
+          110,
+          41
+        ],
+        "content": "RELEASE",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-NBUhpytX",
+        "userBounds": [
+          237,
+          415,
+          null,
+          null
+        ],
+        "bounds": [
+          237,
+          415,
+          57,
+          41
+        ],
+        "content": "TAG",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-qoLTviR9",
+        "userBounds": [
+          217,
+          168,
+          null,
+          null
+        ],
+        "bounds": [
+          217,
+          168,
+          48,
+          41
+        ],
+        "content": "ON",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SPR8GTst",
+        "userBounds": [
+          86,
+          135,
+          null,
+          null
+        ],
+        "bounds": [
+          86,
+          135,
+          101,
+          41
+        ],
+        "content": "MASTER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4ZId2NbI",
+        "userBounds": [
+          171,
+          64,
+          null,
+          null
+        ],
+        "bounds": [
+          171,
+          64,
+          46,
+          41
+        ],
+        "content": "PR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9lFNM2YL",
+        "userBounds": [
+          85,
+          270,
+          null,
+          null
+        ],
+        "bounds": [
+          85,
+          270,
+          106,
+          41
+        ],
+        "content": "LOCALLY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2JhNz6wn",
+        "userBounds": [
+          331,
+          118,
+          null,
+          null
+        ],
+        "bounds": [
+          331,
+          118,
+          130,
+          76
+        ],
+        "content": "CYPRESS\nONLY BEFORE\nMERGING",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-3zrt17qn",
+        "userBounds": [
+          1121,
+          349,
+          null,
+          null
+        ],
+        "bounds": [
+          1121,
+          349,
+          116,
+          76
+        ],
+        "content": "CODE\nREVIEW\nCHECKLIST?",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-bnYFHFCN",
+        "userBounds": [
+          1285,
+          91,
+          null,
+          null
+        ],
+        "bounds": [
+          1285,
+          91,
+          237,
+          134
+        ],
+        "content": "UNIT TESTS CAN\nBE COMPONENT TEST\nBUT THEY ISOLATE\nTHE COMPONENT\nFROM THE CONTEXT USING\nMOCKS",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-G52q9xMD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9RQhk1aS",
+            "target": "NOTE-yFWfDUn9"
+          },
+          {
+            "id": "END-zsmQT25v",
+            "target": "NOTE-NjZARIUw"
+          }
+        ]
+      },
+      {
+        "id": "REL-dIe7X4mE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J1gFeGdR",
+            "target": "NOTE-W3esNr3a"
+          },
+          {
+            "id": "END-h8cyebfA",
+            "target": "NOTE-yFWfDUn9"
+          }
+        ]
+      },
+      {
+        "id": "REL-ayko9DKI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PwcdvbbN",
+            "target": "NOTE-GrN281uU"
+          },
+          {
+            "id": "END-Z48DQ1nB",
+            "target": "NOTE-NjZARIUw"
+          }
+        ]
+      },
+      {
+        "id": "REL-AWWvoqFi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BRUkawds",
+            "target": "NOTE-ndP6BmJJ"
+          },
+          {
+            "id": "END-liW2jNUp",
+            "target": "NOTE-GrN281uU"
+          }
+        ]
+      },
+      {
+        "id": "REL-xrv3j7vl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zwDjPBQk",
+            "target": "NOTE-Idrt9WXG"
+          },
+          {
+            "id": "END-WQgFNILr",
+            "target": "NOTE-dmT6GvpV"
+          }
+        ]
+      },
+      {
+        "id": "REL-xpEe78Vv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MEhpiJcC",
+            "target": "NOTE-Idrt9WXG"
+          },
+          {
+            "id": "END-nEU5U2iz",
+            "target": "NOTE-18R7xlIT"
+          }
+        ]
+      },
+      {
+        "id": "REL-h4YJaJwB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6iUSLPyQ",
+            "target": "NOTE-Idrt9WXG"
+          },
+          {
+            "id": "END-oMemqsSs",
+            "target": "NOTE-NjZARIUw"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZtdYesfE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Tuvfyp1k",
+            "target": "NOTE-yBGIql9V"
+          },
+          {
+            "id": "END-Qo9CeWaZ",
+            "target": "NOTE-GrN281uU"
+          }
+        ]
+      },
+      {
+        "id": "REL-dqxrQavY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3Miwe7QM",
+            "target": "NOTE-yBGIql9V"
+          },
+          {
+            "id": "END-Uj8WkNod",
+            "target": "NOTE-JeI42yET"
+          }
+        ]
+      },
+      {
+        "id": "REL-j1Ysmiqv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wZvpqffU",
+            "target": "NOTE-kI73eNg7"
+          },
+          {
+            "id": "END-IRwiQWUJ",
+            "target": "NOTE-dmT6GvpV"
+          }
+        ]
+      },
+      {
+        "id": "REL-7PrfLmtk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VPJlDdYg",
+            "target": "NOTE-kI73eNg7"
+          },
+          {
+            "id": "END-j1rPFYRs",
+            "target": "NOTE-VwbqCZFq"
+          }
+        ]
+      },
+      {
+        "id": "REL-KtyrVpj6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WJenQLrY",
+            "target": "NOTE-kI73eNg7"
+          },
+          {
+            "id": "END-wpiwgB4w",
+            "target": "NOTE-NBUhpytX"
+          }
+        ]
+      },
+      {
+        "id": "REL-PdyWAwqW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5zUg9nhg",
+            "target": "NOTE-qoLTviR9"
+          },
+          {
+            "id": "END-5ZSrwGCC",
+            "target": "NOTE-dmT6GvpV"
+          }
+        ]
+      },
+      {
+        "id": "REL-RWyqqUI3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nWgNElES",
+            "target": "NOTE-SPR8GTst"
+          },
+          {
+            "id": "END-iAKlutyU",
+            "target": "NOTE-qoLTviR9"
+          }
+        ]
+      },
+      {
+        "id": "REL-UbpoYDc7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gmjbo6pp",
+            "target": "NOTE-4ZId2NbI"
+          },
+          {
+            "id": "END-sI8GHNkR",
+            "target": "NOTE-qoLTviR9"
+          }
+        ]
+      },
+      {
+        "id": "REL-aRKkKpNx",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zE6c4Xvk",
+            "target": "NOTE-9lFNM2YL"
+          },
+          {
+            "id": "END-tiNv2Y5q",
+            "target": "NOTE-dmT6GvpV"
+          }
+        ]
+      },
+      {
+        "id": "REL-r3xA93Di",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xG2B9Lcg",
+            "target": "NOTE-2JhNz6wn"
+          },
+          {
+            "id": "END-xqjc67qf",
+            "target": "NOTE-dmT6GvpV"
+          }
+        ]
+      },
+      {
+        "id": "REL-BJStlpnf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8FVttErW",
+            "target": "NOTE-3zrt17qn"
+          },
+          {
+            "id": "END-PlPNA69Q",
+            "target": "NOTE-ndP6BmJJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZDDl6iaF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ccvyJA6p",
+            "target": "NOTE-W3esNr3a"
+          },
+          {
+            "id": "END-UuxFjGDl",
+            "target": "NOTE-bnYFHFCN"
+          }
+        ]
+      }
+    ]
+  }
+}

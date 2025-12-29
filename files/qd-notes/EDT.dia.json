@@ -1,0 +1,656 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-mNc3Tqq8",
+        "userBounds": [
+          612,
+          61,
+          null,
+          null
+        ],
+        "bounds": [
+          612,
+          61,
+          78,
+          36
+        ],
+        "content": "GLG204",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-VnZ21HsE",
+        "userBounds": [
+          3,
+          196,
+          null,
+          null
+        ],
+        "bounds": [
+          3,
+          196,
+          66,
+          41
+        ],
+        "content": "KIAO",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-XpgwLPHH",
+        "userBounds": [
+          3,
+          361,
+          null,
+          null
+        ],
+        "bounds": [
+          3,
+          361,
+          128,
+          41
+        ],
+        "content": "Administratif",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-ZL5aL8Cu",
+        "userBounds": [
+          137,
+          362,
+          null,
+          null
+        ],
+        "bounds": [
+          137,
+          362,
+          174,
+          41
+        ],
+        "content": "Recherche travail",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-hEIQuNtr",
+        "userBounds": [
+          1,
+          10,
+          null,
+          null
+        ],
+        "bounds": [
+          1,
+          10,
+          318,
+          54
+        ],
+        "content": "# Stratégie et planification\nS'informer, faire des choix et planification de haut niveau",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-wwxMA9Hd",
+        "userBounds": [
+          415,
+          13,
+          520.390625,
+          null
+        ],
+        "bounds": [
+          415,
+          13,
+          520,
+          41
+        ],
+        "content": "Acquisition de connaissances",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6625cjUC",
+        "userBounds": [
+          2,
+          298,
+          324.5625,
+          null
+        ],
+        "bounds": [
+          2,
+          298,
+          325,
+          54
+        ],
+        "content": "# Exécution et opérationnel\nTache exécutives consommatrrices de temps",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-tU4yRUjb",
+        "userBounds": [
+          1,
+          135,
+          null,
+          null
+        ],
+        "bounds": [
+          1,
+          135,
+          353,
+          54
+        ],
+        "content": "# Innovation personnelle\nConcevoir, améliorer des outils et des procédures personnelles",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-tUoRkiKQ",
+        "userBounds": [
+          114,
+          670,
+          null,
+          null
+        ],
+        "bounds": [
+          114,
+          670,
+          91,
+          41
+        ],
+        "content": "Sources",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fyFAdun7",
+        "userBounds": [
+          12,
+          612,
+          null,
+          null
+        ],
+        "bounds": [
+          12,
+          612,
+          108,
+          36
+        ],
+        "content": "Géopolitique",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tmsogSX5",
+        "userBounds": [
+          196,
+          610,
+          null,
+          null
+        ],
+        "bounds": [
+          196,
+          610,
+          89,
+          36
+        ],
+        "content": "Economie",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-You2vPd2",
+        "userBounds": [
+          87,
+          739,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          739,
+          93,
+          36
+        ],
+        "content": "Utiliser l'IA",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-VWaLAsgK",
+        "userBounds": [
+          677,
+          473,
+          null,
+          null
+        ],
+        "bounds": [
+          677,
+          473,
+          135,
+          41
+        ],
+        "content": "Management",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-QkgxJ3Qq",
+        "userBounds": [
+          414,
+          62,
+          189.484375,
+          null
+        ],
+        "bounds": [
+          414,
+          62,
+          189,
+          72
+        ],
+        "content": "Architecture et administration Cloud : AWS",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-9kzoHbkw",
+        "userBounds": [
+          754,
+          62,
+          null,
+          null
+        ],
+        "bounds": [
+          754,
+          62,
+          129,
+          39
+        ],
+        "content": "Cybersécurité",
+        "zIndex": 3,
+        "noteStyle": "ORANGE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-yY2Ffo3J",
+        "userBounds": [
+          711,
+          159,
+          null,
+          null
+        ],
+        "bounds": [
+          711,
+          159,
+          185,
+          39
+        ],
+        "content": "Intelligence artificelle",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-ZPdotLKb",
+        "userBounds": [
+          75,
+          197,
+          null,
+          null
+        ],
+        "bounds": [
+          75,
+          197,
+          158,
+          41
+        ],
+        "content": "Abstract Agents",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ktcuQD66",
+        "userBounds": [
+          566,
+          473,
+          null,
+          null
+        ],
+        "bounds": [
+          566,
+          473,
+          98,
+          41
+        ],
+        "content": "Stratégie",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-e3JElKmg",
+        "userBounds": [
+          574,
+          523,
+          null,
+          null
+        ],
+        "bounds": [
+          574,
+          523,
+          123,
+          41
+        ],
+        "content": "Prospective",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-438UpRWz",
+        "userBounds": [
+          706,
+          523,
+          null,
+          null
+        ],
+        "bounds": [
+          706,
+          523,
+          60,
+          41
+        ],
+        "content": "Droit",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-JR5QVdDg",
+        "userBounds": [
+          792,
+          114,
+          null,
+          null
+        ],
+        "bounds": [
+          792,
+          114,
+          80,
+          39
+        ],
+        "content": "TOGAF",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-N941tjxo",
+        "userBounds": [
+          242,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          242,
+          199,
+          64,
+          41
+        ],
+        "content": "Parix",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MGSU9THC",
+        "userBounds": [
+          908,
+          29,
+          null,
+          null
+        ],
+        "bounds": [
+          908,
+          29,
+          58,
+          41
+        ],
+        "content": "50%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5Facbm2Z",
+        "userBounds": [
+          335,
+          111,
+          null,
+          null
+        ],
+        "bounds": [
+          335,
+          111,
+          58,
+          41
+        ],
+        "content": "25%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-V7Ff515u",
+        "userBounds": [
+          313,
+          273,
+          null,
+          null
+        ],
+        "bounds": [
+          313,
+          273,
+          58,
+          41
+        ],
+        "content": "20%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rrdcDc8n",
+        "userBounds": [
+          313,
+          15,
+          null,
+          null
+        ],
+        "bounds": [
+          313,
+          15,
+          47,
+          41
+        ],
+        "content": "5%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GFypv2XZ",
+        "userBounds": [
+          828,
+          472,
+          null,
+          null
+        ],
+        "bounds": [
+          828,
+          472,
+          205,
+          82
+        ],
+        "content": "5%\n---\n- 1 fiche / 2 semaines\n- lecture : 2 soirs / semaine",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-SA5VD21y",
+        "userBounds": [
+          906,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          906,
+          154,
+          58,
+          41
+        ],
+        "content": "45%",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-T9e7Llth",
+        "userBounds": [
+          564,
+          570,
+          null,
+          null
+        ],
+        "bounds": [
+          564,
+          570,
+          78,
+          41
+        ],
+        "content": "Geopo",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KSIuhem2",
+        "userBounds": [
+          530,
+          136,
+          null,
+          null
+        ],
+        "bounds": [
+          530,
+          136,
+          60,
+          41
+        ],
+        "content": "Data",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zrTeqpAe",
+        "userBounds": [
+          658,
+          577,
+          null,
+          null
+        ],
+        "bounds": [
+          658,
+          577,
+          94,
+          39
+        ],
+        "content": "COMPTA",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-Eqp7ypC1",
+        "userBounds": [
+          656,
+          262,
+          null,
+          null
+        ],
+        "bounds": [
+          656,
+          262,
+          88,
+          41
+        ],
+        "content": "AUTOH",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-zsfTmpMp",
+        "userBounds": [
+          512,
+          334,
+          null,
+          null
+        ],
+        "bounds": [
+          512,
+          334,
+          150,
+          41
+        ],
+        "content": "OBSERVAT° P",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-6Vg1lU7i",
+        "userBounds": [
+          717,
+          339,
+          null,
+          null
+        ],
+        "bounds": [
+          717,
+          339,
+          31,
+          41
+        ],
+        "content": "X",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-ZSDjMH85",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KtABABiH",
+            "target": "NOTE-tUoRkiKQ"
+          },
+          {
+            "id": "END-jMsUB7Bj",
+            "target": "NOTE-fyFAdun7"
+          }
+        ]
+      },
+      {
+        "id": "REL-okzBWgbN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-H7aqNxtJ",
+            "target": "NOTE-tUoRkiKQ"
+          },
+          {
+            "id": "END-4oI32uid",
+            "target": "NOTE-tmsogSX5"
+          }
+        ]
+      },
+      {
+        "id": "REL-QlPcrwH1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mbfRsebD",
+            "target": "NOTE-tUoRkiKQ"
+          },
+          {
+            "id": "END-92fnWjcG",
+            "target": "NOTE-You2vPd2"
+          }
+        ]
+      }
+    ]
+  }
+}

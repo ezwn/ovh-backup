@@ -1,0 +1,43 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-lqgbIGbQ",
+        "userBounds": [
+          535,
+          19,
+          null,
+          null
+        ],
+        "bounds": [
+          535,
+          19,
+          189,
+          41
+        ],
+        "content": "Hericium erinaceus",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-ljNdIyuP",
+        "userBounds": [
+          622,
+          87,
+          null,
+          null
+        ],
+        "bounds": [
+          622,
+          87,
+          148,
+          41
+        ],
+        "content": "Bacillariophyta",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-HU58XDt3",
+        "userBounds": [
+          243,
+          53,
+          null,
+          null
+        ],
+        "bounds": [
+          243,
+          53,
+          145,
+          41
+        ],
+        "content": "[COUCHBASE](http://localhost:8091/ui/index.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KiKMsNbx",
+        "userBounds": [
+          38,
+          79,
+          null,
+          null
+        ],
+        "bounds": [
+          38,
+          79,
+          101,
+          36
+        ],
+        "content": "[SWAGGER](http://localhost:8998/swagger-ui/index.html)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-KUAr2Vui",
+        "userBounds": [
+          305,
+          176,
+          null,
+          null
+        ],
+        "bounds": [
+          305,
+          176,
+          78,
+          41
+        ],
+        "content": "[HOME](http://localhost:3000/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eqseVjq6",
+        "userBounds": [
+          32,
+          184,
+          137.6875,
+          null
+        ],
+        "bounds": [
+          32,
+          184,
+          138,
+          54
+        ],
+        "content": "[SWAGGER TTS SERVICE](http://localhost:8997/swagger-ui/index.html)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-HJf2DgpY",
+        "userBounds": [
+          1362,
+          263,
+          null,
+          null
+        ],
+        "bounds": [
+          1362,
+          263,
+          156,
+          41
+        ],
+        "content": "[@thenativeweb](https://www.youtube.com/@thenativeweb/search)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-n2QQZ1b6",
+        "userBounds": [
+          1386,
+          335,
+          null,
+          null
+        ],
+        "bounds": [
+          1386,
+          335,
+          90,
+          87
+        ],
+        "content": "TUTO\nCOURS\nDE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iIRav8Ej",
+        "userBounds": [
+          1233,
+          304,
+          null,
+          null
+        ],
+        "bounds": [
+          1233,
+          304,
+          125,
+          41
+        ],
+        "content": "[@JonasKeil](https://www.youtube.com/@JonasKeil)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HYN9tQeD",
+        "userBounds": [
+          181,
+          115,
+          null,
+          null
+        ],
+        "bounds": [
+          181,
+          115,
+          90,
+          72
+        ],
+        "content": "# KIAO\ncode",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-YPA9Q5Ax",
+        "userBounds": [
+          1105,
+          125,
+          null,
+          null
+        ],
+        "bounds": [
+          1105,
+          125,
+          113,
+          41
+        ],
+        "content": "Cloud Run",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MW4W6jTi",
+        "userBounds": [
+          1091,
+          191,
+          null,
+          null
+        ],
+        "bounds": [
+          1091,
+          191,
+          116,
+          41
+        ],
+        "content": "Cloud SQL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RsXCFsGp",
+        "userBounds": [
+          213,
+          242,
+          null,
+          null
+        ],
+        "bounds": [
+          213,
+          242,
+          50,
+          41
+        ],
+        "content": "[ovh](https://www.ovh.com/manager/#/hub/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oPtJGEGg",
+        "userBounds": [
+          1056,
+          652,
+          null,
+          null
+        ],
+        "bounds": [
+          1056,
+          652,
+          44,
+          41
+        ],
+        "content": "[FB](https://www.facebook.com/profile.php?id=61575182578253)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AQRZPLy1",
+        "userBounds": [
+          1109,
+          468,
+          null,
+          null
+        ],
+        "bounds": [
+          1109,
+          468,
+          68,
+          41
+        ],
+        "content": "[reddit](https://www.reddit.com/settings/profile)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HdVXf6Xf",
+        "userBounds": [
+          1097,
+          578,
+          null,
+          null
+        ],
+        "bounds": [
+          1097,
+          578,
+          119,
+          41
+        ],
+        "content": "Community",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pgLrSf5e",
+        "userBounds": [
+          953,
+          553,
+          null,
+          null
+        ],
+        "bounds": [
+          953,
+          553,
+          75,
+          41
+        ],
+        "content": "proton",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CfGXEeYR",
+        "userBounds": [
+          947,
+          596,
+          null,
+          null
+        ],
+        "bounds": [
+          947,
+          596,
+          81,
+          27
+        ],
+        "content": "FK^Tud4wL-aav(!",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-NmKTdNca",
+        "userBounds": [
+          194,
+          279,
+          null,
+          null
+        ],
+        "bounds": [
+          194,
+          279,
+          88,
+          27
+        ],
+        "content": "z3#k#?au?&zSS6M",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-qFuL66pu",
+        "userBounds": [
+          347,
+          558,
+          null,
+          null
+        ],
+        "bounds": [
+          347,
+          558,
+          66,
+          54
+        ],
+        "content": "# KIAO\nTODO",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-JsjJWJMQ",
+        "userBounds": [
+          219,
+          501,
+          null,
+          null
+        ],
+        "bounds": [
+          219,
+          501,
+          104,
+          36
+        ],
+        "content": "publier pitch",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xeuyJKec",
+        "userBounds": [
+          369,
+          487,
+          null,
+          null
+        ],
+        "bounds": [
+          369,
+          487,
+          129,
+          36
+        ],
+        "content": "envoi remarque",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-L4lzQnZ6",
+        "userBounds": [
+          473,
+          555,
+          133.875,
+          null
+        ],
+        "bounds": [
+          473,
+          555,
+          134,
+          50
+        ],
+        "content": "téléchargement depuis OVH",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ba8fKZ3K",
+        "userBounds": [
+          628,
+          244,
+          null,
+          null
+        ],
+        "bounds": [
+          628,
+          244,
+          95,
+          41
+        ],
+        "content": "BILLING",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6zboH4LD",
+        "userBounds": [
+          598,
+          196,
+          null,
+          null
+        ],
+        "bounds": [
+          598,
+          196,
+          68,
+          32
+        ],
+        "content": "[ChatGPT](https://platform.openai.com/settings/organization/billing/overview)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-ZMub7GzY",
+        "userBounds": [
+          688,
+          205,
+          null,
+          null
+        ],
+        "bounds": [
+          688,
+          205,
+          87,
+          36
+        ],
+        "content": "[deepseek](https://platform.deepseek.com/usage)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-V9VWiCTw",
+        "userBounds": [
+          588,
+          313,
+          null,
+          null
+        ],
+        "bounds": [
+          588,
+          313,
+          62,
+          34
+        ],
+        "content": "[Claude](https://console.anthropic.com/settings/billing)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-pIdhb69Z",
+        "userBounds": [
+          682,
+          316,
+          null,
+          null
+        ],
+        "bounds": [
+          682,
+          316,
+          44,
+          32
+        ],
+        "content": "[GCP](https://console.cloud.google.com/billing/015F16-7070CA-3C1538?hl=fr&project=snappy-byte-430513-i2)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-nQqRXsNw",
+        "userBounds": [
+          82,
+          369.56640625,
+          null,
+          null
+        ],
+        "bounds": [
+          82,
+          369.56640625,
+          321,
+          41
+        ],
+        "content": "kiao.learning.platform@gmail.com",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mTqHQCmm",
+        "userBounds": [
+          166,
+          728.56640625,
+          null,
+          null
+        ],
+        "bounds": [
+          166,
+          728.56640625,
+          117,
+          41
+        ],
+        "content": "kiao-lp-pub",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cpkiFLm1",
+        "userBounds": [
+          325,
+          712.56640625,
+          null,
+          null
+        ],
+        "bounds": [
+          325,
+          712.56640625,
+          210,
+          41
+        ],
+        "content": "onhh qxmh xwnw qgtl",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-7lB1UkTf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xGVEhHX8",
+            "target": "NOTE-n2QQZ1b6"
+          },
+          {
+            "id": "END-38uaHDaY",
+            "target": "NOTE-HJf2DgpY"
+          }
+        ]
+      },
+      {
+        "id": "REL-SRtk3bPu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-E4SzHjIT",
+            "target": "NOTE-iIRav8Ej"
+          },
+          {
+            "id": "END-hdfT6epa",
+            "target": "NOTE-n2QQZ1b6"
+          }
+        ]
+      },
+      {
+        "id": "REL-D9JFt895",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rwaew1Jj",
+            "target": "NOTE-HYN9tQeD"
+          },
+          {
+            "id": "END-HbLzY4TY",
+            "target": "NOTE-KiKMsNbx"
+          }
+        ]
+      },
+      {
+        "id": "REL-bp27877k",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EFH3o9Hl",
+            "target": "NOTE-HYN9tQeD"
+          },
+          {
+            "id": "END-RquEHtQT",
+            "target": "NOTE-eqseVjq6"
+          }
+        ]
+      },
+      {
+        "id": "REL-MplmQy4q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HaXp7okk",
+            "target": "NOTE-HYN9tQeD"
+          },
+          {
+            "id": "END-967qWtSZ",
+            "target": "NOTE-KUAr2Vui"
+          }
+        ]
+      },
+      {
+        "id": "REL-c7YV3VxC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PZ1MnILC",
+            "target": "NOTE-HYN9tQeD"
+          },
+          {
+            "id": "END-8i8UQgMt",
+            "target": "NOTE-HU58XDt3"
+          }
+        ]
+      },
+      {
+        "id": "REL-SavAkBx4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5heNRa1f",
+            "target": "NOTE-HYN9tQeD"
+          },
+          {
+            "id": "END-cH9BE1wR",
+            "target": "NOTE-RsXCFsGp"
+          }
+        ]
+      },
+      {
+        "id": "REL-VVSkcCQI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ejB6Zpll",
+            "target": "NOTE-HdVXf6Xf"
+          },
+          {
+            "id": "END-Ragvjscj",
+            "target": "NOTE-pgLrSf5e"
+          }
+        ]
+      },
+      {
+        "id": "REL-M4StTG7s",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WesqwBFn",
+            "target": "NOTE-ba8fKZ3K"
+          },
+          {
+            "id": "END-plmVCBGA",
+            "target": "NOTE-6zboH4LD"
+          }
+        ]
+      },
+      {
+        "id": "REL-rDTbuzri",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uoLWnxWl",
+            "target": "NOTE-ba8fKZ3K"
+          },
+          {
+            "id": "END-MyhcsmJ4",
+            "target": "NOTE-ZMub7GzY"
+          }
+        ]
+      },
+      {
+        "id": "REL-Jfy4xC4C",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-to1FWlMr",
+            "target": "NOTE-ba8fKZ3K"
+          },
+          {
+            "id": "END-xp3EWNpo",
+            "target": "NOTE-pIdhb69Z"
+          }
+        ]
+      },
+      {
+        "id": "REL-tFe87Y8e",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ymYq9dFc",
+            "target": "NOTE-ba8fKZ3K"
+          },
+          {
+            "id": "END-CboJEDw3",
+            "target": "NOTE-V9VWiCTw"
+          }
+        ]
+      }
+    ]
+  }
+}

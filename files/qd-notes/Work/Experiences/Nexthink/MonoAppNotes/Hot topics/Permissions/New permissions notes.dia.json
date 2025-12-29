@@ -1,0 +1,918 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-WWjhyjPl",
+        "userBounds": [
+          325,
+          136,
+          152.125,
+          null
+        ],
+        "bounds": [
+          325,
+          136,
+          152,
+          56
+        ],
+        "content": "[ENGAGE FEATURE DESC](https://confluence.intra.nexthink.com/display/ENGAGE/Fine-grained+permissions)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-JEuyNkZu",
+        "userBounds": [
+          565,
+          22,
+          null,
+          null
+        ],
+        "bounds": [
+          565,
+          22,
+          129,
+          41
+        ],
+        "content": "[APEX PLAN](https://confluence.intra.nexthink.com/display/BS/Granular+content+permissions+for+applications)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gPX49sZj",
+        "userBounds": [
+          234,
+          48,
+          100.984375,
+          null
+        ],
+        "bounds": [
+          234,
+          48,
+          101,
+          56
+        ],
+        "content": "[WRT SPEC JIRA](https://jira.nexthink.com:1443/browse/MPL-5467)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ui3smoMH",
+        "userBounds": [
+          665,
+          696,
+          null,
+          null
+        ],
+        "bounds": [
+          665,
+          696,
+          108,
+          41
+        ],
+        "content": "[one pager](https://confluence.intra.nexthink.com/display/ENGAGE/Fine-grained+and+content+permissions+-+1-pager)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oWYbJQz9",
+        "userBounds": [
+          1606,
+          368,
+          null,
+          null
+        ],
+        "bounds": [
+          1606,
+          368,
+          127,
+          65
+        ],
+        "content": "[ARM Permissions](https://confluence.intra.nexthink.com/display/NEB/Permissions+list)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-W3vv1E4M",
+        "userBounds": [
+          234,
+          478,
+          218.390625,
+          null
+        ],
+        "bounds": [
+          234,
+          478,
+          218,
+          60
+        ],
+        "content": "[CONTENT ADMIN COMPONENT DOC](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=205013751)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-3G3PPLjr",
+        "userBounds": [
+          261,
+          599,
+          null,
+          null
+        ],
+        "bounds": [
+          261,
+          599,
+          144,
+          41
+        ],
+        "content": "[CONFIG MAP](https://confluence.intra.nexthink.com/display/CAD/ConfigMap+for+Feature+Teams+-+Sharing+Content)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lPrGSgYc",
+        "userBounds": [
+          1615,
+          445,
+          null,
+          null
+        ],
+        "bounds": [
+          1615,
+          445,
+          103,
+          113
+        ],
+        "content": "POLICY SERVICE\n---\nStores the permissions",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aWXyhQJF",
+        "userBounds": [
+          1598,
+          0,
+          null,
+          null
+        ],
+        "bounds": [
+          1598,
+          0,
+          124,
+          65
+        ],
+        "content": "Content permissions",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tNyaSjHW",
+        "userBounds": [
+          1356,
+          3,
+          null,
+          null
+        ],
+        "bounds": [
+          1356,
+          3,
+          208,
+          41
+        ],
+        "content": "Granular permissions",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FJAebHqA",
+        "userBounds": [
+          1443,
+          149,
+          null,
+          null
+        ],
+        "bounds": [
+          1443,
+          149,
+          396,
+          41
+        ],
+        "content": "nx_engage_content_engage_UUID_action",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-HUswfcwK",
+        "userBounds": [
+          1311,
+          82,
+          null,
+          null
+        ],
+        "bounds": [
+          1311,
+          82,
+          209,
+          41
+        ],
+        "content": "[BCS permissions doc](https://confluence.intra.nexthink.com/display/BCS/Granular+Permissions+-+BCS)",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-roSzBcXf",
+        "userBounds": [
+          450,
+          599,
+          null,
+          null
+        ],
+        "bounds": [
+          450,
+          599,
+          113,
+          41
+        ],
+        "content": "[GIT REPO](https://github.com/nexthink/content-admin.content-sharing)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SwPt1FgF",
+        "userBounds": [
+          81,
+          67,
+          null,
+          null
+        ],
+        "bounds": [
+          81,
+          67,
+          64,
+          41
+        ],
+        "content": "[EPIC](https://jira.nexthink.com:1443/browse/MPL-5323)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mhRYy2qx",
+        "userBounds": [
+          21,
+          579,
+          null,
+          null
+        ],
+        "bounds": [
+          21,
+          579,
+          123,
+          65
+        ],
+        "content": "EXTERNAL\nPRE REQ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ekip5YmK",
+        "userBounds": [
+          254,
+          688,
+          86.90625,
+          null
+        ],
+        "bounds": [
+          254,
+          688,
+          87,
+          56
+        ],
+        "content": "[DASH CONFIG](https://github.com/nexthink/live-dashboards.dashboard-service-helm/blob/main/helm/templates/configmap-granularpermissions.yaml)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ruaPRPuu",
+        "userBounds": [
+          362,
+          694,
+          88.015625,
+          null
+        ],
+        "bounds": [
+          362,
+          694,
+          88,
+          56
+        ],
+        "content": "[RA CONFIG](https://github.com/nexthink/act.remote-action-manager/blob/main/customize/helm/remote-action-manager/templates/configmap-ra-granularpermissions.yaml)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-EoLNAoDl",
+        "userBounds": [
+          1569,
+          237,
+          null,
+          null
+        ],
+        "bounds": [
+          1569,
+          237,
+          54,
+          41
+        ],
+        "content": "own",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RZqhbGUe",
+        "userBounds": [
+          769,
+          440,
+          183.234375,
+          null
+        ],
+        "bounds": [
+          769,
+          440,
+          183,
+          49
+        ],
+        "content": "[CREATE PERMISSIONS IN ARM SERVICE](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=234161540)",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-xUgTqqc4",
+        "userBounds": [
+          954,
+          353,
+          null,
+          null
+        ],
+        "bounds": [
+          954,
+          353,
+          110,
+          55
+        ],
+        "content": "TODO",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-3UazRkMD",
+        "userBounds": [
+          902,
+          248,
+          null,
+          null
+        ],
+        "bounds": [
+          902,
+          248,
+          119,
+          56
+        ],
+        "content": "CREATE\nCONFIG MAP",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-srtNKKfN",
+        "userBounds": [
+          546,
+          95,
+          174.21875,
+          null
+        ],
+        "bounds": [
+          546,
+          95,
+          174,
+          65
+        ],
+        "content": "NQL supporting granular permissions is planned for 2024",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-U8masH4u",
+        "userBounds": [
+          1112,
+          341,
+          null,
+          null
+        ],
+        "bounds": [
+          1112,
+          341,
+          152,
+          76
+        ],
+        "content": "UPDATE\nPRODUCT SHELL\nMENU CONGIS",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-LTVIFv2Z",
+        "userBounds": [
+          1299,
+          391,
+          null,
+          null
+        ],
+        "bounds": [
+          1299,
+          391,
+          108,
+          37
+        ],
+        "content": "[Menu Config](https://confluence.intra.nexthink.com/display/APO/Product+Shell+Menu+Structure)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Zrz79H1J",
+        "userBounds": [
+          1142,
+          680,
+          null,
+          null
+        ],
+        "bounds": [
+          1142,
+          680,
+          157,
+          65
+        ],
+        "content": "TYPE OF\nPERMISSIONS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-c1cvHjmh",
+        "userBounds": [
+          1334,
+          625,
+          null,
+          null
+        ],
+        "bounds": [
+          1334,
+          625,
+          114,
+          41
+        ],
+        "content": "CONTENT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-n6BEpYK2",
+        "userBounds": [
+          907,
+          656,
+          null,
+          null
+        ],
+        "bounds": [
+          907,
+          656,
+          73,
+          41
+        ],
+        "content": "USER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-14s8gfNT",
+        "userBounds": [
+          1658,
+          286,
+          null,
+          null
+        ],
+        "bounds": [
+          1658,
+          286,
+          122,
+          65
+        ],
+        "content": "[ARM QUESTION](https://teams.microsoft.com/l/message/19:4a539d12b6b84333be58d89eff738f5d@thread.tacv2/1687772437121?tenantId=13387b29-82d9-4ca5-9fa0-b7b5635742ef&groupId=1ce1e26b-a841-4cc8-9f1d-c9f5d80d3a00&parentMessageId=1687772437121&teamName=Engineering-Product&channelName=ARM%20team&createdTime=1687772437121&allowXTenantAccess=false)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DNZpRoEH",
+        "userBounds": [
+          1556,
+          678,
+          239.234375,
+          null
+        ],
+        "bounds": [
+          1556,
+          678,
+          239,
+          65
+        ],
+        "content": "Content Administration QUESTION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Cf7vuTz6",
+        "userBounds": [
+          491,
+          215,
+          null,
+          null
+        ],
+        "bounds": [
+          491,
+          215,
+          166,
+          41
+        ],
+        "content": "[Our menu config](https://github.com/nexthink/product-shell.product-shell-menu-config/blob/main/helm/menu-config/engage.json)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ozegzi8v",
+        "userBounds": [
+          1255,
+          241,
+          173.43202209472656,
+          null
+        ],
+        "bounds": [
+          1255,
+          241,
+          173,
+          89
+        ],
+        "content": "dynamic API\nto hide if no campagin",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bke6MVAj",
+        "userBounds": [
+          117,
+          290,
+          null,
+          null
+        ],
+        "bounds": [
+          117,
+          290,
+          729,
+          115
+        ],
+        "content": "```json\n// any user that either has content shared ( with edit ACTION ) or the nx_SERVICE_CONTENT_DOMAIN_all_edit is set\n\nconst requiredFlags = [\"content.SERVICE-edit\"]\n````",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-DRAjLuUP",
+        "userBounds": [
+          1110,
+          467,
+          null,
+          null
+        ],
+        "bounds": [
+          1110,
+          467,
+          79,
+          41
+        ],
+        "content": "[DOC 2](https://confluence.intra.nexthink.com/display/APO/Product+Shell+menu+config+guide)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rG94zABE",
+        "userBounds": [
+          614,
+          510,
+          null,
+          null
+        ],
+        "bounds": [
+          614,
+          510,
+          226,
+          95
+        ],
+        "content": "INVESTIGATION\nFRONT ET APPARITION\nDU CHOIX DE LANCEMENT\nDE CAMPAGNE",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-YHfLD8sa",
+        "userBounds": [
+          1095,
+          553,
+          null,
+          null
+        ],
+        "bounds": [
+          1095,
+          553,
+          201,
+          65
+        ],
+        "content": "TRAçABILITE\nPASSER LE TOKEN",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-vRBAfjb4",
+        "userBounds": [
+          814,
+          45,
+          null,
+          null
+        ],
+        "bounds": [
+          814,
+          45,
+          392,
+          65
+        ],
+        "content": "From public-api campagn can be trigger if:\n* nx_engage___all_api",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-KDHzIGBw",
+        "userBounds": [
+          827,
+          137,
+          null,
+          null
+        ],
+        "bounds": [
+          827,
+          137,
+          277,
+          41
+        ],
+        "content": "dependent conditions is ARM",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-PXirDgir",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F1PQMbaz",
+            "target": "NOTE-3G3PPLjr",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-Vl4gXdXE",
+            "target": "NOTE-W3vv1E4M"
+          }
+        ]
+      },
+      {
+        "id": "REL-lYvw2Jac",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cA2BK38T",
+            "target": "NOTE-tNyaSjHW"
+          },
+          {
+            "id": "END-y4p5io52",
+            "target": "NOTE-aWXyhQJF"
+          },
+          {
+            "id": "END-s5lmvWCf",
+            "target": "NOTE-FJAebHqA"
+          }
+        ]
+      },
+      {
+        "id": "REL-4Xpe8VNQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-T1FKRDDK",
+            "target": "NOTE-oWYbJQz9"
+          },
+          {
+            "id": "END-lxZktCbl",
+            "target": "NOTE-lPrGSgYc"
+          }
+        ]
+      },
+      {
+        "id": "REL-BYMJXqpC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-amdpKi2r",
+            "target": "NOTE-roSzBcXf"
+          },
+          {
+            "id": "END-yGSSX1vi",
+            "target": "NOTE-W3vv1E4M"
+          }
+        ]
+      },
+      {
+        "id": "REL-fknSLygr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7Ga1Zgeu",
+            "target": "NOTE-WWjhyjPl"
+          },
+          {
+            "id": "END-82ZGkSmG",
+            "target": "NOTE-gPX49sZj"
+          }
+        ]
+      },
+      {
+        "id": "REL-hHobyf1U",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8XBRggVy",
+            "target": "NOTE-SwPt1FgF"
+          },
+          {
+            "id": "END-7qYpUdG5",
+            "target": "NOTE-gPX49sZj"
+          }
+        ]
+      },
+      {
+        "id": "REL-CQFvGe5o",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-niN7ZgQE",
+            "target": "NOTE-mhRYy2qx"
+          },
+          {
+            "id": "END-heSptZiH",
+            "target": "NOTE-3G3PPLjr"
+          }
+        ]
+      },
+      {
+        "id": "REL-8hlb39au",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9j6Le2zY",
+            "target": "NOTE-ekip5YmK"
+          },
+          {
+            "id": "END-2U233V3H",
+            "target": "NOTE-3G3PPLjr"
+          }
+        ]
+      },
+      {
+        "id": "REL-4UyhH6VU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ykq8njoM",
+            "target": "NOTE-ruaPRPuu"
+          },
+          {
+            "id": "END-ZG1LDNHs",
+            "target": "NOTE-3G3PPLjr"
+          }
+        ]
+      },
+      {
+        "id": "REL-9fccQpgf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hWif7TR6",
+            "target": "NOTE-EoLNAoDl"
+          },
+          {
+            "id": "END-xH4Q6QgP",
+            "target": "NOTE-FJAebHqA"
+          }
+        ]
+      },
+      {
+        "id": "REL-2QN1AfVa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CxH2frwW",
+            "target": "NOTE-xUgTqqc4"
+          },
+          {
+            "id": "END-bEDjyGvi",
+            "target": "NOTE-RZqhbGUe"
+          }
+        ]
+      },
+      {
+        "id": "REL-Jg2dAvxW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XUU9VmEy",
+            "target": "NOTE-3UazRkMD"
+          },
+          {
+            "id": "END-8VsomTjk",
+            "target": "NOTE-xUgTqqc4"
+          }
+        ]
+      },
+      {
+        "id": "REL-l2lXx9k4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Ion6bpfv",
+            "target": "NOTE-srtNKKfN"
+          },
+          {
+            "id": "END-4J86jbKn",
+            "target": "NOTE-JEuyNkZu"
+          }
+        ]
+      },
+      {
+        "id": "REL-dDEsUzxL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-63yYmi2D",
+            "target": "NOTE-U8masH4u"
+          },
+          {
+            "id": "END-sFWTT2Ql",
+            "target": "NOTE-xUgTqqc4"
+          }
+        ]
+      },
+      {
+        "id": "REL-2SW6sCv3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pMdegQ3e",
+            "target": "NOTE-LTVIFv2Z"
+          },
+          {
+            "id": "END-6DHxl3oK",
+            "target": "NOTE-U8masH4u"
+          }
+        ]
+      },
+      {
+        "id": "REL-38xZnEfP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hSRoJLKy",
+            "target": "NOTE-Zrz79H1J"
+          },
+          {
+            "id": "END-6ICGNzkZ",
+            "target": "NOTE-n6BEpYK2"
+          }
+        ]
+      },
+      {
+        "id": "REL-tZhr8qqn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BAzxsr9l",
+            "target": "NOTE-Zrz79H1J"
+          },
+          {
+            "id": "END-idbpgveE",
+            "target": "NOTE-c1cvHjmh"
+          }
+        ]
+      },
+      {
+        "id": "REL-MsJRU4eH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9zvTs1cp",
+            "target": "NOTE-ozegzi8v"
+          },
+          {
+            "id": "END-VzYCDwHU",
+            "target": "NOTE-U8masH4u"
+          }
+        ]
+      }
+    ]
+  }
+}

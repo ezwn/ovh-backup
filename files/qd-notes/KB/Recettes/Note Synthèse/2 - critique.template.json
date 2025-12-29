@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-noteSyntheseCritique",
+  "content": {
+    "index": "note synthèse : critique",
+    "name": "Note Synthèse : 2 - critique",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "À combien, en pourcentage, estimes-tu le degré de consensus scientifique / académique / d’experts concernant ${theme:text} ? \n\nRéponds uniquement sous le format suivant :\n[XX %] – [type de consensus] – [1 phrase de contexte max]\n\nPas de précaution rhétorique, pas d’adoucissement, pas de développement.",
+        "defaultText": null
+      }
+    ]
+  }
+}

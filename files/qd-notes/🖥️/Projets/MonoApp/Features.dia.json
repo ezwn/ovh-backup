@@ -1,0 +1,760 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-paJVB4kT",
+        "userBounds": [
+          746,
+          398,
+          null,
+          null
+        ],
+        "content": "TODO",
+        "bounds": [
+          746,
+          398,
+          139,
+          66
+        ],
+        "fontSize": 42
+      },
+      {
+        "id": "NOTE-Wsu9pU8c",
+        "userBounds": [
+          564,
+          175,
+          null,
+          null
+        ],
+        "content": "Box\nselection\nor similar",
+        "bounds": [
+          564,
+          175,
+          75,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-mrWDYCP2",
+        "userBounds": [
+          1442,
+          270,
+          null,
+          null
+        ],
+        "content": "Copy/paste\nwith relations",
+        "bounds": [
+          1442,
+          270,
+          100,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-fJalIbVy",
+        "userBounds": [
+          831,
+          240,
+          null,
+          null
+        ],
+        "content": "IMAGES",
+        "bounds": [
+          831,
+          240,
+          72,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Dd6bfNWN",
+        "userBounds": [
+          530,
+          392,
+          null,
+          null
+        ],
+        "content": "Improved text\nformating language\nand code",
+        "bounds": [
+          530,
+          392,
+          172,
+          81
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-fZDM5Pio",
+        "userBounds": [
+          684,
+          124,
+          null,
+          null
+        ],
+        "content": "Direct access to\nfont size instead\nof + and -",
+        "bounds": [
+          684,
+          124,
+          119,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-eCflyWiB",
+        "userBounds": [
+          544,
+          286,
+          null,
+          null
+        ],
+        "content": "shortcuts\nfor common\nnote styles",
+        "bounds": [
+          544,
+          286,
+          92,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-3qWu29hS",
+        "userBounds": [
+          709,
+          250,
+          null,
+          null
+        ],
+        "content": "UI\nImprvt",
+        "bounds": [
+          709,
+          250,
+          74,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-fnsdWfRz",
+        "userBounds": [
+          407,
+          202,
+          null,
+          null
+        ],
+        "content": "Move file",
+        "bounds": [
+          407,
+          202,
+          98,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-mSI8C9i7",
+        "userBounds": [
+          494,
+          529,
+          null,
+          null
+        ],
+        "content": "EASY STYLING\nUSING SHORTCUTS",
+        "bounds": [
+          494,
+          529,
+          134,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-rkF1szZF",
+        "userBounds": [
+          634,
+          618,
+          170.375,
+          null
+        ],
+        "content": "redimentionnement",
+        "bounds": [
+          634,
+          618,
+          170,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-3wcn2xoj",
+        "userBounds": [
+          1009,
+          407,
+          null,
+          null
+        ],
+        "content": "auto computed ends",
+        "bounds": [
+          1009,
+          407,
+          145,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-6U2bA35h",
+        "userBounds": [
+          748,
+          523,
+          null,
+          null
+        ],
+        "bounds": [
+          748,
+          523,
+          104,
+          64
+        ],
+        "content": "CODE\nSOURCE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fTMh1aZA",
+        "userBounds": [
+          978,
+          288,
+          null,
+          null
+        ],
+        "bounds": [
+          978,
+          288,
+          96,
+          90
+        ],
+        "content": "List all\ncommands\nand clarify\nthem",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Y7JLwJX4",
+        "userBounds": [
+          1504,
+          44,
+          null,
+          null
+        ],
+        "bounds": [
+          1504,
+          44,
+          161,
+          60
+        ],
+        "content": "Paste souce code\nin existing node",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-QPvtV7e6",
+        "userBounds": [
+          804,
+          28,
+          null,
+          null
+        ],
+        "bounds": [
+          804,
+          28,
+          151,
+          72
+        ],
+        "content": "Markup for\ntime elapsed since\na given date",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-UzRkHGYV",
+        "userBounds": [
+          999,
+          91,
+          263.140625,
+          null
+        ],
+        "bounds": [
+          999,
+          91,
+          263,
+          54
+        ],
+        "content": "QuickDia : MULTIPLE NOTES\n(MOVE, DELETE)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tGhh4LUi",
+        "userBounds": [
+          1339,
+          113,
+          null,
+          null
+        ],
+        "bounds": [
+          1339,
+          113,
+          85,
+          66
+        ],
+        "content": "DELETE\nMULTIPLE\nNOTES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-vNiF79sv",
+        "userBounds": [
+          1044,
+          494,
+          null,
+          null
+        ],
+        "bounds": [
+          1044,
+          494,
+          145,
+          66
+        ],
+        "content": "SELECT\nFILE NAME ONLY\nON NEW DIAGRAM",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-dZEPscbB",
+        "userBounds": [
+          831,
+          122,
+          null,
+          null
+        ],
+        "bounds": [
+          831,
+          122,
+          91,
+          41
+        ],
+        "content": "Alarmes",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-cNXlwKS8",
+        "userBounds": [
+          149,
+          301,
+          145.84375,
+          null
+        ],
+        "bounds": [
+          149,
+          301,
+          146,
+          83
+        ],
+        "content": "# BIG DIFF\n- OFTEN\n- HARD TO DO",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-sfl6Pc8P",
+        "userBounds": [
+          1521,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          1521,
+          156,
+          134,
+          41
+        ],
+        "content": "QUICKWINS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ap5akhQ9",
+        "userBounds": [
+          1626,
+          536,
+          null,
+          null
+        ],
+        "bounds": [
+          1626,
+          536,
+          136,
+          72
+        ],
+        "content": "Finetune notes\nposition with\nkeyboard arrows",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-kiw7XeMB",
+        "userBounds": [
+          565,
+          66,
+          null,
+          null
+        ],
+        "bounds": [
+          565,
+          66,
+          75,
+          39
+        ],
+        "content": "Search",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-bpmTBy3f",
+        "userBounds": [
+          907,
+          459,
+          null,
+          null
+        ],
+        "bounds": [
+          907,
+          459,
+          99,
+          64
+        ],
+        "content": "RESIZE\nWITH +/-",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mozGqlFj",
+        "userBounds": [
+          1628,
+          409,
+          null,
+          null
+        ],
+        "bounds": [
+          1628,
+          409,
+          108,
+          87
+        ],
+        "content": "MOVE\nWITH\nARROWS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-LrgdeGU6",
+        "userBounds": [
+          1314,
+          5,
+          null,
+          null
+        ],
+        "bounds": [
+          1314,
+          5,
+          118,
+          60
+        ],
+        "content": "DETECT\nLANGUAGE",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-L9DcrzYU",
+        "userBounds": [
+          456,
+          28,
+          null,
+          null
+        ],
+        "bounds": [
+          456,
+          28,
+          87,
+          64
+        ],
+        "content": "PYTON\nsupport",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-XHRpBUln",
+        "userBounds": [
+          403,
+          116,
+          null,
+          null
+        ],
+        "bounds": [
+          403,
+          116,
+          85,
+          64
+        ],
+        "content": "full .md\nsupport",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-77PT3Qni",
+        "userBounds": [
+          959,
+          602,
+          null,
+          null
+        ],
+        "bounds": [
+          959,
+          602,
+          86,
+          64
+        ],
+        "content": "EC2 for\nMobility",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WA2JTMgI",
+        "userBounds": [
+          1121,
+          236,
+          185.046875,
+          null
+        ],
+        "bounds": [
+          1121,
+          236,
+          185,
+          64
+        ],
+        "content": "Liens spéciaux entre diagrammes",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CA8uIhbI",
+        "userBounds": [
+          1221,
+          369,
+          null,
+          null
+        ],
+        "bounds": [
+          1221,
+          369,
+          92,
+          87
+        ],
+        "content": "flag\nnoeud\nprincipal",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-fRU6UQhm",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "z1TyF5qn",
+            "target": "NOTE-Dd6bfNWN"
+          },
+          {
+            "id": "UdAA3Fnf",
+            "target": "NOTE-paJVB4kT"
+          }
+        ]
+      },
+      {
+        "id": "REL-hStGQ2FB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JNABGUiV",
+            "target": "NOTE-3qWu29hS"
+          },
+          {
+            "id": "END-3IJy4WNF",
+            "target": "NOTE-paJVB4kT"
+          }
+        ]
+      },
+      {
+        "id": "REL-JIPMpNiV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KtuyafA4",
+            "target": "NOTE-Wsu9pU8c"
+          },
+          {
+            "id": "END-aLvgP2lU",
+            "target": "NOTE-3qWu29hS"
+          }
+        ]
+      },
+      {
+        "id": "REL-2KEgmc1l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PGS8vMKW",
+            "target": "NOTE-eCflyWiB"
+          },
+          {
+            "id": "END-pppbxmxI",
+            "target": "NOTE-3qWu29hS"
+          }
+        ]
+      },
+      {
+        "id": "REL-LJL16ACj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IVgEB5Zb",
+            "target": "NOTE-fZDM5Pio"
+          },
+          {
+            "id": "END-M1DDyVLr",
+            "target": "NOTE-3qWu29hS"
+          }
+        ]
+      },
+      {
+        "id": "REL-y5m4rrvZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Z6ZZrQa7",
+            "target": "NOTE-mSI8C9i7"
+          },
+          {
+            "id": "END-JzJvkWvV",
+            "target": "NOTE-Dd6bfNWN"
+          }
+        ]
+      },
+      {
+        "id": "REL-15g6XiIr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KJ8hdrKv",
+            "target": "NOTE-6U2bA35h"
+          },
+          {
+            "id": "END-z2yqugXT",
+            "target": "NOTE-rkF1szZF"
+          }
+        ]
+      },
+      {
+        "id": "REL-9TKwmgYr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2TsdpssJ",
+            "target": "NOTE-6U2bA35h"
+          },
+          {
+            "id": "END-ym3hc5Z2",
+            "target": "NOTE-paJVB4kT"
+          }
+        ]
+      },
+      {
+        "id": "REL-gHP3iZT2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g3u25PST",
+            "target": "NOTE-fJalIbVy"
+          },
+          {
+            "id": "END-Ys6opCnE",
+            "target": "NOTE-3qWu29hS"
+          }
+        ]
+      },
+      {
+        "id": "REL-9nGvfgml",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-e6NZHHi9",
+            "target": "NOTE-QPvtV7e6"
+          },
+          {
+            "id": "END-t13PJgp3",
+            "target": "NOTE-dZEPscbB"
+          }
+        ]
+      },
+      {
+        "id": "REL-EvZ6kQwq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EDrXuEUi",
+            "target": "NOTE-sfl6Pc8P"
+          },
+          {
+            "id": "END-oC9yCuaM",
+            "target": "NOTE-Y7JLwJX4"
+          }
+        ]
+      },
+      {
+        "id": "REL-G2N319Ib",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KvIMUEGn",
+            "target": "NOTE-sfl6Pc8P"
+          },
+          {
+            "id": "END-PPdrlYjE",
+            "target": "NOTE-mrWDYCP2"
+          }
+        ]
+      },
+      {
+        "id": "REL-f7A3doh8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EyI9MN8P",
+            "target": "NOTE-LrgdeGU6"
+          },
+          {
+            "id": "END-vbRkcpPx",
+            "target": "NOTE-Y7JLwJX4"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZpAGpwUH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5hcEv6H6",
+            "target": "NOTE-Ap5akhQ9"
+          },
+          {
+            "id": "END-giFm8uZC",
+            "target": "NOTE-mozGqlFj"
+          }
+        ]
+      }
+    ]
+  }
+}

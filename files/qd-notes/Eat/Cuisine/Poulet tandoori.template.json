@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-pouletTandoori",
+  "content": {
+    "index": "poulet tandoori cuisine inde indien poulet",
+    "name": "Poulet tandoori",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Poulet tandoori\n\n## Liste des ingrédients :\n\n- 4 blancs de poulet\n- 2 yaourts natures\n- jus de citron\n- huile d’olive\n- 3 ou 4 cuillères à café de tandoori (attention ça pique, au pire mettez-en que 2, quitte à en ajouter après !)\n- SEL!\n\n## Préparation de la recette :\n\nLa veille :\n\nDécoupez les blancs de volaille en morceaux (pas trop gros).\nMettez les yaourts dans une grande assiette creuse, ajoutez le tandoori, 3 cuillères à soupe d’huile d’olive et 3 cuillères à soupe de jus de citron et le sel. Mélangez bien l’ensemble.\nIntégrez la viande à la marinade et mélangez à nouveau afin que la viande soit bien recouverte. Filmez l’assiette et mettez-la au frigo.\n\nLe lendemain :\n\nFaites cuire le poulet dans une poêle avec un filet d’huile d’olive et la marinade.",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-g4dhbmQG",
+          "userBounds": [
+            65,
+            206,
+            null,
+            null
+          ],
+          "bounds": [
+            65,
+            206,
+            55,
+            50
+          ],
+          "content": "[Notes\n🔍](http://localhost:50303/notes/)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-sBh98FB8",
+          "userBounds": [
+            281,
+            270,
+            null,
+            null
+          ],
+          "bounds": [
+            281,
+            270,
+            47,
+            29
+          ],
+          "content": "[CNAM](http://localhost:3000/notes/CRSCNAXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-87NkytPG",
+          "userBounds": [
+            142,
+            399,
+            null,
+            null
+          ],
+          "bounds": [
+            142,
+            399,
+            72,
+            29
+          ],
+          "content": "[SOMMAIRE](http://localhost:50303/notes/XXXXXXXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-ZhBRRTKZ",
+          "userBounds": [
+            127,
+            613,
+            null,
+            null
+          ],
+          "bounds": [
+            127,
+            613,
+            86,
+            34
+          ],
+          "content": "[Operations](http://localhost:3001/operations)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-iFUPIPm3",
+          "userBounds": [
+            28,
+            62,
+            null,
+            null
+          ],
+          "bounds": [
+            28,
+            62,
+            48,
+            29
+          ],
+          "content": "[9T Pro](http://localhost:3000/notes/XXXXXXXXXXXXU1000)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-aMiKdyo8",
+          "userBounds": [
+            39,
+            23,
+            null,
+            null
+          ],
+          "bounds": [
+            39,
+            23,
+            63,
+            29
+          ],
+          "content": "[9T Pro ✅](http://localhost:3000/notes/XXXXXXXXXXXXU1100)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-rHGT6IFn",
+          "userBounds": [
+            307,
+            75,
+            null,
+            null
+          ],
+          "bounds": [
+            307,
+            75,
+            53,
+            32
+          ],
+          "content": "[PROD](http://localhost:50303/notes/PRODXXXXXXXXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-DGGkANB8",
+          "userBounds": [
+            243,
+            107,
+            null,
+            null
+          ],
+          "bounds": [
+            243,
+            107,
+            47,
+            34
+          ],
+          "content": "[DEV](http://localhost:3000/notes/DEVXXXXXXXXXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-832LDv6W",
+          "userBounds": [
+            125,
+            759,
+            null,
+            null
+          ],
+          "bounds": [
+            125,
+            759,
+            48,
+            34
+          ],
+          "content": "[Files](http://localhost:3001/files)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-u5A5ZPDG",
+          "userBounds": [
+            159,
+            88,
+            null,
+            null
+          ],
+          "bounds": [
+            159,
+            88,
+            47,
+            34
+          ],
+          "content": "ENV",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-QAtwFxS4",
+          "userBounds": [
+            223,
+            34,
+            null,
+            null
+          ],
+          "bounds": [
+            223,
+            34,
+            49,
+            29
+          ],
+          "content": "[ExpFR](http://localhost:50303/notes/XXXXXXXXXXXXU1002)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-kyVDQ4gU",
+          "userBounds": [
+            10,
+            358,
+            null,
+            null
+          ],
+          "bounds": [
+            10,
+            358,
+            66,
+            41
+          ],
+          "content": "KIAO",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-C9KXreJS",
+          "userBounds": [
+            497,
+            149,
+            null,
+            null
+          ],
+          "bounds": [
+            497,
+            149,
+            89,
+            40
+          ],
+          "content": "CONSOLIDATE\nCONTENT",
+          "zIndex": 3,
+          "fontSize": 10,
+          "noteStyle": "ORANGE"
+        },
+        {
+          "id": "NOTE-qkdodHxR",
+          "userBounds": [
+            495,
+            216,
+            87.40625,
+            null
+          ],
+          "bounds": [
+            495,
+            216,
+            87,
+            46
+          ],
+          "content": "[réviser mon code](http://localhost:8989/IT/Code%20revision.dia.json)",
+          "zIndex": 0,
+          "noteStyle": "NOTE",
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-qnYr1EAe",
+          "userBounds": [
+            236,
+            742,
+            68.484375,
+            null
+          ],
+          "bounds": [
+            236,
+            742,
+            68,
+            33
+          ],
+          "content": "# [Méthode](http://localhost:3001/files/Knowledge%20building/M%C3%A9thode.md)",
+          "zIndex": 0,
+          "fontSize": 8,
+          "noteStyle": "NOTE"
+        },
+        {
+          "id": "NOTE-mnlHgJ29",
+          "userBounds": [
+            229,
+            475,
+            63.8125,
+            null
+          ],
+          "bounds": [
+            229,
+            475,
+            64,
+            40
+          ],
+          "content": "[PERSO OBS](http://localhost:50303/notes/PERSOBXXXXXXU0000)",
+          "zIndex": 3,
+          "fontSize": 10,
+          "noteStyle": "NOTE"
+        },
+        {
+          "id": "NOTE-gARiMXAk",
+          "userBounds": [
+            326,
+            486,
+            74.375,
+            null
+          ],
+          "bounds": [
+            326,
+            486,
+            74,
+            51
+          ],
+          "content": "To consider before interactions",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-3H9L6rZ4",
+          "userBounds": [
+            297,
+            9,
+            null,
+            null
+          ],
+          "bounds": [
+            297,
+            9,
+            62,
+            34
+          ],
+          "content": "[ExpML](http://localhost:50303/notes/XXXXXXXXXXXXU1004)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-3VLxNAax",
+          "userBounds": [
+            483,
+            75,
+            null,
+            null
+          ],
+          "bounds": [
+            483,
+            75,
+            116,
+            41
+          ],
+          "content": "[kiao-lp.app](https://www.kiao-lp.app/)",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-7ZEIpiSy",
+          "userBounds": [
+            209,
+            262,
+            null,
+            null
+          ],
+          "bounds": [
+            209,
+            262,
+            63,
+            32
+          ],
+          "content": "[UTC505](http://localhost:50303/notes/k7ag0tieq6cp5b69i2wxfv)",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-YePDbjtv",
+          "userBounds": [
+            243,
+            210,
+            null,
+            null
+          ],
+          "bounds": [
+            243,
+            210,
+            62,
+            32
+          ],
+          "content": "[NSY115](http://localhost:50303/notes/vjaqnepig60ynkcy1tpq05)",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-AsMfXLJ9",
+          "userBounds": [
+            315,
+            224,
+            null,
+            null
+          ],
+          "bounds": [
+            315,
+            224,
+            60,
+            32
+          ],
+          "content": "[AVT208](http://localhost:50303/notes/vre2nsmujcxqtt84g2di6z)",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-snEQ4nFK",
+          "userBounds": [
+            312,
+            327,
+            null,
+            null
+          ],
+          "bounds": [
+            312,
+            327,
+            42,
+            34
+          ],
+          "content": "[ISO](https://kiao-lp.app/quickcms/qd-notes/ISO)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-PSznFeFg",
+          "userBounds": [
+            317,
+            379,
+            null,
+            null
+          ],
+          "bounds": [
+            317,
+            379,
+            45,
+            34
+          ],
+          "content": "[LLM](http://localhost:50303/notes/p7a2ctkc0g52st03gcdw1s)",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-2TKnmmNs",
+          "userBounds": [
+            354,
+            266,
+            null,
+            null
+          ],
+          "bounds": [
+            354,
+            266,
+            55,
+            29
+          ],
+          "content": "[NSY107](http://localhost:50303/notes/CNAMXXNSY107U0000)",
+          "zIndex": 3,
+          "fontSize": 10
+        },
+        {
+          "id": "NOTE-o2K8BNa3",
+          "userBounds": [
+            143,
+            505,
+            null,
+            null
+          ],
+          "bounds": [
+            143,
+            505,
+            65,
+            41
+          ],
+          "content": "[news](https://kiao-lp.app/news/)",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-YEF8TcJj",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-m6inmBek",
+              "target": "NOTE-g4dhbmQG"
+            },
+            {
+              "id": "END-KhZMzpDi",
+              "target": "NOTE-87NkytPG"
+            }
+          ]
+        },
+        {
+          "id": "REL-Mrrhl6py",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-zYXt4CJU",
+              "target": "NOTE-87NkytPG"
+            },
+            {
+              "id": "END-2A6ncAhI",
+              "target": "NOTE-sBh98FB8"
+            }
+          ]
+        },
+        {
+          "id": "REL-NIDtQSqJ",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-5KjuxIhr",
+              "target": "NOTE-u5A5ZPDG"
+            },
+            {
+              "id": "END-5iFAtZiz",
+              "target": "NOTE-g4dhbmQG"
+            }
+          ]
+        },
+        {
+          "id": "REL-I33ZJxFL",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-1hNffIMf",
+              "target": "NOTE-u5A5ZPDG"
+            },
+            {
+              "id": "END-VMqPByfv",
+              "target": "NOTE-DGGkANB8"
+            }
+          ]
+        },
+        {
+          "id": "REL-5aiNqKqa",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-CxNwLB7u",
+              "target": "NOTE-QAtwFxS4"
+            },
+            {
+              "id": "END-AsGK8y67",
+              "target": "NOTE-u5A5ZPDG"
+            }
+          ]
+        },
+        {
+          "id": "REL-uyWe5Qqp",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-tkaIRQXm",
+              "target": "NOTE-kyVDQ4gU"
+            },
+            {
+              "id": "END-EgxGFKKL",
+              "target": "NOTE-g4dhbmQG"
+            }
+          ]
+        },
+        {
+          "id": "REL-VLuxYqrV",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-wYIxFwgk",
+              "target": "NOTE-kyVDQ4gU"
+            },
+            {
+              "id": "END-dbXRK8a8",
+              "target": "NOTE-832LDv6W"
+            }
+          ]
+        },
+        {
+          "id": "REL-ms7FGC1l",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Z2xiYIma",
+              "target": "NOTE-kyVDQ4gU"
+            },
+            {
+              "id": "END-Nhv7LUcM",
+              "target": "NOTE-ZhBRRTKZ"
+            }
+          ]
+        },
+        {
+          "id": "REL-s4W9pay6",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-bhmjxGVH",
+              "target": "NOTE-qnYr1EAe"
+            },
+            {
+              "id": "END-KtlgI8qN",
+              "target": "NOTE-832LDv6W"
+            }
+          ]
+        },
+        {
+          "id": "REL-87k9Bcl5",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-rHzli1Hr",
+              "target": "NOTE-gARiMXAk"
+            },
+            {
+              "id": "END-4txHAiCR",
+              "target": "NOTE-mnlHgJ29"
+            }
+          ]
+        },
+        {
+          "id": "REL-bJ5Vqs6e",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-sW4kCQgz",
+              "target": "NOTE-mnlHgJ29"
+            },
+            {
+              "id": "END-5ne4CZsC",
+              "target": "NOTE-87NkytPG"
+            }
+          ]
+        },
+        {
+          "id": "REL-xDsBIlBN",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-SgW6hiuq",
+              "target": "NOTE-3H9L6rZ4"
+            },
+            {
+              "id": "END-sYJLWJpe",
+              "target": "NOTE-QAtwFxS4"
+            }
+          ]
+        },
+        {
+          "id": "REL-KtCXsvwG",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-AspqDtip",
+              "target": "NOTE-rHGT6IFn"
+            },
+            {
+              "id": "END-R2T9PUrm",
+              "target": "NOTE-QAtwFxS4"
+            }
+          ]
+        },
+        {
+          "id": "REL-Y3BKuCDl",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Lw3ZRlyS",
+              "target": "NOTE-rHGT6IFn"
+            },
+            {
+              "id": "END-Z9Jmc6kW",
+              "target": "NOTE-3H9L6rZ4"
+            }
+          ]
+        },
+        {
+          "id": "REL-Qz4pxF83",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-1kc8uYgj",
+              "target": "NOTE-sBh98FB8"
+            },
+            {
+              "id": "END-7yrGq7tL",
+              "target": "NOTE-7ZEIpiSy"
+            }
+          ]
+        },
+        {
+          "id": "REL-bLCLZoQH",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-wzgmgJlA",
+              "target": "NOTE-sBh98FB8"
+            },
+            {
+              "id": "END-kLejRvAe",
+              "target": "NOTE-YePDbjtv"
+            }
+          ]
+        },
+        {
+          "id": "REL-7RfzJVRA",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-EVAkSCnJ",
+              "target": "NOTE-AsMfXLJ9"
+            },
+            {
+              "id": "END-c3UAreKt",
+              "target": "NOTE-sBh98FB8"
+            }
+          ]
+        },
+        {
+          "id": "REL-Ldl477vo",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-CCmjrScP",
+              "target": "NOTE-2TKnmmNs"
+            },
+            {
+              "id": "END-Q5wGyBfo",
+              "target": "NOTE-sBh98FB8"
+            }
+          ]
+        },
+        {
+          "id": "REL-vDQI9Gx1",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-9IqovtvD",
+              "target": "NOTE-o2K8BNa3"
+            },
+            {
+              "id": "END-KTI7bqrv",
+              "target": "NOTE-kyVDQ4gU"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "0cc3612a-1fb3-442b-b730-6fe10ec280f2",
+  "docTypeVersion": 1
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-semanticUiReactPopupClick",
+  "content": {
+    "index": "semantic ui react popup (click)",
+    "name": "Semantic UI React Popup (click)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "  <Popup on=\"click\" trigger={<Button>New</Button>} flowing>\n    <OperationCreateArea />\n  </Popup>",
+        "defaultText": null
+      }
+    ]
+  }
+}

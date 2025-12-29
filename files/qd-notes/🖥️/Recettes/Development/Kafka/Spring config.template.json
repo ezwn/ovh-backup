@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaSpringConfig",
+  "content": {
+    "index": "kafka, spring config",
+    "name": "Kafka, Spring config",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "\n## producer\n\n  kafka:\n    bootstrap-servers: localhost:9092\n    producer:\n      key-serializer: org.apache.kafka.common.serialization.StringSerializer\n      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer\n    consumer:\n      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer\n      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer\n      properties:\n        spring.json.trusted.packages: \"*\"\n\n## consumer\n\n  kafka:\n    bootstrap-servers: localhost:9092\n    consumer:\n      group-id: my-consumer-group\n      auto-offset-reset: earliest\n      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer\n      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer\n      properties:\n        spring.json.trusted.packages: \"*\"",
+        "defaultText": null
+      }
+    ]
+  }
+}

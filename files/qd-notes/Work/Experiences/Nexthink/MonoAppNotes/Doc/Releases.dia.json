@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-gFJT1i4N",
+        "userBounds": [
+          972,
+          32,
+          null,
+          null
+        ],
+        "bounds": [
+          972,
+          32,
+          168,
+          41
+        ],
+        "content": "[RELEASE PLAN](https://confluence.intra.nexthink.com/display/RM/2024.4+-+Release+Plan)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

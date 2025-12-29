@@ -1,0 +1,407 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vqzwL7uV",
+        "userBounds": [
+          777,
+          368,
+          null,
+          null
+        ],
+        "bounds": [
+          777,
+          368,
+          200,
+          49
+        ],
+        "content": "PSYCHOLOGY",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-ZJpTcqxV",
+        "userBounds": [
+          589,
+          373,
+          null,
+          null
+        ],
+        "bounds": [
+          589,
+          373,
+          139,
+          41
+        ],
+        "content": "HEURISTICS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-z7Ue7aHl",
+        "userBounds": [
+          428,
+          311,
+          147.015625,
+          null
+        ],
+        "bounds": [
+          428,
+          311,
+          147,
+          34
+        ],
+        "content": "divide and conquer",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ylxPDqU8",
+        "userBounds": [
+          467,
+          403,
+          null,
+          null
+        ],
+        "bounds": [
+          467,
+          403,
+          90,
+          36
+        ],
+        "content": "mean-end",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-2pynomKS",
+        "userBounds": [
+          326,
+          377,
+          null,
+          null
+        ],
+        "bounds": [
+          326,
+          377,
+          94,
+          36
+        ],
+        "content": "milestones",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tmaVQ4LX",
+        "userBounds": [
+          836,
+          253,
+          null,
+          null
+        ],
+        "bounds": [
+          836,
+          253,
+          108,
+          41
+        ],
+        "content": "MEMORY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1MjGIYpC",
+        "userBounds": [
+          680,
+          182,
+          null,
+          null
+        ],
+        "bounds": [
+          680,
+          182,
+          124,
+          64
+        ],
+        "content": "interference\ntheory",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5THXsaVH",
+        "userBounds": [
+          548,
+          176,
+          null,
+          null
+        ],
+        "bounds": [
+          548,
+          176,
+          99,
+          41
+        ],
+        "content": "proactive",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZAxo69ZJ",
+        "userBounds": [
+          644,
+          95,
+          null,
+          null
+        ],
+        "bounds": [
+          644,
+          95,
+          111,
+          41
+        ],
+        "content": "retroactive",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TppU4tUt",
+        "userBounds": [
+          574,
+          40,
+          null,
+          null
+        ],
+        "bounds": [
+          574,
+          40,
+          127,
+          36
+        ],
+        "content": "rappel perturbé",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-rTLWhqxN",
+        "userBounds": [
+          459,
+          109,
+          null,
+          null
+        ],
+        "bounds": [
+          459,
+          109,
+          114,
+          54
+        ],
+        "content": "mémorisation\nperturbée",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-iouvy5XF",
+        "userBounds": [
+          804,
+          98,
+          null,
+          null
+        ],
+        "bounds": [
+          804,
+          98,
+          127,
+          54
+        ],
+        "content": "cross-language\ninterference",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Sup8SKdb",
+        "userBounds": [
+          303,
+          174,
+          null,
+          null
+        ],
+        "content": "RÉSOLUTION\nPROBLÈME",
+        "zIndex": 3,
+        "bounds": [
+          303,
+          174,
+          148,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-mw6ZsepV",
+        "userBounds": [
+          179,
+          246,
+          null,
+          null
+        ],
+        "content": "REPRÉSENTATION\nMENTALES",
+        "zIndex": 3,
+        "bounds": [
+          179,
+          246,
+          198,
+          64
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-4mabrlEe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VlwnvTUB",
+            "target": "NOTE-ZJpTcqxV"
+          },
+          {
+            "id": "END-n8G5jlfX",
+            "target": "NOTE-vqzwL7uV"
+          }
+        ]
+      },
+      {
+        "id": "REL-UGD9NX6l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TRxdkEvv",
+            "target": "NOTE-z7Ue7aHl"
+          },
+          {
+            "id": "END-6lgbXWsI",
+            "target": "NOTE-ZJpTcqxV"
+          }
+        ]
+      },
+      {
+        "id": "REL-eGPZDtcp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IK1jK3Lr",
+            "target": "NOTE-ylxPDqU8"
+          },
+          {
+            "id": "END-qXZqhV1Y",
+            "target": "NOTE-ZJpTcqxV"
+          }
+        ]
+      },
+      {
+        "id": "REL-lKknGhbf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RmrmQF1I",
+            "target": "NOTE-2pynomKS"
+          },
+          {
+            "id": "END-tMjr2UiW",
+            "target": "NOTE-ylxPDqU8"
+          }
+        ]
+      },
+      {
+        "id": "REL-2hJZpneC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F5WBndfY",
+            "target": "NOTE-tmaVQ4LX"
+          },
+          {
+            "id": "END-MDcpCVk9",
+            "target": "NOTE-vqzwL7uV"
+          }
+        ]
+      },
+      {
+        "id": "REL-KkDkBCYf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mP1VvoHD",
+            "target": "NOTE-1MjGIYpC"
+          },
+          {
+            "id": "END-FxQZKo3b",
+            "target": "NOTE-tmaVQ4LX"
+          }
+        ]
+      },
+      {
+        "id": "REL-KcUdTlFp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RKC8QxVC",
+            "target": "NOTE-5THXsaVH"
+          },
+          {
+            "id": "END-j3VjEDdy",
+            "target": "NOTE-1MjGIYpC"
+          }
+        ]
+      },
+      {
+        "id": "REL-3wNM1xaZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2TkmCuwK",
+            "target": "NOTE-ZAxo69ZJ"
+          },
+          {
+            "id": "END-PyGjNBYp",
+            "target": "NOTE-1MjGIYpC"
+          }
+        ]
+      },
+      {
+        "id": "REL-wGvBsPiR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZhJsRfXC",
+            "target": "NOTE-TppU4tUt"
+          },
+          {
+            "id": "END-gRAEkMqT",
+            "target": "NOTE-ZAxo69ZJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-qjE83dhw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LJsclnZQ",
+            "target": "NOTE-rTLWhqxN"
+          },
+          {
+            "id": "END-auPybwKA",
+            "target": "NOTE-5THXsaVH"
+          }
+        ]
+      },
+      {
+        "id": "REL-5Hq5eay8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PoJtSyLt",
+            "target": "NOTE-1MjGIYpC"
+          },
+          {
+            "id": "END-NuMxWziH",
+            "target": "NOTE-iouvy5XF"
+          }
+        ]
+      }
+    ]
+  }
+}

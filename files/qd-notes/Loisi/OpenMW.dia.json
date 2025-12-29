@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Bnc4DttK",
+        "userBounds": [
+          351,
+          202,
+          null,
+          null
+        ],
+        "bounds": [
+          351,
+          202,
+          160,
+          41
+        ],
+        "content": "[Managing Mods](https://modding-openmw.com/getting-started/managing-mods/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dosLineBreaksToUnixShell",
+  "content": {
+    "index": "dos line breaks unix shell",
+    "name": "DOS line breaks to Unix shell",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "find . -name \"*.java\" -exec dos2unix -n {} {}.tmp \\; -exec mv {}.tmp {} \\;",
+        "defaultText": null
+      }
+    ]
+  }
+}

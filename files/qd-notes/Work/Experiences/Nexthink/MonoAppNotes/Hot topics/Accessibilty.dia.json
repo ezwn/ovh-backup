@@ -1,0 +1,560 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-hJyo9ota",
+        "userBounds": [
+          775,
+          358,
+          null,
+          null
+        ],
+        "bounds": [
+          775,
+          358,
+          286,
+          60
+        ],
+        "content": "ACCESSIBILITY",
+        "zIndex": 3,
+        "fontSize": 36
+      },
+      {
+        "id": "NOTE-GhANS3lc",
+        "userBounds": [
+          781,
+          114,
+          null,
+          null
+        ],
+        "bounds": [
+          781,
+          114,
+          145,
+          64
+        ],
+        "content": "RELEVANT\nPAGE TITLES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RcLNXHQn",
+        "userBounds": [
+          947,
+          218,
+          null,
+          null
+        ],
+        "bounds": [
+          947,
+          218,
+          109,
+          64
+        ],
+        "content": "OBVIOUS\nACTIONS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-piRcI8Cy",
+        "userBounds": [
+          1004,
+          122,
+          null,
+          null
+        ],
+        "bounds": [
+          1004,
+          122,
+          128,
+          41
+        ],
+        "content": "AXE TESTS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KruuzYy5",
+        "userBounds": [
+          1105,
+          201,
+          null,
+          null
+        ],
+        "bounds": [
+          1105,
+          201,
+          129,
+          64
+        ],
+        "content": "OBVIOUS\nPROBLEMS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cePPwdkG",
+        "userBounds": [
+          883,
+          537,
+          null,
+          null
+        ],
+        "bounds": [
+          883,
+          537,
+          174,
+          41
+        ],
+        "content": "TESTING TASKS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1Gli7ujV",
+        "userBounds": [
+          572,
+          286,
+          null,
+          null
+        ],
+        "bounds": [
+          572,
+          286,
+          132,
+          41
+        ],
+        "content": "CONCERNS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4A7deNUp",
+        "userBounds": [
+          428,
+          388,
+          null,
+          null
+        ],
+        "bounds": [
+          428,
+          388,
+          157,
+          87
+        ],
+        "content": "AVAILABILITY\nOF FEATURES\nAND INFO",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TN1JVgWu",
+        "userBounds": [
+          381,
+          242,
+          null,
+          null
+        ],
+        "bounds": [
+          381,
+          242,
+          137,
+          64
+        ],
+        "content": "EFFICIENCY\nOF UX",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-M8FNndx2",
+        "userBounds": [
+          183,
+          283,
+          null,
+          null
+        ],
+        "bounds": [
+          183,
+          283,
+          159,
+          41
+        ],
+        "content": "REDUNDANCY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mA9vCcQG",
+        "userBounds": [
+          540,
+          150,
+          null,
+          null
+        ],
+        "bounds": [
+          540,
+          150,
+          104,
+          64
+        ],
+        "content": "CODE\nQUALITY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-E1cLBQMF",
+        "userBounds": [
+          510,
+          46,
+          null,
+          null
+        ],
+        "bounds": [
+          510,
+          46,
+          199,
+          41
+        ],
+        "content": "ARIA-LABELLEDBY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-g86a7x4B",
+        "userBounds": [
+          293,
+          119,
+          null,
+          null
+        ],
+        "bounds": [
+          293,
+          119,
+          181,
+          41
+        ],
+        "content": "HTML SEMANTIC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yPVIGSpF",
+        "userBounds": [
+          1548,
+          49,
+          null,
+          null
+        ],
+        "bounds": [
+          1548,
+          49,
+          139,
+          41
+        ],
+        "content": "[GUIDELINES](https://confluence.intra.nexthink.com/display/APO/Accessibility%3A+guidelines+for+screen+readers+support)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oU6omL3c",
+        "userBounds": [
+          1549,
+          107,
+          null,
+          null
+        ],
+        "bounds": [
+          1549,
+          107,
+          251,
+          41
+        ],
+        "content": "[IMPROVED GUIDELINES](https://confluence.intra.nexthink.com/display/ITM/ITM+-+Accessibility+Guidelines+for+Screen+Reader+support)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-3bgTd42R",
+        "userBounds": [
+          1447,
+          303,
+          269.90625,
+          null
+        ],
+        "bounds": [
+          1447,
+          303,
+          270,
+          64
+        ],
+        "content": "\"screen reader user\" or \"visually impaired user.\"",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nYTnsJz4",
+        "userBounds": [
+          1366,
+          492,
+          null,
+          null
+        ],
+        "bounds": [
+          1366,
+          492,
+          164,
+          110
+        ],
+        "content": "[APOLLO ISSUE](https://jira.nexthink.com:1443/browse/MPL-6220)\n\nAsk Apollo:\nRenato or Julian",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IrIcboLP",
+        "userBounds": [
+          1178,
+          394,
+          null,
+          null
+        ],
+        "bounds": [
+          1178,
+          394,
+          164,
+          41
+        ],
+        "content": "[DESIGN TASKS](https://jira.nexthink.com:1443/browse/MPL-5301)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AFekLfdz",
+        "userBounds": [
+          1539,
+          680,
+          null,
+          null
+        ],
+        "bounds": [
+          1539,
+          680,
+          122,
+          50
+        ],
+        "content": "ACCESSIBILITY\nSTORIES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-bvDVED8g",
+        "userBounds": [
+          1389,
+          636,
+          null,
+          null
+        ],
+        "bounds": [
+          1389,
+          636,
+          98,
+          41
+        ],
+        "content": "[APOLLO](https://jira.nexthink.com:1443/browse/MPL-6220)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-7f83Qqeq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-T99ziDzX",
+            "target": "NOTE-RcLNXHQn"
+          },
+          {
+            "id": "END-TlrzNqcl",
+            "target": "NOTE-hJyo9ota"
+          }
+        ]
+      },
+      {
+        "id": "REL-KNi23GwG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rKEEB98U",
+            "target": "NOTE-RcLNXHQn"
+          },
+          {
+            "id": "END-mRB3xEcT",
+            "target": "NOTE-GhANS3lc"
+          }
+        ]
+      },
+      {
+        "id": "REL-lQldvALI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-THjUN3vi",
+            "target": "NOTE-RcLNXHQn"
+          },
+          {
+            "id": "END-E3RrbVtL",
+            "target": "NOTE-piRcI8Cy"
+          }
+        ]
+      },
+      {
+        "id": "REL-ve7FZQD3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HukI3iDf",
+            "target": "NOTE-KruuzYy5"
+          },
+          {
+            "id": "END-fIMHTu7R",
+            "target": "NOTE-RcLNXHQn"
+          }
+        ]
+      },
+      {
+        "id": "REL-lW7cRnX3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AGnIfH8E",
+            "target": "NOTE-cePPwdkG"
+          },
+          {
+            "id": "END-QaZKqv2i",
+            "target": "NOTE-hJyo9ota"
+          }
+        ]
+      },
+      {
+        "id": "REL-1qAowILW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZMpT1Wnq",
+            "target": "NOTE-1Gli7ujV"
+          },
+          {
+            "id": "END-iAzIGkbz",
+            "target": "NOTE-hJyo9ota"
+          }
+        ]
+      },
+      {
+        "id": "REL-X8UMsi36",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3nDf9daC",
+            "target": "NOTE-4A7deNUp"
+          },
+          {
+            "id": "END-s6HnYmsT",
+            "target": "NOTE-1Gli7ujV"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZFq4HIH9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sY7qDcyh",
+            "target": "NOTE-TN1JVgWu"
+          },
+          {
+            "id": "END-CbK6ZESg",
+            "target": "NOTE-1Gli7ujV"
+          }
+        ]
+      },
+      {
+        "id": "REL-ECLpMj11",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VNJR5ka5",
+            "target": "NOTE-M8FNndx2"
+          },
+          {
+            "id": "END-l1GNx8HP",
+            "target": "NOTE-TN1JVgWu"
+          }
+        ]
+      },
+      {
+        "id": "REL-jTb3dbFZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-I6Q9VTUX",
+            "target": "NOTE-mA9vCcQG"
+          },
+          {
+            "id": "END-y5F5qpRJ",
+            "target": "NOTE-1Gli7ujV"
+          }
+        ]
+      },
+      {
+        "id": "REL-bAzDovPA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rXyxyUJc",
+            "target": "NOTE-E1cLBQMF"
+          },
+          {
+            "id": "END-b6WTMdTT",
+            "target": "NOTE-mA9vCcQG"
+          }
+        ]
+      },
+      {
+        "id": "REL-D8eiVvK8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JKldHrl1",
+            "target": "NOTE-g86a7x4B"
+          },
+          {
+            "id": "END-sy4mTkZj",
+            "target": "NOTE-mA9vCcQG"
+          }
+        ]
+      },
+      {
+        "id": "REL-awRnKA6c",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-j9GC3eoq",
+            "target": "NOTE-IrIcboLP"
+          },
+          {
+            "id": "END-98XUnnW5",
+            "target": "NOTE-hJyo9ota"
+          }
+        ]
+      },
+      {
+        "id": "REL-zHatekqU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uy31xhUL",
+            "target": "NOTE-AFekLfdz"
+          },
+          {
+            "id": "END-3rWGkGix",
+            "target": "NOTE-nYTnsJz4"
+          }
+        ]
+      },
+      {
+        "id": "REL-P2Bm4pCg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GvVFEKWB",
+            "target": "NOTE-AFekLfdz"
+          },
+          {
+            "id": "END-ebGC6CSK",
+            "target": "NOTE-bvDVED8g"
+          }
+        ]
+      }
+    ]
+  }
+}

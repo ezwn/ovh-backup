@@ -1,0 +1,92 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-xV3TfXrE",
+        "userBounds": [
+          209,
+          212,
+          null,
+          null
+        ],
+        "bounds": [
+          209,
+          212,
+          119,
+          41
+        ],
+        "content": "[USD / EUR](https://www.boursorama.com/bourse/devises/taux-de-change-dollar-euro-USD-EUR/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-EzJGiI49",
+        "userBounds": [
+          204,
+          309,
+          null,
+          null
+        ],
+        "bounds": [
+          204,
+          309,
+          118,
+          41
+        ],
+        "content": "[CHF / EUR](https://www.boursorama.com/bourse/devises/taux-de-change-euro-francsuisse-CHF-EUR/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-g9ectQDf",
+        "userBounds": [
+          371,
+          117,
+          null,
+          null
+        ],
+        "bounds": [
+          371,
+          117,
+          82,
+          41
+        ],
+        "content": "[CAC40](https://www.boursorama.com/bourse/indices/cours/1rPCAC/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xZhSMd3J",
+        "userBounds": [
+          481,
+          120,
+          null,
+          null
+        ],
+        "bounds": [
+          481,
+          120,
+          54,
+          41
+        ],
+        "content": "[SMI](https://www.boursorama.com/bourse/indices/cours/1hSMI/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AvkrgCDG",
+        "userBounds": [
+          722,
+          288,
+          null,
+          null
+        ],
+        "bounds": [
+          722,
+          288,
+          137,
+          41
+        ],
+        "content": "[IMMO PARIS](https://www.insee.fr/fr/statistiques/5228955)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

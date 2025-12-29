@@ -1,0 +1,76 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-qWa36Jgw",
+        "userBounds": [
+          930,
+          391,
+          null,
+          null
+        ],
+        "content": "Change lost\non jump from note\nto note while\nediting",
+        "bounds": [
+          930,
+          391,
+          147,
+          90
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-cY4oWNno",
+        "userBounds": [
+          501,
+          474,
+          null,
+          null
+        ],
+        "content": "!!! Star (*) considered as a section\n!!! in multiplicities",
+        "bounds": [
+          501,
+          474,
+          304,
+          62
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Ijsv9VNJ",
+        "userBounds": [
+          689,
+          247,
+          null,
+          null
+        ],
+        "bounds": [
+          689,
+          247,
+          139,
+          110
+        ],
+        "content": "RIGHT\nCLICK + DEL\nMOVES\nNODE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UJDPlDUN",
+        "userBounds": [
+          65,
+          44,
+          1030.03125,
+          null
+        ],
+        "bounds": [
+          65,
+          44,
+          1030,
+          126
+        ],
+        "content": "\nhttps://www.google.com/maps/dir/Rue+du+Mont+d'Or+14,+1337+Vallorbe,+Suisse/Cascade+de+M%C3%B4tiers,+Le+Bied,+2112+M%C3%B4tiers/Parking+Creux-du-Van,+La+Baronne,+2108+Provence/Rue+du+Mont+d'Or+14,+1337+Vallorbe,+Suisse/@46.8984719,6.3133043,91631m/data=!3m1!1e3!4m31!4m30!1m10!1m1!1s0x478db3f0a895f217:0x95169ec5af4bafe0!2m2!1d6.3827133!2d46.7151385!3m4!1m2!1d6.4622762!2d46.9922634!3s0x478d95d2c12cdecb:0x71efff2dee02a6f8!1m5!1m1!1s0x478dc38b2747032b:0xb97e5780a5f10c57!2m2!1d6.6201498!2d46.9053771!1m5!1m1!1s0x478dc3fa21f408c1:0xe4ffa5fbb74e247b!2m2!1d6.7156378!2d46.9359978!1m5!1m1!1s0x478db3f0a895f217:0x95169ec5af4bafe0!2m2!1d6.3827133!2d46.7151385!3e0?entry=ttu\n",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": []
+  }
+}

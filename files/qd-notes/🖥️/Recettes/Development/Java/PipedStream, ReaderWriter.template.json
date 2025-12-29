@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaPipedstreamReaderwriter",
+  "content": {
+    "index": "java, pipedstream reader writer nsy102",
+    "name": "Java, PipedStream, Reader/Writer",
+    "templates": [
+      {
+        "id": "code",
+        "textTemplate": "\tPipedInputStream inc = new PipedInputStream();\n\tPipedOutputStream outs = new PipedOutputStream(inc);\n\n\tReader clientReader = new InputStreamReader(inc);\n\tWriter serverWriter = new OutputStreamWriter(outs);\n\n\tPipedInputStream ins = new PipedInputStream();\n\tPipedOutputStream outc = new PipedOutputStream(ins);\n\n\tReader serverReader = new InputStreamReader(ins);\n\tWriter clientWriter = new OutputStreamWriter(outc);\n\n\tAnswerReader answerReader = new AnswerReader(clientReader);\n\tRequestReader requestReader = new RequestReader(serverReader);\n\n\tAnswerWriter answerWriter = new AnswerWriter(serverWriter);\n\tRequestWriter requestWriter = new RequestWriter(clientWriter);\n\n\tServer s = new Server(requestReader, answerWriter);\n    Client c = new Client(answerReader, requestWriter);",
+        "defaultText": null
+      },
+      {
+        "id": "write",
+        "textTemplate": "\t\t\t\t\t\tout.writeData(new Value(l.get(index)));",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-5jLbpPqz",
+        "userBounds": [
+          87,
+          50,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          50,
+          207,
+          41
+        ],
+        "content": " wsl --install -d ubuntu",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6hn4LUEd",
+        "userBounds": [
+          78,
+          211,
+          null,
+          null
+        ],
+        "bounds": [
+          78,
+          211,
+          160,
+          41
+        ],
+        "content": "wsl -d Ubuntu ls",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pGkttN2y",
+        "userBounds": [
+          576,
+          532,
+          389.515625,
+          null
+        ],
+        "bounds": [
+          576,
+          532,
+          390,
+          65
+        ],
+        "content": "export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0.0",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7qdmsgZ5",
+        "userBounds": [
+          1293,
+          235,
+          null,
+          null
+        ],
+        "bounds": [
+          1293,
+          235,
+          87,
+          41
+        ],
+        "content": "wslview",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qdqCWH3H",
+        "userBounds": [
+          826,
+          61,
+          null,
+          null
+        ],
+        "bounds": [
+          826,
+          61,
+          220,
+          65
+        ],
+        "content": "[Native Windows/Linux GUI support](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hvKJwqhx",
+        "userBounds": [
+          774,
+          180,
+          null,
+          null
+        ],
+        "bounds": [
+          774,
+          180,
+          272,
+          65
+        ],
+        "content": "[XDGOpen/windows integration](https://stackoverflow.com/questions/66585350/ddev-local-wsl2-how-do-i-get-xdg-open-to-open-a-browser-on-windows-from-wsl2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FiKm1dD6",
+        "userBounds": [
+          950,
+          449,
+          null,
+          null
+        ],
+        "bounds": [
+          950,
+          449,
+          113,
+          41
+        ],
+        "content": "XSERVER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-apTw2HIn",
+        "userBounds": [
+          999,
+          308,
+          null,
+          null
+        ],
+        "bounds": [
+          999,
+          308,
+          90,
+          112
+        ],
+        "content": "SSO login for AWS\nproblem",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-vVmKcxng",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mLuAwCHb",
+            "target": "NOTE-6hn4LUEd"
+          },
+          {
+            "id": "END-khjdZYVu",
+            "target": "NOTE-5jLbpPqz"
+          }
+        ]
+      },
+      {
+        "id": "REL-KZb2NYk9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3nln7mGm",
+            "target": "NOTE-FiKm1dD6"
+          },
+          {
+            "id": "END-TldqPrjC",
+            "target": "NOTE-pGkttN2y"
+          }
+        ]
+      },
+      {
+        "id": "REL-PJK94r2f",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sVb9V6th",
+            "target": "NOTE-apTw2HIn"
+          },
+          {
+            "id": "END-poFwADf1",
+            "target": "NOTE-7qdmsgZ5"
+          }
+        ]
+      },
+      {
+        "id": "REL-syhLGp8x",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-v9zRjU7B",
+            "target": "NOTE-apTw2HIn"
+          },
+          {
+            "id": "END-TDUZmCBC",
+            "target": "NOTE-hvKJwqhx"
+          }
+        ]
+      },
+      {
+        "id": "REL-uMdacNTw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JdCfhNw9",
+            "target": "NOTE-apTw2HIn"
+          },
+          {
+            "id": "END-DMUoVsof",
+            "target": "NOTE-FiKm1dD6"
+          }
+        ]
+      }
+    ]
+  }
+}

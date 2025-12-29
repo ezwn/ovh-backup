@@ -1,0 +1,346 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-aReeW8uh",
+        "userBounds": [
+          211,
+          364,
+          null,
+          null
+        ],
+        "content": "Diagram",
+        "bounds": [
+          211,
+          364,
+          94,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-gBvtmNlS",
+        "userBounds": [
+          297,
+          95,
+          null,
+          null
+        ],
+        "content": "DiagramRelation",
+        "bounds": [
+          297,
+          95,
+          167,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-JMTX3R5N",
+        "userBounds": [
+          727,
+          644,
+          null,
+          null
+        ],
+        "content": "Note",
+        "bounds": [
+          727,
+          644,
+          60,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-pZjsKelD",
+        "userBounds": [
+          693,
+          438,
+          null,
+          null
+        ],
+        "content": "DiagramRect",
+        "bounds": [
+          693,
+          438,
+          135,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-nkdrPbRj",
+        "userBounds": [
+          891,
+          444,
+          null,
+          null
+        ],
+        "content": "DiagramText",
+        "bounds": [
+          891,
+          444,
+          130,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-GK6Z6lMP",
+        "userBounds": [
+          902,
+          273,
+          null,
+          null
+        ],
+        "content": "RichText",
+        "bounds": [
+          902,
+          273,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-b6nQeNFN",
+        "userBounds": [
+          788,
+          104,
+          null,
+          null
+        ],
+        "content": "RelationEnd",
+        "bounds": [
+          788,
+          104,
+          127,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-tefWaCMn",
+        "userBounds": [
+          448,
+          355,
+          null,
+          null
+        ],
+        "content": "DiagramElement\n---\n+ id : string",
+        "bounds": [
+          448,
+          355,
+          167,
+          86
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-DKIdsSRn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rDUU7n6T",
+            "target": "NOTE-aReeW8uh",
+            "attachPointNumber": 0,
+            "decoration": "FULL_RECTANGLE"
+          },
+          {
+            "id": "END-oTNRGILL",
+            "target": "NOTE-gBvtmNlS",
+            "attachPointNumber": 6,
+            "textOver": {
+              "content": "relations"
+            },
+            "textUnder": {
+              "content": "0..*"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-4WNSBRgX",
+        "shape": "RIGHT_ANGLE_2",
+        "ends": [
+          {
+            "id": "END-5J8KuYJX",
+            "target": "NOTE-JMTX3R5N",
+            "textUnder": {
+              "content": "0..*"
+            },
+            "attachPointNumber": 9,
+            "textOver": {
+              "content": "notes"
+            }
+          },
+          {
+            "id": "END-rNY7jTwc",
+            "target": "NOTE-aReeW8uh",
+            "attachPointNumber": 6,
+            "decoration": "FULL_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-IGcTEQKC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LT5AUlCH",
+            "target": "NOTE-pZjsKelD",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          },
+          {
+            "id": "END-CAjymt8t",
+            "target": "NOTE-JMTX3R5N"
+          }
+        ]
+      },
+      {
+        "id": "REL-VQlRgk5l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TQTZrIlJ",
+            "target": "NOTE-JMTX3R5N"
+          },
+          {
+            "id": "END-ij6w6X7h",
+            "target": "NOTE-nkdrPbRj",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-ppIYjpv9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yeRLe1W7",
+            "target": "NOTE-GK6Z6lMP",
+            "decoration": "EMPTY_TRIANGLE",
+            "attachPointNumber": 6
+          },
+          {
+            "id": "END-R63TnqnL",
+            "target": "NOTE-nkdrPbRj"
+          }
+        ]
+      },
+      {
+        "id": "REL-o7ZxZaT3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mi3pLk1A",
+            "target": "NOTE-b6nQeNFN",
+            "attachPointNumber": 7
+          },
+          {
+            "id": "END-bKDlBz1I",
+            "target": "NOTE-GK6Z6lMP",
+            "attachPointNumber": 10,
+            "textOver": {
+              "content": "textUnder"
+            },
+            "textUnder": {
+              "content": "0..1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-Zexn1eKr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-crnfJ11R",
+            "target": "NOTE-gBvtmNlS",
+            "attachPointNumber": 3,
+            "decoration": "FULL_RECTANGLE"
+          },
+          {
+            "id": "END-L4fzeQh2",
+            "target": "NOTE-b6nQeNFN",
+            "attachPointNumber": 10,
+            "textOver": {
+              "content": "ends"
+            },
+            "textUnder": {
+              "content": "2..*"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-dUGq9fB5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Y4vwitgU",
+            "target": "NOTE-b6nQeNFN",
+            "attachPointNumber": 5
+          },
+          {
+            "id": "END-jgAhZ4GF",
+            "target": "NOTE-GK6Z6lMP",
+            "attachPointNumber": 1,
+            "textOver": {
+              "content": "textOver"
+            },
+            "textUnder": {
+              "content": "0..1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-Jkr254nw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SBR895bD",
+            "target": "NOTE-tefWaCMn",
+            "attachPointNumber": 11,
+            "decoration": "EMPTY_TRIANGLE"
+          },
+          {
+            "id": "END-CHP6jtVF",
+            "target": "NOTE-gBvtmNlS"
+          }
+        ]
+      },
+      {
+        "id": "REL-eNAPiBBn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5m45meM3",
+            "target": "NOTE-tefWaCMn",
+            "attachPointNumber": 1,
+            "decoration": "EMPTY_TRIANGLE"
+          },
+          {
+            "id": "END-eV9sFWCZ",
+            "target": "NOTE-b6nQeNFN",
+            "attachPointNumber": 8
+          }
+        ]
+      },
+      {
+        "id": "REL-LJ2jnqCM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7hXjbbar",
+            "target": "NOTE-JMTX3R5N"
+          },
+          {
+            "id": "END-3b7v6PqR",
+            "target": "NOTE-tefWaCMn",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

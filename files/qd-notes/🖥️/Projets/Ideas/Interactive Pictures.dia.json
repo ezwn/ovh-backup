@@ -1,0 +1,143 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-tyJgEVeW",
+        "userBounds": [
+          353,
+          210,
+          null,
+          null
+        ],
+        "content": "[https://genial.ly/fr/](https://genial.ly/fr/)",
+        "zIndex": 3,
+        "bounds": [
+          353,
+          210,
+          175,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BFehfLDG",
+        "userBounds": [
+          209,
+          271,
+          null,
+          null
+        ],
+        "content": "Interractivité",
+        "zIndex": 3,
+        "bounds": [
+          209,
+          271,
+          127,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-n7WPTtJ9",
+        "userBounds": [
+          229,
+          153,
+          null,
+          null
+        ],
+        "content": "Tout dans\nle cloud",
+        "zIndex": 3,
+        "bounds": [
+          229,
+          153,
+          105,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-88JAkVDK",
+        "userBounds": [
+          165,
+          221,
+          null,
+          null
+        ],
+        "content": "Animation",
+        "zIndex": 3,
+        "bounds": [
+          165,
+          221,
+          107,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-71KPZdHI",
+        "userBounds": [
+          262,
+          88,
+          null,
+          null
+        ],
+        "content": "Intégration",
+        "zIndex": 3,
+        "bounds": [
+          262,
+          88,
+          113,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rNQaXuki",
+        "userBounds": [
+          354,
+          150,
+          null,
+          null
+        ],
+        "content": "Facile",
+        "zIndex": 3,
+        "bounds": [
+          354,
+          150,
+          71,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-CYV5g8GE",
+        "userBounds": [
+          401,
+          88,
+          null,
+          null
+        ],
+        "content": "Surprenant",
+        "zIndex": 3,
+        "bounds": [
+          401,
+          88,
+          117,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-tWDlizIg",
+        "userBounds": [
+          464,
+          139,
+          null,
+          null
+        ],
+        "content": "Wow rapide",
+        "zIndex": 3,
+        "bounds": [
+          464,
+          139,
+          123,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

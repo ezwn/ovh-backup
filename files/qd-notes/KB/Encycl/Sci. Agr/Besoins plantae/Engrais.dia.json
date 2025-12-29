@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Uyh71jDD",
+        "userBounds": [
+          129,
+          196,
+          null,
+          null
+        ],
+        "bounds": [
+          129,
+          196,
+          148,
+          64
+        ],
+        "content": "16 avril 2023\n- 50g d'orties",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oGKVJcGs",
+        "userBounds": [
+          454,
+          115,
+          null,
+          null
+        ],
+        "bounds": [
+          454,
+          115,
+          106,
+          64
+        ],
+        "content": "Purin\nmarc café",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-K3BXZdZP",
+        "userBounds": [
+          162,
+          299,
+          null,
+          null
+        ],
+        "bounds": [
+          162,
+          299,
+          148,
+          64
+        ],
+        "content": "2 mai 2023\n* 50g d'orties",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

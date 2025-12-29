@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-pimentsVertsFarcisAuPorc",
+  "content": {
+    "index": "piments verts farcis au porc cuisine chine chinois",
+    "name": "PIMENTS VERTS FARCIS AU PORC",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# PIMENTS VERTS FARCIS AU PORC\n**Préparation :** 10 minutes • **Cuisson :** 4 minutes\n\n### Ingrédients\n- 250 g de palette de porc hachée\n- 1 œuf\n- 1 c. à s. d’alcool jaune de riz\n- 1 c. à s. de sauce soja\n- 1 c. à s. d’huile de sésame\n- 1 cube de bouillon de volaille écrasé\n- 1 c. à s. de ciboulette finement ciselée\n- 1 c. à c. de gingembre frais finement haché\n- 8 piments verts frais\n- 4 c. à s. d’huile de tournesol\n- 1 c. à c. de sel\n- 1 c. à c. de poivre blanc moulu\n\n### Préparation\n1. **Préparer le mélange de porc :**  \n   Mettez le porc dans un récipient creux. Ajoutez l’œuf, l’alcool, la sauce soja, l’huile de sésame, le sel, le poivre, le cube de bouillon de volaille, la ciboulette et le gingembre. Battez à l’aide d’une spatule jusqu’à ce que l’ensemble devienne homogène.\n\n2. **Préparer les piments :**  \n   Coupez le pédoncule des piments, épépinez-les. Lavez-les et égouttez-les. Farcissez-les avec le mélange de porc haché.\n\n3. **Faire cuire à la poêle :**  \n   Faites chauffer l’huile de tournesol dans une poêle. Faites-y dorer les piments à feu vif pendant 1 minute sur chaque côté.\n\n4. **Finir la cuisson :**  \n   Posez-les sur un plat allant dans un four à micro-ondes. Faites cuire pendant encore 2 minutes à la puissance maximale.\n\n### Service\nServez bien chaud.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

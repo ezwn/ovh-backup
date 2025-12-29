@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-zl4awGig",
+        "userBounds": [
+          350,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          350,
+          194,
+          342,
+          64
+        ],
+        "content": "idp-egov-private.gate.eiam.admin.ch\nqKCV3Wz%w&Gx5_g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-38i1gU3h",
+        "userBounds": [
+          269,
+          380,
+          null,
+          null
+        ],
+        "bounds": [
+          269,
+          380,
+          288,
+          41
+        ],
+        "content": "[REMPLIR MA DECLARATION](https://www.vd.ch/themes/etat-droit-finances/impots/impots-pour-les-individus/remplir-ma-declaration-dimpot)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Iz7t9zVc",
+        "userBounds": [
+          342,
+          538,
+          null,
+          null
+        ],
+        "bounds": [
+          342,
+          538,
+          110,
+          41
+        ],
+        "content": "[VAUDTAX](https://prestations.vd.ch/pub/101505/vaudtax)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

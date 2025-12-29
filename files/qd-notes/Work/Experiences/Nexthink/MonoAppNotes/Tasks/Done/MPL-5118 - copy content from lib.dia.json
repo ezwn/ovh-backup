@@ -1,0 +1,224 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-l4K27NVj",
+        "userBounds": [
+          1781,
+          735,
+          null,
+          null
+        ],
+        "bounds": [
+          1781,
+          735,
+          109,
+          41
+        ],
+        "content": "[OLD DOC](https://confluence.intra.nexthink.com/display/CAD/Create+a+copy+from+a+not-installed+built-in+content)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UpMkfr4k",
+        "userBounds": [
+          1219,
+          264,
+          null,
+          null
+        ],
+        "bounds": [
+          1219,
+          264,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5118)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YHprwFSy",
+        "userBounds": [
+          541,
+          236,
+          138.78125,
+          null
+        ],
+        "bounds": [
+          541,
+          236,
+          139,
+          41
+        ],
+        "content": "[DOC](https://confluence.intra.nexthink.com/display/CAD/API+contract+for+Feature+Teams+to+import+builtin+content)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-X3rNNZvx",
+        "userBounds": [
+          392,
+          338,
+          172.125,
+          null
+        ],
+        "bounds": [
+          392,
+          338,
+          172,
+          41
+        ],
+        "content": "[LILA's Branch](https://bitbucket.intra.nexthink.com/projects/EUF/repos/euf-campaign-manager/browse/src/main/java/com/nexthink/euf/campaignmanager/rest/controller/BuiltinCampaignController.java?at=refs%2Fheads%2Fmpl-5114-install-from-lib#47)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dyEEM7KS",
+        "userBounds": [
+          677,
+          372,
+          null,
+          null
+        ],
+        "bounds": [
+          677,
+          372,
+          115,
+          64
+        ],
+        "content": "INSTALL\nCONTENT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fZiGvbLx",
+        "userBounds": [
+          855,
+          108,
+          null,
+          null
+        ],
+        "bounds": [
+          855,
+          108,
+          62,
+          41
+        ],
+        "content": "[PR 1](https://bitbucket.intra.nexthink.com/projects/ACT/repos/remote-action-manager-ui/pull-requests/146/overview)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NRL5Pj42",
+        "userBounds": [
+          1046,
+          110,
+          null,
+          null
+        ],
+        "bounds": [
+          1046,
+          110,
+          62,
+          41
+        ],
+        "content": "[PR 2](https://bitbucket.intra.nexthink.com/projects/ACT/repos/remote-action-manager-ui/pull-requests/147/overview)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-QMwWpC9P",
+        "userBounds": [
+          925,
+          213,
+          null,
+          null
+        ],
+        "bounds": [
+          925,
+          213,
+          62,
+          41
+        ],
+        "content": "[PR 3](https://bitbucket.intra.nexthink.com/projects/ACT/repos/remote-action-manager/pull-requests/91/overview)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GpxwgzqK",
+        "userBounds": [
+          1215,
+          359,
+          null,
+          null
+        ],
+        "bounds": [
+          1215,
+          359,
+          62,
+          41
+        ],
+        "content": "[DOC](https://confluence.intra.nexthink.com/display/CAD/Nexthink+library+-+create+a+copy)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iJHL2iL5",
+        "userBounds": [
+          996,
+          373,
+          null,
+          null
+        ],
+        "bounds": [
+          996,
+          373,
+          115,
+          64
+        ],
+        "content": "COPY\nCONTENT",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-vj9Zkgjj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Qoa5ke6H",
+            "target": "NOTE-dyEEM7KS"
+          },
+          {
+            "id": "END-ZE2yYI1N",
+            "target": "NOTE-X3rNNZvx"
+          }
+        ]
+      },
+      {
+        "id": "REL-j6DCVnpr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hSi33ppY",
+            "target": "NOTE-dyEEM7KS"
+          },
+          {
+            "id": "END-EH2Ssz3J",
+            "target": "NOTE-YHprwFSy"
+          }
+        ]
+      },
+      {
+        "id": "REL-gN2MfDrH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dFqpWBWR",
+            "target": "NOTE-iJHL2iL5"
+          },
+          {
+            "id": "END-yIpQ9pz1",
+            "target": "NOTE-UpMkfr4k"
+          },
+          {
+            "id": "END-xMcZ1yeu",
+            "target": "NOTE-GpxwgzqK"
+          }
+        ]
+      }
+    ]
+  }
+}

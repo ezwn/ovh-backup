@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-7q5ZCUZl",
+        "userBounds": [
+          276,
+          184,
+          168.84375,
+          null
+        ],
+        "bounds": [
+          276,
+          184,
+          169,
+          87
+        ],
+        "content": "[JENKINS PIPELINE LIBRARY](https://github.com/nexthink/sdlc.jenkins-pipeline-library)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

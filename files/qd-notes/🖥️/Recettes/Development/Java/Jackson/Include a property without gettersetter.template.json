@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonIncludeAPropertyWithoutGetterSetter",
+  "content": {
+    "index": "jackson,  include a property without getter/setter",
+    "name": "Jackson,  include a property without getter/setter",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@JsonProperty(”name”)",
+        "defaultText": null
+      }
+    ]
+  }
+}

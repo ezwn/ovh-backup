@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonSpecifyAnIdToAvoidCycle",
+  "content": {
+    "index": "jackson,  specify an id to avoid cycle",
+    "name": "Jackson,  specify an ID to avoid cycle",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class ,\nproperty = \"id\")\npublic class Etudiant {\nprivate Long id;\nprivate String nom;\nprivate Maison maison;\n}\n@JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class ,\nproperty = \"id\")\npublic class Maison {\nprivate Long id;\nprivate String adresse;\nprivate Personne personne;\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

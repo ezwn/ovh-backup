@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gitTag",
+  "content": {
+    "index": "git tag",
+    "name": "Git, tag",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "git tag ${tag}",
+        "defaultText": null
+      }
+    ]
+  }
+}

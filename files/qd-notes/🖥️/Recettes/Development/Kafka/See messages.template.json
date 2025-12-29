@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kafkaSeeMessages",
+  "content": {
+    "index": "kafka, see messages",
+    "name": "Kafka, see messages",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic build-requests --from-beginning",
+        "defaultText": null
+      }
+    ]
+  }
+}

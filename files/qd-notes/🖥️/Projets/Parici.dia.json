@@ -1,0 +1,502 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vlZrov5u",
+        "userBounds": [
+          611,
+          217,
+          null,
+          null
+        ],
+        "bounds": [
+          611,
+          217,
+          89,
+          41
+        ],
+        "content": "Astuces",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oSoUoPcH",
+        "userBounds": [
+          613,
+          296,
+          null,
+          null
+        ],
+        "bounds": [
+          613,
+          296,
+          158,
+          41
+        ],
+        "content": "Evaluer viabilité",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7gN9WkRz",
+        "userBounds": [
+          473,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          473,
+          222,
+          113,
+          41
+        ],
+        "content": "Transports",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KMw5rCUs",
+        "userBounds": [
+          970,
+          282,
+          null,
+          null
+        ],
+        "bounds": [
+          970,
+          282,
+          180,
+          41
+        ],
+        "content": "Mutualiser voyage",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HC5v8CDQ",
+        "userBounds": [
+          668,
+          457,
+          null,
+          null
+        ],
+        "bounds": [
+          668,
+          457,
+          129,
+          41
+        ],
+        "content": "Évènements",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZWfSZeqi",
+        "userBounds": [
+          493,
+          149,
+          null,
+          null
+        ],
+        "bounds": [
+          493,
+          149,
+          126,
+          41
+        ],
+        "content": "Restaurants",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5LyvZTT5",
+        "userBounds": [
+          946,
+          88,
+          113.65625,
+          null
+        ],
+        "bounds": [
+          946,
+          88,
+          114,
+          64
+        ],
+        "content": "Rencontre locaux",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KlRwfRhj",
+        "userBounds": [
+          758,
+          84,
+          120.53125,
+          null
+        ],
+        "bounds": [
+          758,
+          84,
+          121,
+          64
+        ],
+        "content": "Ouverture culturelle",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sBkcRmoS",
+        "userBounds": [
+          626,
+          375,
+          null,
+          null
+        ],
+        "bounds": [
+          626,
+          375,
+          104,
+          41
+        ],
+        "content": "Modalités",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-THwiKp9W",
+        "userBounds": [
+          378,
+          428,
+          null,
+          null
+        ],
+        "bounds": [
+          378,
+          428,
+          155,
+          41
+        ],
+        "content": "Par un Parisien",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VWIYWeMK",
+        "userBounds": [
+          863,
+          474,
+          null,
+          null
+        ],
+        "bounds": [
+          863,
+          474,
+          146,
+          41
+        ],
+        "content": "Mauvais côtés",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-M6BrDd5k",
+        "userBounds": [
+          971,
+          611,
+          null,
+          null
+        ],
+        "bounds": [
+          971,
+          611,
+          91,
+          41
+        ],
+        "content": "Sécurité",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ekgmd4nb",
+        "userBounds": [
+          1008,
+          541,
+          null,
+          null
+        ],
+        "bounds": [
+          1008,
+          541,
+          103,
+          41
+        ],
+        "content": "Transport",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-213l4wNt",
+        "userBounds": [
+          786,
+          570,
+          null,
+          null
+        ],
+        "bounds": [
+          786,
+          570,
+          186,
+          41
+        ],
+        "content": "Queues, formalités",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m4Tmtr4E",
+        "userBounds": [
+          1198,
+          234,
+          null,
+          null
+        ],
+        "bounds": [
+          1198,
+          234,
+          54,
+          41
+        ],
+        "content": "Taxi",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YmwQNdG6",
+        "userBounds": [
+          1265,
+          439,
+          null,
+          null
+        ],
+        "bounds": [
+          1265,
+          439,
+          136,
+          87
+        ],
+        "content": "Only the best\n- safe\n- selective",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ta6wpuf5",
+        "userBounds": [
+          1107,
+          152,
+          null,
+          null
+        ],
+        "bounds": [
+          1107,
+          152,
+          61,
+          41
+        ],
+        "content": "Luxe",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NdSebh2N",
+        "userBounds": [
+          1399,
+          358,
+          null,
+          null
+        ],
+        "bounds": [
+          1399,
+          358,
+          154,
+          41
+        ],
+        "content": "Regard critique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PFZqlJT5",
+        "userBounds": [
+          856,
+          192,
+          null,
+          null
+        ],
+        "bounds": [
+          856,
+          192,
+          125,
+          41
+        ],
+        "content": "Authentique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aub1jczl",
+        "userBounds": [
+          1020,
+          378,
+          null,
+          null
+        ],
+        "bounds": [
+          1020,
+          378,
+          156,
+          41
+        ],
+        "content": "Choc à l'arrivée",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8429glfj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-euvqR3XX",
+            "target": "NOTE-7gN9WkRz"
+          },
+          {
+            "id": "END-RbvynZao",
+            "target": "NOTE-vlZrov5u"
+          }
+        ]
+      },
+      {
+        "id": "REL-vGmrzwMN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Kfv86xLY",
+            "target": "NOTE-ZWfSZeqi"
+          },
+          {
+            "id": "END-8iwLWFnk",
+            "target": "NOTE-vlZrov5u"
+          }
+        ]
+      },
+      {
+        "id": "REL-Cv8a4tgn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YpjY2eo9",
+            "target": "NOTE-THwiKp9W"
+          },
+          {
+            "id": "END-eAmIpsrv",
+            "target": "NOTE-sBkcRmoS"
+          }
+        ]
+      },
+      {
+        "id": "REL-ryZAwrKA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PKqSKRoR",
+            "target": "NOTE-M6BrDd5k"
+          },
+          {
+            "id": "END-Kjr6yHqJ",
+            "target": "NOTE-VWIYWeMK"
+          }
+        ]
+      },
+      {
+        "id": "REL-tekewpKp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JwU7niL6",
+            "target": "NOTE-Ekgmd4nb"
+          },
+          {
+            "id": "END-ef4u95lz",
+            "target": "NOTE-VWIYWeMK"
+          }
+        ]
+      },
+      {
+        "id": "REL-C9psdR9X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Y8aDXfe4",
+            "target": "NOTE-213l4wNt"
+          },
+          {
+            "id": "END-yIgzNZpK",
+            "target": "NOTE-VWIYWeMK"
+          }
+        ]
+      },
+      {
+        "id": "REL-gVetpy5L",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oxrMj5U6",
+            "target": "NOTE-KMw5rCUs"
+          },
+          {
+            "id": "END-xiRcc9rJ",
+            "target": "NOTE-m4Tmtr4E"
+          }
+        ]
+      },
+      {
+        "id": "REL-ItAR4I6E",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-aS5rT4BD",
+            "target": "NOTE-NdSebh2N"
+          },
+          {
+            "id": "END-gyRbeWNi",
+            "target": "NOTE-YmwQNdG6"
+          }
+        ]
+      },
+      {
+        "id": "REL-cPgdKH1J",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-66ogccNl",
+            "target": "NOTE-KlRwfRhj"
+          },
+          {
+            "id": "END-vJGh9lI4",
+            "target": "NOTE-PFZqlJT5"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZX1bn56C",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ALKeaDNB",
+            "target": "NOTE-5LyvZTT5"
+          },
+          {
+            "id": "END-1LGoLb4t",
+            "target": "NOTE-PFZqlJT5"
+          }
+        ]
+      },
+      {
+        "id": "REL-w7bXIL9w",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-scrLYbJb",
+            "target": "NOTE-YmwQNdG6"
+          },
+          {
+            "id": "END-BhU3Hlu9",
+            "target": "NOTE-VWIYWeMK"
+          }
+        ]
+      }
+    ]
+  }
+}

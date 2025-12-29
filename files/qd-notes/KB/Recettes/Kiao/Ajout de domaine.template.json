@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmKiaoAjoutDeDomaine",
+  "content": {
+    "index": "llm kiao ajout add domaine",
+    "name": "LLM/KIAO, ajout de domaine",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Please add this domain \"${key} : ${domain}\".\n\nInto this:\n\nexport const kiaoDomains = {\n    \"MAT\": {\n        \"FR\": \"mathématiques\",\n        \"EN\": \"mathematics\",\n        \"DE\": \"Mathematik\",\n        \"ZH\": \"数学\"\n    },\n    \"PSY\": {\n        \"FR\": \"psychologie\",\n        \"EN\": \"psychology\",\n        \"DE\": \"Psychologie\",\n        \"ZH\": \"心理学\"\n    },\n    \"SAN\": {\n        \"FR\": \"santé\",\n        \"EN\": \"health\",\n        \"DE\": \"Gesundheit\",\n        \"ZH\": \"健康\"\n    }\n};\n\n---\n\nPour un système de classification, merci de fournit une constante d'énumération java pour la notion de \"${domain}\", en prenant modèle sur celle-ci :\n\nPOLITICAL_SCIENCE(\"political science\", \"sciences politiques\", \"Politikwissenschaft\", \"政治学\", null)\n\nNe retourne que cette constante s'il te plait.",
+        "defaultText": null
+      }
+    ]
+  }
+}

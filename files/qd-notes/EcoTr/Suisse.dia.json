@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-A55NWhrc",
+        "userBounds": [
+          209,
+          140,
+          155.921875,
+          null
+        ],
+        "bounds": [
+          209,
+          140,
+          156,
+          64
+        ],
+        "content": "[Inégalités écologiques](https://www.24heures.ch/inegalites-ecologiques-ultrariches-et-superpollueurs-347025086713)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bRxlHYg9",
+        "userBounds": [
+          246,
+          257,
+          173.734375,
+          null
+        ],
+        "bounds": [
+          246,
+          257,
+          174,
+          87
+        ],
+        "content": "[raison augmentation empreinte](https://www.24heures.ch/etude-sur-le-bilan-carbone-suisse-les-jeunes-polluent-le-plus-car-ils-prennent-trop-lavion-961025298685)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

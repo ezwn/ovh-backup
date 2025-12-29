@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VPG8Ze6i",
+        "userBounds": [
+          64,
+          386,
+          null,
+          null
+        ],
+        "bounds": [
+          64,
+          386,
+          99,
+          41
+        ],
+        "content": "bon sens",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-72qiNmQo",
+        "userBounds": [
+          22,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          22,
+          329,
+          164,
+          41
+        ],
+        "content": "prendre du recul",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VzfVdiUk",
+        "userBounds": [
+          59,
+          253,
+          null,
+          null
+        ],
+        "bounds": [
+          59,
+          253,
+          141,
+          41
+        ],
+        "content": "mauvaise foie",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

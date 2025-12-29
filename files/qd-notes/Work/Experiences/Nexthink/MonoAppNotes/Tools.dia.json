@@ -1,0 +1,127 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-NuCLT5dG",
+        "userBounds": [
+          675,
+          316,
+          null,
+          null
+        ],
+        "bounds": [
+          675,
+          316,
+          154,
+          41
+        ],
+        "content": "-NuCLT5dG*00",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kWoNRQx5",
+        "userBounds": [
+          733,
+          400,
+          null,
+          null
+        ],
+        "bounds": [
+          733,
+          400,
+          77,
+          41
+        ],
+        "content": "[ILUCA](https://nexthink.ilucca.net/identity/login)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pRyGuUWC",
+        "userBounds": [
+          1055,
+          355,
+          null,
+          null
+        ],
+        "bounds": [
+          1055,
+          355,
+          140,
+          48
+        ],
+        "content": "[BONUSLY](https://bonus.ly/app)",
+        "zIndex": 3,
+        "fontSize": 26,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-t5eAnDvZ",
+        "userBounds": [
+          1254,
+          296,
+          320,
+          null
+        ],
+        "bounds": [
+          1254,
+          296,
+          320,
+          114
+        ],
+        "content": "@felipe.tonon @deepak.sudhakaran @basavanagouda.patil @mohamed-amine.bouqsimi @daniel.kajita @gregory.theoduloz @farzan.samad @lilianna.helminiak",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-iBYyYYxH",
+        "userBounds": [
+          1005,
+          210,
+          null,
+          null
+        ],
+        "bounds": [
+          1005,
+          210,
+          144,
+          41
+        ],
+        "content": "[EMP PORTAL](https://hc.nexthink.com/hc/en-us)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9SQPMrlj",
+        "userBounds": [
+          706,
+          78,
+          null,
+          null
+        ],
+        "bounds": [
+          706,
+          78,
+          106,
+          41
+        ],
+        "content": "[BAMBOO](https://nexthink.bamboohr.com/home/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-FiHUwbvu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7iZeVoGv",
+            "target": "NOTE-pRyGuUWC"
+          },
+          {
+            "id": "END-tzmD6exI",
+            "target": "NOTE-t5eAnDvZ"
+          }
+        ]
+      }
+    ]
+  }
+}

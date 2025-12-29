@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-UWmES9W9",
+        "userBounds": [
+          464,
+          196,
+          631.8125,
+          null
+        ],
+        "bounds": [
+          464,
+          196,
+          632,
+          386
+        ],
+        "content": "Gestion du stress : Apprendre et utiliser des techniques de gestion du stress.\nSoutien social : Cultiver des relations sociales et chercher un soutien émotionnel.\nActivité physique : Maintenir une routine d'exercice régulière.\nAlimentation : Adopter une alimentation équilibrée et nutritive.\nSommeil : Assurer une bonne hygiène du sommeil et un repos adéquat.\nÉviter l'abus de substances : Limiter ou éviter la consommation d'alcool et de drogues.\nTechniques de relaxation : Pratiquer la méditation, le yoga ou d'autres techniques de relaxation.\nPoursuite d'activités plaisantes : S'engager dans des hobbies ou activités qui apportent de la joie.\nExposition à la lumière naturelle : Passer du temps à l'extérieur pour augmenter l'exposition à la lumière naturelle, surtout en hiver.",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-7w6l7Cvf",
+        "userBounds": [
+          85,
+          77,
+          null,
+          null
+        ],
+        "bounds": [
+          85,
+          77,
+          181,
+          96
+        ],
+        "content": "```shell\nsudo apt-get update\nsudo apt-get install s3fs\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-L5WKbUZd",
+        "userBounds": [
+          382,
+          81,
+          null,
+          null
+        ],
+        "bounds": [
+          382,
+          81,
+          255,
+          88
+        ],
+        "content": "ACCESS_KEY_ID:SECRET_ACCESS_KEY\n\nIN\n\n/etc/passwd-s3fs",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-x2bsJzCU",
+        "userBounds": [
+          765,
+          66,
+          null,
+          null
+        ],
+        "bounds": [
+          765,
+          66,
+          441,
+          155
+        ],
+        "content": "```shell\nsudo chmod 600 /etc/passwd-s3fs\nsudo mkdir /path/to/mountpoint\nsudo s3fs my-bucket /path/to/mountpoint -o allow_other\n\nsudo s3fs my-bucket /path/to/mountpoint -o allow_other,umask=0000\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ENnQbfdy",
+        "userBounds": [
+          754,
+          297,
+          null,
+          null
+        ],
+        "bounds": [
+          754,
+          297,
+          219,
+          77
+        ],
+        "content": "```shell\nsudo fusermount -u /var/ll-quiz\n```",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-bpmWuIbs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qGdzic9C",
+            "target": "NOTE-L5WKbUZd"
+          },
+          {
+            "id": "END-Amnwbvsc",
+            "target": "NOTE-7w6l7Cvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-PWzVpDG6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RVw9lYGy",
+            "target": "NOTE-x2bsJzCU"
+          },
+          {
+            "id": "END-y28ZjMFm",
+            "target": "NOTE-L5WKbUZd"
+          }
+        ]
+      }
+    ]
+  }
+}

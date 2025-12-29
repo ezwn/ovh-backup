@@ -1,0 +1,136 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-cKwKsXTI",
+        "userBounds": [
+          19,
+          510,
+          186.921875,
+          null
+        ],
+        "bounds": [
+          19,
+          510,
+          187,
+          58
+        ],
+        "content": "# Mal au dos permanent\n\n4 février 2023",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-ogC3Vrlc",
+        "userBounds": [
+          19,
+          585,
+          187.90625,
+          null
+        ],
+        "bounds": [
+          19,
+          585,
+          188,
+          76
+        ],
+        "content": "# Toux grace et irritation pulmonaires\n\n4 février 2023",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-7l9abEYD",
+        "userBounds": [
+          1343,
+          58,
+          224.609375,
+          null
+        ],
+        "bounds": [
+          1343,
+          58,
+          225,
+          64
+        ],
+        "content": "TDM\nfaible dose",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-26IPQ442",
+        "userBounds": [
+          1339,
+          162,
+          295.46875,
+          null
+        ],
+        "bounds": [
+          1339,
+          162,
+          295,
+          64
+        ],
+        "content": "Rx thorax, de préférence TDM du thorax haute résolution",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-t95p3fnJ",
+        "userBounds": [
+          22,
+          430,
+          183.34375,
+          null
+        ],
+        "bounds": [
+          22,
+          430,
+          183,
+          58
+        ],
+        "content": "# Boule gorge\n\n21 février 2023",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-2Kbzd8Wv",
+        "userBounds": [
+          24,
+          352,
+          181.203125,
+          null
+        ],
+        "bounds": [
+          24,
+          352,
+          181,
+          58
+        ],
+        "content": "Dr Simonnot\n# Omeprax 40mg 28 J\n25 février 2023",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-NA5zUZQI",
+        "userBounds": [
+          19,
+          670,
+          189.890625,
+          null
+        ],
+        "bounds": [
+          19,
+          670,
+          190,
+          47
+        ],
+        "content": "# IRM Genoux droit\njuillet 2019",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "GREEN"
+      }
+    ],
+    "relations": []
+  }
+}

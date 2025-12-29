@@ -1,0 +1,104 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vtRhJDAV",
+        "userBounds": [
+          374,
+          262,
+          null,
+          null
+        ],
+        "bounds": [
+          374,
+          262,
+          163,
+          64
+        ],
+        "content": "DÉGRADATION\n60 - 140°",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HdDl8ZKw",
+        "userBounds": [
+          974,
+          304,
+          null,
+          null
+        ],
+        "bounds": [
+          974,
+          304,
+          153,
+          41
+        ],
+        "content": "ESSENTIELLE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mG6TT3IW",
+        "userBounds": [
+          1172,
+          171,
+          null,
+          null
+        ],
+        "bounds": [
+          1172,
+          171,
+          140,
+          41
+        ],
+        "content": "CELLULAIRE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dwi3CYXE",
+        "userBounds": [
+          1261,
+          363,
+          null,
+          null
+        ],
+        "bounds": [
+          1261,
+          363,
+          148,
+          41
+        ],
+        "content": "PRÉVENTION",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-mB8AmfUs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3a8Lj6tG",
+            "target": "NOTE-HdDl8ZKw"
+          },
+          {
+            "id": "END-ogj9KfaZ",
+            "target": "NOTE-dwi3CYXE"
+          }
+        ]
+      },
+      {
+        "id": "REL-jNA4Ji4z",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ukSkmCFi",
+            "target": "NOTE-HdDl8ZKw"
+          },
+          {
+            "id": "END-K5d7qZbx",
+            "target": "NOTE-mG6TT3IW"
+          }
+        ]
+      }
+    ]
+  }
+}

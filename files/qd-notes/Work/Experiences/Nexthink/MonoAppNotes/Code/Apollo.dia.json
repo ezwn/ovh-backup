@@ -1,0 +1,122 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-N93v6nUP",
+        "userBounds": [
+          232,
+          174,
+          null,
+          null
+        ],
+        "bounds": [
+          232,
+          174,
+          161,
+          41
+        ],
+        "content": "[COMPONENTS](https://github.com/nexthink/apollo.components)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WbYPg4E1",
+        "userBounds": [
+          120,
+          107,
+          null,
+          null
+        ],
+        "bounds": [
+          120,
+          107,
+          119,
+          36
+        ],
+        "content": "[STORYBOOK](https://apollo.intra.nexthink.com/storybook/components/?path=/docs/about-readme--docs)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-qALZpjfy",
+        "userBounds": [
+          475,
+          477,
+          null,
+          null
+        ],
+        "bounds": [
+          475,
+          477,
+          144,
+          41
+        ],
+        "content": "[STORYBOOK](https://apollo.intra.nexthink.com/storybook/widgets/?path=/docs/widgets-column-charts--custom-column-chart)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-71Nkwnwb",
+        "userBounds": [
+          707,
+          106,
+          null,
+          null
+        ],
+        "bounds": [
+          707,
+          106,
+          76,
+          41
+        ],
+        "content": "WAAS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WDQyXdut",
+        "userBounds": [
+          867,
+          158,
+          null,
+          null
+        ],
+        "bounds": [
+          867,
+          158,
+          144,
+          41
+        ],
+        "content": "[STORYBOOK](https://cautious-doodle-73j9gyg.pages.github.io/?path=/docs/gauge-widget--docs)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-M6kWkPwF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-psc36v6e",
+            "target": "NOTE-WbYPg4E1"
+          },
+          {
+            "id": "END-4B9tM2cS",
+            "target": "NOTE-N93v6nUP"
+          }
+        ]
+      },
+      {
+        "id": "REL-Br9HJ4a2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-muL3rAEK",
+            "target": "NOTE-WDQyXdut"
+          },
+          {
+            "id": "END-cWeXxYW6",
+            "target": "NOTE-71Nkwnwb"
+          }
+        ]
+      }
+    ]
+  }
+}

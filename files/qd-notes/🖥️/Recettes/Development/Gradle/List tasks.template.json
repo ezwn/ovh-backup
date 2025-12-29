@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gradleTasks",
+  "content": {
+    "index": "gradle list tasks",
+    "name": "Gradle, list tasks",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "./gradle tasks",
+        "defaultText": null
+      }
+    ]
+  }
+}

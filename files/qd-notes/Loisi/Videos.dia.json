@@ -1,0 +1,675 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-sWd5PBlB",
+        "userBounds": [
+          1658,
+          152,
+          null,
+          null
+        ],
+        "bounds": [
+          1658,
+          152,
+          116,
+          39
+        ],
+        "content": "[Prime Video](https://www.primevideo.com/region/eu/storefront/home/ref=atv_hm_hom_c_9zZ8D2_1_0)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-3wUiLTtX",
+        "userBounds": [
+          1007,
+          197,
+          null,
+          null
+        ],
+        "bounds": [
+          1007,
+          197,
+          83,
+          34
+        ],
+        "content": "[FLEABAG](https://www.primevideo.com/region/eu/detail/0OB9NDUVQKFRSYRSCHT2A784TI/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01N29EK6N&qid=1674926359579)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-CA9UhYjI",
+        "userBounds": [
+          1127,
+          220,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          220,
+          86,
+          34
+        ],
+        "content": "[HUNTERS](https://www.primevideo.com/region/eu/detail/0M8DF75985NBNID4SCTP3X0AZJ/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B0B8RZDWH1&qid=1674926815060)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-hp7JYTEe",
+        "userBounds": [
+          1190,
+          294,
+          null,
+          null
+        ],
+        "bounds": [
+          1190,
+          294,
+          105,
+          46
+        ],
+        "content": "[UNDEGROUND\nRAILROAD](https://www.primevideo.com/region/eu/detail/0TIXZLS0H0KQUMI0XB3R8JLXK0/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B08W96VYQW&qid=1674926593484)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-djKzUNUs",
+        "userBounds": [
+          718,
+          319,
+          null,
+          null
+        ],
+        "bounds": [
+          718,
+          319,
+          79,
+          41
+        ],
+        "content": "Manga",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ffg3QXPX",
+        "userBounds": [
+          866,
+          379,
+          null,
+          null
+        ],
+        "bounds": [
+          866,
+          379,
+          115,
+          55
+        ],
+        "content": "Videos",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-AJYsl9IV",
+        "userBounds": [
+          1051,
+          289,
+          null,
+          null
+        ],
+        "bounds": [
+          1051,
+          289,
+          75,
+          41
+        ],
+        "content": "Series",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4QqLmG9w",
+        "userBounds": [
+          972,
+          504,
+          null,
+          null
+        ],
+        "bounds": [
+          972,
+          504,
+          85,
+          41
+        ],
+        "content": "Voyage",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RWZHJnrP",
+        "userBounds": [
+          560,
+          538,
+          null,
+          null
+        ],
+        "bounds": [
+          560,
+          538,
+          134,
+          41
+        ],
+        "content": "[Man VS Wild](https://www.youtube.com/results?search_query=man+vs+wild)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-V2yyKf5r",
+        "userBounds": [
+          611,
+          625,
+          null,
+          null
+        ],
+        "bounds": [
+          611,
+          625,
+          145,
+          41
+        ],
+        "content": "[Nico Mathieux](https://www.youtube.com/@NicoMathieux)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zJNEKkAf",
+        "userBounds": [
+          1071,
+          423,
+          null,
+          null
+        ],
+        "bounds": [
+          1071,
+          423,
+          117,
+          41
+        ],
+        "content": "[Ile Iriomote](https://www.youtube.com/watch?v=bA6oSMur9oM&ab_channel=ARTEFamilyFR)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ej32WGF8",
+        "userBounds": [
+          777,
+          504,
+          null,
+          null
+        ],
+        "bounds": [
+          777,
+          504,
+          98,
+          41
+        ],
+        "content": "Aventure",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NaXqkzYM",
+        "userBounds": [
+          1641,
+          78,
+          null,
+          null
+        ],
+        "content": "[ARTE dernière chance](https://www.arte.tv/fr/videos/derniere-chance/)",
+        "zIndex": 3,
+        "bounds": [
+          1641,
+          78,
+          180,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-hyaKWTfz",
+        "userBounds": [
+          1093,
+          538,
+          102.515625,
+          null
+        ],
+        "bounds": [
+          1093,
+          538,
+          103,
+          54
+        ],
+        "content": "[NOUVELLE ZELANDE](https://www.arte.tv/fr/videos/052381-003-A/nouvelle-zelande/)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-gJV2oKaw",
+        "userBounds": [
+          741,
+          690,
+          null,
+          null
+        ],
+        "bounds": [
+          741,
+          690,
+          178,
+          41
+        ],
+        "content": "[SEB PAPOUASIE](https://www.youtube.com/watch?v=rkVwuypjics&ab_channel=SEB)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lrHs1Spy",
+        "userBounds": [
+          1104,
+          483,
+          null,
+          null
+        ],
+        "bounds": [
+          1104,
+          483,
+          110,
+          41
+        ],
+        "content": "[REUNION](https://www.youtube.com/watch?v=kNSWul2jpDI&t=2065s&ab_channel=Echapp%C3%A9esbelles)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ai3ycnyu",
+        "userBounds": [
+          1265,
+          566,
+          null,
+          null
+        ],
+        "bounds": [
+          1265,
+          566,
+          86,
+          41
+        ],
+        "content": "[FORET](https://www.youtube.com/watch?v=XsOLV5kXpTY&ab_channel=ARTEFamilyFR)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qZDc1eAu",
+        "userBounds": [
+          792,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          792,
+          199,
+          72,
+          41
+        ],
+        "content": "[CCTV](https://tv.cctv.com/4K/index.shtml?spm=C96370.PPDB2vhvSivD.E59hodVIdh2C.11)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uZdwlfZQ",
+        "userBounds": [
+          158,
+          165,
+          null,
+          null
+        ],
+        "bounds": [
+          158,
+          165,
+          136,
+          41
+        ],
+        "content": "DOWNLOAD",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zDC6dqfN",
+        "userBounds": [
+          193,
+          76,
+          null,
+          null
+        ],
+        "bounds": [
+          193,
+          76,
+          73,
+          41
+        ],
+        "content": "[1337x](https://1337x.to/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iNifsqoz",
+        "userBounds": [
+          51,
+          244,
+          null,
+          null
+        ],
+        "bounds": [
+          51,
+          244,
+          122,
+          41
+        ],
+        "content": "[limetorrents](https://www.limetorrents.lol/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dQdknIkt",
+        "userBounds": [
+          290,
+          242,
+          106.75,
+          null
+        ],
+        "bounds": [
+          290,
+          242,
+          107,
+          64
+        ],
+        "content": "[internet archive](https://archive.org/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cei8wbxe",
+        "userBounds": [
+          354,
+          132,
+          null,
+          null
+        ],
+        "bounds": [
+          354,
+          132,
+          134,
+          41
+        ],
+        "content": "[torrentgalaxy](https://torrentgalaxy.to/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-c7LuCZjd",
+        "userBounds": [
+          314,
+          26,
+          null,
+          null
+        ],
+        "bounds": [
+          314,
+          26,
+          144,
+          41
+        ],
+        "content": "german + S01",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-5vUICIWe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y23yq8N1",
+            "target": "NOTE-Ffg3QXPX"
+          },
+          {
+            "id": "END-pkr6kShL",
+            "target": "NOTE-djKzUNUs"
+          }
+        ]
+      },
+      {
+        "id": "REL-MkbRhZ1V",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hXDVKo5P",
+            "target": "NOTE-AJYsl9IV"
+          },
+          {
+            "id": "END-xeSqvav4",
+            "target": "NOTE-hp7JYTEe"
+          }
+        ]
+      },
+      {
+        "id": "REL-VqxmpNyQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LLQJfIfv",
+            "target": "NOTE-AJYsl9IV"
+          },
+          {
+            "id": "END-EeL149dp",
+            "target": "NOTE-CA9UhYjI"
+          }
+        ]
+      },
+      {
+        "id": "REL-B96ZRiZn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jFy8hjrs",
+            "target": "NOTE-AJYsl9IV"
+          },
+          {
+            "id": "END-rRfavBeL",
+            "target": "NOTE-3wUiLTtX"
+          }
+        ]
+      },
+      {
+        "id": "REL-Vasnh6qc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ToMXXZQQ",
+            "target": "NOTE-Ffg3QXPX"
+          },
+          {
+            "id": "END-8QcollRi",
+            "target": "NOTE-AJYsl9IV"
+          }
+        ]
+      },
+      {
+        "id": "REL-SbGr3Ufi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HcNAboo3",
+            "target": "NOTE-4QqLmG9w"
+          },
+          {
+            "id": "END-nZpJNDA5",
+            "target": "NOTE-Ffg3QXPX"
+          }
+        ]
+      },
+      {
+        "id": "REL-Vw3e8IEZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-eGZxVdaS",
+            "target": "NOTE-zJNEKkAf"
+          },
+          {
+            "id": "END-VPvIYllR",
+            "target": "NOTE-4QqLmG9w"
+          }
+        ]
+      },
+      {
+        "id": "REL-Nrdp54Be",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sNWPY5qv",
+            "target": "NOTE-Ej32WGF8"
+          },
+          {
+            "id": "END-11QtgwHx",
+            "target": "NOTE-Ffg3QXPX"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZIqjgpRf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MbnUtcyH",
+            "target": "NOTE-Ej32WGF8"
+          },
+          {
+            "id": "END-5GgqWbSv",
+            "target": "NOTE-RWZHJnrP"
+          }
+        ]
+      },
+      {
+        "id": "REL-FMuMy6nR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZwtECVRH",
+            "target": "NOTE-Ej32WGF8"
+          },
+          {
+            "id": "END-944Yeeaz",
+            "target": "NOTE-V2yyKf5r"
+          }
+        ]
+      },
+      {
+        "id": "REL-kG6i5Hv7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BLrJM9Rz",
+            "target": "NOTE-hyaKWTfz"
+          },
+          {
+            "id": "END-SNuYysSR",
+            "target": "NOTE-4QqLmG9w"
+          }
+        ]
+      },
+      {
+        "id": "REL-HZ9lDohY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fokpfJI6",
+            "target": "NOTE-gJV2oKaw"
+          },
+          {
+            "id": "END-bsPhuxfB",
+            "target": "NOTE-Ej32WGF8"
+          }
+        ]
+      },
+      {
+        "id": "REL-yoUEZeMJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GnsbSqcr",
+            "target": "NOTE-ai3ycnyu"
+          },
+          {
+            "id": "END-Xniqh8ue",
+            "target": "NOTE-hyaKWTfz"
+          }
+        ]
+      },
+      {
+        "id": "REL-HqGnqimU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DlZepkTN",
+            "target": "NOTE-uZdwlfZQ"
+          },
+          {
+            "id": "END-uFwHRjWM",
+            "target": "NOTE-zDC6dqfN"
+          }
+        ]
+      },
+      {
+        "id": "REL-1k16n2ER",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VKCXzhhu",
+            "target": "NOTE-uZdwlfZQ"
+          },
+          {
+            "id": "END-65JWWyfz",
+            "target": "NOTE-iNifsqoz"
+          }
+        ]
+      },
+      {
+        "id": "REL-l9jBkcuP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-waRUbHw5",
+            "target": "NOTE-uZdwlfZQ"
+          },
+          {
+            "id": "END-qTaTjVng",
+            "target": "NOTE-dQdknIkt"
+          }
+        ]
+      },
+      {
+        "id": "REL-Chg84YJL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5iCfGXtA",
+            "target": "NOTE-cei8wbxe"
+          },
+          {
+            "id": "END-cSweCZKK",
+            "target": "NOTE-uZdwlfZQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-XEdhZV5y",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-V1Q2eVol",
+            "target": "NOTE-c7LuCZjd"
+          },
+          {
+            "id": "END-rdJiH23r",
+            "target": "NOTE-zDC6dqfN"
+          }
+        ]
+      }
+    ]
+  }
+}

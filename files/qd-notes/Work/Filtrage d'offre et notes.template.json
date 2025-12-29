@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiAnalyseDOffre",
+  "content": {
+    "index": "emploi travail recherche analyse offre",
+    "name": "Emploi : filtrage d'offre et notes",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant que professionnel du recrutement et analyse l'offre d'emploi suivante pour en évaluer l'intérêt pour moi. Extrait et présente comme dans le template ci-dessous, en utilisant le gras et des caractères unicodes pour la lecture rapide :\n\n# [Nom de l'entreprise]\n\n## Informations pratiques\n\nLieu : ...\nTélétravail : oui / non / non précisé\nType de contrat : ...\nRémunération : valeur / non précisée\nType de recrutement : société de service / cabinet de placement / client final\n\n## Entreprise\n\n[très court : valeurs, projets, enjeux]\n\n## Tâches du poste\n\n[descriptions courtes des 5 tâches les plus importantes]\n\n## Profil recherché\n\n### Éléments de profil obligatoires\n\n[liste de points courts concernant les éléments qui discalifient une candidature s'ils ne sont pas présent dans le profil : s'il ne sont pas dans le profile, inutile de postuler]\n\n### Éléments de profil fortement souhaités\n\n[liste de points courts concernant les éléments très importants, mais qui peuvent être compensés par d'autres, ou négociés]\n\n### Éléments différentiateurs (les \"plus\") pour la candidature\n\n[liste de points courts concernant les éléments qui sont valorisés, mais pas obligatoire]\n\n---\n\n${offerContent:text}",
+        "defaultText": null
+      }
+    ]
+  }
+}

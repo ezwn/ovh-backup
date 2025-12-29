@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpqlSelect",
+  "content": {
+    "index": "jpql select jpa",
+    "name": "JPQL, select",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "left join${eagerLoading}",
+        "defaultText": null
+      },
+      {
+        "id": "eagerLoading",
+        "textTemplate": " fetch",
+        "defaultText": ""
+      }
+    ]
+  }
+}

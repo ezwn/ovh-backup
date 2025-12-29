@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlListPods",
+  "content": {
+    "index": "cloud kubernate kubectl list pods",
+    "name": "Kubectl, list pods",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl get pods${namespace} -l app=${kubeAppName:KubeService}",
+        "defaultText": null
+      },
+      {
+        "id": "namespace",
+        "textTemplate": " -n ${kubeNamespace:KubeNamespace}",
+        "defaultText": ""
+      }
+    ]
+  }
+}

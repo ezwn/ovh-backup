@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-c1TFoi9X",
+        "userBounds": [
+          629,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          629,
+          222,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-901)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

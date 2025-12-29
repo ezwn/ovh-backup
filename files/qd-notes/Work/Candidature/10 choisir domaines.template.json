@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiChoisirDomainesPourCv",
+  "content": {
+    "index": "emploi : choisir domaines pour cv",
+    "name": "Candidature 10 : choisir domaines (emploi)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Ci-dessous, une offre d'emploi. Modifie ces deux listes en supprimant éventuellement les domaines qui ne sont pas pertinents pour l'offre et en classant ceux qui restent du plus pertinent au moins pertinent dans chaque liste.\n\n{\n  \"orderedTechnicalDomains\": [\n    \"integration\",\n    \"devOpsInfra\",\n    \"security\",\n    \"dataBases\",\n    \"softwareDesign\",\n    \"programming\"\n  ],\n  \"orderedManagerialDomains\": [\n    \"managementProject\",\n    \"managementTeam\",\n    \"architectureBusiness\",\n    'architectureIT',\n    \"languages\"\n  ]\n}\n\n---\n\n${offerContent:text}",
+        "defaultText": null
+      }
+    ]
+  }
+}

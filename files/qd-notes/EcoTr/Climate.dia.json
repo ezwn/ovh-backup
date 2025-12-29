@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-twdhXW1N",
+        "userBounds": [
+          230,
+          209,
+          158.296875,
+          null
+        ],
+        "bounds": [
+          230,
+          209,
+          158,
+          64
+        ],
+        "content": "[EVALUATION ARTICLE](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085378)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-46QFgMh6",
+        "userBounds": [
+          870,
+          366,
+          null,
+          null
+        ],
+        "content": "SANTÉ",
+        "bounds": [
+          870,
+          366,
+          118,
+          52
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-eRHKEdct",
+        "userBounds": [
+          623,
+          354,
+          null,
+          null
+        ],
+        "content": "ACTIVITÉS",
+        "bounds": [
+          623,
+          354,
+          121,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Z3kisbIz",
+        "userBounds": [
+          465,
+          394,
+          null,
+          null
+        ],
+        "content": "S'INFORMER",
+        "bounds": [
+          465,
+          394,
+          105,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-HCeVIFS1",
+        "userBounds": [
+          1127,
+          369,
+          null,
+          null
+        ],
+        "content": "VIGILENCE",
+        "bounds": [
+          1127,
+          369,
+          125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-kD6UDo56",
+        "userBounds": [
+          1143,
+          283,
+          null,
+          null
+        ],
+        "content": "PANCREAS",
+        "bounds": [
+          1143,
+          283,
+          105,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Gvoiaf99",
+        "userBounds": [
+          1289,
+          304,
+          null,
+          null
+        ],
+        "content": "PROSTATE",
+        "bounds": [
+          1289,
+          304,
+          102,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-1UItQ6bL",
+        "userBounds": [
+          484,
+          289,
+          null,
+          null
+        ],
+        "content": "LAUGHT",
+        "bounds": [
+          484,
+          289,
+          75,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-lUr2MPBj",
+        "userBounds": [
+          616,
+          462,
+          null,
+          null
+        ],
+        "content": "CONTACTS\nSOCIAUX",
+        "bounds": [
+          616,
+          462,
+          94,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-BBZb7de9",
+        "userBounds": [
+          633,
+          238,
+          null,
+          null
+        ],
+        "content": "THÉATRE",
+        "bounds": [
+          633,
+          238,
+          110,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-IdAAVIMA",
+        "userBounds": [
+          476,
+          60,
+          278.640625,
+          null
+        ],
+        "content": "Alertes santé/cerveau : sucre, trop manger, ...",
+        "bounds": [
+          476,
+          60,
+          279,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-ReVYmuJw",
+        "userBounds": [
+          263,
+          93,
+          null,
+          null
+        ],
+        "content": "METFARINE",
+        "bounds": [
+          263,
+          93,
+          132,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-1UlX2Sip",
+        "userBounds": [
+          237,
+          143,
+          null,
+          null
+        ],
+        "content": "resvératrol",
+        "bounds": [
+          237,
+          143,
+          112,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-mtameZV1",
+        "userBounds": [
+          131,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          131,
+          387,
+          87,
+          41
+        ],
+        "content": "[Neti pot](https://fr.wikipedia.org/wiki/Jala_neti)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IKynIfUr",
+        "userBounds": [
+          1060,
+          497,
+          null,
+          null
+        ],
+        "bounds": [
+          1060,
+          497,
+          107,
+          41
+        ],
+        "content": "AMIANTE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Xl1JMRvM",
+        "userBounds": [
+          1165,
+          585,
+          null,
+          null
+        ],
+        "bounds": [
+          1165,
+          585,
+          79,
+          41
+        ],
+        "content": "[INFOS](https://www.unige.ch/batiment/files/7614/3386/5334/Amiante_LepointsurGE.pdf#:~:text=Les%20affections%20imputables%20%C3%A0%20l,%C3%A0%2040%20ans%2C%20voire%20plus.)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o9wA2Chk",
+        "userBounds": [
+          1027,
+          669,
+          133,
+          null
+        ],
+        "bounds": [
+          1027,
+          669,
+          133,
+          54
+        ],
+        "content": "mésothéliome\n20-40 ans",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tMCqUgx2",
+        "userBounds": [
+          878,
+          548,
+          null,
+          null
+        ],
+        "bounds": [
+          878,
+          548,
+          165,
+          73
+        ],
+        "content": "## IRM pulmonaire\n\n16/03/2021",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-93NewZ9S",
+        "userBounds": [
+          1305,
+          600,
+          null,
+          null
+        ],
+        "bounds": [
+          1305,
+          600,
+          89,
+          54
+        ],
+        "content": "Abestose\n10-15 ans",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-gaq2EJrp",
+        "userBounds": [
+          1182,
+          694,
+          null,
+          null
+        ],
+        "bounds": [
+          1182,
+          694,
+          132,
+          54
+        ],
+        "content": "Cancer poumon\n10-25 ans",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xCDKXQ7D",
+        "userBounds": [
+          1294,
+          409,
+          null,
+          null
+        ],
+        "bounds": [
+          1294,
+          409,
+          108,
+          60
+        ],
+        "content": "BÉANCE\nCARDIALE",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-185j9TDy",
+        "userBounds": [
+          1509,
+          106,
+          null,
+          null
+        ],
+        "bounds": [
+          1509,
+          106,
+          256,
+          109
+        ],
+        "content": "Dr. Vincent SIMONNOT\n---\nTéléphone : 021 841 11 33\nRendez-vous: onedoc.ch",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-cWjzGg2I",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "wxNhEqrL",
+            "target": "NOTE-eRHKEdct"
+          },
+          {
+            "id": "U6x32wQD",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-KqmdCHKn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "lTiTTbVX",
+            "target": "NOTE-Z3kisbIz"
+          },
+          {
+            "id": "dQTpq1Mq",
+            "target": "NOTE-eRHKEdct"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-w6w4s4j8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "tbWBJtyl",
+            "target": "NOTE-HCeVIFS1"
+          },
+          {
+            "id": "Rf7moeWC",
+            "target": "NOTE-46QFgMh6"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-IAjqZTsC",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "LZZhVSEC",
+            "target": "NOTE-1UItQ6bL"
+          },
+          {
+            "id": "QuzYFuC8",
+            "target": "NOTE-eRHKEdct"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-iRWJ9SeW",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "DgEMnXb2",
+            "target": "NOTE-kD6UDo56"
+          },
+          {
+            "id": "CHUGRrj4",
+            "target": "NOTE-HCeVIFS1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-D5ZRRKXS",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "FhNJf588",
+            "target": "NOTE-Gvoiaf99"
+          },
+          {
+            "id": "8Y9Q8YuH",
+            "target": "NOTE-HCeVIFS1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-JEJFiR2U",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "jtfAPFpY",
+            "target": "NOTE-lUr2MPBj"
+          },
+          {
+            "id": "yCTCS7lK",
+            "target": "NOTE-eRHKEdct"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-lkgx3WCU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2mw1cnaq",
+            "target": "NOTE-BBZb7de9"
+          },
+          {
+            "id": "ZWDF9unI",
+            "target": "NOTE-eRHKEdct"
+          }
+        ]
+      },
+      {
+        "id": "REL-53GDzBRi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZRwvLNHS",
+            "target": "NOTE-IKynIfUr"
+          },
+          {
+            "id": "END-F5vZeczy",
+            "target": "NOTE-HCeVIFS1"
+          }
+        ]
+      },
+      {
+        "id": "REL-Wpsck8Xg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g3gUs3yv",
+            "target": "NOTE-Xl1JMRvM"
+          },
+          {
+            "id": "END-2Nl7LlgG",
+            "target": "NOTE-IKynIfUr"
+          }
+        ]
+      },
+      {
+        "id": "REL-L8cANL8V",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5iHcHpQG",
+            "target": "NOTE-Xl1JMRvM"
+          },
+          {
+            "id": "END-HmxmWMrf",
+            "target": "NOTE-o9wA2Chk"
+          }
+        ]
+      },
+      {
+        "id": "REL-MPjSMKtD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BJXjHwvl",
+            "target": "NOTE-tMCqUgx2"
+          },
+          {
+            "id": "END-1KFQtnQP",
+            "target": "NOTE-IKynIfUr"
+          }
+        ]
+      },
+      {
+        "id": "REL-jSdE4AIH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lTRNkGRd",
+            "target": "NOTE-93NewZ9S"
+          },
+          {
+            "id": "END-B42XZLFn",
+            "target": "NOTE-Xl1JMRvM"
+          }
+        ]
+      },
+      {
+        "id": "REL-S11542vT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MTqEcB6B",
+            "target": "NOTE-gaq2EJrp"
+          },
+          {
+            "id": "END-1AJHbmdb",
+            "target": "NOTE-Xl1JMRvM"
+          }
+        ]
+      },
+      {
+        "id": "REL-5W5zkElG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fn8LDgEb",
+            "target": "NOTE-xCDKXQ7D"
+          },
+          {
+            "id": "END-daa4IvJs",
+            "target": "NOTE-HCeVIFS1"
+          }
+        ]
+      }
+    ]
+  }
+}

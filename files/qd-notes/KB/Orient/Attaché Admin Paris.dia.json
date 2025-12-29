@@ -1,0 +1,529 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-qtJF8swf",
+        "userBounds": [
+          126,
+          721,
+          100.515625,
+          null
+        ],
+        "bounds": [
+          126,
+          721,
+          101,
+          60
+        ],
+        "content": "[meilleures copies](https://www.fonction-publique.gouv.fr/files/files/ArchivePortailFP/www.fonction-publique.gouv.fr/score/ecoles-de-formation/ira-et-ena/ira/meilleures-copies.html)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-LJEHQFP9",
+        "userBounds": [
+          319,
+          734,
+          null,
+          null
+        ],
+        "bounds": [
+          319,
+          734,
+          51,
+          41
+        ],
+        "content": "[IRA](https://www.fonction-publique.gouv.fr/devenir-agent-public/les-instituts-regionaux-dadministration-ira)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-P72zH6Ug",
+        "userBounds": [
+          131,
+          603,
+          null,
+          null
+        ],
+        "bounds": [
+          131,
+          603,
+          97,
+          41
+        ],
+        "content": "[AR Paris](https://www.paris.fr/pages/la-ville-de-paris-recrute-des-attache-es-19777)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2iNXpdLw",
+        "userBounds": [
+          218,
+          668,
+          null,
+          null
+        ],
+        "bounds": [
+          218,
+          668,
+          117,
+          41
+        ],
+        "content": "SOURCES",
+        "zIndex": 3,
+        "fontSize": 20
+      },
+      {
+        "id": "NOTE-g8N9VRmc",
+        "userBounds": [
+          299,
+          603,
+          null,
+          null
+        ],
+        "bounds": [
+          299,
+          603,
+          99,
+          41
+        ],
+        "content": "[Brochure](https://cdn.paris.fr/paris/2024/05/02/brochure-attache-2024-6iV3.pdf)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-3ypki7Qn",
+        "userBounds": [
+          253,
+          283,
+          null,
+          null
+        ],
+        "bounds": [
+          253,
+          283,
+          151,
+          41
+        ],
+        "content": "PROGRAMME",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l7mZFsjm",
+        "userBounds": [
+          83,
+          208,
+          null,
+          null
+        ],
+        "bounds": [
+          83,
+          208,
+          114,
+          64
+        ],
+        "content": "Droit pub\nAdmin pub",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vP7HWVzT",
+        "userBounds": [
+          274,
+          170,
+          null,
+          null
+        ],
+        "bounds": [
+          274,
+          170,
+          121,
+          41
+        ],
+        "content": "Gestion RH",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-h2GCDywj",
+        "userBounds": [
+          477,
+          262,
+          null,
+          null
+        ],
+        "bounds": [
+          477,
+          262,
+          127,
+          41
+        ],
+        "content": "ECONOMIE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fdzWaCAL",
+        "userBounds": [
+          404,
+          397,
+          null,
+          null
+        ],
+        "bounds": [
+          404,
+          397,
+          102,
+          41
+        ],
+        "content": "EUROPE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tBafMLfH",
+        "userBounds": [
+          112,
+          380,
+          null,
+          null
+        ],
+        "bounds": [
+          112,
+          380,
+          166,
+          41
+        ],
+        "content": "FINANCES PUB",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5GFNhyHc",
+        "userBounds": [
+          164,
+          32,
+          156.796875,
+          null
+        ],
+        "bounds": [
+          164,
+          32,
+          157,
+          87
+        ],
+        "content": "[Initiation management GRH](https://sdnf.cnam.fr/oec-files/unites/FPG001.pdf)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-EkPh3rnv",
+        "userBounds": [
+          362,
+          35,
+          215.53125,
+          null
+        ],
+        "bounds": [
+          362,
+          35,
+          216,
+          90
+        ],
+        "content": " spécificités de la gestion des ressources humaines dans les administrations publiques",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-nJ1PjP6i",
+        "userBounds": [
+          844,
+          65,
+          103.546875,
+          null
+        ],
+        "bounds": [
+          844,
+          65,
+          104,
+          144
+        ],
+        "content": "# [AVT208](https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/gestion-publique-locale-finances-acteurs-et-institutions-1487088.kjsp)\nGestion publique locale\n# @\n# 4 ECTS",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-5aZ23laL",
+        "userBounds": [
+          913,
+          223,
+          124.75,
+          null
+        ],
+        "bounds": [
+          913,
+          223,
+          125,
+          118
+        ],
+        "content": "# [UEU001](https://formation.cnam.fr/rechercher-par-discipline/union-europeenne-enjeux-et-grands-debats-1538714.kjsp)\nUnion européenne : enjeux et grands débats\n@\n# 4 ECTS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-zUWmYWST",
+        "userBounds": [
+          721,
+          307,
+          null,
+          null
+        ],
+        "bounds": [
+          721,
+          307,
+          103,
+          68
+        ],
+        "content": "# EAR001\nMicro-économie\n@",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-h5iBeXpa",
+        "userBounds": [
+          694,
+          226,
+          null,
+          null
+        ],
+        "bounds": [
+          694,
+          226,
+          107,
+          68
+        ],
+        "content": "# EAR002\nMacro-économie\n@",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-o36rIWcJ",
+        "userBounds": [
+          625,
+          137,
+          null,
+          null
+        ],
+        "bounds": [
+          625,
+          137,
+          123,
+          68
+        ],
+        "content": "# FPG001\nMamagement & RH\n@",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-rY7J6TbK",
+        "userBounds": [
+          703,
+          411,
+          112.34375,
+          null
+        ],
+        "bounds": [
+          703,
+          411,
+          112,
+          82
+        ],
+        "content": "[GDN100](https://formation.cnam.fr/rechercher-par-discipline/management-de-projet-208329.kjsp?RF=)\nManagement de Projet\n@",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-xnvmFXgd",
+        "userBounds": [
+          821,
+          608,
+          163.140625,
+          null
+        ],
+        "bounds": [
+          821,
+          608,
+          163,
+          110
+        ],
+        "content": "[Prospective, innovation et Management public](https://formation.cnam.fr/rechercher-par-discipline/master-prospective-innovation-et-management-public-922398.kjsp)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2mWMu7lX",
+        "userBounds": [
+          693,
+          526,
+          137.734375,
+          null
+        ],
+        "bounds": [
+          693,
+          526,
+          138,
+          72
+        ],
+        "content": "[Info comptable et management](https://formation.cnam.fr/rechercher-par-discipline/information-comptable-et-management-207870.kjsp?RF=)\n@",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-XH8TtDwv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-34wkuHiy",
+            "target": "NOTE-2iNXpdLw"
+          },
+          {
+            "id": "END-akS675yS",
+            "target": "NOTE-qtJF8swf"
+          }
+        ]
+      },
+      {
+        "id": "REL-JhZV9wCv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4MECUZ2e",
+            "target": "NOTE-2iNXpdLw"
+          },
+          {
+            "id": "END-ljWYN4Ga",
+            "target": "NOTE-P72zH6Ug"
+          }
+        ]
+      },
+      {
+        "id": "REL-6ZP3jcbX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JB8YYeox",
+            "target": "NOTE-2iNXpdLw"
+          },
+          {
+            "id": "END-J7bjut6b",
+            "target": "NOTE-LJEHQFP9"
+          }
+        ]
+      },
+      {
+        "id": "REL-DCDcUcci",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-k4fxd2Fq",
+            "target": "NOTE-g8N9VRmc"
+          },
+          {
+            "id": "END-Jb71bjXs",
+            "target": "NOTE-2iNXpdLw"
+          }
+        ]
+      },
+      {
+        "id": "REL-ze6nJ8oX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1TXIYVkt",
+            "target": "NOTE-3ypki7Qn"
+          },
+          {
+            "id": "END-PCmMHvmR",
+            "target": "NOTE-l7mZFsjm"
+          }
+        ]
+      },
+      {
+        "id": "REL-autnVoyW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-k14hL4mj",
+            "target": "NOTE-3ypki7Qn"
+          },
+          {
+            "id": "END-tuYdLwE1",
+            "target": "NOTE-vP7HWVzT"
+          }
+        ]
+      },
+      {
+        "id": "REL-bFFkY1S7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oebHdlPx",
+            "target": "NOTE-3ypki7Qn"
+          },
+          {
+            "id": "END-ZHkZf4Bg",
+            "target": "NOTE-h2GCDywj"
+          }
+        ]
+      },
+      {
+        "id": "REL-azdkovLQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5ANWVi5b",
+            "target": "NOTE-3ypki7Qn"
+          },
+          {
+            "id": "END-adUwPmwu",
+            "target": "NOTE-fdzWaCAL"
+          }
+        ]
+      },
+      {
+        "id": "REL-72rFvpEg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Qtco1QVI",
+            "target": "NOTE-3ypki7Qn"
+          },
+          {
+            "id": "END-LIIQQgVb",
+            "target": "NOTE-tBafMLfH"
+          }
+        ]
+      },
+      {
+        "id": "REL-DTHl1FRh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-T7JkSWdH",
+            "target": "NOTE-5GFNhyHc"
+          },
+          {
+            "id": "END-BQQGRprk",
+            "target": "NOTE-vP7HWVzT"
+          }
+        ]
+      },
+      {
+        "id": "REL-qqbMV4PY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Dy46E2d5",
+            "target": "NOTE-EkPh3rnv"
+          },
+          {
+            "id": "END-7Yv8JWPY",
+            "target": "NOTE-vP7HWVzT"
+          }
+        ]
+      }
+    ]
+  }
+}

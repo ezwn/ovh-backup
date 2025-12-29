@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-saladeDEminceDAlgueBruneKonbu",
+  "content": {
+    "index": "salade d’émincé d’algue brune konbu cuisine chine chinois chinoise",
+    "name": "Salade d’émincé d’algue brune Konbu",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Salade d’émincé d’algue brune Konbu\n\n**Préparation :** 10 minutes  \n**Cuisson :** 5 minutes  \n**Trempage :** 1 heure  \n\n## Ingrédients :\n- 50 g d’émincé d’algue brune konbu séchée\n- ½ poivron vert\n- ½ poivron rouge\n- 1 c. à c. de sucre en poudre\n- 2 c. à s. de vinaigre chinois\n- 1 c. à c. de purée de piments rouges\n- 3 c. à s. d’huile végétale\n- 1 c. à c. de gingembre finement haché\n- 1 c. à s. d’ail finement haché\n- 1 c. à s. de ciboulette finement ciselée\n- 1 c. à s. de sauce soja\n- 1 c. à s. d’huile de sésame\n- 1 c. à c. de sel\n- 1 c. à c. de poivre blanc moulu\n\n## Instructions :\n1. **Trempage :**  \n   Laissez tremper l’émincé d’algue dans de l’eau chaude pendant 1 heure, lavez et égouttez.\n\n2. **Cuisson :**  \n   Portez à ébullition une casserole d’eau légèrement salée et ajoutez l’algue. Faites cuire à feu doux pendant 5 minutes. Plongez-la dans de l’eau froide. Égouttez.\n\n3. **Préparation des légumes :**  \n   Coupez les poivrons en lanières de 5 cm de longueur et de 2 mm d’épaisseur. Mettez-les dans un saladier avec le sel, le sucre, le vinaigre chinois, le piment et l’algue.\n\n4. **Préparation de l’huile aromatisée :**  \n   Faites chauffer l’huile végétale à feu doux dans une poêle, faites-y colorer le gingembre, l’ail et la ciboulette. Retirez du feu lorsque les ingrédients colorent.\n\n5. **Assemblage :**  \n   Versez cette huile aromatisée chaude sur l’algue.  \n   Ajoutez la sauce soja et l’huile de sésame. Poivrez. Mélangez et servez.",
+        "defaultText": null
+      }
+    ]
+  }
+}

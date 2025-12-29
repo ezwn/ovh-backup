@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-yesllmnoexploration",
+  "content": {
+    "index": "oui non LLM exploration vérification correction compréhension",
+    "name": "Yes/No exploration with a LLM",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Je voudrais vérifier et affiner ma compréhension. Dans notre conversation, je vais affirmer des choses. Tu répondras par incorrect / passable / plutôt correct / tout à fait correct. Si ce n'est pas \"tout à fait correct\", tu ajouteras une explication, un éclaircissement, ou tout autre chose nécessaire pour que je comprenne, mais de façon très concise.\n\nJe commence ?",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2CEx6auA",
+        "userBounds": [
+          834,
+          366,
+          null,
+          null
+        ],
+        "content": "# JUnit\nJupiter API",
+        "bounds": [
+          834,
+          366,
+          124,
+          84
+        ],
+        "fontSize": 22
+      },
+      {
+        "id": "NOTE-8kD9gDIX",
+        "userBounds": [
+          674,
+          396,
+          null,
+          null
+        ],
+        "content": "# @Test",
+        "bounds": [
+          674,
+          396,
+          65,
+          36
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-jq3Ll9ei",
+        "userBounds": [
+          641,
+          356,
+          null,
+          null
+        ],
+        "content": "# @BeforeAll",
+        "bounds": [
+          641,
+          356,
+          105,
+          36
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-vuWZWlZv",
+        "userBounds": [
+          867,
+          502,
+          null,
+          null
+        ],
+        "content": "# @ExtendWith\n---",
+        "bounds": [
+          867,
+          502,
+          142,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-tVgszcWK",
+        "userBounds": [
+          1078,
+          526,
+          null,
+          null
+        ],
+        "content": "# @RunWith\n! deprecated",
+        "bounds": [
+          1078,
+          526,
+          115,
+          56
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Rgv5gF7v",
+        "userBounds": [
+          1003,
+          269,
+          null,
+          null
+        ],
+        "content": "Assert",
+        "bounds": [
+          1003,
+          269,
+          75,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-lUheWm14",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "7HdnJQcY",
+            "target": "NOTE-Rgv5gF7v"
+          },
+          {
+            "id": "I5StX9y8",
+            "target": "NOTE-2CEx6auA"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-9dnHyUI1",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "P2y6bdsv",
+            "target": "NOTE-vuWZWlZv"
+          },
+          {
+            "id": "J7jfttBu",
+            "target": "NOTE-tVgszcWK"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-8TESmejU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ffH2hFWy",
+            "target": "NOTE-2CEx6auA"
+          },
+          {
+            "id": "Mjp5Uvue",
+            "target": "NOTE-vuWZWlZv"
+          }
+        ]
+      }
+    ]
+  }
+}

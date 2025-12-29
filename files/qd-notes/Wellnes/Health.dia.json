@@ -1,0 +1,78 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-q9Z45FlY",
+        "userBounds": [
+          48,
+          602,
+          187.25,
+          null
+        ],
+        "bounds": [
+          48,
+          602,
+          187,
+          179
+        ],
+        "content": "IM2P- Radiologie / Scanner / IRM - Dijon\n\n82 Avenue Jean Jaurès, 21000 Dijon",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ii622H7C",
+        "userBounds": [
+          354,
+          423,
+          null,
+          null
+        ],
+        "bounds": [
+          354,
+          423,
+          88,
+          41
+        ],
+        "content": "[TARIFS](https://dentego.fr/nos-tarifs/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GmNDxCrH",
+        "userBounds": [
+          1140,
+          330,
+          167.828125,
+          null
+        ],
+        "bounds": [
+          1140,
+          330,
+          168,
+          60
+        ],
+        "content": "[GASTRO LAUSANNE](https://www.drpaulwiesel.ch/cms/)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-eeQi3fBj",
+        "userBounds": [
+          556,
+          117,
+          337.984375,
+          null
+        ],
+        "bounds": [
+          556,
+          117,
+          338,
+          64
+        ],
+        "content": "DENTS\nhttps://adent.ch/clinique/epalinges/",
+        "zIndex": 3,
+        "fontSize": 20,
+        "noteStyle": "RED"
+      }
+    ],
+    "relations": []
+  }
+}

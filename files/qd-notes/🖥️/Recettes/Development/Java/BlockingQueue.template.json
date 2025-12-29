@@ -1,0 +1,32 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaBlockingQueue",
+  "content": {
+    "index": "java blocking queue nsy102",
+    "name": "Java, BlockingQueue",
+    "templates": [
+      {
+        "id": "instantiation",
+        "textTemplate": "    BlockingQueue<Integer> blockingQueue = new LinkedBlockingQueue<>();",
+        "defaultText": null
+      },
+      {
+        "id": "read",
+        "textTemplate": "request = in.take();",
+        "defaultText": null
+      },
+      {
+        "id": "write",
+        "textTemplate": "out.put(request);",
+        "defaultText": null
+      },
+      {
+        "id": "example",
+        "textTemplate": "BlockingQueue<String> queue = new ArrayBlockingQueue<>(10);\n\nnew Thread(() -> {\n    try {\n        queue.put(\"Message 1\");\n        System.out.println(\"Produced: Message 1\");\n    } catch (InterruptedException e) {\n        Thread.currentThread().interrupt();\n    }\n}).start();\n\nnew Thread(() -> {\n    try {\n        String message = queue.take();\n        System.out.println(\"Consumed: \" + message);\n    } catch (InterruptedException e) {\n        Thread.currentThread().interrupt();\n    }\n}).start();\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

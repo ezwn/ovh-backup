@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-listJavaTestClasses",
+  "content": {
+    "index": "list java test classes grep sed include log logs",
+    "name": "List java test classes",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "grep -rl \"@Test\" . --include=\"*.java\" | sed 's|.*/||; s|\\.java$||'",
+        "defaultText": null
+      }
+    ]
+  }
+}

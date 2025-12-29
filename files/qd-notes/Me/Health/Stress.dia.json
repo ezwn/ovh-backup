@@ -1,0 +1,392 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vqqzMLIM",
+        "userBounds": [
+          485,
+          283,
+          null,
+          null
+        ],
+        "content": "CHANGEMENTS",
+        "zIndex": 3,
+        "bounds": [
+          485,
+          283,
+          174,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-c8xizNDD",
+        "userBounds": [
+          491,
+          365,
+          null,
+          null
+        ],
+        "content": "LIEU",
+        "zIndex": 3,
+        "bounds": [
+          491,
+          365,
+          54,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-p9Qb2gRu",
+        "userBounds": [
+          368,
+          265,
+          null,
+          null
+        ],
+        "content": "TRAVAIL",
+        "zIndex": 3,
+        "bounds": [
+          368,
+          265,
+          82,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-MU9rfjqD",
+        "userBounds": [
+          459,
+          161,
+          null,
+          null
+        ],
+        "content": "SUPPORT\nPRODUCTION\nA CS",
+        "zIndex": 3,
+        "bounds": [
+          459,
+          161,
+          126,
+          72
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-nlPA26Vb",
+        "userBounds": [
+          695,
+          182,
+          null,
+          null
+        ],
+        "content": "ISOLEMENT",
+        "zIndex": 3,
+        "bounds": [
+          695,
+          182,
+          134,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-HzdMKDSR",
+        "userBounds": [
+          692,
+          294,
+          null,
+          null
+        ],
+        "content": "FACTEURS\nSTRESSANTS",
+        "zIndex": 3,
+        "bounds": [
+          692,
+          294,
+          151,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-Lb6QAUmR",
+        "userBounds": [
+          608,
+          212,
+          null,
+          null
+        ],
+        "content": "CRISES\nANNE",
+        "zIndex": 3,
+        "bounds": [
+          608,
+          212,
+          70,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-wlI6mbxU",
+        "userBounds": [
+          1021,
+          288,
+          null,
+          null
+        ],
+        "content": "FACTEURS\nANTI-STRESS",
+        "zIndex": 3,
+        "bounds": [
+          1021,
+          288,
+          150,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-DHchNn8k",
+        "userBounds": [
+          1078,
+          201,
+          null,
+          null
+        ],
+        "content": "SUPPORT\nANNE",
+        "zIndex": 3,
+        "bounds": [
+          1078,
+          201,
+          85,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-TswPvAef",
+        "userBounds": [
+          1204,
+          215,
+          null,
+          null
+        ],
+        "content": "[PHYSICAL\nEXERCISE](http://localhost/synchronized-data/Sant%C3%A9/Physical%20exercise.dia.json)",
+        "zIndex": 3,
+        "bounds": [
+          1204,
+          215,
+          89,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-D1CwPU9k",
+        "userBounds": [
+          413,
+          394,
+          null,
+          null
+        ],
+        "content": "PAYS",
+        "zIndex": 3,
+        "bounds": [
+          413,
+          394,
+          58,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ycEv5sQw",
+        "userBounds": [
+          397,
+          346,
+          null,
+          null
+        ],
+        "content": "CLIMAT",
+        "zIndex": 3,
+        "bounds": [
+          397,
+          346,
+          75,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-qEt9DKCs",
+        "userBounds": [
+          1230,
+          374,
+          94.234375,
+          null
+        ],
+        "bounds": [
+          1230,
+          374,
+          94,
+          50
+        ],
+        "content": "[DEEP BREATHING](https://www.webmd.com/balance/stress-management/stress-relief-breathing-techniques)",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-lWdrsP2l",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dHlnZemf",
+            "target": "NOTE-c8xizNDD"
+          },
+          {
+            "id": "END-Wjfg96ji",
+            "target": "NOTE-vqqzMLIM"
+          }
+        ]
+      },
+      {
+        "id": "REL-TCxMQegY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oyzUFp8D",
+            "target": "NOTE-p9Qb2gRu"
+          },
+          {
+            "id": "END-5LXzPxLM",
+            "target": "NOTE-vqqzMLIM"
+          }
+        ]
+      },
+      {
+        "id": "REL-HiNxfyly",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WqC2rxe2",
+            "target": "NOTE-MU9rfjqD"
+          },
+          {
+            "id": "END-fpo31oLp",
+            "target": "NOTE-vqqzMLIM"
+          }
+        ]
+      },
+      {
+        "id": "REL-gmuvNdQa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cTWs87Ij",
+            "target": "NOTE-HzdMKDSR"
+          },
+          {
+            "id": "END-iEnvqpnQ",
+            "target": "NOTE-vqqzMLIM"
+          }
+        ]
+      },
+      {
+        "id": "REL-D4sntI1u",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mY8B16gS",
+            "target": "NOTE-HzdMKDSR"
+          },
+          {
+            "id": "END-lQZV4yHH",
+            "target": "NOTE-nlPA26Vb"
+          }
+        ]
+      },
+      {
+        "id": "REL-8ENWPLlK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lBIqx3tT",
+            "target": "NOTE-Lb6QAUmR"
+          },
+          {
+            "id": "END-IsEneL9H",
+            "target": "NOTE-HzdMKDSR"
+          }
+        ]
+      },
+      {
+        "id": "REL-QTTHmaJY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tCYESuTj",
+            "target": "NOTE-DHchNn8k"
+          },
+          {
+            "id": "END-1aXHBPha",
+            "target": "NOTE-wlI6mbxU"
+          }
+        ]
+      },
+      {
+        "id": "REL-c1D8x3zv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KTaLBvmH",
+            "target": "NOTE-TswPvAef"
+          },
+          {
+            "id": "END-csA8g3Nm",
+            "target": "NOTE-wlI6mbxU"
+          }
+        ]
+      },
+      {
+        "id": "REL-bDHcY5sT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BMJJYLLg",
+            "target": "NOTE-D1CwPU9k"
+          },
+          {
+            "id": "END-rxV45miU",
+            "target": "NOTE-c8xizNDD"
+          }
+        ]
+      },
+      {
+        "id": "REL-yh1rJJEP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-x9Lli6Ub",
+            "target": "NOTE-ycEv5sQw"
+          },
+          {
+            "id": "END-voF7Vg77",
+            "target": "NOTE-c8xizNDD"
+          }
+        ]
+      },
+      {
+        "id": "REL-eLi8dt4k",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Xf2k6kIG",
+            "target": "NOTE-qEt9DKCs"
+          },
+          {
+            "id": "END-yW7yEiIM",
+            "target": "NOTE-wlI6mbxU"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-UxfMHlqT",
+        "userBounds": [
+          346,
+          276,
+          null,
+          null
+        ],
+        "content": "Taux\ncertificat de travail",
+        "bounds": [
+          346,
+          276,
+          179,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-4FyKAaEd",
+        "userBounds": [
+          688,
+          91,
+          null,
+          null
+        ],
+        "content": "Aspect scientifique\net recherche",
+        "bounds": [
+          688,
+          91,
+          185,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-4TnTy5Qf",
+        "userBounds": [
+          727,
+          216,
+          null,
+          null
+        ],
+        "content": "GAP\nES / HES",
+        "bounds": [
+          727,
+          216,
+          102,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-ebjWCt5W",
+        "userBounds": [
+          353,
+          411,
+          null,
+          null
+        ],
+        "content": "320h de stage\n40%",
+        "bounds": [
+          353,
+          411,
+          145,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-hVqN3XJv",
+        "userBounds": [
+          1131,
+          254,
+          null,
+          null
+        ],
+        "content": "1. INSCRIPTION\nBACHELOR\n(JANVIER)",
+        "bounds": [
+          1131,
+          254,
+          135,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-bDK4XBTX",
+        "userBounds": [
+          1129,
+          336,
+          null,
+          null
+        ],
+        "content": "2. DEMANDE\nADMISSION\nVAE\n< 8 mai",
+        "bounds": [
+          1129,
+          336,
+          124,
+          82
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-dMnW8oL2",
+        "userBounds": [
+          1126,
+          430,
+          null,
+          null
+        ],
+        "content": "3. DOSSIER AVEC\nACCOMPAGNEMENT\nFEVRIER/MARS",
+        "bounds": [
+          1126,
+          430,
+          185,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-UGS4XJ5C",
+        "userBounds": [
+          1125,
+          516,
+          null,
+          null
+        ],
+        "content": "4. DOSSIER VAE\n< MI-JUILLET",
+        "bounds": [
+          1125,
+          516,
+          139,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-vtYabm52",
+        "userBounds": [
+          1124,
+          594,
+          null,
+          null
+        ],
+        "content": "5. SOUTENANCE\nFIN AOUT/SEPTEMBRE",
+        "bounds": [
+          1124,
+          594,
+          200,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-tICtc8xm",
+        "userBounds": [
+          1131,
+          664,
+          null,
+          null
+        ],
+        "content": "6. PRE-RENTREE\n12 septembre",
+        "bounds": [
+          1131,
+          664,
+          145,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-vXzGcHMX",
+        "userBounds": [
+          915,
+          212,
+          null,
+          null
+        ],
+        "content": "- CV détaillé\n- LM",
+        "bounds": [
+          915,
+          212,
+          142,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-txydcCm3",
+        "userBounds": [
+          43,
+          50,
+          null,
+          null
+        ],
+        "content": "Jura Valais",
+        "zIndex": 3,
+        "bounds": [
+          43,
+          50,
+          115,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ow5u2nnA",
+        "userBounds": [
+          42,
+          110,
+          null,
+          null
+        ],
+        "content": "Interim",
+        "zIndex": 3,
+        "bounds": [
+          42,
+          110,
+          79,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-8kZ3imbW",
+        "userBounds": [
+          42,
+          165,
+          null,
+          null
+        ],
+        "content": "EMS",
+        "zIndex": 3,
+        "bounds": [
+          42,
+          165,
+          61,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-uKvxIMwZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-h4cjcarw",
+            "target": "NOTE-4TnTy5Qf"
+          },
+          {
+            "id": "END-pNzhsnos",
+            "target": "NOTE-4FyKAaEd"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-JCMeBjT4",
+        "userBounds": [
+          113,
+          122,
+          null,
+          null
+        ],
+        "bounds": [
+          113,
+          122,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-1223)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zfmoU5bm",
+        "userBounds": [
+          291,
+          147,
+          null,
+          null
+        ],
+        "bounds": [
+          291,
+          147,
+          46,
+          41
+        ],
+        "content": "[PR](https://github.com/nexthink/engage.euf-campaign-manager/pull/288)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gwuIyugi",
+        "userBounds": [
+          162,
+          227,
+          null,
+          null
+        ],
+        "bounds": [
+          162,
+          227,
+          102,
+          41
+        ],
+        "content": "[JENKINS](https://jenkins-euf-master.intra.nexthink.com/blue/organizations/jenkins/euf-campaign-manager-github/detail/PR-288/7/pipeline)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WXWjd19I",
+        "userBounds": [
+          498,
+          269,
+          null,
+          null
+        ],
+        "bounds": [
+          498,
+          269,
+          110,
+          41
+        ],
+        "content": "[LILA'S PR](https://github.com/nexthink/engage.euf-campaign-manager/pull/286/files)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mG54en6e",
+        "userBounds": [
+          766,
+          214,
+          277.25,
+          null
+        ],
+        "bounds": [
+          766,
+          214,
+          277,
+          133
+        ],
+        "content": "BrandingDoc is both the graphql schema for queries and the POJO for BCS, thus making it impossible to decouple them.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BE5JtcsK",
+        "userBounds": [
+          350,
+          479,
+          null,
+          null
+        ],
+        "bounds": [
+          350,
+          479,
+          134,
+          41
+        ],
+        "content": "[FELIPE's PR](https://github.com/nexthink/engage.euf-campaign-manager/pull/269/files)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

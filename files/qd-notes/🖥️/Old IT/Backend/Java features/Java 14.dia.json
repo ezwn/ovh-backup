@@ -1,0 +1,23 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-hzoYgdFw",
+        "userBounds": [
+          603,
+          237,
+          null,
+          null
+        ],
+        "content": "!!! record",
+        "bounds": [
+          603,
+          237,
+          93,
+          46
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

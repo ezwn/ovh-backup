@@ -1,0 +1,104 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-UVcnSQ3Z",
+        "userBounds": [
+          1153,
+          228,
+          null,
+          null
+        ],
+        "bounds": [
+          1153,
+          228,
+          75,
+          41
+        ],
+        "content": "Forms",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8IpgE7LK",
+        "userBounds": [
+          583,
+          343,
+          null,
+          null
+        ],
+        "bounds": [
+          583,
+          343,
+          107,
+          41
+        ],
+        "content": "MongoDB",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6ElvLHJU",
+        "userBounds": [
+          247,
+          206,
+          294.84375,
+          null
+        ],
+        "bounds": [
+          247,
+          206,
+          295,
+          87
+        ],
+        "content": "Indexing: Proper indexing can significantly improve the performance of your queries. ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PsQLvvdb",
+        "userBounds": [
+          266,
+          439,
+          277.375,
+          null
+        ],
+        "bounds": [
+          266,
+          439,
+          277,
+          110
+        ],
+        "content": "Sharding is a method of horizontally scaling MongoDB by partitioning data across multiple nodes.",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-1ewdZupU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zPdcXrTD",
+            "target": "NOTE-8IpgE7LK"
+          },
+          {
+            "id": "END-ovGwdluu",
+            "target": "NOTE-PsQLvvdb"
+          }
+        ]
+      },
+      {
+        "id": "REL-wJmPYmoI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zl6BcSmh",
+            "target": "NOTE-8IpgE7LK"
+          },
+          {
+            "id": "END-QnZ4R7Zu",
+            "target": "NOTE-6ElvLHJU"
+          }
+        ]
+      }
+    ]
+  }
+}

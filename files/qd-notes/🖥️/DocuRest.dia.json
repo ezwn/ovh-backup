@@ -1,0 +1,61 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-R4elVThl",
+        "userBounds": [
+          150,
+          379,
+          369.8125,
+          null
+        ],
+        "bounds": [
+          150,
+          379,
+          370,
+          121
+        ],
+        "content": "<< abstract >>\n## RegisteredDocumentMapper<I, O>\n---\nExtend to define a conversion automatically applied to project documents from the database into format for external communication (DTO).",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-o8Cgkayo",
+        "userBounds": [
+          146,
+          190,
+          381.8125,
+          null
+        ],
+        "bounds": [
+          146,
+          190,
+          382,
+          89
+        ],
+        "content": "<< abstract >>\n## DocumentMapper<I, O>\n---\n",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-MjLSlAzg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-h3PSVh8X",
+            "target": "NOTE-R4elVThl",
+            "attachPointNumber": 0
+          },
+          {
+            "id": "END-L3oFzEfp",
+            "target": "NOTE-o8Cgkayo",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

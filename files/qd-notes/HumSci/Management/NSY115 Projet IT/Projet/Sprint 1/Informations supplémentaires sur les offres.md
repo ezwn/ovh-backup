@@ -1,0 +1,1 @@
+En tant que participant / CI, je souhaite avoir plus d'info sur chaque offre de l'email VEI afin de guider ma stratégie de postulation.Informations à ajouter :la date de publication des offres

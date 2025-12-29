@@ -1,0 +1,109 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rtG8Jkxs",
+        "userBounds": [
+          280,
+          184,
+          141.734375,
+          null
+        ],
+        "bounds": [
+          280,
+          184,
+          142,
+          87
+        ],
+        "content": "[RUNNING CL QUERRIES](https://confluence.intra.nexthink.com/display/FUN/Running+ClickHouse+queries)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WVMLCXjm",
+        "userBounds": [
+          505,
+          101,
+          342.640625,
+          null
+        ],
+        "bounds": [
+          505,
+          101,
+          343,
+          133
+        ],
+        "content": "export CLUSTER=Fuji\nexport CLUSTER_LC=fuji\n \naws-vault exec dev ./clickhouse-cluster.sh eu-west-3",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kIWBrpef",
+        "userBounds": [
+          707,
+          399,
+          null,
+          null
+        ],
+        "bounds": [
+          707,
+          399,
+          390,
+          41
+        ],
+        "content": "you need to install jq and clickhouse client",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-goLzQgcI",
+        "userBounds": [
+          1050,
+          137,
+          null,
+          null
+        ],
+        "bounds": [
+          1050,
+          137,
+          216,
+          41
+        ],
+        "content": "[CLICKHOUSE in DEV](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=278955319&navigatingVersions=true)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2VuJ2mMa",
+        "userBounds": [
+          1424,
+          223,
+          null,
+          null
+        ],
+        "bounds": [
+          1424,
+          223,
+          221,
+          41
+        ],
+        "content": "[QUERY DASHBOARD](https://one.eu.newrelic.com/dashboards/detail/MjgyMDE3OXxWSVp8REFTSEJPQVJEfGRhOjI4ODQxMw?account=2820179&state=1de00804-8299-82ad-9115-98950febd108)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-35tq22nX",
+        "userBounds": [
+          1384,
+          371,
+          null,
+          null
+        ],
+        "bounds": [
+          1384,
+          371,
+          209,
+          41
+        ],
+        "content": "[TO NQL MIGRATION](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=ENGAGE&title=Migrate+dashboards+to+NQL)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

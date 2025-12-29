@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-UXySPFlW",
+        "userBounds": [
+          161,
+          148,
+          521.65625,
+          null
+        ],
+        "bounds": [
+          161,
+          148,
+          522,
+          87
+        ],
+        "content": "Remember that the Engage Cloud | General channel, in the Teams tab, is recommended for long conversations as it simplifies following the threads.",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

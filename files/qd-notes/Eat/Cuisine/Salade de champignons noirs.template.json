@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-saladeDeChampignonsNoirs",
+  "content": {
+    "index": "salade de champignons noirs cuisine chinoise chinois chine",
+    "name": "Salade de champignons noirs",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Salade de champignons noirs\n\n**Préparation :** 5 minutes  \n**Trempage :** 1 heure  \n**Cuisson :** 8 minutes  \n\n## Ingrédients\n- 40 g de champignons noirs de Chine déshydratés  \n- 10 g de poivre du Sichuan  \n- 2 gousses d'ail finement hachées  \n- 1 c. à c. de purée de piments rouges  \n- 2 c. à s. de vinaigre de riz chinois  \n- 1 c. à c. d'huile de sésame  \n- Quelques brins de coriandre grossièrement ciselés  \n- 1 c. à c. de graines de sésame blanc  \n- Sel  \n\n## Instructions\n1. Mettez les champignons noirs déshydratés dans un bol. Ajoutez de l’eau chaude. Laissez-les tremper dans de l’eau pendant 1 heure.  \n2. Faites cuire les champignons noirs dans une casserole d’eau légèrement salée pendant 3 minutes. Plongez-les dans de l’eau froide. Égouttez-les et réservez-les dans un saladier.  \n3. Faites chauffer les grains de poivre du Sichuan à sec dans une poêle à feu doux pendant 5 minutes. Écrasez-les et mettez-les dans un bol.  \n4. Ajoutez l’ail, la purée de piments rouges et le vinaigre chinois dans le bol. Mélangez pour obtenir une sauce.  \n5. Versez cette sauce dans le saladier sur les champignons noirs.  \n6. Versez par-dessus l’huile de sésame et parsemez de coriandre et de graines de sésame.  \n",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-NPfwLMFl",
+        "userBounds": [
+          620,
+          168,
+          null,
+          null
+        ],
+        "bounds": [
+          620,
+          168,
+          229,
+          41
+        ],
+        "content": "[NQL-QUERY-SERVICE](https://github.com/nexthink/nql.nql-query-service)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

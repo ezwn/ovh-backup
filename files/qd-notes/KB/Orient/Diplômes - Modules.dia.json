@@ -1,0 +1,399 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-L9hum1a5",
+        "userBounds": [
+          312,
+          46,
+          121.96875,
+          null
+        ],
+        "bounds": [
+          312,
+          46,
+          122,
+          101
+        ],
+        "content": "# IA\n[INGE MODEL. OPTIM.](https://formation.cnam.fr/formation/diplome-d-ingenieur-specialite-informatique-parcours-informatique-modelisation-optimisation-1003894.kjsp?RF=porform)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-8N6b5Rr4",
+        "userBounds": [
+          406,
+          218,
+          126,
+          null
+        ],
+        "bounds": [
+          406,
+          218,
+          126,
+          66
+        ],
+        "content": "[SYSTEMES REPARTIS SUR CLOUD](https://formation.cnam.fr/rechercher-par-discipline/systemes-et-applications-repartis-pour-le-cloud-208805.kjsp?RF=)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-7jksPiUX",
+        "userBounds": [
+          87,
+          76,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          76,
+          130,
+          60
+        ],
+        "content": "INGE\nCYBERSECU",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-eySGYrMW",
+        "userBounds": [
+          70,
+          332,
+          null,
+          null
+        ],
+        "bounds": [
+          70,
+          332,
+          146,
+          72
+        ],
+        "content": "[INGE\nACHI ET INTEGR\nSYS LOG](https://formation.cnam.fr/formation/ingenieur-en-informatique-architecture-et-integration-des-systemes-et-des-logiciels-1003893.kjsp?RF=porform)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-PEnhBfvp",
+        "userBounds": [
+          303,
+          319,
+          132.203125,
+          null
+        ],
+        "bounds": [
+          303,
+          319,
+          132,
+          72
+        ],
+        "content": "[ARCHI ET URBANISATION DES SI](https://formation.cnam.fr/rechercher-par-discipline/architecture-d-entreprise-et-urbanisation-des-systemes-d-information-208601.kjsp?RF=)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-7DCR8cuu",
+        "userBounds": [
+          36,
+          182,
+          null,
+          null
+        ],
+        "bounds": [
+          36,
+          182,
+          80,
+          64
+        ],
+        "content": "INGE\nSI & BI",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-AA1QoRY7",
+        "userBounds": [
+          1630,
+          31,
+          161.828125,
+          null
+        ],
+        "bounds": [
+          1630,
+          31,
+          162,
+          72
+        ],
+        "content": "Validation des études supérieures\n(VES)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-97aLdP81",
+        "userBounds": [
+          998,
+          313,
+          185.09375,
+          null
+        ],
+        "bounds": [
+          998,
+          313,
+          185,
+          72
+        ],
+        "content": "<< intérêt >>\n[MANAGEMENT ENVIRONNEMENTAL](https://formation.cnam.fr/rechercher-par-discipline/management-environnemental-200468.kjsp)",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-t9FHIRpD",
+        "userBounds": [
+          980,
+          116,
+          190.25,
+          null
+        ],
+        "bounds": [
+          980,
+          116,
+          190,
+          64
+        ],
+        "content": "[MASTER MANAGEMENT](https://formation.cnam.fr/formation/master-management-des-risques-qse-qualite-securite-environnement-sante-et-rse-813122.kjsp?RF=porform)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qFi3M4E6",
+        "userBounds": [
+          731,
+          332,
+          132.84375,
+          null
+        ],
+        "bounds": [
+          731,
+          332,
+          133,
+          81
+        ],
+        "content": "[Principes et outils du management](https://formation.cnam.fr/rechercher-par-discipline/principes-generaux-et-outils-du-management-d-entreprise-1263285.kjsp?RF=)",
+        "zIndex": 3,
+        "noteStyle": "ORANGE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-S5nFhCV5",
+        "userBounds": [
+          740,
+          175,
+          128.40625,
+          null
+        ],
+        "bounds": [
+          740,
+          175,
+          128,
+          50
+        ],
+        "content": "[TECH DE LA STAT](https://formation.cnam.fr/rechercher-par-discipline/techniques-de-la-statistique-411338.kjsp?RF=)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-hHD5edoh",
+        "userBounds": [
+          763,
+          570,
+          185.953125,
+          null
+        ],
+        "bounds": [
+          763,
+          570,
+          186,
+          87
+        ],
+        "content": "[Master Mondialisation Appliquée](https://formation.cnam.fr/rechercher-par-discipline/master-mondialisation-appliquee-1550335.kjsp?RF=)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zr1HC98y",
+        "userBounds": [
+          490,
+          571,
+          239.59375,
+          null
+        ],
+        "bounds": [
+          490,
+          571,
+          240,
+          87
+        ],
+        "content": "[Master Prospective Innovation et Management Public](https://formation.cnam.fr/rechercher-par-discipline/master-prospective-innovation-et-management-public-922398.kjsp)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-U5ayTCCb",
+        "userBounds": [
+          677,
+          704,
+          131.046875,
+          null
+        ],
+        "bounds": [
+          677,
+          704,
+          131,
+          74
+        ],
+        "content": "cv alternatifs",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-T7qYFc1z",
+        "userBounds": [
+          1002,
+          670,
+          null,
+          null
+        ],
+        "bounds": [
+          1002,
+          670,
+          51,
+          41
+        ],
+        "content": "IRA",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-61CnXEZB",
+        "userBounds": [
+          214,
+          647,
+          166.78125,
+          null
+        ],
+        "bounds": [
+          214,
+          647,
+          167,
+          90
+        ],
+        "content": "# [ENG261](https://formation.cnam.fr/rechercher-par-discipline/information-et-communication-scientifique-1475357.kjsp?RF=)\nInformation et communication scientifique\n# 3 ECTS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-3s6wfAW6",
+        "userBounds": [
+          60,
+          657,
+          null,
+          null
+        ],
+        "bounds": [
+          60,
+          657,
+          128,
+          47
+        ],
+        "content": "# [UTC505](https://formation.cnam.fr/rechercher-par-discipline/introduction-a-la-cyberstructure-de-l-internet-reseaux-et-securite-1541961.kjsp?RF=)\nCyberstructure d'Internet",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-lifmxMjv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gsLlID1e",
+            "target": "NOTE-8N6b5Rr4"
+          },
+          {
+            "id": "END-zEHGNufJ",
+            "target": "NOTE-7jksPiUX"
+          }
+        ]
+      },
+      {
+        "id": "REL-rRAtpVeo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-36looboG",
+            "target": "NOTE-PEnhBfvp"
+          },
+          {
+            "id": "END-73bcdXqi",
+            "target": "NOTE-7jksPiUX"
+          }
+        ]
+      },
+      {
+        "id": "REL-9DrwM8YV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nsEa1YTK",
+            "target": "NOTE-7DCR8cuu"
+          },
+          {
+            "id": "END-YlcADKr6",
+            "target": "NOTE-PEnhBfvp"
+          }
+        ]
+      },
+      {
+        "id": "REL-FifeKeQs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g2UvhL7E",
+            "target": "NOTE-qFi3M4E6"
+          },
+          {
+            "id": "END-nVtD9jHX",
+            "target": "NOTE-t9FHIRpD"
+          }
+        ]
+      },
+      {
+        "id": "REL-mlYjGqYu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5DuuTRoK",
+            "target": "NOTE-qFi3M4E6"
+          },
+          {
+            "id": "END-K33Z7LkZ",
+            "target": "NOTE-97aLdP81"
+          }
+        ]
+      },
+      {
+        "id": "REL-J6jDyIdV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Il4Ss3UV",
+            "target": "NOTE-S5nFhCV5"
+          },
+          {
+            "id": "END-DXyzHgIF",
+            "target": "NOTE-t9FHIRpD"
+          }
+        ]
+      }
+    ]
+  }
+}

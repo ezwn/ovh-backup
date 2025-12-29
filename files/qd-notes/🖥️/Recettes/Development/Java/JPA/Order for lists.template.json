@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaOrderForLists",
+  "content": {
+    "index": "jpa order lists",
+    "name": "Jpa, order for lists",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@OrderColumn\n\nor\n\n@OderBy",
+        "defaultText": null
+      }
+    ]
+  }
+}

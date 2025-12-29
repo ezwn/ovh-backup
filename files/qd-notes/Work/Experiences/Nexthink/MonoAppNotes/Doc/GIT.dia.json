@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-hhzHpZFE",
+        "userBounds": [
+          907,
+          471,
+          157.359375,
+          null
+        ],
+        "bounds": [
+          907,
+          471,
+          157,
+          101
+        ],
+        "content": "[CREATE NEW GIT REPO](https://github.com/nexthink/github-as-code/pull/1364)\n---\n[PR BCS-LIB](https://github.com/nexthink/github-as-code/pull/2423)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-sEKTcEvQ",
+        "userBounds": [
+          1145,
+          563.1367874145508,
+          null,
+          null
+        ],
+        "bounds": [
+          1145,
+          563.1367874145508,
+          233,
+          65
+        ],
+        "content": "Ask for approval on\nEngineering Productivity",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-KmZm39QY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sV7S5ajI",
+            "target": "NOTE-hhzHpZFE"
+          },
+          {
+            "id": "END-wQID5HYw",
+            "target": "NOTE-sEKTcEvQ"
+          }
+        ]
+      }
+    ]
+  }
+}

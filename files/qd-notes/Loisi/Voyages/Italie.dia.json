@@ -1,0 +1,103 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-DQQDtpmd",
+        "userBounds": [
+          409,
+          303,
+          null,
+          null
+        ],
+        "content": "# Rome",
+        "bounds": [
+          409,
+          303,
+          80,
+          44
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-eh6vDNq5",
+        "userBounds": [
+          421,
+          188,
+          null,
+          null
+        ],
+        "content": "# avion\n### depuis Zürich\n1h30\n169 €",
+        "bounds": [
+          421,
+          188,
+          97,
+          72
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-3mfmHRuQ",
+        "userBounds": [
+          273,
+          213,
+          null,
+          null
+        ],
+        "content": "# avion\n### depuis Genève\n1h30\n116 €",
+        "bounds": [
+          273,
+          213,
+          103,
+          72
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-mZQwE49f",
+        "userBounds": [
+          774,
+          239,
+          null,
+          null
+        ],
+        "content": "56 x 45 x 25 ",
+        "bounds": [
+          774,
+          239,
+          127,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-PMpyAZpl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EWP6tANK",
+            "target": "NOTE-eh6vDNq5"
+          },
+          {
+            "id": "END-12Rv1Ta5",
+            "target": "NOTE-DQQDtpmd"
+          }
+        ]
+      },
+      {
+        "id": "REL-pgxN8Fp7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3nm4Jvc5",
+            "target": "NOTE-3mfmHRuQ"
+          },
+          {
+            "id": "END-tbtnlQeJ",
+            "target": "NOTE-DQQDtpmd"
+          }
+        ]
+      }
+    ]
+  }
+}

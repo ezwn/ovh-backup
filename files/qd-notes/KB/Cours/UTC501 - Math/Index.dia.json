@@ -1,0 +1,336 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-dwuHzBgG",
+        "userBounds": [
+          1000,
+          256,
+          null,
+          null
+        ],
+        "bounds": [
+          1000,
+          256,
+          109,
+          41
+        ],
+        "content": "[LOGIQUE](http://localhost:8989/UTC501/01%20-%20Logique/Index.dia.json)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kq4tm4jT",
+        "userBounds": [
+          778,
+          368,
+          null,
+          null
+        ],
+        "bounds": [
+          778,
+          368,
+          145,
+          57
+        ],
+        "content": "UTC501",
+        "zIndex": 3,
+        "fontSize": 34
+      },
+      {
+        "id": "NOTE-8mxTIuke",
+        "userBounds": [
+          1032,
+          374,
+          null,
+          null
+        ],
+        "bounds": [
+          1032,
+          374,
+          90,
+          41
+        ],
+        "content": "COURS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-reHwEWNJ",
+        "userBounds": [
+          1159,
+          241,
+          132.796875,
+          null
+        ],
+        "bounds": [
+          1159,
+          241,
+          133,
+          87
+        ],
+        "content": "[RELATIONS ET ORDRES](http://localhost:8989/UTC501/02%20-%20Relations%20binaires/Index.dia.json)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5zKrFicW",
+        "userBounds": [
+          1232,
+          375,
+          null,
+          null
+        ],
+        "bounds": [
+          1232,
+          375,
+          169,
+          64
+        ],
+        "content": "ELEMENTS\nARITHMETIQUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Xr9LBhnV",
+        "userBounds": [
+          1178,
+          498,
+          null,
+          null
+        ],
+        "bounds": [
+          1178,
+          498,
+          187,
+          64
+        ],
+        "content": "MATRICES\n& SYS LINEAIRES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8NQbbEKM",
+        "userBounds": [
+          1011,
+          144,
+          null,
+          null
+        ],
+        "bounds": [
+          1011,
+          144,
+          70,
+          41
+        ],
+        "content": "[EXOs](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/logique/raisonnement&type=fexo)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-54R2qdiZ",
+        "userBounds": [
+          1214,
+          131,
+          null,
+          null
+        ],
+        "bounds": [
+          1214,
+          131,
+          74,
+          41
+        ],
+        "content": "[EXOS](http://licence-math.univ-lyon1.fr/lib/exe/fetch.php?media=exomaths:exercices_corriges_relations_binaires.pdf)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WjUFKNnm",
+        "userBounds": [
+          1302,
+          195,
+          null,
+          null
+        ],
+        "bounds": [
+          1302,
+          195,
+          85,
+          41
+        ],
+        "content": "[EXOS2](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/logique/relations&type=fexo)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HhK2rjFy",
+        "userBounds": [
+          1408,
+          306,
+          null,
+          null
+        ],
+        "bounds": [
+          1408,
+          306,
+          87,
+          41
+        ],
+        "content": "[EXOs 1](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/arithm.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CIYKblVB",
+        "userBounds": [
+          1413,
+          531,
+          null,
+          null
+        ],
+        "bounds": [
+          1413,
+          531,
+          70,
+          41
+        ],
+        "content": "[EXOs](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/algebrelineaire/systemelineaire&type=fexo)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-hgokbk7X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y5tIEcQT",
+            "target": "NOTE-8mxTIuke"
+          },
+          {
+            "id": "END-WodMaImA",
+            "target": "NOTE-kq4tm4jT"
+          }
+        ]
+      },
+      {
+        "id": "REL-QPglquNK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FFo2ulhu",
+            "target": "NOTE-dwuHzBgG"
+          },
+          {
+            "id": "END-zb81owds",
+            "target": "NOTE-8mxTIuke"
+          }
+        ]
+      },
+      {
+        "id": "REL-RZFCnn1A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nJki5QMr",
+            "target": "NOTE-reHwEWNJ"
+          },
+          {
+            "id": "END-uxDKlCVJ",
+            "target": "NOTE-8mxTIuke"
+          }
+        ]
+      },
+      {
+        "id": "REL-ttBXXLJJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pYVpK1WZ",
+            "target": "NOTE-8mxTIuke"
+          },
+          {
+            "id": "END-2s8pyTTN",
+            "target": "NOTE-Xr9LBhnV"
+          }
+        ]
+      },
+      {
+        "id": "REL-EcD5G7gI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3VAAGxWP",
+            "target": "NOTE-8mxTIuke"
+          },
+          {
+            "id": "END-LvAzy1z3",
+            "target": "NOTE-5zKrFicW"
+          }
+        ]
+      },
+      {
+        "id": "REL-AilXVS8A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bQnSvYS2",
+            "target": "NOTE-8NQbbEKM"
+          },
+          {
+            "id": "END-ucUJHXTr",
+            "target": "NOTE-dwuHzBgG"
+          }
+        ]
+      },
+      {
+        "id": "REL-QILEk3yC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RR64ZCcQ",
+            "target": "NOTE-54R2qdiZ"
+          },
+          {
+            "id": "END-qknt2jdI",
+            "target": "NOTE-reHwEWNJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-vu7axbGG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Hm8APS8s",
+            "target": "NOTE-WjUFKNnm"
+          },
+          {
+            "id": "END-EeUH3e3j",
+            "target": "NOTE-reHwEWNJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-eZiZAf2t",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4kQcV2oC",
+            "target": "NOTE-HhK2rjFy"
+          },
+          {
+            "id": "END-1qsQahE6",
+            "target": "NOTE-5zKrFicW"
+          }
+        ]
+      },
+      {
+        "id": "REL-UhlRrKkf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Pn9IkAmm",
+            "target": "NOTE-CIYKblVB"
+          },
+          {
+            "id": "END-MSR2d5wi",
+            "target": "NOTE-Xr9LBhnV"
+          }
+        ]
+      }
+    ]
+  }
+}

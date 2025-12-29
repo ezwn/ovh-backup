@@ -1,0 +1,107 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TM88Ddhh",
+        "userBounds": [
+          248,
+          276.0116958618164,
+          332.40679931640625,
+          null
+        ],
+        "bounds": [
+          248,
+          276.0116958618164,
+          332,
+          65
+        ],
+        "content": "[https://github.com/nexthink/java-libraries.nexthink-bcs](https://github.com/nexthink/java-libraries.nexthink-bcs)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vRqRuwxY",
+        "userBounds": [
+          720,
+          172.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          720,
+          172.1436424255371,
+          215,
+          41
+        ],
+        "content": "[GIT CONVERSATION](https://teams.microsoft.com/l/message/19:f6a8428c9b2c4a64b69be634a0222532@thread.tacv2/1719328728000?tenantId=13387b29-82d9-4ca5-9fa0-b7b5635742ef&groupId=1ce1e26b-a841-4cc8-9f1d-c9f5d80d3a00&parentMessageId=1719328728000&teamName=Engineering-Product&channelName=Engineering%20Productivity&createdTime=1719328728000)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-n9zh1gfi",
+        "userBounds": [
+          868,
+          348.1436424255371,
+          88.60745239257812,
+          null
+        ],
+        "bounds": [
+          868,
+          348.1436424255371,
+          89,
+          65
+        ],
+        "content": "[OWAIN's library](https://github.com/nexthink/java-libraries.nexthink-monitoring)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fEvpjnQ2",
+        "userBounds": [
+          450,
+          454.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          450,
+          454.1436424255371,
+          102,
+          41
+        ],
+        "content": "[JENKINS](https://jenkins-clib-master.intra.nexthink.com/job/java-libraries.nexthink-bcs)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IQrUd3PJ",
+        "userBounds": [
+          807,
+          271.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          807,
+          271.1436424255371,
+          46,
+          41
+        ],
+        "content": "[PR](https://github.com/nexthink/github-as-code/pull/2515/files)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-9KLVeEr2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XC8rYGsf",
+            "target": "NOTE-IQrUd3PJ"
+          },
+          {
+            "id": "END-nSTY5w1y",
+            "target": "NOTE-vRqRuwxY"
+          }
+        ]
+      }
+    ]
+  }
+}

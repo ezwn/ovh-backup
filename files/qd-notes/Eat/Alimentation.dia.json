@@ -1,0 +1,373 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-BUNHADmi",
+        "userBounds": [
+          348,
+          319,
+          null,
+          null
+        ],
+        "content": "BUTS",
+        "zIndex": 3,
+        "bounds": [
+          348,
+          319,
+          71,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-4IyJtU5p",
+        "userBounds": [
+          102,
+          318,
+          null,
+          null
+        ],
+        "content": "blood pressure",
+        "zIndex": 3,
+        "bounds": [
+          102,
+          318,
+          150,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-VmsRjkb5",
+        "userBounds": [
+          265,
+          206,
+          null,
+          null
+        ],
+        "content": "FATIGUE",
+        "zIndex": 3,
+        "bounds": [
+          265,
+          206,
+          102,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-1Qysyw3C",
+        "userBounds": [
+          252,
+          434,
+          null,
+          null
+        ],
+        "content": "VIEILLISSEMENT",
+        "zIndex": 3,
+        "bounds": [
+          252,
+          434,
+          180,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BerZLS4M",
+        "userBounds": [
+          635,
+          567,
+          511,
+          null
+        ],
+        "content": "Bacopa monnieri, Ginkgo biloba, Panax ginseng, Perilla frutescens, Salvia miltiorrhiza, Vitis vinifera, and Withania somnifera",
+        "zIndex": 3,
+        "bounds": [
+          635,
+          567,
+          511,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-me2CZVWU",
+        "userBounds": [
+          1328,
+          274,
+          null,
+          null
+        ],
+        "content": "Coffea arabica",
+        "zIndex": 3,
+        "bounds": [
+          1328,
+          274,
+          148,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-RjswQyfv",
+        "userBounds": [
+          1399,
+          368,
+          null,
+          null
+        ],
+        "content": "green tea",
+        "zIndex": 3,
+        "bounds": [
+          1399,
+          368,
+          103,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-1jsnbK3V",
+        "userBounds": [
+          1401,
+          488,
+          null,
+          null
+        ],
+        "content": "olive oil",
+        "zIndex": 3,
+        "bounds": [
+          1401,
+          488,
+          85,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-nia9GyZu",
+        "userBounds": [
+          604,
+          416,
+          null,
+          null
+        ],
+        "content": "neurotropic factor",
+        "zIndex": 3,
+        "bounds": [
+          604,
+          416,
+          174,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-9RcwRaXe",
+        "userBounds": [
+          628,
+          314,
+          null,
+          null
+        ],
+        "content": "biomolecules",
+        "zIndex": 3,
+        "bounds": [
+          628,
+          314,
+          135,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ZDJmh6WU",
+        "userBounds": [
+          854,
+          301,
+          334.90625,
+          null
+        ],
+        "content": "support the growth, survival, and differentiation of both developing and mature neurons",
+        "zIndex": 3,
+        "bounds": [
+          854,
+          301,
+          335,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-5M6mboB4",
+        "userBounds": [
+          1520,
+          293,
+          null,
+          null
+        ],
+        "content": "cafein",
+        "zIndex": 3,
+        "bounds": [
+          1520,
+          293,
+          71,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-wJQFa7jy",
+        "userBounds": [
+          1560,
+          405,
+          null,
+          null
+        ],
+        "content": "catechin",
+        "zIndex": 3,
+        "bounds": [
+          1560,
+          405,
+          93,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BjBAYBZP",
+        "userBounds": [
+          1568,
+          479,
+          181.65625,
+          null
+        ],
+        "content": "Green tea Nature Qualité et prix de Coop\nEn sachet à 3 fr. 40 les 100g.\n91 mg d’EGCG par tasse",
+        "zIndex": 3,
+        "bounds": [
+          1568,
+          479,
+          182,
+          98
+        ],
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-ZzLFp7hH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hPA5EUmx",
+            "target": "NOTE-4IyJtU5p"
+          },
+          {
+            "id": "END-g3Wm91B8",
+            "target": "NOTE-BUNHADmi"
+          }
+        ]
+      },
+      {
+        "id": "REL-2IybS1qK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lpU8XrBX",
+            "target": "NOTE-VmsRjkb5"
+          },
+          {
+            "id": "END-6t7uClJd",
+            "target": "NOTE-BUNHADmi"
+          }
+        ]
+      },
+      {
+        "id": "REL-LzEs38gQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nS2vUrpP",
+            "target": "NOTE-1Qysyw3C"
+          },
+          {
+            "id": "END-YBZEtMEN",
+            "target": "NOTE-BUNHADmi"
+          }
+        ]
+      },
+      {
+        "id": "REL-5zZTj6iG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mbcXoUHC",
+            "target": "NOTE-9RcwRaXe"
+          },
+          {
+            "id": "END-3Fild7Qp",
+            "target": "NOTE-nia9GyZu"
+          }
+        ]
+      },
+      {
+        "id": "REL-kDkvmbHL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jSAXrXs3",
+            "target": "NOTE-ZDJmh6WU"
+          },
+          {
+            "id": "END-Jm8si9aB",
+            "target": "NOTE-9RcwRaXe"
+          }
+        ]
+      },
+      {
+        "id": "REL-s9JziD7t",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zf7jMXig",
+            "target": "NOTE-wJQFa7jy"
+          },
+          {
+            "id": "END-j46xdtqt",
+            "target": "NOTE-RjswQyfv"
+          }
+        ]
+      },
+      {
+        "id": "REL-fMIGjn75",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3ouNmmBB",
+            "target": "NOTE-5M6mboB4"
+          },
+          {
+            "id": "END-eTcg5rCU",
+            "target": "NOTE-RjswQyfv"
+          }
+        ]
+      },
+      {
+        "id": "REL-ov6SFTMd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xZTTjWIc",
+            "target": "NOTE-me2CZVWU"
+          },
+          {
+            "id": "END-ajloLjPS",
+            "target": "NOTE-5M6mboB4"
+          }
+        ]
+      },
+      {
+        "id": "REL-LE48C25p",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-geqjS2tK",
+            "target": "NOTE-BjBAYBZP"
+          },
+          {
+            "id": "END-FjBRy4RN",
+            "target": "NOTE-RjswQyfv"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Anticiper les fonctionnalités transversales suffisamment pour fournir en amont de leur déploiement des outils communs minimisant les effots les développements spécifiques.

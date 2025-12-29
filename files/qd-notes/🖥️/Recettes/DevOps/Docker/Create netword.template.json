@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerCreateNetword",
+  "content": {
+    "index": "docker, create netword",
+    "name": "Docker, create netword",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker network create kafka-network",
+        "defaultText": null
+      }
+    ]
+  }
+}

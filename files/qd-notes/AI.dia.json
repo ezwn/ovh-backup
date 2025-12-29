@@ -1,0 +1,157 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-gSlQB9cY",
+          "userBounds": [
+            30,
+            42,
+            null,
+            null
+          ],
+          "bounds": [
+            30,
+            42,
+            264,
+            124
+          ],
+          "content": "# [Claude Sonnet 4.5](https://claude.ai/new)\n---\n- Meilleur modèle de **codage**\n- Tâches autonomes longues durées\n- Raisonnement et math avancés\n- Agents complexes performants",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-fntl56kn",
+          "userBounds": [
+            34,
+            194,
+            null,
+            null
+          ],
+          "bounds": [
+            34,
+            194,
+            265,
+            140
+          ],
+          "content": "# [ChatGPT GPT-5.2](https://chatgpt.com/)\n---\n- Raisonnement adaptatif dynamique\n- Plus conversationnel et chaleureux\n- Instructions suivies précisément\n- Modes Instant et Thinking\n- Personnalisation du ton",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-dKFqyoX8",
+          "userBounds": [
+            37,
+            502,
+            null,
+            null
+          ],
+          "bounds": [
+            37,
+            502,
+            232,
+            140
+          ],
+          "content": "# [Qwen-3Max](https://chat.qwen.ai/)\n---\n- Excellence en math\n- **Codage** et SWE-bench\n- 262K tokens contexte\n- Support 100+ langues\n- Réponses rapides et efficaces",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-8WpfxGvM",
+          "userBounds": [
+            352,
+            194,
+            null,
+            null
+          ],
+          "bounds": [
+            352,
+            194,
+            304,
+            172
+          ],
+          "content": "# [Kimi K2](https://www.kimi.com/)\n---\n- Capacités agentiques autonomes\n- Excellence en **codage**\n- 1T paramètres (32B actifs)\n- Workflows multi-étapes longs\n- Contexte ultra-long spécialité\n---\nLent - Chose inconsistent versions in pom.xml",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-WnnUgwpM",
+          "userBounds": [
+            32,
+            364,
+            null,
+            null
+          ],
+          "bounds": [
+            32,
+            364,
+            282,
+            124
+          ],
+          "content": "# [Mistral](https://chat.mistral.ai/chat)\n---\n- Multimodal avec vision\n- Efficacité coût-performance excellente\n- Multilinguisme natif fort\n- Modèles spécialisés coding",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-scmBoc6K",
+          "userBounds": [
+            39,
+            674,
+            null,
+            null
+          ],
+          "bounds": [
+            39,
+            674,
+            264,
+            156
+          ],
+          "content": "# [Perplexity](https://www.perplexity.ai/)\n---\n- Recherche web temps réel\n- Réponses avec sources citées\n- Analyse de données approfondie\n- Interface conversationnelle intuitive\n- Accès modèles multiples\n- Excellente recherche RAG",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-m1aKZdEe",
+          "userBounds": [
+            351,
+            383,
+            null,
+            null
+          ],
+          "bounds": [
+            351,
+            383,
+            271,
+            156
+          ],
+          "content": "# [DeepSeek 3](https://chat.deepseek.com/)\n---\n- Excellence math et **code**\n- Open-source avec 671B paramètres\n- Raisonnement transparent affiché\n- Contexte 128K tokens\n- Gratuit et performant\n- Vision",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-p2xSgyx7",
+          "userBounds": [
+            348,
+            38,
+            null,
+            null
+          ],
+          "bounds": [
+            348,
+            38,
+            270,
+            140
+          ],
+          "content": "# [Gemini 3](https://gemini.google.com/app?hl=fr)\n---\n- Capacités thinking configurables\n- Prix-performance optimal imbattable\n- Contexte 1M tokens\n- Multimodal complet intégré\n- Vitesse et efficacité",
+          "zIndex": 3,
+          "fontSize": 14
+        }
+      ],
+      "relations": []
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "ca68d166-de32-4648-a99d-e6f53d661d08",
+  "docTypeVersion": 1
+}

@@ -1,0 +1,217 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-lE4WpWKV",
+        "userBounds": [
+          676,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          676,
+          387,
+          143,
+          60
+        ],
+        "content": "# BCV\na6@Z.ddm%SDa!$.",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Hxoa7bpd",
+        "userBounds": [
+          623,
+          485,
+          null,
+          null
+        ],
+        "bounds": [
+          623,
+          485,
+          154,
+          60
+        ],
+        "content": "# Aplineo\nGV?eW2d*Gh-Tm@g",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-3W2x4suV",
+        "userBounds": [
+          824,
+          498,
+          null,
+          null
+        ],
+        "bounds": [
+          824,
+          498,
+          196,
+          64
+        ],
+        "content": "Die Mobiliare\na6@Z.ddm%SDa!$.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6Dtapiya",
+        "userBounds": [
+          19,
+          25,
+          null,
+          null
+        ],
+        "content": "## Moi\n---\n077 486 72 11",
+        "bounds": [
+          19,
+          25,
+          119,
+          80
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-mwKefwx6",
+        "userBounds": [
+          1236,
+          125,
+          null,
+          null
+        ],
+        "bounds": [
+          1236,
+          125,
+          203,
+          87
+        ],
+        "content": "ALTEN:\nTRAVAIL A GENEVE\n+41 79 830 21 24",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Dk6uoZGQ",
+        "userBounds": [
+          726,
+          214,
+          null,
+          null
+        ],
+        "bounds": [
+          726,
+          214,
+          198,
+          41
+        ],
+        "content": "Catherine CONGAR",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-RGzHiSyw",
+        "userBounds": [
+          96,
+          181,
+          410.9375,
+          null
+        ],
+        "bounds": [
+          96,
+          181,
+          411,
+          87
+        ],
+        "content": "https://www.economie.gouv.fr/cedef/fiches-pratiques/indicateurs-conjoncture-economique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UKoEfl5m",
+        "userBounds": [
+          1106,
+          252,
+          null,
+          null
+        ],
+        "bounds": [
+          1106,
+          252,
+          180,
+          64
+        ],
+        "content": "Randstadt\nxFZ!.5eunzE2CJY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NeFY1xU6",
+        "userBounds": [
+          683,
+          586,
+          null,
+          null
+        ],
+        "bounds": [
+          683,
+          586,
+          131,
+          60
+        ],
+        "content": "# EPFL\nQ2nw5ZT-gJfC$#j",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-pw8p7sh3",
+        "userBounds": [
+          723,
+          706,
+          null,
+          null
+        ],
+        "bounds": [
+          723,
+          706,
+          176,
+          68
+        ],
+        "content": "# job.ch\nMDP: ***gHfmY3T1\nnicolas.enzweiler@gmail.com",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-wE7KE2LL",
+        "userBounds": [
+          858,
+          361,
+          null,
+          null
+        ],
+        "bounds": [
+          858,
+          361,
+          143,
+          60
+        ],
+        "content": "# SICPA\na6@Z.ddm%SDa!$.",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-kuNijjJw",
+        "userBounds": [
+          1091,
+          477,
+          null,
+          null
+        ],
+        "bounds": [
+          1091,
+          477,
+          196,
+          64
+        ],
+        "content": "isarta.fr\na6@Z.ddm%SDa!$.",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

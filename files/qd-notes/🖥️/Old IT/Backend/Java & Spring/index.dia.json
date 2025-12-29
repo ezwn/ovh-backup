@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rPQqK697",
+        "userBounds": [
+          515,
+          274,
+          null,
+          null
+        ],
+        "content": "# Getting started guides\n[link](https://spring.io/guides#getting-started-guides)",
+        "bounds": [
+          515,
+          274,
+          256,
+          60
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-PvxdwoZy",
+        "userBounds": [
+          930,
+          129,
+          null,
+          null
+        ],
+        "bounds": [
+          930,
+          129,
+          211,
+          64
+        ],
+        "content": "EL\nExpression Language",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

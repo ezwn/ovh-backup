@@ -1,0 +1,406 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-wgkdaysh",
+        "userBounds": [
+          5,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          5,
+          219,
+          168,
+          82
+        ],
+        "content": "# tts-lib\n---\n- solves cache (abstract)\n- defines speakingRates",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-zz8lKzMg",
+        "userBounds": [
+          6,
+          595,
+          167.875,
+          null
+        ],
+        "bounds": [
+          6,
+          595,
+          168,
+          59
+        ],
+        "content": "# mlscript-lib\n---\n- parses mlscripts to trees",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-AWhaTWXk",
+        "userBounds": [
+          646,
+          578,
+          null,
+          null
+        ],
+        "bounds": [
+          646,
+          578,
+          227,
+          94
+        ],
+        "content": "## tts-service\n---\n- receives mlscript\n- create the TTS cache if necessary\n- plays sounds",
+        "zIndex": 3,
+        "noteStyle": "BLUE",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-gVaZ7oH2",
+        "userBounds": [
+          250,
+          51,
+          null,
+          null
+        ],
+        "bounds": [
+          250,
+          51,
+          201,
+          82
+        ],
+        "content": "# tts-cache-builder-lib\n---\n- connected to google TTS\n- defines : voices",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-IFBlyiw2",
+        "userBounds": [
+          670,
+          726,
+          172,
+          null
+        ],
+        "bounds": [
+          670,
+          726,
+          172,
+          59
+        ],
+        "content": "# data-service\n---\n",
+        "zIndex": 3,
+        "noteStyle": "BLUE",
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-AAMo6BUR",
+        "userBounds": [
+          245,
+          252,
+          203.875,
+          null
+        ],
+        "bounds": [
+          245,
+          252,
+          204,
+          59
+        ],
+        "content": "# mlplayer-lib\n---\n- plays mlscripts (delegate)",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-siE35kJl",
+        "userBounds": [
+          1238,
+          115,
+          128,
+          null
+        ],
+        "bounds": [
+          1238,
+          115,
+          128,
+          82
+        ],
+        "content": "Extract file-repositories from player-lib into a new module",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-WQvCZqc7",
+        "userBounds": [
+          1503,
+          37,
+          133,
+          null
+        ],
+        "bounds": [
+          1503,
+          37,
+          133,
+          82
+        ],
+        "content": "Move the result repository into kiao-revision-scheduler",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-w5NNM5LY",
+        "userBounds": [
+          1306,
+          347,
+          null,
+          null
+        ],
+        "bounds": [
+          1306,
+          347,
+          175,
+          41
+        ],
+        "content": "[MATGRAXXX002](http://localhost:3000/units/MATGRAXXX002)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IPycc2Ed",
+        "userBounds": [
+          1372,
+          435,
+          null,
+          null
+        ],
+        "bounds": [
+          1372,
+          435,
+          175,
+          41
+        ],
+        "content": "[MATGRAXXX005](http://localhost:3000/units/MATGRAXXX005)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9x6P5gTz",
+        "userBounds": [
+          558,
+          308,
+          null,
+          null
+        ],
+        "bounds": [
+          558,
+          308,
+          166,
+          36
+        ],
+        "content": "# unit-builder-service",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-jc1KJMNz",
+        "userBounds": [
+          265,
+          222,
+          null,
+          null
+        ],
+        "bounds": [
+          265,
+          222,
+          166,
+          36
+        ],
+        "content": "# android application",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-KNExlxne",
+        "userBounds": [
+          242,
+          476,
+          203.875,
+          null
+        ],
+        "bounds": [
+          242,
+          476,
+          204,
+          59
+        ],
+        "content": "# mlplayer-common-lib\n---\ndefine common structures for mlplayer",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-JLmmmM5j",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SQ8Zcib4",
+            "target": "NOTE-gVaZ7oH2"
+          },
+          {
+            "id": "END-wVzBpWWT",
+            "target": "NOTE-wgkdaysh",
+            "attachPointNumber": 2,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-d1Mrqyc4",
+        "shape": "RIGHT_ANGLE_1",
+        "ends": [
+          {
+            "id": "END-8fMXsAIM",
+            "target": "NOTE-AWhaTWXk"
+          },
+          {
+            "id": "END-LVWKLpna",
+            "target": "NOTE-gVaZ7oH2",
+            "attachPointNumber": 4,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-DoMDXKkt",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6Jf5Dyyc",
+            "target": "NOTE-AWhaTWXk"
+          },
+          {
+            "id": "END-XEI1RsJe",
+            "target": "NOTE-zz8lKzMg",
+            "attachPointNumber": 3,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-IYmNgUUh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ghjKmTZY",
+            "target": "NOTE-WQvCZqc7"
+          },
+          {
+            "id": "END-6fvWb9yl",
+            "target": "NOTE-siE35kJl",
+            "attachPointNumber": 3,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-VDoEXoor",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VPjBXTxi",
+            "target": "NOTE-9x6P5gTz"
+          },
+          {
+            "id": "END-KbgrZCEm",
+            "target": "NOTE-gVaZ7oH2",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-dh4cuElq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UXRfh5RE",
+            "target": "NOTE-KNExlxne",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-2416xieY",
+            "target": "NOTE-AAMo6BUR"
+          }
+        ]
+      },
+      {
+        "id": "REL-wQJyf8Ew",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5tLwAcjp",
+            "target": "NOTE-KNExlxne",
+            "attachPointNumber": 2,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-tjfc2SAL",
+            "target": "NOTE-9x6P5gTz"
+          }
+        ]
+      },
+      {
+        "id": "REL-5llvKxs8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6ZSc5G22",
+            "target": "NOTE-KNExlxne",
+            "attachPointNumber": 8
+          },
+          {
+            "id": "END-IK7X7cZJ",
+            "target": "NOTE-zz8lKzMg",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-NV1Tdrlr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hc32Ti1G",
+            "target": "NOTE-wgkdaysh",
+            "attachPointNumber": 4,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-cVXrDI6M",
+            "target": "NOTE-AAMo6BUR"
+          }
+        ]
+      },
+      {
+        "id": "REL-3Fms7zW5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jwlgYwQC",
+            "target": "NOTE-wgkdaysh",
+            "attachPointNumber": 6
+          },
+          {
+            "id": "END-RGzPSGwz",
+            "target": "NOTE-zz8lKzMg",
+            "attachPointNumber": 0,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

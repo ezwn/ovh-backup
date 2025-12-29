@@ -1,0 +1,367 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-awrqh6x6",
+        "userBounds": [
+          73,
+          288,
+          245.015625,
+          null
+        ],
+        "bounds": [
+          73,
+          288,
+          245,
+          80
+        ],
+        "content": "<< euf-dashboards >>\n## Enable full edition of retired campaigns",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-BzzP7xkj",
+        "userBounds": [
+          444,
+          74,
+          264.78125,
+          null
+        ],
+        "bounds": [
+          444,
+          74,
+          265,
+          135
+        ],
+        "content": "<< tests >>\n## Test impact on results and non-regression on trigger change.\n\nE2E tests?",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-WgiaDEMp",
+        "userBounds": [
+          436,
+          229,
+          267.1875,
+          null
+        ],
+        "bounds": [
+          436,
+          229,
+          267,
+          80
+        ],
+        "content": "<< dashboards >>\n## Implement constraint on trigger change",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-QyPQGUsp",
+        "userBounds": [
+          435,
+          332,
+          267.1875,
+          null
+        ],
+        "bounds": [
+          435,
+          332,
+          267,
+          126
+        ],
+        "content": "<< campaign-manager >>\n## Implement constraint on trigger change and optimize query generation changes",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-FutmvHT3",
+        "userBounds": [
+          439,
+          479,
+          262.53125,
+          null
+        ],
+        "bounds": [
+          439,
+          479,
+          263,
+          80
+        ],
+        "content": "<< dashboards >>\n## Implement confirmation / warnings",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-nmykK3c8",
+        "userBounds": [
+          780,
+          282,
+          257.1875,
+          null
+        ],
+        "bounds": [
+          780,
+          282,
+          257,
+          103
+        ],
+        "content": "<< test >>\n## Constraint on trigger change and optimize query generation",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-K79Kh7Ro",
+        "userBounds": [
+          1105,
+          477,
+          262.53125,
+          null
+        ],
+        "bounds": [
+          1105,
+          477,
+          263,
+          80
+        ],
+        "content": "<< test >>\n## Implement confirmation / warnings",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-UeScBjMD",
+        "userBounds": [
+          1395,
+          128,
+          null,
+          null
+        ],
+        "bounds": [
+          1395,
+          128,
+          87,
+          41
+        ],
+        "content": "READY",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HnsURvtj",
+        "userBounds": [
+          880,
+          116,
+          null,
+          null
+        ],
+        "bounds": [
+          880,
+          116,
+          85,
+          41
+        ],
+        "content": "Adjust?",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-Fc9GVZjE",
+        "userBounds": [
+          156,
+          735,
+          null,
+          null
+        ],
+        "bounds": [
+          156,
+          735,
+          65,
+          41
+        ],
+        "content": "[EPIC](https://jira.nexthink.com:1443/browse/ENGAGE-1319)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-TbbZoEQy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GAs2AzlE",
+            "target": "NOTE-BzzP7xkj",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-dVeMqW9H",
+            "target": "NOTE-awrqh6x6"
+          }
+        ]
+      },
+      {
+        "id": "REL-Uykk3kef",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5vZw1DBg",
+            "target": "NOTE-awrqh6x6"
+          },
+          {
+            "id": "END-wuZWn1hl",
+            "target": "NOTE-WgiaDEMp",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-6IA6MJM6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-i6XapjHS",
+            "target": "NOTE-awrqh6x6"
+          },
+          {
+            "id": "END-12SCwEPK",
+            "target": "NOTE-FutmvHT3",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-TznRGSGp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BTcxhACX",
+            "target": "NOTE-awrqh6x6"
+          },
+          {
+            "id": "END-VKuNMjzr",
+            "target": "NOTE-QyPQGUsp",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-98ejPFIs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-n8uwdKBY",
+            "target": "NOTE-nmykK3c8",
+            "attachPointNumber": 10,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-KktwFxUe",
+            "target": "NOTE-WgiaDEMp"
+          }
+        ]
+      },
+      {
+        "id": "REL-vrw9G3f4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-V4zMsAKC",
+            "target": "NOTE-nmykK3c8",
+            "attachPointNumber": 8,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-ZvDn9gMD",
+            "target": "NOTE-QyPQGUsp"
+          }
+        ]
+      },
+      {
+        "id": "REL-Upn8nC9i",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-443S13tC",
+            "target": "NOTE-K79Kh7Ro",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-QvdpjFCQ",
+            "target": "NOTE-FutmvHT3"
+          }
+        ]
+      },
+      {
+        "id": "REL-TB8psPWA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-z1QEFwAA",
+            "target": "NOTE-UeScBjMD",
+            "attachPointNumber": 8,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-KIKMhIQ6",
+            "target": "NOTE-nmykK3c8"
+          }
+        ]
+      },
+      {
+        "id": "REL-m7B8zeYW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Cojy5GlU",
+            "target": "NOTE-UeScBjMD",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-WNdXracG",
+            "target": "NOTE-K79Kh7Ro"
+          }
+        ]
+      },
+      {
+        "id": "REL-WamB1CTE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hxGX3f8p",
+            "target": "NOTE-BzzP7xkj"
+          },
+          {
+            "id": "END-pG9kt7Nu",
+            "target": "NOTE-HnsURvtj"
+          }
+        ]
+      },
+      {
+        "id": "REL-284RmI3e",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PIZ4p1GU",
+            "target": "NOTE-HnsURvtj"
+          },
+          {
+            "id": "END-IGmi4SlP",
+            "target": "NOTE-UeScBjMD",
+            "attachPointNumber": 10,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

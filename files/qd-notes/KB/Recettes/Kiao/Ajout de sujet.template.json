@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmKiaoAjoutDeSujet",
+  "content": {
+    "index": "llm kiao ajout add sujet topic",
+    "name": "LLM/KIAO, ajout de sujet",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Please add this topic \"${key} : ${topic}\".\n\nInto this:\n\nexport const kiaoTopics = {\n    \"BIOCELXXX\": {\n        \"FR\": \"biologie cellulaire\",\n        \"EN\": \"cellular biology\",\n        \"DE\": \"Zellbiologie\",\n        \"ZH\": \"细胞生物学\"\n    },\n    \"MATARIXXX\": {\n        \"FR\": \"arithmétique\",\n        \"EN\": \"arithmetic\",\n        \"DE\": \"Arithmetik\",\n        \"ZH\": \"算术\"\n    },\n    \"MATLOGSFO\": {\n        \"FR\": \"Systèmes formels\",\n        \"EN\": \"Formal systems\",\n        \"DE\": \"Formale Systeme\",\n        \"ZH\": \"形式系统\"\n    }\n};",
+        "defaultText": null
+      }
+    ]
+  }
+}

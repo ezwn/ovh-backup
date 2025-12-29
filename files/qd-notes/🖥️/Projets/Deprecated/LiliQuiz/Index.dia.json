@@ -1,0 +1,60 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-odonwYGN",
+        "userBounds": [
+          871,
+          222,
+          71.828125,
+          null
+        ],
+        "bounds": [
+          871,
+          222,
+          72,
+          66
+        ],
+        "content": "ChatGpt Browser Interface",
+        "zIndex": 3,
+        "noteStyle": "ORANGE",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-YQw798UJ",
+        "userBounds": [
+          991,
+          297,
+          null,
+          null
+        ],
+        "bounds": [
+          991,
+          297,
+          96,
+          41
+        ],
+        "content": "IMAGES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dzSHeeXy",
+        "userBounds": [
+          842,
+          368,
+          null,
+          null
+        ],
+        "bounds": [
+          842,
+          368,
+          181,
+          41
+        ],
+        "content": "CLASSIFICATION",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

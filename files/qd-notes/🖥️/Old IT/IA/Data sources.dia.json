@@ -1,0 +1,87 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vV3HMN1q",
+        "userBounds": [
+          443,
+          153,
+          null,
+          null
+        ],
+        "bounds": [
+          443,
+          153,
+          108,
+          41
+        ],
+        "content": "[gutenberg](https://www.gutenberg.org/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pEWjGyKc",
+        "userBounds": [
+          597,
+          90,
+          null,
+          null
+        ],
+        "bounds": [
+          597,
+          90,
+          214,
+          41
+        ],
+        "content": "[OU TELECHARGER?](https://mediathequemargueriteduras.wordpress.com/2016/08/26/ou-telecharger-des-livres-libres-de-droits/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-H8g9Dlmk",
+        "userBounds": [
+          538,
+          227,
+          null,
+          null
+        ],
+        "bounds": [
+          538,
+          227,
+          89,
+          41
+        ],
+        "content": "LIVRES",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-K6NrpGZz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6ogHjDqr",
+            "target": "NOTE-H8g9Dlmk"
+          },
+          {
+            "id": "END-QMJpBkUH",
+            "target": "NOTE-vV3HMN1q"
+          }
+        ]
+      },
+      {
+        "id": "REL-rpv4AD1Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IQXVdk2e",
+            "target": "NOTE-pEWjGyKc"
+          },
+          {
+            "id": "END-I5B38g5N",
+            "target": "NOTE-H8g9Dlmk"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+- French Caribbean:
+    - Locations:
+        - Guadeloupe
+        - Martinique
+        - Saint Martin
+        - Saint Barthélemy
+    - Economic activities:
+        - Tourism:
+            - Popularity as destinations
+            - Stunning beaches and landscapes
+            - Vibrant culture
+            - Appeal to international and domestic visitors
+        - Agriculture:
+            - Cultivation of sugarcane, bananas, pineapples, tropical fruits
+            - Local consumption and export
+            - Rum production:
+                - Significant industry
+                - Presence of distilleries
+        - Manufacturing:
+            - Food processing:
+                - Sugar
+                - Rum
+                - Fruit juices
+                - Agricultural products
+            - Textiles and clothing
+            - Handicrafts
+        - Services:
+            - Retail and hospitality
+            - Professional services
+            - Catering to local population and tourism industry
+        - Fishing:
+            - Importance in coastal areas
+            - Rich marine ecosystem
+            - Commercial fishing and aquaculture
+        - Financial services:
+            - Offshore financial centers
+            - International banking
+            - Financial institutions
+            - Contributions to economy and employment
+        - Construction:
+            - Infrastructure development
+            - Residential and commercial projects
+            - Tourism investments
+        - Energy:
+            - Diversification and reduction of fossil fuel reliance
+            - Renewable energy investments:
+                - Wind power
+                - Solar power

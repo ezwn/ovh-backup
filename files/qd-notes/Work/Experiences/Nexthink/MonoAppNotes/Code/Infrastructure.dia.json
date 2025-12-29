@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-vEGwuLuz",
+        "userBounds": [
+          1127,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          219,
+          129,
+          41
+        ],
+        "content": "[nxcloud-aws](https://github.com/nexthink/infrastructure.nxcloud-aws/blob/be3b7ba2ec534ec635abb891cafd1b5e945f45e1/nx-aws-config/nx-aws-apigateway/env.tfvars)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wsohyvwX",
+        "userBounds": [
+          1127,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          219,
+          129,
+          41
+        ],
+        "content": "[nxcloud-aws](https://github.com/nexthink/infrastructure.nxcloud-aws/blob/be3b7ba2ec534ec635abb891cafd1b5e945f45e1/nx-aws-config/nx-aws-apigateway/env.tfvars)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-q9nDJ7nf",
+        "userBounds": [
+          1127,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          219,
+          129,
+          41
+        ],
+        "content": "[nxcloud-aws](https://github.com/nexthink/infrastructure.nxcloud-aws/blob/be3b7ba2ec534ec635abb891cafd1b5e945f45e1/nx-aws-config/nx-aws-apigateway/env.tfvars)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MNLYq4UB",
+        "userBounds": [
+          1127,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          219,
+          129,
+          41
+        ],
+        "content": "[nxcloud-aws](https://github.com/nexthink/infrastructure.nxcloud-aws/blob/be3b7ba2ec534ec635abb891cafd1b5e945f45e1/nx-aws-config/nx-aws-apigateway/env.tfvars)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

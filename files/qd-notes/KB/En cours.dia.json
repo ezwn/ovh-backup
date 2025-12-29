@@ -1,0 +1,523 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-F8IsSnoE",
+        "userBounds": [
+          666,
+          724,
+          null,
+          null
+        ],
+        "bounds": [
+          666,
+          724,
+          62,
+          47
+        ],
+        "content": "IT\n# Kafka",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-GaWPMVKV",
+        "userBounds": [
+          520,
+          725,
+          92.546875,
+          null
+        ],
+        "bounds": [
+          520,
+          725,
+          93,
+          34
+        ],
+        "content": "DDD",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-yAaY8o1n",
+        "userBounds": [
+          461,
+          624,
+          null,
+          null
+        ],
+        "bounds": [
+          461,
+          624,
+          126,
+          52
+        ],
+        "content": "# Def d'architecture\n---\nClean archi",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-SkixoXZH",
+        "userBounds": [
+          431,
+          182,
+          86.3993148803711,
+          null
+        ],
+        "bounds": [
+          431,
+          182,
+          86,
+          46
+        ],
+        "content": "Stress management",
+        "zIndex": 0,
+        "noteStyle": "NOTE",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-2s5G1LpZ",
+        "userBounds": [
+          488,
+          244,
+          120.328125,
+          null
+        ],
+        "bounds": [
+          488,
+          244,
+          120,
+          54
+        ],
+        "content": "Planification santé",
+        "zIndex": 0,
+        "fontSize": 16,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-VACZHvhg",
+        "userBounds": [
+          137,
+          352,
+          119.84375,
+          null
+        ],
+        "bounds": [
+          137,
+          352,
+          120,
+          54
+        ],
+        "content": "## stratégie comportementale en entreprise",
+        "zIndex": 3,
+        "fontSize": 8,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-GNUWQMlm",
+        "userBounds": [
+          72,
+          431,
+          105.46875,
+          null
+        ],
+        "bounds": [
+          72,
+          431,
+          105,
+          46
+        ],
+        "content": "communiquer en entreprise",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-TAzcqMQs",
+        "userBounds": [
+          37,
+          571,
+          null,
+          null
+        ],
+        "bounds": [
+          37,
+          571,
+          114,
+          39
+        ],
+        "content": "[stroke order](http://www.strokeorder.info/)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-QGkfvjk2",
+        "userBounds": [
+          138,
+          291,
+          116.375,
+          null
+        ],
+        "bounds": [
+          138,
+          291,
+          116,
+          34
+        ],
+        "content": "[Management](http://localhost:3000/units/MGTXXXXXX000)",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-v7BZKJrq",
+        "userBounds": [
+          250,
+          607,
+          null,
+          null
+        ],
+        "bounds": [
+          250,
+          607,
+          96,
+          52
+        ],
+        "content": "# [Géopolitique](http://localhost:3000/units/SPOGPOXXX000)\n---\n[Dossier](http://localhost:3000/files/Human/Geopolitics)",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-VDroYAsm",
+        "userBounds": [
+          149,
+          15,
+          null,
+          null
+        ],
+        "bounds": [
+          149,
+          15,
+          83,
+          34
+        ],
+        "content": "[DISCORD](https://discord.com/channels/1289142943801802815/1289143209385005078)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-8W1L5IFh",
+        "userBounds": [
+          16,
+          18,
+          null,
+          null
+        ],
+        "bounds": [
+          16,
+          18,
+          59,
+          34
+        ],
+        "content": "[CNAM](https://lecnam.net/enseignements)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-cGJkBiBg",
+        "userBounds": [
+          727,
+          614,
+          null,
+          null
+        ],
+        "bounds": [
+          727,
+          614,
+          96,
+          46
+        ],
+        "content": "complexités\nalgorithmiques",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-VD5ECQ42",
+        "userBounds": [
+          619,
+          567,
+          null,
+          null
+        ],
+        "bounds": [
+          619,
+          567,
+          115,
+          39
+        ],
+        "content": "sécurité info",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-VdDJaiSH",
+        "userBounds": [
+          139,
+          636,
+          null,
+          null
+        ],
+        "bounds": [
+          139,
+          636,
+          86,
+          41
+        ],
+        "content": "Internat",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RQ7h45FT",
+        "userBounds": [
+          84,
+          16,
+          null,
+          null
+        ],
+        "bounds": [
+          84,
+          16,
+          53,
+          34
+        ],
+        "content": "[News](https://feedly.com/i/collection/content/user/d851a6a7-3775-4a35-8700-c29d5b06308c/category/global.all)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Y6Nk1uX4",
+        "userBounds": [
+          777,
+          686,
+          null,
+          null
+        ],
+        "bounds": [
+          777,
+          686,
+          114,
+          36
+        ],
+        "content": "load balancer",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-oxrMMPH9",
+        "userBounds": [
+          590,
+          41,
+          null,
+          null
+        ],
+        "bounds": [
+          590,
+          41,
+          174,
+          130
+        ],
+        "content": "- Architecture 85%\n- Management 55%\n- Communication 50%\n- DevOps 45%\n- Sécurité 45%\n- Cloud 40%\n- CI/CD 40%",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-3P3mfGLe",
+        "userBounds": [
+          474,
+          406,
+          138.09375,
+          null
+        ],
+        "bounds": [
+          474,
+          406,
+          138,
+          64
+        ],
+        "content": "[Attaché Admin Paris](./Orient/Attach%C3%A9%20Admin%20Paris.dia.json)",
+        "zIndex": 3,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-ACW6lfjV",
+        "userBounds": [
+          59,
+          137,
+          157.03125,
+          null
+        ],
+        "bounds": [
+          59,
+          137,
+          157,
+          60
+        ],
+        "content": "[Claude Code In Action](http://anthropic.skilljar.com/claude-code-in-action) ?",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-5LRYmNxr",
+        "userBounds": [
+          739,
+          362,
+          113.46875,
+          null
+        ],
+        "bounds": [
+          739,
+          362,
+          113,
+          54
+        ],
+        "content": "[LIBRARY GENESIS](https://libgen.is/)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-NgJ6luzc",
+        "userBounds": [
+          290,
+          447.70486068725586,
+          null,
+          null
+        ],
+        "bounds": [
+          290,
+          447.70486068725586,
+          126,
+          41
+        ],
+        "content": "Referentiel !",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-TM2XsMmJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2iwnjRuk",
+            "target": "NOTE-VACZHvhg"
+          },
+          {
+            "id": "END-a5KHm1yR",
+            "target": "NOTE-GNUWQMlm"
+          }
+        ]
+      },
+      {
+        "id": "REL-JbUdEWtz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3wfe197q",
+            "target": "NOTE-2s5G1LpZ"
+          },
+          {
+            "id": "END-LhoikQT9",
+            "target": "NOTE-SkixoXZH"
+          }
+        ]
+      },
+      {
+        "id": "REL-INu7DYd4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-f33ZL8iW",
+            "target": "NOTE-yAaY8o1n"
+          },
+          {
+            "id": "END-QVgdVfAW",
+            "target": "NOTE-VD5ECQ42"
+          },
+          {
+            "id": "END-eWUPm9E9",
+            "target": "NOTE-cGJkBiBg"
+          },
+          {
+            "id": "END-nCRMf3Il",
+            "target": "NOTE-F8IsSnoE"
+          },
+          {
+            "id": "END-KUDs57PG",
+            "target": "NOTE-GaWPMVKV"
+          }
+        ]
+      },
+      {
+        "id": "REL-vGoDJWbH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PpnCiVaZ",
+            "target": "NOTE-VdDJaiSH"
+          },
+          {
+            "id": "END-1zvK9ojt",
+            "target": "NOTE-TAzcqMQs"
+          }
+        ]
+      },
+      {
+        "id": "REL-PxY8q8kn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-t5elAK6s",
+            "target": "NOTE-VdDJaiSH"
+          },
+          {
+            "id": "END-dBzEyaDk",
+            "target": "NOTE-v7BZKJrq"
+          }
+        ]
+      },
+      {
+        "id": "REL-29ypB6A1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LtuiSZUT",
+            "target": "NOTE-QGkfvjk2"
+          },
+          {
+            "id": "END-TnmXVZPq",
+            "target": "NOTE-VACZHvhg"
+          }
+        ]
+      },
+      {
+        "id": "REL-HXXGGoz9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HxofPZPw",
+            "target": "NOTE-NgJ6luzc"
+          },
+          {
+            "id": "END-hzNowJEE",
+            "target": "NOTE-3P3mfGLe"
+          }
+        ]
+      }
+    ]
+  }
+}

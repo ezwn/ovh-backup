@@ -1,0 +1,233 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-hUP7uzA3",
+        "userBounds": [
+          47,
+          34,
+          null,
+          null
+        ],
+        "bounds": [
+          47,
+          34,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-425)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AqLxtf13",
+        "userBounds": [
+          157,
+          302,
+          null,
+          null
+        ],
+        "bounds": [
+          157,
+          302,
+          157,
+          73
+        ],
+        "content": "euf-dashboards\n## Overview",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-oAjqG5dr",
+        "userBounds": [
+          513,
+          198,
+          null,
+          null
+        ],
+        "bounds": [
+          513,
+          198,
+          147,
+          41
+        ],
+        "content": "graphql-server",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ksiwCMQG",
+        "userBounds": [
+          496,
+          446,
+          null,
+          null
+        ],
+        "bounds": [
+          496,
+          446,
+          45,
+          41
+        ],
+        "content": "nql",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qhPwtngc",
+        "userBounds": [
+          1049,
+          313,
+          null,
+          null
+        ],
+        "bounds": [
+          1049,
+          313,
+          111,
+          41
+        ],
+        "content": "clickhouse",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HTlFdQi9",
+        "userBounds": [
+          734,
+          452,
+          null,
+          null
+        ],
+        "bounds": [
+          734,
+          452,
+          208,
+          39
+        ],
+        "content": "[NQL-QUERY-SERVICE](https://github.com/nexthink/nql.nql-query-service)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-z1uuxqht",
+        "userBounds": [
+          892,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          892,
+          199,
+          138,
+          41
+        ],
+        "content": "[query-service](https://github.com/nexthink/data-platform.query-service)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8RST4Egs",
+        "userBounds": [
+          132,
+          37,
+          null,
+          null
+        ],
+        "bounds": [
+          132,
+          37,
+          169,
+          41
+        ],
+        "content": "[ANDRII's TESTS](https://confluence.intra.nexthink.com/display/~alatyshev/Campaign+overview+-+performance+tests)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-C7pS9c6T",
+        "userBounds": [
+          1290,
+          47,
+          526,
+          null
+        ],
+        "bounds": [
+          1290,
+          47,
+          526,
+          378
+        ],
+        "content": "campaign.#LOAD_RESPONSE_5694106.responses | where state == answered | where answers.#rate.comment != null and answers.#rate.comment != \\\"\\\" | summarize c1 = count()\n\n8,7 sec\n\nSELECT `c1` FROM (SELECT sum(1) AS `c1` FROM `data_platform`.`engage_formatted_response_nql_v` WHERE (`tenant_id` == toUUID('1f3458a4-8aa6-4d8c-981a-2986ce6f7b2f')) AND (((if(JSONHas(JSONExtractRaw(`responses`, '#rate'), 'comment'), JSONExtractString(JSONExtractRaw(`responses`, '#rate'), 'comment'), null) ilike '' == 0 OR if(JSONHas(JSONExtractRaw(`responses`, '#rate'), 'comment'), JSONExtractString(JSONExtractRaw(`responses`, '#rate'), 'comment'), null) IS NULL) AND if(JSONHas(JSONExtractRaw(`responses`, '#rate'), 'comment'), JSONExtractString(JSONExtractRaw(`responses`, '#rate'), 'comment'), null) IS NOT NULL AND `state_int` == 3)) AND ((`timestamp` >= toDateTime('2014-01-08 23:00:00') AND `timestamp` < toDateTime('2024-01-08 23:00:00'))) AND (`campaign_id` == '78d65333-3ed7-4bf9-9001-bff78b0d50d6')) LIMIT 50",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-K822R1iR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AAPmY9Mt",
+            "target": "NOTE-AqLxtf13"
+          },
+          {
+            "id": "END-ePqpHboq",
+            "target": "NOTE-oAjqG5dr"
+          }
+        ]
+      },
+      {
+        "id": "REL-kzbzaQeu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EfyHBNvm",
+            "target": "NOTE-AqLxtf13"
+          },
+          {
+            "id": "END-TKYqNNaR",
+            "target": "NOTE-ksiwCMQG"
+          }
+        ]
+      },
+      {
+        "id": "REL-tShiIMhQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oGGxeLeH",
+            "target": "NOTE-z1uuxqht"
+          },
+          {
+            "id": "END-nSfNe6Jm",
+            "target": "NOTE-oAjqG5dr"
+          }
+        ]
+      },
+      {
+        "id": "REL-UfKg7sHJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VQtKKEqv",
+            "target": "NOTE-z1uuxqht"
+          },
+          {
+            "id": "END-R6dY8D9L",
+            "target": "NOTE-qhPwtngc"
+          }
+        ]
+      },
+      {
+        "id": "REL-HJTz9QDw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5meEBXkY",
+            "target": "NOTE-HTlFdQi9"
+          },
+          {
+            "id": "END-aluvcsy6",
+            "target": "NOTE-ksiwCMQG"
+          }
+        ]
+      }
+    ]
+  }
+}

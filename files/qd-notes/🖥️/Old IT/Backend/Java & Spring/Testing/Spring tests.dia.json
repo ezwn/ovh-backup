@@ -1,0 +1,267 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-r3MBhcNY",
+        "userBounds": [
+          1101,
+          473,
+          null,
+          null
+        ],
+        "content": "# MockMvc\nsimulate\nendpoint\ncalls",
+        "bounds": [
+          1101,
+          473,
+          104,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-cgm4IHw8",
+        "userBounds": [
+          818,
+          360,
+          null,
+          null
+        ],
+        "content": "spring.test",
+        "bounds": [
+          818,
+          360,
+          212,
+          66
+        ],
+        "fontSize": 42
+      },
+      {
+        "id": "NOTE-CQUIy8G7",
+        "userBounds": [
+          468,
+          629,
+          null,
+          null
+        ],
+        "content": "# @ActiveProfile\nactivates a profile",
+        "bounds": [
+          468,
+          629,
+          154,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-gV8jwVut",
+        "userBounds": [
+          728,
+          524,
+          null,
+          null
+        ],
+        "content": "# @ContextConfiguration",
+        "bounds": [
+          728,
+          524,
+          234,
+          40
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-XLhqQ56f",
+        "userBounds": [
+          715,
+          605,
+          null,
+          null
+        ],
+        "content": "# @TestConfiguration ???\nExcluded when scanning components",
+        "bounds": [
+          715,
+          605,
+          241,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-X9bSr4eI",
+        "userBounds": [
+          230,
+          220,
+          null,
+          null
+        ],
+        "content": "# @DataJpaTest",
+        "bounds": [
+          230,
+          220,
+          149,
+          40
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-g1b8986k",
+        "userBounds": [
+          535,
+          250,
+          null,
+          null
+        ],
+        "content": "# @SpringBootTest\n---\nfind config class @SpringBootApplication\nload app context",
+        "bounds": [
+          535,
+          250,
+          237,
+          82
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-hlEghv7L",
+        "userBounds": [
+          461,
+          547,
+          null,
+          null
+        ],
+        "content": "@AutoConfigureMockMvc",
+        "bounds": [
+          461,
+          547,
+          251,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-nNGYbnjt",
+        "userBounds": [
+          324,
+          114,
+          null,
+          null
+        ],
+        "content": "# @WebMvcTest\n(HomeController.class)",
+        "bounds": [
+          324,
+          114,
+          152,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-ZpmlpL9I",
+        "userBounds": [
+          411,
+          214,
+          null,
+          null
+        ],
+        "content": "narrow",
+        "bounds": [
+          411,
+          214,
+          79,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Z9azmaDb",
+        "userBounds": [
+          1120,
+          201,
+          null,
+          null
+        ],
+        "content": "@TestInstance",
+        "bounds": [
+          1120,
+          201,
+          151,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-Mh4CPPKg",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "oVvxwTtR",
+            "target": "NOTE-r3MBhcNY"
+          },
+          {
+            "id": "hmzAuUoK",
+            "target": "NOTE-cgm4IHw8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-dvTxb4Lv",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "kXKSbMkl",
+            "target": "NOTE-nNGYbnjt"
+          },
+          {
+            "id": "lLaqpPPt",
+            "target": "NOTE-ZpmlpL9I"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-o8DYqgLN",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "zygp2867",
+            "target": "NOTE-X9bSr4eI"
+          },
+          {
+            "id": "Mv2sWii6",
+            "target": "NOTE-ZpmlpL9I"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Fk3BFqEm",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "RwreZsq8",
+            "target": "NOTE-ZpmlpL9I"
+          },
+          {
+            "id": "9rZThmS9",
+            "target": "NOTE-g1b8986k"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-NZqUq2f2",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YPdJkdRB",
+            "target": "NOTE-g1b8986k"
+          },
+          {
+            "id": "olFtZKpc",
+            "target": "NOTE-cgm4IHw8"
+          }
+        ]
+      }
+    ]
+  }
+}

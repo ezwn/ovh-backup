@@ -1,0 +1,27 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerComposeUp",
+  "content": {
+    "index": "docker command cli",
+    "name": "Create a docker container",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker compose${projectOption}${fileOption} up",
+        "defaultText": null
+      },
+      {
+        "id": "projectOption",
+        "textTemplate": " -p ${projectName:ProjectName}-${processFunction:ContainerFunction}",
+        "defaultText": ""
+      },
+      {
+        "id": "fileOption",
+        "textTemplate": " -f ${configFileName:DockerConfigFile}",
+        "defaultText": ""
+      }
+    ]
+  }
+}

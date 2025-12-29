@@ -1,0 +1,302 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TS1umWHq",
+        "userBounds": [
+          1666,
+          665,
+          null,
+          null
+        ],
+        "bounds": [
+          1666,
+          665,
+          90,
+          41
+        ],
+        "content": "[bs-team](https://www.bs-team.ch/offres-demploi/?job__location_spec=lausanne)",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-HNorvFSR",
+        "userBounds": [
+          29,
+          38,
+          null,
+          null
+        ],
+        "bounds": [
+          29,
+          38,
+          87,
+          41
+        ],
+        "content": "[NOTES](http://localhost:3000/notes/PERWRKXXXXXXU0000)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ANycCzuf",
+        "userBounds": [
+          331,
+          53,
+          null,
+          null
+        ],
+        "bounds": [
+          331,
+          53,
+          193,
+          198
+        ],
+        "content": "- Agilité\n- Architecture 85%\n- Anglais 70%\n- Management 55%\n- Communication 50%\n- Français 50%\n- DevOps 45%\n- Sécurité 45%\n- Cloud 40%\n- CI/CD 40%",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-idfmVEre",
+        "userBounds": [
+          584,
+          58,
+          null,
+          null
+        ],
+        "bounds": [
+          584,
+          58,
+          95,
+          133
+        ],
+        "content": "Agilité\nLangues\nCloud\nSécurité\nDevOps",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-yFVTHBmr",
+        "userBounds": [
+          1485,
+          69,
+          null,
+          null
+        ],
+        "bounds": [
+          1485,
+          69,
+          279,
+          41
+        ],
+        "content": "PSPO, PSM II, SAFe, ou ITIL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wRjlB4pI",
+        "userBounds": [
+          1177,
+          462,
+          121.640625,
+          null
+        ],
+        "bounds": [
+          1177,
+          462,
+          122,
+          87
+        ],
+        "content": "[Stats emploi Suisse](https://www.amstat.ch/v2/amstat_fr.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DIjb9ACd",
+        "userBounds": [
+          428,
+          448,
+          null,
+          null
+        ],
+        "bounds": [
+          428,
+          448,
+          91,
+          87
+        ],
+        "content": "windsuft\ncopilot\ncursor",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-fnRTY7fT",
+        "userBounds": [
+          1164,
+          579,
+          null,
+          null
+        ],
+        "bounds": [
+          1164,
+          579,
+          131,
+          41
+        ],
+        "content": "[SSI LinkedIn](https://www.linkedin.com/sales/ssi?src=or-search&trk=lss-microsite_ssi-score-entry-page_get-your-ssi-score-button&veh=www.google.com)",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-Skhlp5JV",
+        "userBounds": [
+          154,
+          44,
+          null,
+          null
+        ],
+        "bounds": [
+          154,
+          44,
+          116,
+          41
+        ],
+        "content": "[Opérations](http://localhost:3001/operations)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fpZWMnDU",
+        "userBounds": [
+          76,
+          105,
+          null,
+          null
+        ],
+        "bounds": [
+          76,
+          105,
+          131,
+          50
+        ],
+        "content": "RESSOURCES\nPERSONNELLES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-XdRChQ9E",
+        "userBounds": [
+          1752,
+          411,
+          null,
+          null
+        ],
+        "bounds": [
+          1752,
+          411,
+          89,
+          41
+        ],
+        "content": "TestRail",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-4n4mpoCu",
+        "userBounds": [
+          128,
+          659,
+          102.515625,
+          null
+        ],
+        "bounds": [
+          128,
+          659,
+          103,
+          41
+        ],
+        "content": "Apptitude",
+        "zIndex": 3,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-lDxTmd2i",
+        "userBounds": [
+          96,
+          714,
+          85.640625,
+          null
+        ],
+        "bounds": [
+          96,
+          714,
+          86,
+          36
+        ],
+        "content": "Adesso?",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-89XHeapD",
+        "userBounds": [
+          106,
+          595,
+          null,
+          null
+        ],
+        "bounds": [
+          106,
+          595,
+          70,
+          54
+        ],
+        "content": "Travail\nCV, LM",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "ORANGE"
+      },
+      {
+        "id": "NOTE-EpUxEJ5l",
+        "userBounds": [
+          92,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          92,
+          387,
+          125,
+          41
+        ],
+        "content": "[Recherches](/Work/Domaines.dia.json)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-s9sG6NyV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CCBlGgwf",
+            "target": "NOTE-fpZWMnDU"
+          },
+          {
+            "id": "END-nZyLrSX2",
+            "target": "NOTE-HNorvFSR"
+          }
+        ]
+      },
+      {
+        "id": "REL-aKCq6Fll",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p6up2hys",
+            "target": "NOTE-fpZWMnDU"
+          },
+          {
+            "id": "END-CccTuyfy",
+            "target": "NOTE-Skhlp5JV"
+          }
+        ]
+      }
+    ]
+  }
+}

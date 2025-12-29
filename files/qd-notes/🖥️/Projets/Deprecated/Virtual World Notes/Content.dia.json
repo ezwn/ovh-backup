@@ -1,0 +1,213 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-C3FuZfb8",
+        "userBounds": [
+          846,
+          359,
+          null
+        ],
+        "content": "Content",
+        "bounds": [
+          846,
+          359,
+          151.09375,
+          61
+        ],
+        "fontSize": 38
+      },
+      {
+        "id": "NOTE-1AXPYxh1",
+        "userBounds": [
+          678,
+          372,
+          null
+        ],
+        "content": "Inspiration",
+        "bounds": [
+          678,
+          372,
+          110.28125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Et86aCPy",
+        "userBounds": [
+          680,
+          509,
+          null
+        ],
+        "content": "Morrowind",
+        "bounds": [
+          680,
+          509,
+          111.359375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-qVjtl5S6",
+        "userBounds": [
+          537,
+          433,
+          null
+        ],
+        "content": "Gothic 2",
+        "bounds": [
+          537,
+          433,
+          92.484375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-d1vNpUWR",
+        "userBounds": [
+          522,
+          306,
+          null
+        ],
+        "content": "Oblivion",
+        "bounds": [
+          522,
+          306,
+          90.265625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-tMZzbwQr",
+        "userBounds": [
+          687,
+          250,
+          null
+        ],
+        "content": "Gothic 3",
+        "bounds": [
+          687,
+          250,
+          92.484375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-8L6H5vHj",
+        "userBounds": [
+          833,
+          149,
+          null
+        ],
+        "content": "Museum quality",
+        "bounds": [
+          833,
+          149,
+          158.0625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-wsrESCHX",
+        "userBounds": [
+          1095,
+          366,
+          null
+        ],
+        "content": "Model source",
+        "bounds": [
+          1095,
+          366,
+          138.0625,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-tBCLdQ2I",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "aLqHlnKX",
+            "target": "NOTE-1AXPYxh1"
+          },
+          {
+            "id": "bmuig8dn",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-wcSjcTJe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "QGYDx1Dh",
+            "target": "NOTE-qVjtl5S6"
+          },
+          {
+            "id": "sa7ZgI71",
+            "target": "NOTE-1AXPYxh1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-QvTC8Y1i",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ns969iAS",
+            "target": "NOTE-Et86aCPy"
+          },
+          {
+            "id": "jjSYxH9d",
+            "target": "NOTE-1AXPYxh1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BqCk1GwG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "EejKQxdf",
+            "target": "NOTE-d1vNpUWR"
+          },
+          {
+            "id": "nydJxgiu",
+            "target": "NOTE-1AXPYxh1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-miG3fwub",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "zUQWif5X",
+            "target": "NOTE-tMZzbwQr"
+          },
+          {
+            "id": "1BBWkIJN",
+            "target": "NOTE-1AXPYxh1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-nFIbJLFs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "vKgVfKMB",
+            "target": "NOTE-wsrESCHX"
+          },
+          {
+            "id": "oUJl67CE",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      }
+    ]
+  }
+}

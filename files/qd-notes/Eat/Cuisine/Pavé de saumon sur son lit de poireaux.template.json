@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-paveSaumonLitDePoireaux",
+  "content": {
+    "index": "pavé saumon lit  poireaux cuisine",
+    "name": "Pavé de saumon sur son lit de poireaux [***]",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Ingrédients\n\n- curry\n- huile\n- sel\n- poivre\n- 2 poireaux\n- 2 pavés de saumon\n- 10 cl de crème fraîche épaisse\n\n# Procédure\n\n## Étape 1\n\nLaver les poireaux et les couper en rondelles (tout le blanc et une partie du vert, environ 3 centimètres).\n\n## Étape 2\n\nFaire fondre les poireaux dans une poêle avec l'huile, couvercle fermé, pour ne pas qu'ils grillent (environ 15 min).\n\n## Étape 3\n\nAvant la fin de la cuisson, ajouter sel poivre et curry à sa guise.\n\n## Étape 4\n\nDisposer ensuite ces poireaux dans un plat allant au four, les recouvrir des pavés de saumon, que l'on peut poivrer si l'on aime, et recouvrir le tout de crème fraîche.\n\n## Étape 5\nFermer le plat le plus hermétiquement possible avec un papier d'aluminium, et mettre au four à thermostat 6-7 (180°C/190°C), pendant environ 20 min, selon la grosseur du saumon\n\nSource: https://www.marmiton.org/recettes/recette_pave-de-saumon-sur-son-lit-de-poireaux_25136.aspx",
+        "defaultText": null
+      }
+    ]
+  }
+}

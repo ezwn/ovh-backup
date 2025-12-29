@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaValidatedSpringService",
+  "content": {
+    "index": "java, validated spring service",
+    "name": "Java, validated spring service",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@Service\n@Validated // required\npublic class CatalogUploadServiceImpl implements CatalogUploadService {\n\n    @Override // VV @Valid required too VV\n    public void itemBundleUpload(@Valid ItemBundleDTO itemBundleDTO, @NotBlank String fileName) \n        throws DuplicateBundleException, ItemBundleContentException {\n            ...\n    }\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-oItk4b9o",
+        "userBounds": [
+          918,
+          241.1436424255371,
+          140.326171875,
+          null
+        ],
+        "bounds": [
+          918,
+          241.1436424255371,
+          140,
+          134
+        ],
+        "content": "Having critical part of the software always assigned to the same person (AI, frontend)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xs66LBU3",
+        "userBounds": [
+          175,
+          88.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          175,
+          88.14364242553711,
+          225,
+          41
+        ],
+        "content": "By passing the process",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-A5r9uhBo",
+        "userBounds": [
+          59,
+          193.1436424255371,
+          186.74615478515625,
+          null
+        ],
+        "bounds": [
+          59,
+          193.1436424255371,
+          187,
+          65
+        ],
+        "content": "To deliver cache on BCS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Gx9cMCFJ",
+        "userBounds": [
+          280,
+          210.1436424255371,
+          163.42652893066406,
+          null
+        ],
+        "bounds": [
+          280,
+          210.1436424255371,
+          163,
+          89
+        ],
+        "content": "And then when fixing\nit !",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uPTuiwLT",
+        "userBounds": [
+          491,
+          311.1436424255371,
+          218.39089965820312,
+          null
+        ],
+        "bounds": [
+          491,
+          311.1436424255371,
+          218,
+          112
+        ],
+        "content": "Design standard\nSOLID\nShouldn't we apply them now?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MK1PTNQk",
+        "userBounds": [
+          156,
+          389.1436424255371,
+          258.20721435546875,
+          null
+        ],
+        "bounds": [
+          156,
+          389.1436424255371,
+          258,
+          112
+        ],
+        "content": "Getting used to apply them is better than to fix what we did when it becomes a company concern.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-X3CAZWEA",
+        "userBounds": [
+          406,
+          554.1436424255371,
+          175.67434692382812,
+          null
+        ],
+        "bounds": [
+          406,
+          554.1436424255371,
+          176,
+          65
+        ],
+        "content": "Come back again on code.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YYS4NSRC",
+        "userBounds": [
+          689,
+          457.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          689,
+          457.1436424255371,
+          162,
+          188
+        ],
+        "content": "Exemple:\ntrigger-api\n---\nBCS for public\nBCS for trusted\nLOW level BCS\nQuery validation\n---\nall in the same class",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-RjVx41Hr",
+        "userBounds": [
+          1228,
+          82.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          1228,
+          82.14364242553711,
+          295,
+          89
+        ],
+        "content": "Ubiquitous language:\n\"Sentiment insights\" on Figma\n\"Comment insights\" in the code",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-q8l61GDZ",
+        "userBounds": [
+          1208,
+          244.1436424255371,
+          303.497802734375,
+          null
+        ],
+        "bounds": [
+          1208,
+          244.1436424255371,
+          303,
+          89
+        ],
+        "content": "Reading the PR in 24 hours...\nBut what if so suddenly delivers a 60 files PR...",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-jYrMECSE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p3PGah2v",
+            "target": "NOTE-xs66LBU3"
+          },
+          {
+            "id": "END-5IwGc8vC",
+            "target": "NOTE-Gx9cMCFJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-WarcDHgJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-t62sa8lj",
+            "target": "NOTE-xs66LBU3"
+          },
+          {
+            "id": "END-yY6QEK3C",
+            "target": "NOTE-A5r9uhBo"
+          }
+        ]
+      },
+      {
+        "id": "REL-9RtdSoZs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LDVgxdqo",
+            "target": "NOTE-uPTuiwLT"
+          },
+          {
+            "id": "END-wvG2kmPa",
+            "target": "NOTE-X3CAZWEA"
+          }
+        ]
+      },
+      {
+        "id": "REL-kTR4cjsA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PUuIe9Wr",
+            "target": "NOTE-uPTuiwLT"
+          },
+          {
+            "id": "END-kD2SzvAJ",
+            "target": "NOTE-MK1PTNQk"
+          }
+        ]
+      },
+      {
+        "id": "REL-GqpbmShj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kavSHcit",
+            "target": "NOTE-YYS4NSRC"
+          },
+          {
+            "id": "END-Tm7EAYsu",
+            "target": "NOTE-uPTuiwLT"
+          }
+        ]
+      }
+    ]
+  }
+}

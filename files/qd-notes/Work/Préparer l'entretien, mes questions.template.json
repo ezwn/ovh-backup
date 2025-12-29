@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiPreparerLEntretienMesQuestions",
+  "content": {
+    "index": "emploi : préparer l'entretien, mes questions",
+    "name": "Emploi : préparer l'entretien, mes questions",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant que coach en placement professionnel et suggères-moi des questions à poser lors d'un entretien d'embauche.\n\n---",
+        "defaultText": null
+      }
+    ]
+  }
+}

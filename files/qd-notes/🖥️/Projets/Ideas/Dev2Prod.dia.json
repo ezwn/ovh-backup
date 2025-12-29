@@ -1,0 +1,115 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-F7x4cVmi",
+        "userBounds": [
+          318,
+          259,
+          null,
+          null
+        ],
+        "content": "### Change\n---\n- id",
+        "bounds": [
+          318,
+          259,
+          106,
+          91
+        ],
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-ISNHzR4i",
+        "userBounds": [
+          425,
+          122,
+          null,
+          null
+        ],
+        "content": "### ChangeType\n---",
+        "bounds": [
+          425,
+          122,
+          160,
+          68
+        ]
+      },
+      {
+        "id": "NOTE-fj6rEQFE",
+        "userBounds": [
+          568,
+          365,
+          null,
+          null
+        ],
+        "content": "### Phase\n---",
+        "bounds": [
+          568,
+          365,
+          89,
+          68
+        ]
+      },
+      {
+        "id": "NOTE-odXrBUIW",
+        "userBounds": [
+          901,
+          363,
+          null,
+          null
+        ],
+        "content": "### Task\n---",
+        "bounds": [
+          901,
+          363,
+          71,
+          68
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-SzS2erDp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bnv5VYpt",
+            "target": "NOTE-ISNHzR4i"
+          },
+          {
+            "id": "END-DMJH6YzW",
+            "target": "NOTE-F7x4cVmi"
+          }
+        ]
+      },
+      {
+        "id": "REL-RAXnenP8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yp64ypPp",
+            "target": "NOTE-fj6rEQFE"
+          },
+          {
+            "id": "END-iNau5bEq",
+            "target": "NOTE-F7x4cVmi"
+          }
+        ]
+      },
+      {
+        "id": "REL-w449zkLS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Lm79JRFd",
+            "target": "NOTE-odXrBUIW"
+          },
+          {
+            "id": "END-avamK1cG",
+            "target": "NOTE-fj6rEQFE"
+          }
+        ]
+      }
+    ]
+  }
+}

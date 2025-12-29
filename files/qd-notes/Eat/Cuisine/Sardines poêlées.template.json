@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-sardinesPoelees",
+  "content": {
+    "index": "sardines poêlées cuisine",
+    "name": "Sardines poêlées",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Ingédients\n\n- 5 sardines par personne\n- farine\n- huile d'olive\n- hebres de provence\n- citron\n- sel\n\n# Préparation\n\n## Préparation des poissons\n\nEtriper les sardines sans les écailler. Passer rapidement sous l'eau et les éponger bien dans du sopalin.\n\nRouler les sardines dans la farine. Saupoudrer d'un peu d'herbes de Provence.\n\n## Cuisson\n\nCuire les sardines dans une poêle avec un peu d'huile d'olive, 2 à 3 minutes de chaque côté. Juste avant la fin de la cuisson, ajouter un peu de jus de citron.",
+        "defaultText": null
+      }
+    ]
+  }
+}

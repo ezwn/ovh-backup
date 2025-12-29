@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiAjusterLArbreDAnalyse",
+  "content": {
+    "index": "emploi : ajuster l'arbre d'analyse",
+    "name": "Emploi : ajuster l'arbre d'analyse",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Are there skills in this offer that should be added to my analysis tree and if so,\nwhere in the tree should I add them?",
+        "defaultText": null
+      }
+    ]
+  }
+}

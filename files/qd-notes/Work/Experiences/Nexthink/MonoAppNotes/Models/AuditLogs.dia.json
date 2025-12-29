@@ -1,0 +1,375 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-oMrxVjt4",
+        "userBounds": [
+          357,
+          243.13678741455078,
+          null,
+          null
+        ],
+        "bounds": [
+          357,
+          243.13678741455078,
+          190,
+          145
+        ],
+        "content": "<< interface >>\n# AuditEvent\\<A, C>\n---\n* getCategory() : AuditEventCategory\n* getObject() : AuditEventObject \n* getAction() : A\n* getUser() : String\n* getContext() : C\n---\n* code() : int\n* description() : String",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-xl7A3rLG",
+        "userBounds": [
+          691,
+          153.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          691,
+          153.1436424255371,
+          164,
+          70
+        ],
+        "content": "@Singleton\n# AuditLogsService\n---\n- send(auditEvent: AuditEvent )",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-QFeZtbvm",
+        "userBounds": [
+          667,
+          325.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          667,
+          325.1436424255371,
+          211,
+          70
+        ],
+        "content": "@KafkaClient\n# AuditLogsKafkaProducer\n---\n- sendAuditLog(tenant, topic, log)",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-b959dtz5",
+        "userBounds": [
+          352,
+          587.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          352,
+          587.1436424255371,
+          204,
+          49
+        ],
+        "content": "# AbstractCampaignEvent\n---",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-GXBdjRwe",
+        "userBounds": [
+          366,
+          63.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          366,
+          63.14364242553711,
+          172,
+          112
+        ],
+        "content": "<< enum >>\n# AuditEventCategory\n---\n- LOGIN = 0\n- ACCESSMANAGEMENT = 1\n- CONTENTMANAGEMENT = 2\n- API = 3\n- UI = 4",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-uYp7zowD",
+        "userBounds": [
+          135,
+          150.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          135,
+          150.1436424255371,
+          152,
+          70
+        ],
+        "content": "<< enum >>\n# AuditEventObject\n---\n- CAMPAIGN = 03",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-njGeSE5P",
+        "userBounds": [
+          29,
+          385.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          29,
+          385.1436424255371,
+          146,
+          85
+        ],
+        "content": "<< enum >>\n# AuditEventApiAction\n---\n- EXECUTE = 1\n- UPDATE = 2\n- CREATE = 3\n- DELETE = 4",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-bcZ88m6K",
+        "userBounds": [
+          185,
+          381.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          185,
+          381.1436424255371,
+          138,
+          68
+        ],
+        "content": "<< enum >>\n# AuditEventUiAction\n---\n- EXECUTE = 1\n- UPDATE = 2",
+        "zIndex": 3,
+        "fontSize": 8
+      },
+      {
+        "id": "NOTE-fnGHQWh7",
+        "userBounds": [
+          99,
+          287.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          99,
+          287.1436424255371,
+          152,
+          48
+        ],
+        "content": "<< interface >>\n# AuditEventAction",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-CGsG7gnN",
+        "userBounds": [
+          0,
+          3.1436424255371094,
+          940.3755493164062,
+          500
+        ],
+        "bounds": [
+          0,
+          3.1436424255371094,
+          940,
+          500
+        ],
+        "content": "audit.logs",
+        "zIndex": 0,
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-s2I7Rfxk",
+        "userBounds": [
+          574,
+          519.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          574,
+          519.1436424255371,
+          219,
+          37
+        ],
+        "content": "# ApiTriggerCampaignEvent",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-Qr4FBWQp",
+        "userBounds": [
+          583,
+          655.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          583,
+          655.1436424255371,
+          209,
+          37
+        ],
+        "content": "# UiTriggerCampaignEvent",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-YuyAuYru",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YTLSKA5f",
+            "target": "NOTE-QFeZtbvm",
+            "attachPointNumber": 0
+          },
+          {
+            "id": "END-8ZFalT7W",
+            "target": "NOTE-xl7A3rLG",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-USRj6Gol",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p2vaAo3N",
+            "target": "NOTE-b959dtz5"
+          },
+          {
+            "id": "END-L8DBFE2a",
+            "target": "NOTE-oMrxVjt4",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-A3rarFrU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4QPFFxDV",
+            "target": "NOTE-oMrxVjt4",
+            "attachPointNumber": 0,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-Ar6hwwFb",
+            "target": "NOTE-GXBdjRwe"
+          }
+        ]
+      },
+      {
+        "id": "REL-191f9NaZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-C1o2NQJE",
+            "target": "NOTE-oMrxVjt4",
+            "attachPointNumber": 10,
+            "decoration": "EMPTY_RECTANGLE"
+          },
+          {
+            "id": "END-YooMWsUN",
+            "target": "NOTE-uYp7zowD"
+          }
+        ]
+      },
+      {
+        "id": "REL-6UZTH8Sy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uQ4GMLP9",
+            "target": "NOTE-fnGHQWh7"
+          },
+          {
+            "id": "END-CWyxt6UN",
+            "target": "NOTE-oMrxVjt4",
+            "attachPointNumber": 9,
+            "decoration": "EMPTY_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-QhPg81VT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g7b3C7VJ",
+            "target": "NOTE-fnGHQWh7",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-hDp81U5T",
+            "target": "NOTE-bcZ88m6K"
+          }
+        ]
+      },
+      {
+        "id": "REL-D6vImcyP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2GtEjAXm",
+            "target": "NOTE-fnGHQWh7",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-MlPzepYT",
+            "target": "NOTE-njGeSE5P"
+          }
+        ]
+      },
+      {
+        "id": "REL-mGupej6H",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-uY2VbXqw",
+            "target": "NOTE-s2I7Rfxk"
+          },
+          {
+            "id": "END-ibs8S8eZ",
+            "target": "NOTE-b959dtz5",
+            "attachPointNumber": 2,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-dA2DLihq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ddj21QMb",
+            "target": "NOTE-Qr4FBWQp"
+          },
+          {
+            "id": "END-mPiI5VzZ",
+            "target": "NOTE-b959dtz5",
+            "attachPointNumber": 4,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

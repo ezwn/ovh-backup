@@ -1,0 +1,56 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-y7s8k77R",
+        "userBounds": [
+          205,
+          185,
+          null,
+          null
+        ],
+        "bounds": [
+          205,
+          185,
+          190,
+          41
+        ],
+        "content": "[GREENTHINKERS](https://hc.nexthink.com/hc/en-us/articles/9952987067922-Greenthinkers-Affinity-Group#introduction-0-0)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UIx7sZGU",
+        "userBounds": [
+          137,
+          293,
+          null,
+          null
+        ],
+        "bounds": [
+          137,
+          293,
+          151,
+          41
+        ],
+        "content": "Nina Zellweger",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-KcehNB5Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-akGXHj7x",
+            "target": "NOTE-UIx7sZGU"
+          },
+          {
+            "id": "END-cVqEdu9C",
+            "target": "NOTE-y7s8k77R"
+          }
+        ]
+      }
+    ]
+  }
+}

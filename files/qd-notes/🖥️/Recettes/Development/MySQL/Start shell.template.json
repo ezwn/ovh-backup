@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-mysqlShell",
+  "content": {
+    "index": "mysql shell",
+    "name": "MySQL, start shell",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "mysql ${hostOption} -u ${user:MySQLUser} -p ${database:MySQLDatabase} # ${password:MySQLPassword}",
+        "defaultText": null
+      },
+      {
+        "id": "hostOption",
+        "textTemplate": "-h ${host}",
+        "defaultText": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiPreparerLEntretien",
+  "content": {
+    "index": "Agit en tant que coach en placement professionnel et pose-moi des questions pour préparer un entretien d'embauche, dans le style d'une interaction orale. Après chaque réponse, explique-moi comment je peux m'améliorer.\n\n---",
+    "name": "Emploi : préparer l'entretien, questions de l'interviewer",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "dfg",
+        "defaultText": null
+      }
+    ]
+  }
+}

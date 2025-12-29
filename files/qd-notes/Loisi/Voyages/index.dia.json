@@ -1,0 +1,824 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-3KkQZo2g",
+        "userBounds": [
+          829,
+          389,
+          null,
+          null
+        ],
+        "content": "Voyages",
+        "bounds": [
+          829,
+          389,
+          125,
+          50
+        ],
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-HWqPzrbw",
+        "userBounds": [
+          608,
+          316,
+          null,
+          null
+        ],
+        "content": "Italie",
+        "bounds": [
+          608,
+          316,
+          52,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-tHwqKWBY",
+        "userBounds": [
+          1081,
+          386,
+          null,
+          null
+        ],
+        "content": "Amérique\ndu sud",
+        "bounds": [
+          1081,
+          386,
+          95,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-1yYcb5dP",
+        "userBounds": [
+          960,
+          644,
+          null,
+          null
+        ],
+        "content": "Chine",
+        "bounds": [
+          960,
+          644,
+          60,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Hy1HY2c7",
+        "userBounds": [
+          864,
+          693,
+          null,
+          null
+        ],
+        "content": "Japon",
+        "bounds": [
+          864,
+          693,
+          62,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-voHxAs89",
+        "userBounds": [
+          512,
+          467,
+          null,
+          null
+        ],
+        "content": "Maldives",
+        "bounds": [
+          512,
+          467,
+          81,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-d6nggWa7",
+        "userBounds": [
+          506,
+          405,
+          null,
+          null
+        ],
+        "content": "Seychelles",
+        "bounds": [
+          506,
+          405,
+          95,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-zikQIK8p",
+        "userBounds": [
+          572,
+          225,
+          null,
+          null
+        ],
+        "content": "Grèce",
+        "bounds": [
+          572,
+          225,
+          62,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-v5msXYdM",
+        "userBounds": [
+          595,
+          170,
+          null,
+          null
+        ],
+        "content": "Croatie",
+        "bounds": [
+          595,
+          170,
+          70,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-lzhh9YBg",
+        "userBounds": [
+          805,
+          194,
+          null,
+          null
+        ],
+        "content": "France",
+        "bounds": [
+          805,
+          194,
+          68,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-9QYgrTyA",
+        "userBounds": [
+          702,
+          243,
+          null,
+          null
+        ],
+        "content": "Europe",
+        "bounds": [
+          702,
+          243,
+          83,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5poNAXY3",
+        "userBounds": [
+          863,
+          588,
+          null,
+          null
+        ],
+        "content": "Asie",
+        "bounds": [
+          863,
+          588,
+          57,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-YKhE6tei",
+        "userBounds": [
+          970,
+          235,
+          null,
+          null
+        ],
+        "content": "Suisse",
+        "bounds": [
+          970,
+          235,
+          78,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-wZyKYYIW",
+        "userBounds": [
+          1066,
+          200,
+          null,
+          null
+        ],
+        "content": "Tessin",
+        "bounds": [
+          1066,
+          200,
+          63,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-8PjhXk6l",
+        "userBounds": [
+          756,
+          659,
+          null,
+          null
+        ],
+        "content": "Thaïlande",
+        "bounds": [
+          756,
+          659,
+          89,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-XfalTh9E",
+        "userBounds": [
+          1222,
+          337,
+          null,
+          null
+        ],
+        "content": "Brésil",
+        "bounds": [
+          1222,
+          337,
+          68,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-dPv39wzG",
+        "userBounds": [
+          1218,
+          463,
+          null,
+          null
+        ],
+        "content": "Pérou",
+        "bounds": [
+          1218,
+          463,
+          71,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-iGKvSujE",
+        "userBounds": [
+          522,
+          516,
+          null,
+          null
+        ],
+        "content": "Polynésie",
+        "bounds": [
+          522,
+          516,
+          96,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-Hw3kESGX",
+        "userBounds": [
+          662,
+          456,
+          null,
+          null
+        ],
+        "content": "Îles",
+        "bounds": [
+          662,
+          456,
+          49,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-acDFb14z",
+        "userBounds": [
+          133,
+          276,
+          null,
+          null
+        ],
+        "content": "Jumelles \nCarnet explorateur\nLunettes plongée et tubas",
+        "bounds": [
+          133,
+          276,
+          248,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-cxP1uvMb",
+        "userBounds": [
+          1404,
+          164,
+          188.453125,
+          null
+        ],
+        "bounds": [
+          1404,
+          164,
+          188,
+          133
+        ],
+        "content": "[SKYSCAN](https://www.skyscanner.ch/)\n\nPlus cher que companies après bagages",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-i4KWbS5L",
+        "userBounds": [
+          258,
+          129,
+          null,
+          null
+        ],
+        "bounds": [
+          258,
+          129,
+          214,
+          41
+        ],
+        "content": "Gouffre paradisiaques",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YRzCpRXM",
+        "userBounds": [
+          362,
+          449,
+          null,
+          null
+        ],
+        "bounds": [
+          362,
+          449,
+          93,
+          41
+        ],
+        "content": "Réunion",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-N8bDuJgW",
+        "userBounds": [
+          351,
+          517,
+          null,
+          null
+        ],
+        "bounds": [
+          351,
+          517,
+          128,
+          41
+        ],
+        "content": "Madagascar",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ca5BXSu6",
+        "userBounds": [
+          1528,
+          510,
+          null,
+          null
+        ],
+        "bounds": [
+          1528,
+          510,
+          88,
+          41
+        ],
+        "content": "Critères",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-A6iwP81R",
+        "userBounds": [
+          196,
+          461,
+          null,
+          null
+        ],
+        "bounds": [
+          196,
+          461,
+          127,
+          41
+        ],
+        "content": "Guadeloupe",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MaPzFFzH",
+        "userBounds": [
+          684,
+          42,
+          118.015625,
+          36
+        ],
+        "bounds": [
+          684,
+          42,
+          118,
+          36
+        ],
+        "content": "Neunswanstein",
+        "zIndex": 3,
+        "noteStyle": "VIOLET",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-eDYV1LcU",
+        "userBounds": [
+          680,
+          140,
+          null,
+          null
+        ],
+        "bounds": [
+          680,
+          140,
+          94,
+          36
+        ],
+        "content": "Allemagne",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-AG3CQlFR",
+        "userBounds": [
+          906,
+          125,
+          null,
+          null
+        ],
+        "bounds": [
+          906,
+          125,
+          98,
+          34
+        ],
+        "content": "[TOUR JURA](https://maps.app.goo.gl/ocs5FRw6jJAUaATC9)",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-637LBGqr",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2bH3bZv8",
+            "target": "NOTE-9QYgrTyA"
+          },
+          {
+            "id": "o94iMFfN",
+            "target": "NOTE-3KkQZo2g"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-KCiqdzRh",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "JscdP3Mp",
+            "target": "NOTE-9QYgrTyA"
+          },
+          {
+            "id": "BXP1U3QC",
+            "target": "NOTE-zikQIK8p"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-GdYTmqed",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YNWiChLs",
+            "target": "NOTE-9QYgrTyA"
+          },
+          {
+            "id": "TrbpV7Hq",
+            "target": "NOTE-HWqPzrbw"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-oIppFzb2",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "CogC69dz",
+            "target": "NOTE-9QYgrTyA"
+          },
+          {
+            "id": "k4Co9GFt",
+            "target": "NOTE-v5msXYdM"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-sflGmL8l",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "8NjTzjkK",
+            "target": "NOTE-lzhh9YBg"
+          },
+          {
+            "id": "RWr2pI3H",
+            "target": "NOTE-9QYgrTyA"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-ij36Rdas",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "B16r3U2G",
+            "target": "NOTE-5poNAXY3"
+          },
+          {
+            "id": "XFKkDdo2",
+            "target": "NOTE-3KkQZo2g"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-uEZ4LWYp",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "IXwaLshI",
+            "target": "NOTE-5poNAXY3"
+          },
+          {
+            "id": "PCNxEjby",
+            "target": "NOTE-1yYcb5dP"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-A4NUEQTX",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "MhCQJ4dF",
+            "target": "NOTE-5poNAXY3"
+          },
+          {
+            "id": "Uf1mqyEN",
+            "target": "NOTE-Hy1HY2c7"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-67yk3lYW",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "t6GaVidL",
+            "target": "NOTE-wZyKYYIW"
+          },
+          {
+            "id": "vyzcAAMV",
+            "target": "NOTE-YKhE6tei"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-deBPLUkV",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "99RRSjMH",
+            "target": "NOTE-YKhE6tei"
+          },
+          {
+            "id": "lKPaYMzD",
+            "target": "NOTE-3KkQZo2g"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-FAJEbmHB",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ZpWLSYXm",
+            "target": "NOTE-8PjhXk6l"
+          },
+          {
+            "id": "4ZkQsovY",
+            "target": "NOTE-5poNAXY3"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-27fXDVN2",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Sj4CG3IV",
+            "target": "NOTE-tHwqKWBY"
+          },
+          {
+            "id": "wKp8lDDP",
+            "target": "NOTE-3KkQZo2g"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-n7p1z6oU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "igebGPx5",
+            "target": "NOTE-XfalTh9E"
+          },
+          {
+            "id": "EhtyhiPP",
+            "target": "NOTE-tHwqKWBY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-EpW6AlPr",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2i5kc7Tq",
+            "target": "NOTE-dPv39wzG"
+          },
+          {
+            "id": "LSeISsQk",
+            "target": "NOTE-tHwqKWBY"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-lTT1T1ry",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "sgvzwD18",
+            "target": "NOTE-Hw3kESGX"
+          },
+          {
+            "id": "9aEkrVSS",
+            "target": "NOTE-3KkQZo2g"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-vGrhKqDn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "NcuURjP6",
+            "target": "NOTE-d6nggWa7"
+          },
+          {
+            "id": "DtsmYNdx",
+            "target": "NOTE-Hw3kESGX"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-e2Q6JRJT",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "J9Cilcxn",
+            "target": "NOTE-voHxAs89"
+          },
+          {
+            "id": "ldBtz2tB",
+            "target": "NOTE-Hw3kESGX"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-DHS55VmW",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ZPI2AvcK",
+            "target": "NOTE-iGKvSujE"
+          },
+          {
+            "id": "WCYnWcsM",
+            "target": "NOTE-Hw3kESGX"
+          }
+        ]
+      },
+      {
+        "id": "REL-abYVQEUU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TXqzk1uB",
+            "target": "NOTE-eDYV1LcU"
+          },
+          {
+            "id": "END-4CE9tIfg",
+            "target": "NOTE-9QYgrTyA"
+          }
+        ]
+      },
+      {
+        "id": "REL-nL1zLQpi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SypnM794",
+            "target": "NOTE-MaPzFFzH"
+          },
+          {
+            "id": "END-zX3wNTeR",
+            "target": "NOTE-eDYV1LcU"
+          }
+        ]
+      },
+      {
+        "id": "REL-dZ5wTpkk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bWYrdZRT",
+            "target": "NOTE-AG3CQlFR"
+          },
+          {
+            "id": "END-PKc1PWyP",
+            "target": "NOTE-YKhE6tei"
+          }
+        ]
+      },
+      {
+        "id": "REL-mXSzDnE7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-1IMo6Znk",
+            "target": "NOTE-AG3CQlFR"
+          },
+          {
+            "id": "END-XzbpvUkj",
+            "target": "NOTE-lzhh9YBg"
+          }
+        ]
+      }
+    ]
+  }
+}

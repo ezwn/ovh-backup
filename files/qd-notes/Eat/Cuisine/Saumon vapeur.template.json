@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-saumonVapeur",
+  "content": {
+    "index": "saumon vapeur cuisine",
+    "name": "Saumon vapeur",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "macérer dans:\n- 4 cuiller d'huile d'olive\n- aneth\n- jus d'une mandarine\n- 2 pincée de gros sel\n- 1 pincée de piment en poudre",
+        "defaultText": null
+      }
+    ]
+  }
+}

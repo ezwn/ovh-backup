@@ -1,0 +1,382 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ZdSI8kt4",
+        "userBounds": [
+          815,
+          380.8055534362793,
+          null,
+          null
+        ],
+        "bounds": [
+          815,
+          380.8055534362793,
+          116,
+          69
+        ],
+        "content": "AWS",
+        "zIndex": 3,
+        "fontSize": 44
+      },
+      {
+        "id": "NOTE-ccqTW1sf",
+        "userBounds": [
+          474,
+          442.39999771118164,
+          138.3375244140625,
+          null
+        ],
+        "bounds": [
+          474,
+          442.39999771118164,
+          138,
+          37
+        ],
+        "content": "eu-west-3-main",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-2xAsMVKw",
+        "userBounds": [
+          647,
+          375.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          647,
+          375.39999771118164,
+          89,
+          62
+        ],
+        "content": "clusters\n## nxeks-",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aQM7n5yu",
+        "userBounds": [
+          1151,
+          340,
+          null,
+          null
+        ],
+        "bounds": [
+          1151,
+          340,
+          143,
+          65
+        ],
+        "content": "nxmultitenant-v2",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7C75DGiB",
+        "userBounds": [
+          964,
+          302,
+          null,
+          null
+        ],
+        "bounds": [
+          964,
+          302,
+          131,
+          41
+        ],
+        "content": "namespaces",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-k164VUbA",
+        "userBounds": [
+          469,
+          375,
+          null,
+          null
+        ],
+        "bounds": [
+          469,
+          375,
+          114,
+          37
+        ],
+        "content": "eu-west-3-fuji",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-RcuBgLbB",
+        "userBounds": [
+          1426,
+          37,
+          null,
+          null
+        ],
+        "bounds": [
+          1426,
+          37,
+          88,
+          89
+        ],
+        "content": "[AWS VAULT USAGE](https://confluence.intra.nexthink.com/display/CA/aws-vault+usage)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-G65sgKir",
+        "userBounds": [
+          488.84210205078125,
+          286.38048553466797,
+          null,
+          null
+        ],
+        "bounds": [
+          488.84210205078125,
+          286.38048553466797,
+          124,
+          37
+        ],
+        "content": "eu-west-3-etna",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-sRkmxmqk",
+        "userBounds": [
+          648.8421020507812,
+          282.38048553466797,
+          null,
+          null
+        ],
+        "bounds": [
+          648.8421020507812,
+          282.38048553466797,
+          111,
+          34
+        ],
+        "content": "us-east-2-teide",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-b5vRQjGx",
+        "userBounds": [
+          611,
+          486.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          611,
+          486.2620620727539,
+          131,
+          48
+        ],
+        "content": "Demo\n# us-east-1-main",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-pl3yKZFT",
+        "userBounds": [
+          36,
+          29,
+          null,
+          null
+        ],
+        "bounds": [
+          36,
+          29,
+          240,
+          41
+        ],
+        "content": "[TENANT ID & REGIONS](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=ENGAGE&title=List+of+useful+tenant+IDs+and+their+regions)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RmEpA5ru",
+        "userBounds": [
+          304,
+          30,
+          null,
+          null
+        ],
+        "bounds": [
+          304,
+          30,
+          91,
+          41
+        ],
+        "content": "[FISTRO](https://nxcportal.dev.nexthink.cloud/customers)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aG1QEp7S",
+        "userBounds": [
+          280,
+          226.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          280,
+          226.2620620727539,
+          165,
+          34
+        ],
+        "content": "content-admin-api 8080",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-C3Z13aHN",
+        "userBounds": [
+          240,
+          329.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          240,
+          329.2620620727539,
+          137,
+          34
+        ],
+        "content": "query-service 8080",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8B1chf75",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Fys6MD3w",
+            "target": "NOTE-2xAsMVKw"
+          },
+          {
+            "id": "END-acYdQ7j8",
+            "target": "NOTE-ZdSI8kt4"
+          }
+        ]
+      },
+      {
+        "id": "REL-5THulvrl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yneWWvmd",
+            "target": "NOTE-ccqTW1sf"
+          },
+          {
+            "id": "END-dYr9xlPt",
+            "target": "NOTE-2xAsMVKw"
+          }
+        ]
+      },
+      {
+        "id": "REL-M5kB8hZA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JlQqVKF5",
+            "target": "NOTE-7C75DGiB"
+          },
+          {
+            "id": "END-cNFT3pq1",
+            "target": "NOTE-ZdSI8kt4"
+          }
+        ]
+      },
+      {
+        "id": "REL-LI5kVhlQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VBEqV6cE",
+            "target": "NOTE-7C75DGiB"
+          },
+          {
+            "id": "END-7Bg19YBX",
+            "target": "NOTE-aQM7n5yu"
+          }
+        ]
+      },
+      {
+        "id": "REL-BWD1XMqp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RQre6Hj6",
+            "target": "NOTE-k164VUbA"
+          },
+          {
+            "id": "END-51N75i9N",
+            "target": "NOTE-2xAsMVKw"
+          }
+        ]
+      },
+      {
+        "id": "REL-Lf7l8ez9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-oCrNgtqH",
+            "target": "NOTE-2xAsMVKw"
+          },
+          {
+            "id": "END-FkfBZTsT",
+            "target": "NOTE-sRkmxmqk"
+          }
+        ]
+      },
+      {
+        "id": "REL-KuvuQcbF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DmEQJnBv",
+            "target": "NOTE-2xAsMVKw"
+          },
+          {
+            "id": "END-r8J5k39w",
+            "target": "NOTE-G65sgKir"
+          }
+        ]
+      },
+      {
+        "id": "REL-CHu9Ppb8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g51MBaIQ",
+            "target": "NOTE-b5vRQjGx"
+          },
+          {
+            "id": "END-HnXDriAe",
+            "target": "NOTE-2xAsMVKw"
+          }
+        ]
+      },
+      {
+        "id": "REL-zTGPIQrm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kXssMyts",
+            "target": "NOTE-RmEpA5ru"
+          },
+          {
+            "id": "END-yU5NsrhW",
+            "target": "NOTE-pl3yKZFT"
+          }
+        ]
+      }
+    ]
+  }
+}

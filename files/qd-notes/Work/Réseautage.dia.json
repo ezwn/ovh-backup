@@ -1,0 +1,421 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yQVK71H2",
+        "userBounds": [
+          304,
+          311,
+          null,
+          null
+        ],
+        "bounds": [
+          304,
+          311,
+          127,
+          41
+        ],
+        "content": "événements",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zySzGFN9",
+        "userBounds": [
+          330,
+          244,
+          null,
+          null
+        ],
+        "bounds": [
+          330,
+          244,
+          127,
+          41
+        ],
+        "content": "conférences",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-StjRYPo4",
+        "userBounds": [
+          279,
+          420,
+          null,
+          null
+        ],
+        "bounds": [
+          279,
+          420,
+          71,
+          41
+        ],
+        "content": "expos",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7uqSvPxl",
+        "userBounds": [
+          1148,
+          344,
+          null,
+          null
+        ],
+        "bounds": [
+          1148,
+          344,
+          111,
+          41
+        ],
+        "content": "personnes",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5fXvIuUH",
+        "userBounds": [
+          1245,
+          436,
+          null,
+          null
+        ],
+        "bounds": [
+          1245,
+          436,
+          77,
+          41
+        ],
+        "content": "alumni",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HuJmEKvc",
+        "userBounds": [
+          1255,
+          236,
+          null,
+          null
+        ],
+        "bounds": [
+          1255,
+          236,
+          103,
+          41
+        ],
+        "content": "collègues",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ql1taoH1",
+        "userBounds": [
+          661,
+          395,
+          null,
+          null
+        ],
+        "bounds": [
+          661,
+          395,
+          99,
+          41
+        ],
+        "content": "concours",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-k4AjdTJg",
+        "userBounds": [
+          700,
+          295,
+          null,
+          null
+        ],
+        "bounds": [
+          700,
+          295,
+          99,
+          41
+        ],
+        "content": "hackaton",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Fj4vN825",
+        "userBounds": [
+          881,
+          176,
+          null,
+          null
+        ],
+        "bounds": [
+          881,
+          176,
+          163,
+          64
+        ],
+        "content": "associations\ndevenir membre",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7KmJpecI",
+        "userBounds": [
+          379,
+          445,
+          null,
+          null
+        ],
+        "bounds": [
+          379,
+          445,
+          253,
+          41
+        ],
+        "content": "Suisse IT Forum (Genève)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-La33hM8E",
+        "userBounds": [
+          141,
+          256,
+          null,
+          null
+        ],
+        "bounds": [
+          141,
+          256,
+          131,
+          41
+        ],
+        "content": "Forum EPFL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BbeHfqj1",
+        "userBounds": [
+          738,
+          573,
+          null,
+          null
+        ],
+        "bounds": [
+          738,
+          573,
+          85,
+          41
+        ],
+        "content": "meetup",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NEbCBFx7",
+        "userBounds": [
+          52,
+          348,
+          null,
+          null
+        ],
+        "bounds": [
+          52,
+          348,
+          226,
+          41
+        ],
+        "content": "petits déjeuners startup",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o26iVPup",
+        "userBounds": [
+          1396,
+          366,
+          null,
+          null
+        ],
+        "bounds": [
+          1396,
+          366,
+          166,
+          41
+        ],
+        "content": "aller boir un café",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hRSgsrXA",
+        "userBounds": [
+          1458,
+          496,
+          null,
+          null
+        ],
+        "bounds": [
+          1458,
+          496,
+          233,
+          64
+        ],
+        "content": "demander\nun contact pour postuler",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PgvHFdhv",
+        "userBounds": [
+          1423,
+          283,
+          null,
+          null
+        ],
+        "bounds": [
+          1423,
+          283,
+          158,
+          47
+        ],
+        "content": "<< idée >>\n# linkedin > catchup",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-cySX6bKA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-l9tMYBpn",
+            "target": "NOTE-yQVK71H2"
+          },
+          {
+            "id": "END-YNCYQNeC",
+            "target": "NOTE-zySzGFN9"
+          }
+        ]
+      },
+      {
+        "id": "REL-9bXuLV5q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GjBuyhci",
+            "target": "NOTE-yQVK71H2"
+          },
+          {
+            "id": "END-ULWR1FpA",
+            "target": "NOTE-StjRYPo4"
+          }
+        ]
+      },
+      {
+        "id": "REL-iktnpR5b",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vk6BAquU",
+            "target": "NOTE-k4AjdTJg"
+          },
+          {
+            "id": "END-IfjbDc6x",
+            "target": "NOTE-Ql1taoH1"
+          }
+        ]
+      },
+      {
+        "id": "REL-5HYFsia9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Nj6S4K2j",
+            "target": "NOTE-7uqSvPxl"
+          },
+          {
+            "id": "END-SIzRENCV",
+            "target": "NOTE-HuJmEKvc"
+          }
+        ]
+      },
+      {
+        "id": "REL-P1JL4Lf9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-miobI6y5",
+            "target": "NOTE-7uqSvPxl"
+          },
+          {
+            "id": "END-1CeJ9iTC",
+            "target": "NOTE-5fXvIuUH"
+          }
+        ]
+      },
+      {
+        "id": "REL-Yq55hmwq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gH2s7Fkh",
+            "target": "NOTE-yQVK71H2"
+          },
+          {
+            "id": "END-Bpko5cyM",
+            "target": "NOTE-7KmJpecI"
+          }
+        ]
+      },
+      {
+        "id": "REL-yp2Gnz94",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-f8uaNE4Z",
+            "target": "NOTE-yQVK71H2"
+          },
+          {
+            "id": "END-RaEZKasW",
+            "target": "NOTE-La33hM8E"
+          }
+        ]
+      },
+      {
+        "id": "REL-dBZ8bzC4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WuCNqtAS",
+            "target": "NOTE-NEbCBFx7"
+          },
+          {
+            "id": "END-dcyzZdXu",
+            "target": "NOTE-yQVK71H2"
+          }
+        ]
+      },
+      {
+        "id": "REL-BhQrXw2x",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PoSHjFB3",
+            "target": "NOTE-o26iVPup"
+          },
+          {
+            "id": "END-A26erSLv",
+            "target": "NOTE-7uqSvPxl"
+          }
+        ]
+      },
+      {
+        "id": "REL-4rkxq9ML",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6JVk3XZL",
+            "target": "NOTE-hRSgsrXA"
+          },
+          {
+            "id": "END-Mw2cyrgg",
+            "target": "NOTE-o26iVPup"
+          }
+        ]
+      }
+    ]
+  }
+}

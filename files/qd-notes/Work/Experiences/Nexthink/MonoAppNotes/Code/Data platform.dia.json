@@ -1,0 +1,91 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-VsyMFulZ",
+        "userBounds": [
+          892,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          892,
+          199,
+          138,
+          41
+        ],
+        "content": "[query-service](https://github.com/nexthink/data-platform.query-service)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-jcR2bYs6",
+        "userBounds": [
+          1121,
+          249,
+          136.96875,
+          null
+        ],
+        "bounds": [
+          1121,
+          249,
+          137,
+          65
+        ],
+        "content": "[clickhouse schema](https://github.com/nexthink/data-platform.nxc-clickhouse-schema)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Cfv4ti23",
+        "userBounds": [
+          1119,
+          421,
+          null,
+          null
+        ],
+        "bounds": [
+          1119,
+          421,
+          121,
+          39
+        ],
+        "content": "[OUR VIEWS](https://github.com/nexthink/data-platform.nxc-clickhouse-schema/tree/57490e72a8525fff5caa2dc80e9b6a183f39c728/schema_after_last_up_migration/multitenant)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-ahnv9MLo",
+        "userBounds": [
+          561,
+          306.2620620727539,
+          null,
+          null
+        ],
+        "bounds": [
+          561,
+          306.2620620727539,
+          106,
+          41
+        ],
+        "content": "[protobuffs](https://github.com/nexthink/data-platform.protobufs)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-TR86elFv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TGPKZaD1",
+            "target": "NOTE-Cfv4ti23"
+          },
+          {
+            "id": "END-9sH8Dpvp",
+            "target": "NOTE-jcR2bYs6"
+          }
+        ]
+      }
+    ]
+  }
+}

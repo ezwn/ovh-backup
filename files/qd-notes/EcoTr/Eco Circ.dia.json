@@ -1,0 +1,568 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-N5opQHkL",
+        "userBounds": [
+          396,
+          288,
+          null,
+          null
+        ],
+        "bounds": [
+          396,
+          288,
+          136,
+          41
+        ],
+        "content": "[LORCIRCUS](https://locircus.ch/annonce/perceuse-2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5zb77Wbg",
+        "userBounds": [
+          520,
+          367,
+          null,
+          null
+        ],
+        "bounds": [
+          520,
+          367,
+          117,
+          41
+        ],
+        "content": "ÉCHANGE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vCAAq7im",
+        "userBounds": [
+          347,
+          362,
+          null,
+          null
+        ],
+        "bounds": [
+          347,
+          362,
+          110,
+          41
+        ],
+        "content": "[SHARELY](https://www.sharely.ch/fr)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Tqz9hefp",
+        "userBounds": [
+          430,
+          447,
+          null,
+          null
+        ],
+        "bounds": [
+          430,
+          447,
+          144,
+          41
+        ],
+        "content": "[ZEROWASTE](https://zerowasteswitzerland.ch/fr/2016/05/16/plateformes-prets-services/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dCHUAMEj",
+        "userBounds": [
+          814,
+          526,
+          null,
+          null
+        ],
+        "bounds": [
+          814,
+          526,
+          126,
+          65
+        ],
+        "content": "# PRÊTS\n[PUMPIPUMPE](https://pumpipumpe.ch/fr/about-fr/)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ogkJL2ro",
+        "userBounds": [
+          1205,
+          244,
+          null,
+          null
+        ],
+        "bounds": [
+          1205,
+          244,
+          118,
+          41
+        ],
+        "content": "[ANIBIS.CH](https://www.anibis.ch/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NxaiCaBz",
+        "userBounds": [
+          1133,
+          357,
+          null,
+          null
+        ],
+        "bounds": [
+          1133,
+          357,
+          129,
+          64
+        ],
+        "content": "OCCASION\nBROCANTE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Q8VgiiXL",
+        "userBounds": [
+          1348,
+          315,
+          126.0625,
+          null
+        ],
+        "bounds": [
+          1348,
+          315,
+          126,
+          64
+        ],
+        "content": "[recyclage-market.ch](https://recyclage-market.ch/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KwjFjG75",
+        "userBounds": [
+          1445,
+          245,
+          null,
+          null
+        ],
+        "bounds": [
+          1445,
+          245,
+          93,
+          34
+        ],
+        "content": "ECUBLENS",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-zEiC8iWX",
+        "userBounds": [
+          1291,
+          457,
+          190.34375,
+          null
+        ],
+        "bounds": [
+          1291,
+          457,
+          190,
+          41
+        ],
+        "content": "[petitesannonces.ch](https://www.petitesannonces.ch/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AY4lwfdj",
+        "userBounds": [
+          1129,
+          533,
+          200.84375,
+          null
+        ],
+        "bounds": [
+          1129,
+          533,
+          201,
+          36
+        ],
+        "content": "[CASHCONVERTERS.CH](https://cash-converters.ch/)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-GE6E9Ys7",
+        "userBounds": [
+          1356,
+          137,
+          null,
+          null
+        ],
+        "bounds": [
+          1356,
+          137,
+          79,
+          41
+        ],
+        "content": "[ricardo](https://www.ricardo.ch/fr/s/rallonge%20%C3%A9lectrique/?range=20&zip_code=1008)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RtvVPJUH",
+        "userBounds": [
+          1601,
+          348,
+          null,
+          null
+        ],
+        "bounds": [
+          1601,
+          348,
+          89,
+          41
+        ],
+        "content": "[ADEME](https://ademe.fr/les-futurs-en-transition/les-feuilletons/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YR6eZbHE",
+        "userBounds": [
+          1234,
+          703,
+          null,
+          null
+        ],
+        "bounds": [
+          1234,
+          703,
+          135,
+          76
+        ],
+        "content": "# CIRCULAR\nINVENTORY\nANNUAIRE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-jCIV5S6M",
+        "userBounds": [
+          128,
+          27,
+          null,
+          null
+        ],
+        "bounds": [
+          128,
+          27,
+          118,
+          64
+        ],
+        "content": "shea butter\n20g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FKQc6585",
+        "userBounds": [
+          87,
+          103,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          103,
+          141,
+          64
+        ],
+        "content": "sweet almond\n14g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9XAGUodF",
+        "userBounds": [
+          165,
+          184,
+          null,
+          null
+        ],
+        "bounds": [
+          165,
+          184,
+          97,
+          64
+        ],
+        "content": "beeswax\n6g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l8shxuvh",
+        "userBounds": [
+          282,
+          97,
+          null,
+          null
+        ],
+        "bounds": [
+          282,
+          97,
+          116,
+          64
+        ],
+        "content": "bain marie\n30 minutes",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-3Rq4nAcS",
+        "userBounds": [
+          458,
+          101,
+          null,
+          null
+        ],
+        "bounds": [
+          458,
+          101,
+          148,
+          64
+        ],
+        "content": "pas d'eau,\npas de dev bio",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Kf3auhsE",
+        "userBounds": [
+          596,
+          22,
+          null,
+          null
+        ],
+        "bounds": [
+          596,
+          22,
+          106,
+          41
+        ],
+        "content": "9 months!",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-apzqXHer",
+        "userBounds": [
+          754,
+          124,
+          null,
+          null
+        ],
+        "bounds": [
+          754,
+          124,
+          100,
+          41
+        ],
+        "content": "aloe vera",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vUvzlswd",
+        "userBounds": [
+          866,
+          266,
+          140.6875,
+          null
+        ],
+        "bounds": [
+          866,
+          266,
+          141,
+          64
+        ],
+        "content": "[DISCOURS INACTION](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-b1flbSCE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gyiSLN41",
+            "target": "NOTE-5zb77Wbg"
+          },
+          {
+            "id": "END-wydxMon3",
+            "target": "NOTE-N5opQHkL"
+          }
+        ]
+      },
+      {
+        "id": "REL-3WesZFIP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7nwkpz5h",
+            "target": "NOTE-5zb77Wbg"
+          },
+          {
+            "id": "END-5Pm3uCsz",
+            "target": "NOTE-vCAAq7im"
+          }
+        ]
+      },
+      {
+        "id": "REL-b3p86taS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8YwIdTKY",
+            "target": "NOTE-Tqz9hefp"
+          },
+          {
+            "id": "END-De5Hebuc",
+            "target": "NOTE-5zb77Wbg"
+          }
+        ]
+      },
+      {
+        "id": "REL-XSyG9iec",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2Jwm9Ajk",
+            "target": "NOTE-ogkJL2ro"
+          },
+          {
+            "id": "END-dMZwwY3U",
+            "target": "NOTE-NxaiCaBz"
+          }
+        ]
+      },
+      {
+        "id": "REL-IvbJrboV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6hHGL9Kg",
+            "target": "NOTE-KwjFjG75"
+          },
+          {
+            "id": "END-ncwgtifI",
+            "target": "NOTE-Q8VgiiXL"
+          }
+        ]
+      },
+      {
+        "id": "REL-nDjmeh1i",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NyXMccVz",
+            "target": "NOTE-Q8VgiiXL"
+          },
+          {
+            "id": "END-sbyRZdzm",
+            "target": "NOTE-NxaiCaBz"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qbn9RLv2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wqTRvZXE",
+            "target": "NOTE-zEiC8iWX"
+          },
+          {
+            "id": "END-vodJ8GIL",
+            "target": "NOTE-NxaiCaBz"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZTp8aHQT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gagK53eP",
+            "target": "NOTE-AY4lwfdj"
+          },
+          {
+            "id": "END-EcARb8Tz",
+            "target": "NOTE-NxaiCaBz"
+          }
+        ]
+      },
+      {
+        "id": "REL-fRptTL8o",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7lPUgMX5",
+            "target": "NOTE-l8shxuvh"
+          },
+          {
+            "id": "END-h7Dk6CiG",
+            "target": "NOTE-jCIV5S6M"
+          }
+        ]
+      },
+      {
+        "id": "REL-xb8vKygp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4KWFMxiA",
+            "target": "NOTE-l8shxuvh"
+          },
+          {
+            "id": "END-1FzCEK5m",
+            "target": "NOTE-FKQc6585"
+          }
+        ]
+      },
+      {
+        "id": "REL-y3TKf861",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qEAGZj6c",
+            "target": "NOTE-l8shxuvh"
+          },
+          {
+            "id": "END-Ve5UAINv",
+            "target": "NOTE-9XAGUodF"
+          }
+        ]
+      },
+      {
+        "id": "REL-XXsXM4fH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zSjWQVAw",
+            "target": "NOTE-3Rq4nAcS"
+          },
+          {
+            "id": "END-Py3lJdvQ",
+            "target": "NOTE-l8shxuvh"
+          }
+        ]
+      },
+      {
+        "id": "REL-BA5q68aD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-k9ShoPwB",
+            "target": "NOTE-Kf3auhsE"
+          },
+          {
+            "id": "END-IPSfIVNV",
+            "target": "NOTE-3Rq4nAcS"
+          }
+        ]
+      }
+    ]
+  }
+}

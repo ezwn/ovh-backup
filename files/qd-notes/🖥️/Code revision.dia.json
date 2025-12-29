@@ -1,0 +1,122 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-7idrl7EF",
+          "userBounds": [
+            430,
+            81,
+            196.546875,
+            null
+          ],
+          "bounds": [
+            430,
+            81,
+            197,
+            158
+          ],
+          "content": "# docurest\n## core\n---\n- delete document\n- change id from docuemnt\n- restore easy\n- SpEl (Spring Expression Language) pour injecter répertoire utilisateur ?",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-aBrJgas1",
+          "userBounds": [
+            739,
+            93,
+            null,
+            null
+          ],
+          "bounds": [
+            739,
+            93,
+            190,
+            102
+          ],
+          "content": "# docurest\n## frontend components\n26.8.2024\n---\nSystematic usage of refresh",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-soU7PMba",
+          "userBounds": [
+            1007,
+            185,
+            222.21875,
+            null
+          ],
+          "bounds": [
+            1007,
+            185,
+            222,
+            116
+          ],
+          "content": "# docurest\n## ts generator\n25.10.2024\n---\ndo not export query language, put it in separate file instead",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-8ZwCinvw",
+          "userBounds": [
+            214,
+            343,
+            null,
+            null
+          ],
+          "bounds": [
+            214,
+            343,
+            129,
+            82
+          ],
+          "content": "# kbs-webapp\n26.8.2024\n---\ndiagrams in units",
+          "zIndex": 3,
+          "fontSize": 12,
+          "noteStyle": "RED"
+        },
+        {
+          "id": "NOTE-cBpxMqsD",
+          "userBounds": [
+            989,
+            395,
+            null,
+            null
+          ],
+          "bounds": [
+            989,
+            395,
+            132,
+            54
+          ],
+          "content": "# kbs-mobapp\n---",
+          "zIndex": 3,
+          "fontSize": 12
+        },
+        {
+          "id": "NOTE-rB32VIii",
+          "userBounds": [
+            691,
+            561,
+            null,
+            null
+          ],
+          "bounds": [
+            691,
+            561,
+            163,
+            102
+          ],
+          "content": "# revisionwebapp\n## backend\n26.8.2024\n---\nAudio generation",
+          "zIndex": 3,
+          "fontSize": 12
+        }
+      ],
+      "relations": []
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "b773344c-636c-474f-826f-aa408aab3bc2",
+  "docTypeVersion": 1
+}

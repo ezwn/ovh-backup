@@ -1,0 +1,393 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-kYCyChsB",
+        "userBounds": [
+          58,
+          36,
+          null,
+          null
+        ],
+        "bounds": [
+          58,
+          36,
+          107,
+          86
+        ],
+        "content": "N° perso\n--\n23794947",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DM27dXzo",
+        "userBounds": [
+          1291,
+          191,
+          null,
+          null
+        ],
+        "bounds": [
+          1291,
+          191,
+          76,
+          41
+        ],
+        "content": "[vidéos](https://www.vd.ch/economie/prestations-destinees-aux-demandeuses-et-demandeurs-demploi/videos-dinformation-sur-lassurance-chomage)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GvxQu3QV",
+        "userBounds": [
+          782,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          782,
+          156,
+          90,
+          41
+        ],
+        "content": "[jobroom](https://www.job-room.ch/home/job-seeker)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5RpE7sBC",
+        "userBounds": [
+          209,
+          35,
+          null,
+          null
+        ],
+        "bounds": [
+          209,
+          35,
+          178,
+          86
+        ],
+        "content": "ch-login\n--\ns9n6DHfb)J4tN9+",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nDcmuD8U",
+        "userBounds": [
+          924,
+          61,
+          null,
+          null
+        ],
+        "bounds": [
+          924,
+          61,
+          122,
+          41
+        ],
+        "content": "[work-efforts](https://www.job-room.ch/work-efforts/create)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uRQRfDNX",
+        "userBounds": [
+          370,
+          479,
+          173.8125,
+          null
+        ],
+        "bounds": [
+          370,
+          479,
+          174,
+          262
+        ],
+        "content": "# Caisse de chômage OCS\n---\nRte Renens 24\n1008 Prilly\n---\ninfo.vd@ocsv.ch\nindiquez toujours votre n° personnel ou n° REE\n---\n+41 21 632 50 80\n---\nOrganisme de Compensation Chômage",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-49LlZazk",
+        "userBounds": [
+          249,
+          571,
+          null,
+          null
+        ],
+        "bounds": [
+          249,
+          571,
+          61,
+          41
+        ],
+        "content": "rôles",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Kiw2Nart",
+        "userBounds": [
+          151,
+          663,
+          119.25,
+          null
+        ],
+        "bounds": [
+          151,
+          663,
+          119,
+          50
+        ],
+        "content": "Vérifie présence aux formations",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-qHhAxJ3f",
+        "userBounds": [
+          902,
+          521,
+          220.859375,
+          null
+        ],
+        "bounds": [
+          902,
+          521,
+          221,
+          82
+        ],
+        "content": "# ORP\n---\nOFFICE RÉGIONAL DE PLACEMENT OUEST LAUSANNOIS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-TDPTqMIB",
+        "userBounds": [
+          132,
+          502,
+          103.25,
+          null
+        ],
+        "bounds": [
+          132,
+          502,
+          103,
+          50
+        ],
+        "content": "comptabilité, indemnisation",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Mje4Tg2o",
+        "userBounds": [
+          1256,
+          539,
+          null,
+          null
+        ],
+        "bounds": [
+          1256,
+          539,
+          61,
+          41
+        ],
+        "content": "rôles",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4fMfnGLy",
+        "userBounds": [
+          1426,
+          445,
+          null,
+          null
+        ],
+        "bounds": [
+          1426,
+          445,
+          58,
+          41
+        ],
+        "content": "suivi",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MGQqIHXf",
+        "userBounds": [
+          1470,
+          567,
+          null,
+          null
+        ],
+        "bounds": [
+          1470,
+          567,
+          177,
+          41
+        ],
+        "content": "accompagnement",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-YxJ9keGF",
+        "userBounds": [
+          1457,
+          697,
+          null,
+          null
+        ],
+        "bounds": [
+          1457,
+          697,
+          124,
+          41
+        ],
+        "content": "surveillance",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-speBfGPt",
+        "userBounds": [
+          1034,
+          366,
+          null,
+          null
+        ],
+        "bounds": [
+          1034,
+          366,
+          116,
+          41
+        ],
+        "content": "Loïc Müller",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-K1DXYTHY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F9ByxnlL",
+            "target": "NOTE-nDcmuD8U"
+          },
+          {
+            "id": "END-6ab1L4dp",
+            "target": "NOTE-GvxQu3QV"
+          }
+        ]
+      },
+      {
+        "id": "REL-9vIqSS3U",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XAtsIWni",
+            "target": "NOTE-49LlZazk"
+          },
+          {
+            "id": "END-kACCNaoA",
+            "target": "NOTE-uRQRfDNX"
+          }
+        ]
+      },
+      {
+        "id": "REL-uHJLiYEI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-idISKWAc",
+            "target": "NOTE-Kiw2Nart"
+          },
+          {
+            "id": "END-ZAxTRjYD",
+            "target": "NOTE-49LlZazk"
+          }
+        ]
+      },
+      {
+        "id": "REL-gGt91Efa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pncr3zZ6",
+            "target": "NOTE-TDPTqMIB"
+          },
+          {
+            "id": "END-qJyfFYXx",
+            "target": "NOTE-49LlZazk"
+          }
+        ]
+      },
+      {
+        "id": "REL-CnQIjRJh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wByQmlqe",
+            "target": "NOTE-Mje4Tg2o"
+          },
+          {
+            "id": "END-CRwEWI7L",
+            "target": "NOTE-YxJ9keGF"
+          }
+        ]
+      },
+      {
+        "id": "REL-VMiUfBn3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ltVtUC8I",
+            "target": "NOTE-Mje4Tg2o"
+          },
+          {
+            "id": "END-RZK5sbG3",
+            "target": "NOTE-MGQqIHXf"
+          }
+        ]
+      },
+      {
+        "id": "REL-t13DB4X9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-U1gKSxwp",
+            "target": "NOTE-Mje4Tg2o"
+          },
+          {
+            "id": "END-9HTCErlb",
+            "target": "NOTE-4fMfnGLy"
+          }
+        ]
+      },
+      {
+        "id": "REL-mmyj3yZu",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hJs1U9J6",
+            "target": "NOTE-Mje4Tg2o"
+          },
+          {
+            "id": "END-vruRjojF",
+            "target": "NOTE-qHhAxJ3f"
+          }
+        ]
+      },
+      {
+        "id": "REL-qBQDG7Rj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GLsb6fmh",
+            "target": "NOTE-speBfGPt"
+          },
+          {
+            "id": "END-aoV4ysTl",
+            "target": "NOTE-qHhAxJ3f"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-CqczrvoG",
+        "userBounds": [
+          443,
+          180,
+          null,
+          null
+        ],
+        "content": "Field\n---\n- name\n- publicName [0..1]",
+        "bounds": [
+          443,
+          180,
+          188,
+          109
+        ],
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-FZipwdAv",
+        "userBounds": [
+          103,
+          180,
+          null,
+          null
+        ],
+        "content": "Structure\n---\n- name\n- publicName [0..1]",
+        "bounds": [
+          103,
+          180,
+          188,
+          109
+        ],
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-oqYFK5NQ",
+        "userBounds": [
+          896,
+          180,
+          null,
+          null
+        ],
+        "content": "Value\n---\n- qualifiedElement\n- stringValue [0..1]",
+        "bounds": [
+          896,
+          180,
+          181,
+          109
+        ],
+        "noteStyle": "UML_CLASS"
+      },
+      {
+        "id": "NOTE-DvumcwSo",
+        "userBounds": [
+          60,
+          130,
+          627.71875,
+          238
+        ],
+        "content": "data.description",
+        "bounds": [
+          60,
+          130,
+          628,
+          238
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-LEMHecQL",
+        "userBounds": [
+          815,
+          132,
+          351.203125,
+          237
+        ],
+        "content": "data.storage",
+        "bounds": [
+          815,
+          132,
+          351,
+          237
+        ],
+        "noteStyle": "CONTAINER"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-pyHAG9LE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-sUIGEDjs",
+            "target": "NOTE-CqczrvoG",
+            "textOver": {
+              "content": "1..*"
+            },
+            "attachPointNumber": 9,
+            "textUnder": {
+              "content": "fields"
+            }
+          },
+          {
+            "id": "END-Bpa9KrfB",
+            "target": "NOTE-FZipwdAv",
+            "attachPointNumber": 3,
+            "decoration": "FULL_RECTANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-GjMY3WDU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-F2Idm8bE",
+            "target": "NOTE-CqczrvoG",
+            "attachPointNumber": 3,
+            "decoration": "FULL_RECTANGLE"
+          },
+          {
+            "id": "END-CcmRcTr6",
+            "target": "NOTE-oqYFK5NQ",
+            "attachPointNumber": 9,
+            "textOver": {
+              "content": "0..1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

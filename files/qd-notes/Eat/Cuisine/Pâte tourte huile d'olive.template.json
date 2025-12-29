@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-pateTourteHuileDOlive",
+  "content": {
+    "index": "pâte tourte tarte huile olive cuisine",
+    "name": "Pâte tourte huile d'olive",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "## Notes\n\nDernière fois :\n- trop sèche\n- pas assez fine (planche du mauvais côté\n\n## Ingrédients\n\n- 1 pincée de sel\n- 250 g de farine\n- 1 oeuf\n- 6 cl d' huile d'olive\n- 6 cl d' eau\n\n## Préparation\n\n### Étape 1\n\nMettre la farine sur un plan de travail ou dans un saladier.\n\n### Étape 2\n\nBattre l'oeuf dans un bol avec le sel. Faire un puits, y verser l'oeuf battu, puis l'huile, puis l'eau. Bien mélanger au fur et à mesure. Former une boule.\n\n### Étape 3\n\nEnvelopper d'un film plastique ou de papier aluminium et laisser reposer environ une heure dans un saladier (éventuellement au frigo).\n\n### Étape 4\n\nLa cuisson dépendra de la recette.\n\nsource : https://www.marmiton.org/recettes/recette_pate-a-tarte-ou-tourte-a-l-huile-d-olive_27919.aspx",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Q156TKvE",
+        "userBounds": [
+          545,
+          332,
+          null,
+          null
+        ],
+        "bounds": [
+          545,
+          332,
+          103,
+          60
+        ],
+        "content": "# [FitGirl](https://fitgirl-repacks.site/)\nJan 7th, 2024",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-yPqjPWo4",
+        "userBounds": [
+          702,
+          531,
+          null,
+          null
+        ],
+        "bounds": [
+          702,
+          531,
+          156,
+          41
+        ],
+        "content": "[Steamunlocked](https://steamunlocked.net/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MsK7LdwY",
+        "userBounds": [
+          997,
+          538,
+          null,
+          null
+        ],
+        "bounds": [
+          997,
+          538,
+          89,
+          41
+        ],
+        "content": "[Skidrow](https://www.skidrow-games.com/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xY35ElQF",
+        "userBounds": [
+          811,
+          277,
+          null,
+          null
+        ],
+        "bounds": [
+          811,
+          277,
+          98,
+          41
+        ],
+        "content": "[elamigos](https://www.elamigos-games.net/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DfDZr3o5",
+        "userBounds": [
+          1101,
+          343,
+          null,
+          null
+        ],
+        "bounds": [
+          1101,
+          343,
+          110,
+          41
+        ],
+        "content": "[ovagames](https://www.ovagames.com/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

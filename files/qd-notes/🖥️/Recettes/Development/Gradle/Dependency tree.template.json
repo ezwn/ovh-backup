@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gradleDependencyTree",
+  "content": {
+    "index": "gradle dependency tree",
+    "name": "Gradle, dependency tree",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "./gradlew dependencies${dependencyFilter}",
+        "defaultText": null
+      },
+      {
+        "id": "dependencyFilter",
+        "textTemplate": " | grep \"${dependencyGroupAndName}\"",
+        "defaultText": ""
+      }
+    ]
+  }
+}

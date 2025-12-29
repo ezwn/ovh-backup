@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-springGradleBootRun",
+  "content": {
+    "index": "start spring boot gradle gradlew",
+    "name": "Start spring boot with gradle",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "./gradlew bootRun",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaPipedStreams",
+  "content": {
+    "index": "java piped streams nsy102",
+    "name": "Java, Piped Streams",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "PipedOutputStream output = new PipedOutputStream();\nPipedInputStream input = new PipedInputStream(output);\n\nnew Thread(() -> {\n    try {\n        output.write(\"Message 1\".getBytes());\n        output.close();\n    } catch (IOException e) {\n        e.printStackTrace();\n    }\n}).start();\n\nnew Thread(() -> {\n    try {\n        int data;\n        while ((data = input.read()) != -1) {\n            System.out.print((char) data);\n        }\n        input.close();\n    } catch (IOException e) {\n        e.printStackTrace();\n    }\n}).start();",
+        "defaultText": null
+      }
+    ]
+  }
+}

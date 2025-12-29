@@ -1,0 +1,108 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-WM3c7wgE",
+        "userBounds": [
+          783,
+          334,
+          null,
+          null
+        ],
+        "content": "Mockito",
+        "bounds": [
+          783,
+          334,
+          156,
+          63
+        ],
+        "fontSize": 40
+      },
+      {
+        "id": "NOTE-zwpm7Y4N",
+        "userBounds": [
+          716,
+          198,
+          null,
+          null
+        ],
+        "content": "# verify\nüberprüft ob eine Methode\nangerufen ist",
+        "bounds": [
+          716,
+          198,
+          135,
+          58
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-qXuTLjir",
+        "userBounds": [
+          919,
+          240,
+          null,
+          null
+        ],
+        "content": "# @Mock",
+        "bounds": [
+          919,
+          240,
+          75,
+          36
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-kRUWjhmz",
+        "userBounds": [
+          969,
+          340,
+          null,
+          null
+        ],
+        "content": "# @InjectMocks",
+        "bounds": [
+          969,
+          340,
+          125,
+          36
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-PbYo7XRA",
+        "userBounds": [
+          853,
+          448,
+          null,
+          null
+        ],
+        "content": "# when",
+        "bounds": [
+          853,
+          448,
+          67,
+          40
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-2hMHfje8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "KuZ5TZ4H",
+            "target": "NOTE-zwpm7Y4N"
+          },
+          {
+            "id": "D8QMQzfT",
+            "target": "NOTE-WM3c7wgE"
+          }
+        ]
+      }
+    ]
+  }
+}

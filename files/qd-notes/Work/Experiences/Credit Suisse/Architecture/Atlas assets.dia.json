@@ -1,0 +1,256 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-eaSiK4Nj",
+        "userBounds": [
+          579,
+          575,
+          217.390625,
+          null
+        ],
+        "content": "# cops-global-web\n---\nComsphere Global case manager frontend",
+        "bounds": [
+          579,
+          575,
+          217,
+          130
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-NWFVYKqy",
+        "userBounds": [
+          1182,
+          590,
+          211.171875,
+          null
+        ],
+        "content": "# cops-global-api\n---\nComsphere Global case manager backend",
+        "bounds": [
+          1182,
+          590,
+          211,
+          101
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aNILBi1M",
+        "userBounds": [
+          570,
+          411,
+          null,
+          null
+        ],
+        "content": "# atlas-ui\n---\nreusable frontend components",
+        "bounds": [
+          570,
+          411,
+          234,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-7Ph6jYPp",
+        "userBounds": [
+          1107,
+          247,
+          null,
+          null
+        ],
+        "content": "# atlas-foundation\n---\nreusable backend components",
+        "bounds": [
+          1107,
+          247,
+          236,
+          83
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-aZx3mJ2Z",
+        "userBounds": [
+          587,
+          46,
+          null,
+          null
+        ],
+        "content": "# ccrocsmgmt-ui",
+        "bounds": [
+          587,
+          46,
+          201,
+          47
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-CM9eqGSa",
+        "userBounds": [
+          1070,
+          44,
+          null,
+          null
+        ],
+        "content": "# ccrocsmgmt-foundation",
+        "bounds": [
+          1070,
+          44,
+          311,
+          47
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-5Ua8WP4U",
+        "userBounds": [
+          485,
+          216,
+          1029.875,
+          504
+        ],
+        "content": "# ATLAS\n# ASSETS",
+        "bounds": [
+          485,
+          216,
+          1030,
+          504
+        ],
+        "noteStyle": "CONTAINER"
+      },
+      {
+        "id": "NOTE-zV8EHkcV",
+        "userBounds": [
+          1078,
+          393,
+          174.765625,
+          null
+        ],
+        "content": "# atlas-api\n---\nReference implementation\napplication",
+        "bounds": [
+          1078,
+          393,
+          175,
+          119
+        ],
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-SCoWPHsf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-x7hnKXCX",
+            "target": "NOTE-eaSiK4Nj"
+          },
+          {
+            "id": "END-SocfBvHk",
+            "target": "NOTE-aNILBi1M",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-dzfYiwhL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jFTB6JcH",
+            "target": "NOTE-aNILBi1M"
+          },
+          {
+            "id": "END-JxvuDPgW",
+            "target": "NOTE-aZx3mJ2Z",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-Ay1uMkR6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6dxiodhn",
+            "target": "NOTE-NWFVYKqy"
+          },
+          {
+            "id": "END-1cBtpBIp",
+            "target": "NOTE-7Ph6jYPp",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-D5CuNAi8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2UxcZ2EN",
+            "target": "NOTE-7Ph6jYPp"
+          },
+          {
+            "id": "END-8zHMi9a3",
+            "target": "NOTE-CM9eqGSa",
+            "attachPointNumber": 6,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-C2CiXkVf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-laLHC9lV",
+            "target": "NOTE-eaSiK4Nj"
+          },
+          {
+            "id": "END-vjhGoGUq",
+            "target": "NOTE-NWFVYKqy",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-cQ8KJta1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bwnmQ5UR",
+            "target": "NOTE-zV8EHkcV"
+          },
+          {
+            "id": "END-UzpmHm7Q",
+            "target": "NOTE-7Ph6jYPp",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-JlUVciGF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lodET3LM",
+            "target": "NOTE-aNILBi1M"
+          },
+          {
+            "id": "END-ogyjqeyy",
+            "target": "NOTE-zV8EHkcV",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerGetImage",
+  "content": {
+    "index": "docker, get image",
+    "name": "Docker, get image",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker pull wurstmeister/kafka",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-haricotsVertsALaSauceSesame",
+  "content": {
+    "index": "haricots verts à la sauce sésame cuisine chine chinois",
+    "name": "Haricots verts à la sauce sésame",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "### Haricots verts à la sauce sésame\n\n**Préparation :** 8 minutes • **Cuisson :** 5 minutes\n\n#### Ingrédients\n- 200 g de haricots verts extrafins\n- 25 g de **pâte de sésame**\n- 3.5 gousses d’ail finement hachées\n- 1.5 c. à s. de vinaigre chinois\n- 0.5 cube de bouillon de volaille écrasé en poudre\n- 0.5 c. à s. d’huile de sésame\n- 1 c. à c. de sel\n\n#### Préparation\n1. Équeutez et lavez les haricots verts puis coupez-les en morceaux de 5 cm de longueur.\n2. Faites-les cuire dans une casserole d’eau légèrement salée pendant 5 minutes. Plongez-les dans de l’eau froide. Égouttez-les et réservez-les dans une assiette.\n3. Réunissez la pâte de sésame, l’ail, le sel, le vinaigre, le cube de bouillon de volaille et l’huile de sésame dans un bol. Mélangez et versez cette sauce sur les haricots verts.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-Z9HCbUTa",
+          "userBounds": [
+            603,
+            358,
+            null,
+            null
+          ],
+          "bounds": [
+            603,
+            358,
+            65,
+            41
+          ],
+          "content": "Anne",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-YHMNX7g3",
+          "userBounds": [
+            682,
+            231,
+            null,
+            null
+          ],
+          "bounds": [
+            682,
+            231,
+            85,
+            41
+          ],
+          "content": "Maman",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-nUMNycws",
+          "userBounds": [
+            647,
+            484,
+            null,
+            null
+          ],
+          "bounds": [
+            647,
+            484,
+            65,
+            41
+          ],
+          "content": "Papa",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-2PHbCEbt",
+          "userBounds": [
+            835,
+            188,
+            null,
+            null
+          ],
+          "bounds": [
+            835,
+            188,
+            100,
+            41
+          ],
+          "content": "Elisabeth",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-Q1Ke5GaL",
+          "userBounds": [
+            820,
+            514,
+            null,
+            null
+          ],
+          "bounds": [
+            820,
+            514,
+            90,
+            41
+          ],
+          "content": "Ingelore",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-b4wjQUYW",
+          "userBounds": [
+            1032,
+            487,
+            null,
+            null
+          ],
+          "bounds": [
+            1032,
+            487,
+            92,
+            41
+          ],
+          "content": "Clément",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-zu4T8TLT",
+          "userBounds": [
+            1046,
+            316,
+            null,
+            null
+          ],
+          "bounds": [
+            1046,
+            316,
+            65,
+            41
+          ],
+          "content": "Lilian",
+          "zIndex": 3,
+          "noteStyle": "GREEN"
+        },
+        {
+          "id": "NOTE-ET6bjYB4",
+          "userBounds": [
+            828,
+            90,
+            null,
+            null
+          ],
+          "bounds": [
+            828,
+            90,
+            85,
+            34
+          ],
+          "content": "Puy du fou",
+          "zIndex": 3,
+          "noteStyle": "NOTE",
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-tN7hc5xA",
+          "userBounds": [
+            861,
+            652,
+            null,
+            null
+          ],
+          "bounds": [
+            861,
+            652,
+            78,
+            36
+          ],
+          "content": "Romans",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-4FpmU45D",
+          "userBounds": [
+            1267,
+            608,
+            null,
+            null
+          ],
+          "bounds": [
+            1267,
+            608,
+            93,
+            54
+          ],
+          "content": "je rêve\nvétérinaire",
+          "zIndex": 3,
+          "fontSize": 16
+        },
+        {
+          "id": "NOTE-dtRlfkP8",
+          "userBounds": [
+            535,
+            124,
+            null,
+            null
+          ],
+          "bounds": [
+            535,
+            124,
+            63,
+            41
+          ],
+          "content": "epub",
+          "zIndex": 3,
+          "noteStyle": "NOTE"
+        },
+        {
+          "id": "NOTE-SrUra6VV",
+          "userBounds": [
+            1276,
+            195,
+            null,
+            null
+          ],
+          "bounds": [
+            1276,
+            195,
+            45,
+            41
+          ],
+          "content": "fric",
+          "zIndex": 3,
+          "noteStyle": "NOTE"
+        },
+        {
+          "id": "NOTE-zunjFdMK",
+          "userBounds": [
+            524,
+            603,
+            115.046875,
+            null
+          ],
+          "bounds": [
+            524,
+            603,
+            115,
+            50
+          ],
+          "content": "Cathédrale de Strasbourg",
+          "zIndex": 3,
+          "fontSize": 14
+        },
+        {
+          "id": "NOTE-ZA52hiyt",
+          "userBounds": [
+            951,
+            100,
+            null,
+            null
+          ],
+          "bounds": [
+            951,
+            100,
+            84,
+            34
+          ],
+          "content": "Ordinateur",
+          "zIndex": 3,
+          "fontSize": 14
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-TNYvLjsW",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-VJYU6v9h",
+              "target": "NOTE-tN7hc5xA"
+            },
+            {
+              "id": "END-t8FHjzFI",
+              "target": "NOTE-Q1Ke5GaL"
+            }
+          ]
+        },
+        {
+          "id": "REL-zUursxGc",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-nT1DWPf6",
+              "target": "NOTE-4FpmU45D"
+            },
+            {
+              "id": "END-uuYpsm9Q",
+              "target": "NOTE-b4wjQUYW"
+            }
+          ]
+        },
+        {
+          "id": "REL-hh13qkYY",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-6cHNrbbW",
+              "target": "NOTE-dtRlfkP8"
+            },
+            {
+              "id": "END-zDj8u8Dr",
+              "target": "NOTE-YHMNX7g3"
+            }
+          ]
+        },
+        {
+          "id": "REL-B69t1cyN",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-Y34tM1Im",
+              "target": "NOTE-SrUra6VV"
+            },
+            {
+              "id": "END-hThhiCAL",
+              "target": "NOTE-zu4T8TLT"
+            }
+          ]
+        },
+        {
+          "id": "REL-1GDJMXAp",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-znEFToSs",
+              "target": "NOTE-zunjFdMK"
+            },
+            {
+              "id": "END-DlV3lBxy",
+              "target": "NOTE-nUMNycws"
+            }
+          ]
+        },
+        {
+          "id": "REL-Invwn3yE",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-t71R4oXd",
+              "target": "NOTE-2PHbCEbt"
+            },
+            {
+              "id": "END-htk7iftP",
+              "target": "NOTE-ET6bjYB4"
+            }
+          ]
+        },
+        {
+          "id": "REL-AnZjKM7r",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-EiF55yJ3",
+              "target": "NOTE-2PHbCEbt"
+            },
+            {
+              "id": "END-cmCcoH8p",
+              "target": "NOTE-ZA52hiyt"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "30309fed-3fdf-41ee-b05f-2d4542683588",
+  "docTypeVersion": 1
+}

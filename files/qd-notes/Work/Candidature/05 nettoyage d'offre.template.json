@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiNettoyageDOffre",
+  "content": {
+    "index": "emploi nettoyage d'offre",
+    "name": "Candidature 05 : nettoyage d'offre (emploi)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "1. Tout d'abord, donner un nom de fichier pour sauvegarder cette offre, selon le template :\nYYMMDDHH - {TITRE DU POSTE} - {NOM DE L'ENTREPRISE}.md\n\n2. Puis en retirer :\n\n- éléments de navigation, formulaires de saisie\n- mentions légales standard\n- publicité\n\n3. La formater :\n\n- en markdown, mais sans utiliser le gras et l'italique\n- en standardisant le nombre de retours à la ligne et d'espaces\n\n4. Ne pas reformuler ce qui est conservé\n\nDonner l'offre traitée ainsi en dessous du nom du fichier.\n\n---\n\n${offerContent:text}",
+        "defaultText": null
+      }
+    ]
+  }
+}

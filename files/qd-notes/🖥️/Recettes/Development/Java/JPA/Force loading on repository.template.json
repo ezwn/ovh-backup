@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaForceLoadingOnRepository",
+  "content": {
+    "index": "jpa, force loading on repository",
+    "name": "JPA, force loading on repository",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "public interface FactureRepository extends JpaRepository <Facture , Long> {\n    // Force le chargement des détails de la facture.\n    @EntityGraph(attributePaths = { \"lignesCommandes\"}, type = EntityGraphType.LOAD)\n    List<Facture > findAll();\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

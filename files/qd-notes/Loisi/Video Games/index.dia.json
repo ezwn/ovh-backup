@@ -1,0 +1,349 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2eLhvqBW",
+        "userBounds": [
+          213,
+          460,
+          null,
+          null
+        ],
+        "content": "TES",
+        "bounds": [
+          213,
+          460,
+          45,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-sDoLHeew",
+        "userBounds": [
+          215,
+          266,
+          null,
+          null
+        ],
+        "content": "Gothics",
+        "bounds": [
+          215,
+          266,
+          65,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-cW71J2gy",
+        "userBounds": [
+          1233,
+          308,
+          null,
+          null
+        ],
+        "content": "Age of\nEmpire 4",
+        "bounds": [
+          1233,
+          308,
+          98,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-ZsE9iMzf",
+        "userBounds": [
+          753,
+          102,
+          null,
+          null
+        ],
+        "content": "The walking deads",
+        "bounds": [
+          753,
+          102,
+          135,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-hCttCwvk",
+        "userBounds": [
+          1224,
+          481,
+          null,
+          null
+        ],
+        "bounds": [
+          1224,
+          481,
+          238,
+          41
+        ],
+        "content": "Red Dead Redemption 2",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-AdEJ6X37",
+        "userBounds": [
+          273,
+          355,
+          null,
+          null
+        ],
+        "bounds": [
+          273,
+          355,
+          115,
+          64
+        ],
+        "content": "RPG\nOpenworld",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o3hij4ub",
+        "userBounds": [
+          212,
+          547,
+          null,
+          null
+        ],
+        "bounds": [
+          212,
+          547,
+          72,
+          34
+        ],
+        "content": "SKYRIM",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-A4kdWeD8",
+        "userBounds": [
+          141,
+          610,
+          null,
+          null
+        ],
+        "bounds": [
+          141,
+          610,
+          80,
+          32
+        ],
+        "content": "[TOT CONV](https://gamerant.com/skyrim-best-total-conversion-mods/#shumer-and-the-fall-of-allagard)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-4BHIYwmm",
+        "userBounds": [
+          350,
+          257,
+          104.5625,
+          null
+        ],
+        "bounds": [
+          350,
+          257,
+          105,
+          46
+        ],
+        "content": "Kingdom Come: Deliverance",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-s45cwZWf",
+        "userBounds": [
+          144,
+          349,
+          null,
+          null
+        ],
+        "bounds": [
+          144,
+          349,
+          90,
+          34
+        ],
+        "content": "The witcher",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-t7SDmMhx",
+        "userBounds": [
+          701,
+          651,
+          null,
+          null
+        ],
+        "bounds": [
+          701,
+          651,
+          145,
+          41
+        ],
+        "content": "[GREEN HELL](https://greenhell.fandom.com/wiki/Updates)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-MHDZTJXp",
+        "userBounds": [
+          680,
+          541,
+          null,
+          null
+        ],
+        "bounds": [
+          680,
+          541,
+          89,
+          41
+        ],
+        "content": "Survival",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gQQt5WF5",
+        "userBounds": [
+          558,
+          605,
+          null,
+          null
+        ],
+        "bounds": [
+          558,
+          605,
+          118,
+          41
+        ],
+        "content": "Subnautica",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-koWBFDI7",
+        "shape": "CENTROID",
+        "ends": []
+      },
+      {
+        "id": "REL-hjSd5vWA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RXjBi4KN",
+            "target": "NOTE-AdEJ6X37"
+          },
+          {
+            "id": "END-gdE7Uqm9",
+            "target": "NOTE-2eLhvqBW"
+          }
+        ]
+      },
+      {
+        "id": "REL-aVGCvsk1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xzIsEByb",
+            "target": "NOTE-AdEJ6X37"
+          },
+          {
+            "id": "END-2EtasbFW",
+            "target": "NOTE-sDoLHeew"
+          }
+        ]
+      },
+      {
+        "id": "REL-2qkRrG3h",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WvXSqks2",
+            "target": "NOTE-o3hij4ub"
+          },
+          {
+            "id": "END-KPnoaZSi",
+            "target": "NOTE-2eLhvqBW"
+          }
+        ]
+      },
+      {
+        "id": "REL-1c91UXD1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-N2gYjwiS",
+            "target": "NOTE-A4kdWeD8"
+          },
+          {
+            "id": "END-EkKqLNCQ",
+            "target": "NOTE-o3hij4ub"
+          }
+        ]
+      },
+      {
+        "id": "REL-VKaEE8lr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XQSRkAIn",
+            "target": "NOTE-4BHIYwmm"
+          },
+          {
+            "id": "END-TJs1q5x5",
+            "target": "NOTE-AdEJ6X37"
+          }
+        ]
+      },
+      {
+        "id": "REL-zLhPBU4a",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FiiszEbK",
+            "target": "NOTE-s45cwZWf"
+          },
+          {
+            "id": "END-pcPqApEP",
+            "target": "NOTE-AdEJ6X37"
+          }
+        ]
+      },
+      {
+        "id": "REL-qdsN1A4o",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5uFmTCGR",
+            "target": "NOTE-MHDZTJXp"
+          },
+          {
+            "id": "END-SDxsdTED",
+            "target": "NOTE-gQQt5WF5"
+          }
+        ]
+      },
+      {
+        "id": "REL-jAFGoBFz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CjYkZUBb",
+            "target": "NOTE-MHDZTJXp"
+          },
+          {
+            "id": "END-UveeUTKw",
+            "target": "NOTE-t7SDmMhx"
+          }
+        ]
+      }
+    ]
+  }
+}

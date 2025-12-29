@@ -1,0 +1,25 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-redAyqjE",
+        "userBounds": [
+          217,
+          170,
+          162.515625,
+          null
+        ],
+        "bounds": [
+          217,
+          170,
+          163,
+          54
+        ],
+        "content": "[OFFICIAL LIST OF PERMISSIONS](https://confluence.intra.nexthink.com/display/NEB/Permissions+list)",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": []
+  }
+}

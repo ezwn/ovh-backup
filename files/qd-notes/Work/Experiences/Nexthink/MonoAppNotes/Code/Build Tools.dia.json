@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-haSreyJr",
+        "userBounds": [
+          254,
+          140,
+          null,
+          null
+        ],
+        "bounds": [
+          254,
+          140,
+          125,
+          41
+        ],
+        "content": "[SCAFFOLD](https://github.com/nexthink/build-tools.java-gradle-scaffold-plugin)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

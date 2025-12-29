@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-noteSyntheseGenererLePlan",
+  "content": {
+    "index": "note synthèse générer le plan",
+    "name": "Note Synthèse : 6 - générer le plan",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant qu'expert, à la fois du domaine et de la pédagogie. Dans le cadre de la rédaction d'une note de synthèse à visée didactique sur le thème \"${theme:text}\", sélectionner les idées prioritaires à transmettre, sachant que le texte complet (mais sans le plan) devra faire de 3500 tokens, et structure-les en un plan qui sera donné en entrée dans une autre conversation pour générer la note. Donne ce plan en markdown.\n\n- ne produit ni introduction, ni conclusion\n- n'inclus pas d'éléments historiques",
+        "defaultText": null
+      }
+    ]
+  }
+}

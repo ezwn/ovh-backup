@@ -1,0 +1,79 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-8MLdD5mG",
+        "userBounds": [
+          592,
+          349,
+          null,
+          null
+        ],
+        "content": "PSYCHO",
+        "zIndex": 3,
+        "bounds": [
+          592,
+          349,
+          145,
+          52
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-zt6fa6cZ",
+        "userBounds": [
+          757,
+          481,
+          null,
+          null
+        ],
+        "content": "[EPISTEMO](./Epistemology.dia.json)",
+        "zIndex": 3,
+        "bounds": [
+          757,
+          481,
+          183,
+          55
+        ],
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-VlkUa3cP",
+        "userBounds": [
+          790,
+          243,
+          null,
+          null
+        ],
+        "bounds": [
+          790,
+          243,
+          106,
+          55
+        ],
+        "content": "[MATH](./Math/Index.dia.json)",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-BItKrUXS",
+        "userBounds": [
+          973,
+          355,
+          null,
+          null
+        ],
+        "bounds": [
+          973,
+          355,
+          90,
+          52
+        ],
+        "content": "[INFO](./Info./Index.dia.json)",
+        "zIndex": 3,
+        "fontSize": 30
+      }
+    ],
+    "relations": []
+  }
+}

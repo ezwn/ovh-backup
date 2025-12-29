@@ -1,0 +1,99 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-nLVmYiBF",
+        "userBounds": [
+          501,
+          347,
+          null
+        ],
+        "content": "styleguidist",
+        "bounds": [
+          501,
+          347,
+          117,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3GUXepcq",
+        "userBounds": [
+          491,
+          425,
+          null
+        ],
+        "content": "storybook",
+        "bounds": [
+          491,
+          425,
+          105,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-L3CSW4Kq",
+        "userBounds": [
+          672,
+          367,
+          null
+        ],
+        "content": "Komponeten\nIsolierte\nEntwicklung",
+        "bounds": [
+          672,
+          367,
+          131,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-J7Mx2Ts5",
+        "userBounds": [
+          924,
+          554,
+          null
+        ],
+        "content": "Husky ?",
+        "bounds": [
+          924,
+          554,
+          90,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-e2rYB1pB",
+        "userBounds": [
+          893,
+          181,
+          null,
+          null
+        ],
+        "content": "dotenv",
+        "bounds": [
+          893,
+          181,
+          78,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-oUhun5IM",
+        "userBounds": [
+          756,
+          105,
+          null,
+          null
+        ],
+        "content": "env-cmd",
+        "bounds": [
+          756,
+          105,
+          95,
+          41
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

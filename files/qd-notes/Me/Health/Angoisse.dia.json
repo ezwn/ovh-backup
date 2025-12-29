@@ -1,0 +1,393 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-SoctuXjT",
+        "userBounds": [
+          795,
+          345,
+          null,
+          null
+        ],
+        "bounds": [
+          795,
+          345,
+          122,
+          64
+        ],
+        "content": "ANGOISSE\nTRAVAIL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NZkvcnIx",
+        "userBounds": [
+          610,
+          346,
+          null,
+          null
+        ],
+        "bounds": [
+          610,
+          346,
+          119,
+          64
+        ],
+        "content": "NIVEAUX\nSECURITE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gRPrPmVE",
+        "userBounds": [
+          555,
+          472,
+          null,
+          null
+        ],
+        "bounds": [
+          555,
+          472,
+          234,
+          72
+        ],
+        "content": "1. PERCEPTION\nEXAGEREE DU\nRISQUE: UNE HABITUDE",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Q2LHWpGQ",
+        "userBounds": [
+          528,
+          607,
+          null,
+          null
+        ],
+        "bounds": [
+          528,
+          607,
+          110,
+          66
+        ],
+        "content": "PROBABILITE\nOCCURENCE\nERONNEE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-D7Zk8ZZ1",
+        "userBounds": [
+          702,
+          619,
+          null,
+          null
+        ],
+        "bounds": [
+          702,
+          619,
+          87,
+          50
+        ],
+        "content": "GRAVITE\nERONNEE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-krHPEac6",
+        "userBounds": [
+          381,
+          543,
+          null,
+          null
+        ],
+        "bounds": [
+          381,
+          543,
+          137,
+          50
+        ],
+        "content": "CONSEQUENCES\nERONNEES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-nr1DWYvb",
+        "userBounds": [
+          388,
+          407,
+          null,
+          null
+        ],
+        "bounds": [
+          388,
+          407,
+          137,
+          50
+        ],
+        "content": "CONSEQUENCES\nNON FATALES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-RscS4rMq",
+        "userBounds": [
+          708,
+          710,
+          null,
+          null
+        ],
+        "bounds": [
+          708,
+          710,
+          81,
+          66
+        ],
+        "content": "CE N'EST\nPAS SI\nGRAVE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-dB3Ja1a2",
+        "userBounds": [
+          533,
+          710,
+          null,
+          null
+        ],
+        "bounds": [
+          533,
+          710,
+          93,
+          66
+        ],
+        "content": "C'EST\nPEU\nPROBABLE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-sf3V7ugI",
+        "userBounds": [
+          173,
+          548,
+          null,
+          null
+        ],
+        "bounds": [
+          173,
+          548,
+          167,
+          50
+        ],
+        "content": "LES CONSEQUENCES\nSERONT MOINDRES",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-XuUHgWVF",
+        "userBounds": [
+          184,
+          364,
+          null,
+          null
+        ],
+        "bounds": [
+          184,
+          364,
+          161,
+          74
+        ],
+        "content": "IL FAUT\nRELATIVISER:\nELLES NE SONT\nPAS UNE CATASTROPHE",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-4Fg1ZMp2",
+        "userBounds": [
+          87,
+          458,
+          null,
+          null
+        ],
+        "bounds": [
+          87,
+          458,
+          133,
+          32
+        ],
+        "content": "JE NE RISQUE RIEN",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-LWjc3Vgf",
+        "userBounds": [
+          920,
+          482,
+          null,
+          null
+        ],
+        "bounds": [
+          920,
+          482,
+          497,
+          155
+        ],
+        "content": "```typescript\nif (stressLevel>50) {\nconst riskySituation = findRiskySituation();\nconst consequences = riskySituation.findAllConsequences();\nconsequences.forEach(consequence -> consequence.recomputeProbability());\n}\n```",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-TDvcWyxU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FtPcGzT3",
+            "target": "NOTE-NZkvcnIx"
+          },
+          {
+            "id": "END-BwSPaNnp",
+            "target": "NOTE-SoctuXjT"
+          }
+        ]
+      },
+      {
+        "id": "REL-UJR88TPQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Rbrg5Ikr",
+            "target": "NOTE-gRPrPmVE"
+          },
+          {
+            "id": "END-UDFPYeRd",
+            "target": "NOTE-NZkvcnIx"
+          }
+        ]
+      },
+      {
+        "id": "REL-PTPw32Zq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-65No2pxG",
+            "target": "NOTE-D7Zk8ZZ1"
+          },
+          {
+            "id": "END-atlI3HAr",
+            "target": "NOTE-gRPrPmVE"
+          }
+        ]
+      },
+      {
+        "id": "REL-DV5VmBMb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MmCE2f2q",
+            "target": "NOTE-gRPrPmVE"
+          },
+          {
+            "id": "END-doVwUVgP",
+            "target": "NOTE-Q2LHWpGQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-bMgxJNBa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dk8tvpyU",
+            "target": "NOTE-krHPEac6"
+          },
+          {
+            "id": "END-Hvk2FbiI",
+            "target": "NOTE-gRPrPmVE"
+          }
+        ]
+      },
+      {
+        "id": "REL-VHyx1oAr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AdPEK9UK",
+            "target": "NOTE-nr1DWYvb"
+          },
+          {
+            "id": "END-5hlHXIbW",
+            "target": "NOTE-gRPrPmVE"
+          }
+        ]
+      },
+      {
+        "id": "REL-YZ4wMnT9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Z6vCfNSS",
+            "target": "NOTE-RscS4rMq"
+          },
+          {
+            "id": "END-zzBHz31W",
+            "target": "NOTE-D7Zk8ZZ1"
+          }
+        ]
+      },
+      {
+        "id": "REL-DIdBay4i",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9W3fLQ99",
+            "target": "NOTE-dB3Ja1a2"
+          },
+          {
+            "id": "END-kKcydulS",
+            "target": "NOTE-Q2LHWpGQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-WHILnEor",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-29U2WXlk",
+            "target": "NOTE-sf3V7ugI"
+          },
+          {
+            "id": "END-aqaG2W6Z",
+            "target": "NOTE-krHPEac6"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qdk7z9qk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4QWV6lCa",
+            "target": "NOTE-XuUHgWVF"
+          },
+          {
+            "id": "END-I5vg8EYD",
+            "target": "NOTE-nr1DWYvb"
+          }
+        ]
+      },
+      {
+        "id": "REL-Gq6313Fo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kMtmBFS9",
+            "target": "NOTE-4Fg1ZMp2"
+          },
+          {
+            "id": "END-lYT8MafI",
+            "target": "NOTE-XuUHgWVF"
+          }
+        ]
+      }
+    ]
+  }
+}

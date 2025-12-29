@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-junitParameterizedWithCsvFile",
+  "content": {
+    "index": "junit parameterized with csv file nsy102",
+    "name": "JUnit, Parameterized with CSV File",
+    "templates": [
+      {
+        "id": "code",
+        "textTemplate": "\t@ParameterizedTest\n\t@CsvFileSource(resources = \"/testProd2.csv\", numLinesToSkip = 1)\n\tvoid testProd2(int x, int y, int expected) {\n\t\tint actual = calc.prod(x, y);\n\t\tassertEquals(expected, actual);\n\t}",
+        "defaultText": null
+      }
+    ]
+  }
+}

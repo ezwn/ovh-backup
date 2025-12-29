@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-canardALaMandchourie",
+  "content": {
+    "index": "cuisine canard mandchourie chine chinois sucré salé",
+    "name": "Canard à la Mandchourie [*]",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Manchons de canard confits à la mode de Mandchourie\n\n**Préparation :** 10 minutes  \n**Cuisson :** 52 minutes\n\n### Ingrédients :\n- 500 g de manchons de canard\n- 2 c. à s. d’huile de tournesol\n- 20 g de sucre candi\n- 10 g de gingembre frais coupé en tranches\n- 2 étoiles de badiane\n- 1 bâton de cannelle\n- 2 gousses d’ail coupées en tranches\n- 1 c. à s. d’alcool jaune de riz\n- 2 c. à s. de sauce soja\n- 1 c. à s. de sauce soja foncée\n- 1 c. à s. de ciboulette finement ciselée\n- 1 c. à c. de sel\n\n### Préparation :\n1. Faites cuire les manchons de canard dans une casserole d’eau bouillante pendant 10 minutes à feu moyen. Égouttez-les.\n2. Faites chauffer l’huile dans une poêle. Faites-y fondre le sucre à feu doux. Quand il fond et colore, incorporez les manchons. Faites cuire pendant 2 minutes en tournant.\n3. Ajoutez le gingembre, la badiane, la cannelle et l’ail dans la poêle, puis versez-y l’alcool de riz, les sauces soja et 1 bol d’eau chaude. Portez à ébullition puis couvrez la poêle et laissez cuire à feu doux pendant 40 minutes.\n4. Ajoutez le sel et laissez réduire le bouillon à feu vif. Parsemez de ciboulette. Servez.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

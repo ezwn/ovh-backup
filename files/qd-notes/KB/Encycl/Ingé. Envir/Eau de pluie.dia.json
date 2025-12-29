@@ -1,0 +1,176 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-xbtptNBF",
+        "userBounds": [
+          120,
+          318,
+          null,
+          null
+        ],
+        "content": "Eau de pluie",
+        "bounds": [
+          120,
+          318,
+          129,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-e2BsDQb8",
+        "userBounds": [
+          222,
+          213,
+          null,
+          null
+        ],
+        "content": "[Distillation solaire](https://fr.wikipedia.org/wiki/Distillateur_solaire)",
+        "bounds": [
+          222,
+          213,
+          158,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-jt2Nl4oA",
+        "userBounds": [
+          309,
+          313,
+          null,
+          null
+        ],
+        "content": "Filtrage",
+        "bounds": [
+          309,
+          313,
+          85,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rTH3cTTa",
+        "userBounds": [
+          273,
+          412,
+          null,
+          null
+        ],
+        "content": "Serre",
+        "bounds": [
+          273,
+          412,
+          67,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3pd7tbEn",
+        "userBounds": [
+          173,
+          98,
+          null,
+          null
+        ],
+        "content": "[Plan brevet](https://patentscope.wipo.int/search/fr/detail.jsf?docId=WO2012087935)",
+        "bounds": [
+          173,
+          98,
+          119,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-HFYSitiC",
+        "userBounds": [
+          479,
+          309,
+          null,
+          null
+        ],
+        "bounds": [
+          479,
+          309,
+          226,
+          41
+        ],
+        "content": "filtration par percolation ",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-3TtvjtRm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NeVf3Ck3",
+            "target": "NOTE-xbtptNBF"
+          },
+          {
+            "id": "END-g688pjeH",
+            "target": "NOTE-e2BsDQb8"
+          }
+        ]
+      },
+      {
+        "id": "REL-vczgwU44",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PAniya4m",
+            "target": "NOTE-xbtptNBF"
+          },
+          {
+            "id": "END-2dV8K5Ic",
+            "target": "NOTE-jt2Nl4oA"
+          }
+        ]
+      },
+      {
+        "id": "REL-3BqDIcn7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tHm7PyuD",
+            "target": "NOTE-xbtptNBF"
+          },
+          {
+            "id": "END-53DdjKZQ",
+            "target": "NOTE-rTH3cTTa"
+          }
+        ]
+      },
+      {
+        "id": "REL-Sm5M9Ywk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PTNDcXZy",
+            "target": "NOTE-3pd7tbEn"
+          },
+          {
+            "id": "END-7bbsJ6YT",
+            "target": "NOTE-e2BsDQb8"
+          }
+        ]
+      },
+      {
+        "id": "REL-athJKp9n",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BV9WpK8y",
+            "target": "NOTE-HFYSitiC"
+          },
+          {
+            "id": "END-CfDw9DE4",
+            "target": "NOTE-jt2Nl4oA"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-pIpjofNs",
+        "userBounds": [
+          752,
+          315,
+          null,
+          null
+        ],
+        "bounds": [
+          752,
+          315,
+          182,
+          130
+        ],
+        "content": "IMPORTING\n& EXPORTING\nCAMPAIGNS\nTO FILES",
+        "zIndex": 3,
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-p8eH6Zeu",
+        "userBounds": [
+          1196,
+          439,
+          null,
+          null
+        ],
+        "bounds": [
+          1196,
+          439,
+          108,
+          44
+        ],
+        "content": "EXPORT",
+        "zIndex": 3,
+        "fontSize": 22
+      },
+      {
+        "id": "NOTE-ZAIYi24o",
+        "userBounds": [
+          1258,
+          539,
+          null,
+          null
+        ],
+        "bounds": [
+          1258,
+          539,
+          101,
+          64
+        ],
+        "content": "CLEAN\nFORMAT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uDQjvDu8",
+        "userBounds": [
+          1340,
+          418,
+          null,
+          null
+        ],
+        "bounds": [
+          1340,
+          418,
+          100,
+          64
+        ],
+        "content": "EXPORT\nTIME",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qMiVnMnh",
+        "userBounds": [
+          1123,
+          169,
+          null,
+          null
+        ],
+        "bounds": [
+          1123,
+          169,
+          95,
+          41
+        ],
+        "content": "IMPORT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hVGTdRH3",
+        "userBounds": [
+          726,
+          42,
+          null,
+          null
+        ],
+        "bounds": [
+          726,
+          42,
+          140,
+          41
+        ],
+        "content": "UNEXISTING",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cjB4kvFn",
+        "userBounds": [
+          813,
+          132,
+          null,
+          null
+        ],
+        "bounds": [
+          813,
+          132,
+          111,
+          64
+        ],
+        "content": "EXISTING\nDRAFT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eKuioPlc",
+        "userBounds": [
+          1449,
+          80,
+          null,
+          null
+        ],
+        "bounds": [
+          1449,
+          80,
+          136,
+          64
+        ],
+        "content": "EXISTING\nNON-DRAFT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-znxxUdFZ",
+        "userBounds": [
+          1014,
+          68,
+          null,
+          null
+        ],
+        "bounds": [
+          1014,
+          68,
+          109,
+          41
+        ],
+        "content": "NOMINAL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qxlsjowe",
+        "userBounds": [
+          1268,
+          144,
+          null,
+          null
+        ],
+        "bounds": [
+          1268,
+          144,
+          129,
+          41
+        ],
+        "content": "PROBLEMS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RvKyrqW4",
+        "userBounds": [
+          1479,
+          184,
+          null,
+          null
+        ],
+        "bounds": [
+          1479,
+          184,
+          122,
+          41
+        ],
+        "content": "NON-JSON",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pkLRXVXK",
+        "userBounds": [
+          1371,
+          256,
+          null,
+          null
+        ],
+        "bounds": [
+          1371,
+          256,
+          185,
+          64
+        ],
+        "content": "NON COMPLIANT\nJSON",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IF1NkaVq",
+        "userBounds": [
+          1020,
+          315,
+          null,
+          null
+        ],
+        "bounds": [
+          1020,
+          315,
+          123,
+          41
+        ],
+        "content": "FEATURES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1ElnkPZJ",
+        "userBounds": [
+          858,
+          532,
+          null,
+          null
+        ],
+        "bounds": [
+          858,
+          532,
+          193,
+          87
+        ],
+        "content": "QUICK WORD\nTECHNICAL\nIMPLEMENTATION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WXZDduNl",
+        "userBounds": [
+          1083,
+          625,
+          null,
+          null
+        ],
+        "bounds": [
+          1083,
+          625,
+          146,
+          132
+        ],
+        "content": "UPLOAD\nFILE\nHOOK\n---\nuseUploadFile ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sXxG2Awk",
+        "userBounds": [
+          899,
+          687,
+          null,
+          null
+        ],
+        "bounds": [
+          899,
+          687,
+          134,
+          64
+        ],
+        "content": "VALIDATION\nAPI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-8n11DGya",
+        "userBounds": [
+          576,
+          243,
+          null,
+          null
+        ],
+        "bounds": [
+          576,
+          243,
+          114,
+          41
+        ],
+        "content": "CONTEXT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qh36TM4u",
+        "userBounds": [
+          547,
+          517,
+          null,
+          null
+        ],
+        "bounds": [
+          547,
+          517,
+          204,
+          64
+        ],
+        "content": "VICTOR\nmaintenance release",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-vVle8BSz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7Gx3VjaQ",
+            "target": "NOTE-ZAIYi24o"
+          },
+          {
+            "id": "END-xJiJoaHN",
+            "target": "NOTE-p8eH6Zeu"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qrio1sTJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-3M1i9wI3",
+            "target": "NOTE-uDQjvDu8"
+          },
+          {
+            "id": "END-2kH96Z3Z",
+            "target": "NOTE-p8eH6Zeu"
+          }
+        ]
+      },
+      {
+        "id": "REL-o9NCntnU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-L1uwLNtI",
+            "target": "NOTE-znxxUdFZ"
+          },
+          {
+            "id": "END-oSGWAZP1",
+            "target": "NOTE-qMiVnMnh"
+          }
+        ]
+      },
+      {
+        "id": "REL-d5Nylcew",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7VQsiihe",
+            "target": "NOTE-znxxUdFZ"
+          },
+          {
+            "id": "END-NzwMQn2x",
+            "target": "NOTE-hVGTdRH3"
+          },
+          {
+            "id": "END-NbStuimy",
+            "target": "NOTE-cjB4kvFn"
+          }
+        ]
+      },
+      {
+        "id": "REL-1nG3vNmy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EPWkCoq6",
+            "target": "NOTE-qxlsjowe"
+          },
+          {
+            "id": "END-smlwu8Bw",
+            "target": "NOTE-qMiVnMnh"
+          }
+        ]
+      },
+      {
+        "id": "REL-i1vl2lFL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VQHqlLL9",
+            "target": "NOTE-qxlsjowe"
+          },
+          {
+            "id": "END-oai2bfAA",
+            "target": "NOTE-eKuioPlc"
+          }
+        ]
+      },
+      {
+        "id": "REL-xsuMQrUL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-c67fV9qw",
+            "target": "NOTE-RvKyrqW4"
+          },
+          {
+            "id": "END-N7Crl6co",
+            "target": "NOTE-qxlsjowe"
+          }
+        ]
+      },
+      {
+        "id": "REL-l3TB4X5n",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hNS9AhIH",
+            "target": "NOTE-pkLRXVXK"
+          },
+          {
+            "id": "END-ykhDnk8d",
+            "target": "NOTE-qxlsjowe"
+          }
+        ]
+      },
+      {
+        "id": "REL-H49jjBYF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QHNqDGkS",
+            "target": "NOTE-IF1NkaVq"
+          },
+          {
+            "id": "END-SYLRrgfz",
+            "target": "NOTE-p8eH6Zeu"
+          }
+        ]
+      },
+      {
+        "id": "REL-Mg1AXBqy",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jkswxIMt",
+            "target": "NOTE-IF1NkaVq"
+          },
+          {
+            "id": "END-uPwEARnV",
+            "target": "NOTE-qMiVnMnh"
+          }
+        ]
+      },
+      {
+        "id": "REL-xN5dEp7F",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CvPd6c5m",
+            "target": "NOTE-pIpjofNs"
+          },
+          {
+            "id": "END-j713W8sS",
+            "target": "NOTE-IF1NkaVq"
+          }
+        ]
+      },
+      {
+        "id": "REL-81Z5D3Cb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KnH3gamQ",
+            "target": "NOTE-1ElnkPZJ"
+          },
+          {
+            "id": "END-2avVwPpf",
+            "target": "NOTE-pIpjofNs"
+          }
+        ]
+      },
+      {
+        "id": "REL-X1WuAoFR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yE8gNGFz",
+            "target": "NOTE-WXZDduNl"
+          },
+          {
+            "id": "END-n6hyeWmI",
+            "target": "NOTE-1ElnkPZJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-iEz8gfXW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WZpqyQT6",
+            "target": "NOTE-sXxG2Awk"
+          },
+          {
+            "id": "END-VxNUjDEM",
+            "target": "NOTE-1ElnkPZJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-Q67bMore",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NkDeXgXH",
+            "target": "NOTE-pIpjofNs"
+          },
+          {
+            "id": "END-clqsoR4K",
+            "target": "NOTE-8n11DGya"
+          }
+        ]
+      },
+      {
+        "id": "REL-LXjRrgpL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AM7tARdQ",
+            "target": "NOTE-qh36TM4u"
+          },
+          {
+            "id": "END-GXHPSiVL",
+            "target": "NOTE-pIpjofNs"
+          }
+        ]
+      }
+    ]
+  }
+}

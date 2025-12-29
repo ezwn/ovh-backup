@@ -1,0 +1,59 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-AbWyH4QV",
+        "userBounds": [
+          485,
+          159,
+          330.34375,
+          null
+        ],
+        "bounds": [
+          485,
+          159,
+          330,
+          64
+        ],
+        "content": "users | where name in ['*FELIPE*', '*NICO*', '*KAROL*']",
+        "zIndex": 3,
+        "fontSize": 20
+      },
+      {
+        "id": "NOTE-dPvZYSfN",
+        "userBounds": [
+          939,
+          118,
+          null,
+          null
+        ],
+        "bounds": [
+          939,
+          118,
+          336,
+          105
+        ],
+        "content": "### Find a user NQL\n```plain\nusers | where user.name in ['*nico*'] | list name, sid\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KUXaDTMq",
+        "userBounds": [
+          937,
+          280,
+          null,
+          null
+        ],
+        "bounds": [
+          937,
+          280,
+          295,
+          41
+        ],
+        "content": "users | where name == \"*daniel*\"",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

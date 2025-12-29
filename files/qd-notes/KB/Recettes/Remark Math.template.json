@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-llmUseRemarkMath",
+  "content": {
+    "index": "llm remark math format",
+    "name": "LLM, Remark Math",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Please format this mathematical expression using remak-math supporting markdown. Here is an example:\n\n```md\nSquare root from 2 $$\\sqrt{2}$$, is irrational.\n```\n\nHere is the expression to format:\n${expression}\n\nReturn the result as copiable text.",
+        "defaultText": null
+      }
+    ]
+  }
+}

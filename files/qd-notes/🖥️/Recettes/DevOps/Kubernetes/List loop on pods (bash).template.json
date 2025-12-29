@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlListAndLoopOnPods",
+  "content": {
+    "index": "kubectl list loop pods",
+    "name": "Kubectl, list loop on pods (bash)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "POD_NAMES=$(kubectl get pods${namespace} --output=custom-columns=\"NAME:metadata.name\" | grep \"${kubeAppName:KubeService}\")\n\nfor POD_NAME in $POD_NAMES; do\n${commandForEach}\ndone",
+        "defaultText": null
+      },
+      {
+        "id": "namespace",
+        "textTemplate": " --namespace=\"${kubeNamespace:KubeNamespace}\"",
+        "defaultText": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-eZkZLWsv",
+        "userBounds": [
+          577,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          577,
+          154,
+          173,
+          87
+        ],
+        "content": "!! filter lost\n!! on campaign list\n!! refresh",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-IAhu1xN2",
+        "userBounds": [
+          366,
+          261,
+          null,
+          null
+        ],
+        "bounds": [
+          366,
+          261,
+          178,
+          44
+        ],
+        "content": "!!! Restore sorting",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-bRbd6dT1",
+        "userBounds": [
+          771,
+          573,
+          null,
+          null
+        ],
+        "bounds": [
+          771,
+          573,
+          124,
+          41
+        ],
+        "content": "Subhra Roy",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kR7aox4E",
+        "userBounds": [
+          922,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          922,
+          456,
+          74,
+          49
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5110)",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-xPFiU2RB",
+        "userBounds": [
+          1203,
+          71,
+          null,
+          null
+        ],
+        "bounds": [
+          1203,
+          71,
+          208,
+          64
+        ],
+        "content": "Reproduire\n\"aucune campagne\"?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uSvPSjG2",
+        "userBounds": [
+          700,
+          356,
+          null,
+          null
+        ],
+        "bounds": [
+          700,
+          356,
+          139,
+          41
+        ],
+        "content": "[BUG ORDRE](https://jira.nexthink.com:1443/browse/COAD-774)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1fEBlZF9",
+        "userBounds": [
+          1391,
+          354,
+          170.4375,
+          null
+        ],
+        "bounds": [
+          1391,
+          354,
+          170,
+          180
+        ],
+        "content": "Message bas\n\nFind some preconfigured campaigns from the library\n\nA supprimer: on ne gère pas",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-dufieRbg",
+        "userBounds": [
+          1222,
+          200,
+          null,
+          null
+        ],
+        "bounds": [
+          1222,
+          200,
+          176,
+          87
+        ],
+        "content": "Image\ndashboard\nau lieu campagne",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NdajVtEZ",
+        "userBounds": [
+          1094,
+          344,
+          137.09375,
+          null
+        ],
+        "bounds": [
+          1094,
+          344,
+          137,
+          72
+        ],
+        "content": "No campaigns configured yet page",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Iyvr15Vq",
+        "userBounds": [
+          1506,
+          180,
+          null,
+          null
+        ],
+        "bounds": [
+          1506,
+          180,
+          46,
+          41
+        ],
+        "content": "[PR](https://bitbucket.intra.nexthink.com/projects/CA/repos/content-admin-fe/pull-requests/66/diff#src/ContentAdministrationListing.tsx)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-cL7hEzo9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-b3nINzTJ",
+            "target": "NOTE-dufieRbg"
+          },
+          {
+            "id": "END-VTyl4wwx",
+            "target": "NOTE-NdajVtEZ"
+          }
+        ]
+      },
+      {
+        "id": "REL-G5YgqYX5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-En7lweh2",
+            "target": "NOTE-dufieRbg"
+          },
+          {
+            "id": "END-ZkquJ3iU",
+            "target": "NOTE-1fEBlZF9"
+          }
+        ]
+      },
+      {
+        "id": "REL-I5eiJgjg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Q8JTj2Nj",
+            "target": "NOTE-xPFiU2RB"
+          },
+          {
+            "id": "END-FzPsGCN4",
+            "target": "NOTE-dufieRbg"
+          }
+        ]
+      },
+      {
+        "id": "REL-HYU1vQ7a",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-32vW8UFv",
+            "target": "NOTE-Iyvr15Vq"
+          },
+          {
+            "id": "END-Vjx6VhsV",
+            "target": "NOTE-dufieRbg"
+          }
+        ]
+      }
+    ]
+  }
+}

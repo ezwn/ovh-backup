@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-correctionPrompt",
+  "content": {
+    "index": "correction prompt",
+    "name": "Correction prompt",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Détecter les inexactitudes, les imprécisions, les fautes d'orthographe et de grammaire,\ntout ne considérant pas les caractéristiques inhérentes à une prise notes comme des problèmes\n(forte concision, abréviations, absence de majuscules en début de ligne, etc).\n\nPoints impératifs concernant la présentation de ta réponse :\n- préserver les sauts de ligne.\n- préserver le formatage.\n\nRemplace les éléments que tu suggères de modifier ainsi, en proposant ta correction :\n\n* Exemple 1 :\n\nDans le texte original :\n\nLe LLM de OpenAI est **efficaces**.\n\nDans ta réponse :\n\n[[Le LLM de OpenAI >> ChatGPT]] est **[[efficaces >> efficace]]**.\n\n* Exemple 2 :\n\nDans le texte original :\n\nObjectifs d'un hyperviseur :\n- créer des machines virtuelle\n- les isolez\n- les lancer\n- les arrêter\n\nDans ta réponse :\n\n[[Objectifs >> Fonctions]] d'un hyperviseur :\n- [[créer >> instancier] des machines [[virtuelle >> virtuelles]\n- les [[isolez >> isoler]]\n- les [[lancer >> démarrer]]\n- les arrêter\n\nNe fais pas de changement dans le texte en dehors de ces suggestions.\n\nVoici le texte à traiter :\n\n${texte}",
+        "defaultText": null
+      }
+    ]
+  }
+}

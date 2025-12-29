@@ -1,0 +1,227 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-LEBqFyCz",
+        "userBounds": [
+          487,
+          585,
+          null
+        ],
+        "content": "Resilience",
+        "bounds": [
+          487,
+          585,
+          156,
+          52
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-WDxoAXSM",
+        "userBounds": [
+          279,
+          509,
+          null
+        ],
+        "content": "Minimize\nconsequences",
+        "bounds": [
+          279,
+          509,
+          147,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-paIkzYgN",
+        "userBounds": [
+          141,
+          516,
+          null
+        ],
+        "content": "Rollback",
+        "bounds": [
+          141,
+          516,
+          95,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-6MM3u6jC",
+        "userBounds": [
+          288,
+          426,
+          null
+        ],
+        "content": "Undo",
+        "bounds": [
+          288,
+          426,
+          66,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QBNIpD1R",
+        "userBounds": [
+          372,
+          686,
+          null
+        ],
+        "content": "Alert, inform",
+        "bounds": [
+          372,
+          686,
+          126,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-JdKhRL7j",
+        "userBounds": [
+          506,
+          492,
+          null
+        ],
+        "content": "Retry",
+        "bounds": [
+          506,
+          492,
+          66,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-9xY9IYDM",
+        "userBounds": [
+          364,
+          334,
+          null
+        ],
+        "content": "Any change\nbetter later?",
+        "bounds": [
+          364,
+          334,
+          125,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-iNXPZQ8w",
+        "userBounds": [
+          240,
+          624,
+          null
+        ],
+        "content": "Backup",
+        "bounds": [
+          240,
+          624,
+          85,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-YUKqTYYT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "3noUG4iT",
+            "target": "NOTE-LEBqFyCz"
+          },
+          {
+            "id": "ZRSo72SE",
+            "target": "NOTE-WDxoAXSM"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-SARPJ2Z5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "QpLMkWZa",
+            "target": "NOTE-WDxoAXSM"
+          },
+          {
+            "id": "qax2cCAg",
+            "target": "NOTE-paIkzYgN"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-AaXI8zWp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "6l6cl82E",
+            "target": "NOTE-WDxoAXSM"
+          },
+          {
+            "id": "vYrZvzHz",
+            "target": "NOTE-6MM3u6jC"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-CwzuSbQL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "vACHE6yr",
+            "target": "NOTE-QBNIpD1R"
+          },
+          {
+            "id": "hKBS8PCB",
+            "target": "NOTE-LEBqFyCz"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-XFpXjPsV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UDsJYRH7",
+            "target": "NOTE-JdKhRL7j"
+          },
+          {
+            "id": "YxB2hCXb",
+            "target": "NOTE-LEBqFyCz"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-MzwiKETB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "IixIw4bM",
+            "target": "NOTE-9xY9IYDM"
+          },
+          {
+            "id": "tI3syTsl",
+            "target": "NOTE-JdKhRL7j"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-qwASgl8Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "PAPqPxfr",
+            "target": "NOTE-iNXPZQ8w"
+          },
+          {
+            "id": "hYUEg9UU",
+            "target": "NOTE-WDxoAXSM"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-GCd78R5X",
+        "userBounds": [
+          1118,
+          442,
+          null,
+          null
+        ],
+        "bounds": [
+          1118,
+          442,
+          117,
+          41
+        ],
+        "content": "REALTIME",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VjyoPjvJ",
+        "userBounds": [
+          1334,
+          473,
+          null,
+          null
+        ],
+        "bounds": [
+          1334,
+          473,
+          121,
+          41
+        ],
+        "content": "WIKIPEDIA",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-txVpszYh",
+        "userBounds": [
+          1215,
+          543,
+          null,
+          null
+        ],
+        "bounds": [
+          1215,
+          543,
+          155,
+          64
+        ],
+        "content": "PUBMED\nAND SCI. REV.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kpAQ4THn",
+        "userBounds": [
+          672,
+          242,
+          null,
+          null
+        ],
+        "bounds": [
+          672,
+          242,
+          88,
+          41
+        ],
+        "content": "worknet",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-sGAN9A99",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MkApxGTZ",
+            "target": "NOTE-GCd78R5X"
+          },
+          {
+            "id": "END-r9lsfwlI",
+            "target": "NOTE-VjyoPjvJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-lFglL334",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-J5G2UHkm",
+            "target": "NOTE-GCd78R5X"
+          },
+          {
+            "id": "END-q2Lk4lPU",
+            "target": "NOTE-txVpszYh"
+          }
+        ]
+      }
+    ]
+  }
+}

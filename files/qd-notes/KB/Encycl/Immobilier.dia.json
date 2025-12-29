@@ -1,0 +1,480 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ThRe8Bvf",
+        "userBounds": [
+          887,
+          360,
+          null,
+          null
+        ],
+        "content": "Immobilier",
+        "bounds": [
+          887,
+          360,
+          110,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-L32jsNnn",
+        "userBounds": [
+          534,
+          361,
+          null,
+          null
+        ],
+        "content": "Région\nparisienne",
+        "bounds": [
+          534,
+          361,
+          110,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-te9vpJjw",
+        "userBounds": [
+          398,
+          471,
+          null,
+          null
+        ],
+        "content": "Vincennes",
+        "bounds": [
+          398,
+          471,
+          111,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-kvc8gAXQ",
+        "userBounds": [
+          384,
+          364,
+          null,
+          null
+        ],
+        "content": "Boissy\nSt Léger",
+        "bounds": [
+          384,
+          364,
+          94,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-jtSXvm5T",
+        "userBounds": [
+          1146,
+          358,
+          null,
+          null
+        ],
+        "content": "Tourisme",
+        "bounds": [
+          1146,
+          358,
+          99,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-G2XTi5E7",
+        "userBounds": [
+          1109,
+          235,
+          null,
+          null
+        ],
+        "content": "Seychelles",
+        "bounds": [
+          1109,
+          235,
+          115,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-a4lQM29R",
+        "userBounds": [
+          1012,
+          479,
+          null,
+          null
+        ],
+        "content": "Pour",
+        "bounds": [
+          1012,
+          479,
+          60,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-iwDjY4Jh",
+        "userBounds": [
+          1121,
+          477,
+          null,
+          null
+        ],
+        "content": "Placement",
+        "bounds": [
+          1121,
+          477,
+          113,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-mNu8jTPz",
+        "userBounds": [
+          1102,
+          542,
+          null,
+          null
+        ],
+        "content": "Résidence",
+        "bounds": [
+          1102,
+          542,
+          113,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-r6K7jkkh",
+        "userBounds": [
+          994,
+          594,
+          null,
+          null
+        ],
+        "content": "Vacances",
+        "bounds": [
+          994,
+          594,
+          104,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-gzI7hEyW",
+        "userBounds": [
+          882,
+          525,
+          null,
+          null
+        ],
+        "content": "Résidence\nretraite",
+        "bounds": [
+          882,
+          525,
+          113,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-Etxukptq",
+        "userBounds": [
+          886,
+          227,
+          null,
+          null
+        ],
+        "content": "Conditions",
+        "bounds": [
+          886,
+          227,
+          113,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BeiTlQhU",
+        "userBounds": [
+          709,
+          199,
+          null,
+          null
+        ],
+        "content": "Prix max",
+        "bounds": [
+          709,
+          199,
+          96,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-7twEmlzz",
+        "userBounds": [
+          506,
+          267,
+          null,
+          null
+        ],
+        "content": "Normandie",
+        "bounds": [
+          506,
+          267,
+          116,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-AlxaJazX",
+        "userBounds": [
+          1283,
+          288,
+          null,
+          null
+        ],
+        "content": "Colmar",
+        "bounds": [
+          1283,
+          288,
+          82,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-vStvulhK",
+        "userBounds": [
+          720,
+          472,
+          null,
+          null
+        ],
+        "content": "Dijon",
+        "bounds": [
+          720,
+          472,
+          64,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-53qjehL9",
+        "userBounds": [
+          603,
+          557,
+          null,
+          null
+        ],
+        "content": "Mulhouse",
+        "bounds": [
+          603,
+          557,
+          105,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-uzwgJMEe",
+        "userBounds": [
+          1327,
+          415,
+          null,
+          null
+        ],
+        "content": "DIJON\n---\nOffice notarial\nBRUCHON Romain\nCOURLET de VREGILLE\nClémentine et CHANUT Maximilien\n0380674520",
+        "bounds": [
+          1327,
+          415,
+          330,
+          178
+        ]
+      },
+      {
+        "id": "NOTE-J1hmNplV",
+        "userBounds": [
+          1308,
+          646,
+          null,
+          null
+        ],
+        "content": "Déclaration remploi\nde fond propres",
+        "bounds": [
+          1308,
+          646,
+          190,
+          64
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-gbfoxadC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8g96QH9q",
+            "target": "NOTE-L32jsNnn"
+          },
+          {
+            "id": "END-QH49X9d8",
+            "target": "NOTE-ThRe8Bvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-GQWZavfT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gcMqysmi",
+            "target": "NOTE-te9vpJjw"
+          },
+          {
+            "id": "END-5ATXriKQ",
+            "target": "NOTE-L32jsNnn"
+          }
+        ]
+      },
+      {
+        "id": "REL-tGpHmB3m",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UszS9NzL",
+            "target": "NOTE-kvc8gAXQ"
+          },
+          {
+            "id": "END-U57t9f2l",
+            "target": "NOTE-L32jsNnn"
+          }
+        ]
+      },
+      {
+        "id": "REL-6bkDpUEZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-du9AyjUr",
+            "target": "NOTE-jtSXvm5T"
+          },
+          {
+            "id": "END-1wm53mg6",
+            "target": "NOTE-ThRe8Bvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-I8sPdMLM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-az8jU8SJ",
+            "target": "NOTE-G2XTi5E7"
+          },
+          {
+            "id": "END-4QACJ7Lr",
+            "target": "NOTE-jtSXvm5T"
+          }
+        ]
+      },
+      {
+        "id": "REL-uc3lcTFJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9qwuEWrT",
+            "target": "NOTE-a4lQM29R"
+          },
+          {
+            "id": "END-8dsw4th2",
+            "target": "NOTE-ThRe8Bvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-FcCq7scS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gIkhjEdd",
+            "target": "NOTE-iwDjY4Jh"
+          },
+          {
+            "id": "END-TRojefwA",
+            "target": "NOTE-a4lQM29R"
+          }
+        ]
+      },
+      {
+        "id": "REL-BgkACghS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Rjzgm8iG",
+            "target": "NOTE-mNu8jTPz"
+          },
+          {
+            "id": "END-61vRsFYd",
+            "target": "NOTE-a4lQM29R"
+          }
+        ]
+      },
+      {
+        "id": "REL-xdHXK3Lo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PfIDqFuU",
+            "target": "NOTE-r6K7jkkh"
+          },
+          {
+            "id": "END-qvEDd7MF",
+            "target": "NOTE-a4lQM29R"
+          }
+        ]
+      },
+      {
+        "id": "REL-PnQxB2pM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YC2FFe1e",
+            "target": "NOTE-gzI7hEyW"
+          },
+          {
+            "id": "END-nGMDjS17",
+            "target": "NOTE-a4lQM29R"
+          }
+        ]
+      },
+      {
+        "id": "REL-uTyWMtf4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BMe5aFZI",
+            "target": "NOTE-Etxukptq"
+          },
+          {
+            "id": "END-Lz3bKDeI",
+            "target": "NOTE-ThRe8Bvf"
+          }
+        ]
+      },
+      {
+        "id": "REL-zBPpfnuv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cvkwgTAq",
+            "target": "NOTE-BeiTlQhU"
+          },
+          {
+            "id": "END-ESXuYkDH",
+            "target": "NOTE-Etxukptq"
+          }
+        ]
+      }
+    ]
+  }
+}

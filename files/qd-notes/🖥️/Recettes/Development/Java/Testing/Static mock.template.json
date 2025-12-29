@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-mockitoStaticMock",
+  "content": {
+    "index": "mockito static mock junit java",
+    "name": "Mockito, static mock",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "    final UnitExerciseType exerciseType = new UnitExerciseType();\n    final Instant now = Instant.parse(\"2025-01-01T00:00:00Z\");\n\n    @Test\n    void test() {\n        try (MockedStatic<Instant> instantMockedStatic = Mockito.mockStatic(Instant.class)) {\n            instantMockedStatic.when(Instant::now).thenReturn(now);\n            AttemptLog attemptLog = new AttemptLog(0, new ArrayList<>());\n            assertEquals(now, attemptLog.earliestNextAttempt(exerciseType.getRefractoryMinutes()));\n        }\n    }",
+        "defaultText": null
+      },
+      {
+        "id": "dependency",
+        "textTemplate": "        <dependency>\n            <groupId>org.mockito</groupId>\n            <artifactId>mockito-core</artifactId>\n            <version>5.11.0</version>\n            <scope>test</scope>\n        </dependency>",
+        "defaultText": null
+      }
+    ]
+  }
+}

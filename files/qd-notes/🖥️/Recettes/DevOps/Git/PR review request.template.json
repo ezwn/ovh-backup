@@ -1,0 +1,32 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-prReviewRequest",
+  "content": {
+    "index": "pr review request profesionnal social interaction pull request",
+    "name": "PR review request",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Hey${colleague}, could you please review this PR${whenYouHaveASec}?\n\n${prLink}${thanksInAdv}",
+        "defaultText": null
+      },
+      {
+        "id": "whenYouHaveASec",
+        "textTemplate": " when you have a sec",
+        "defaultText": ""
+      },
+      {
+        "id": "thanksInAdv",
+        "textTemplate": "\nThanks in advance :)",
+        "defaultText": ""
+      },
+      {
+        "id": "colleague",
+        "textTemplate": " ${personName:Colleague}",
+        "defaultText": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerRemoveAllContainers",
+  "content": {
+    "index": "docker, remove all containers",
+    "name": "Docker, remove all containers",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker rm $(docker ps -aq)",
+        "defaultText": null
+      }
+    ]
+  }
+}

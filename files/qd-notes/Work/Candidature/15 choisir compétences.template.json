@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiChoisirCompetencesCv",
+  "content": {
+    "index": "emploi choisir compétences cv",
+    "name": "Candidature 15 : choisir compétences (emploi)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Produire un objet de type SkillProfile au format JSON, afin d'apater mon CV à l'offre ci-dessous.\n\n${skillProfile:text}\n\n---\n\n${offerContent:text}",
+        "defaultText": null
+      }
+    ]
+  }
+}

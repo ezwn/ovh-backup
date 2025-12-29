@@ -1,0 +1,182 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ZdSI8kt4",
+        "userBounds": [
+          694,
+          268.8055534362793,
+          null,
+          null
+        ],
+        "bounds": [
+          694,
+          268.8055534362793,
+          90,
+          55
+        ],
+        "content": "AWS",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-ULG6VHQI",
+        "userBounds": [
+          284,
+          251.8055534362793,
+          300.4875183105469,
+          null
+        ],
+        "bounds": [
+          284,
+          251.8055534362793,
+          300,
+          98
+        ],
+        "content": "Start an AWS terminal\n```bash\naws-vault exec dev-k8s-operator -- cmd.exe\n```",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-NJcVmT9W",
+        "userBounds": [
+          382,
+          92.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          382,
+          92.39999771118164,
+          224,
+          119
+        ],
+        "content": "Find a pod\n```bash\nkubectl get pods -A | findstr \"...\"\nkubectl get pods -A | grep '...'\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ccqTW1sf",
+        "userBounds": [
+          682,
+          74.39999771118164,
+          211.3375244140625,
+          null
+        ],
+        "bounds": [
+          682,
+          74.39999771118164,
+          211,
+          100
+        ],
+        "content": "Switch context\n```bash\nkubectl config use-context ...\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ddLR1VxQ",
+        "userBounds": [
+          676,
+          372.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          676,
+          372.39999771118164,
+          342,
+          100
+        ],
+        "content": "Connect inside a pod\n```bash\nkubectl exec -it [podname] -n[namespace] /bin/bash\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-BEW4BZcz",
+        "userBounds": [
+          882,
+          207,
+          null,
+          null
+        ],
+        "bounds": [
+          882,
+          207,
+          393,
+          100
+        ],
+        "content": "port-forward\n```bash\nkubectl port-forward [container-inst] -n [namespace] port:port\n```",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-kKY7SC9s",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qM8GHqNX",
+            "target": "NOTE-ULG6VHQI"
+          },
+          {
+            "id": "END-pW3TcJHL",
+            "target": "NOTE-ZdSI8kt4"
+          }
+        ]
+      },
+      {
+        "id": "REL-5oNFamle",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7duf6Hws",
+            "target": "NOTE-ZdSI8kt4"
+          },
+          {
+            "id": "END-zM4dxwFw",
+            "target": "NOTE-ddLR1VxQ"
+          }
+        ]
+      },
+      {
+        "id": "REL-LT9Ay4Mj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mFGXnSZE",
+            "target": "NOTE-ZdSI8kt4"
+          },
+          {
+            "id": "END-b6ky3HcH",
+            "target": "NOTE-ccqTW1sf"
+          }
+        ]
+      },
+      {
+        "id": "REL-FzzRoPQb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lo57zlfq",
+            "target": "NOTE-ZdSI8kt4"
+          },
+          {
+            "id": "END-goR6n8Hu",
+            "target": "NOTE-NJcVmT9W"
+          }
+        ]
+      },
+      {
+        "id": "REL-PDU9ThHF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VdwqFQFb",
+            "target": "NOTE-BEW4BZcz"
+          },
+          {
+            "id": "END-zasljbMr",
+            "target": "NOTE-ZdSI8kt4"
+          }
+        ]
+      }
+    ]
+  }
+}

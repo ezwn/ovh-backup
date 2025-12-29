@@ -1,0 +1,90 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2Y8edBde",
+        "userBounds": [
+          642,
+          428,
+          null,
+          null
+        ],
+        "bounds": [
+          642,
+          428,
+          151,
+          34
+        ],
+        "content": "EUF-COMPONENTS",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-njPwlNny",
+        "userBounds": [
+          1069,
+          409,
+          89.953125,
+          null
+        ],
+        "bounds": [
+          1069,
+          409,
+          90,
+          66
+        ],
+        "content": "Updating project\ndescriptions",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-jy7x664L",
+        "userBounds": [
+          867,
+          399,
+          null,
+          null
+        ],
+        "bounds": [
+          867,
+          399,
+          125,
+          86
+        ],
+        "content": "BONUS\nTASKS",
+        "zIndex": 3,
+        "fontSize": 30
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-jelDwvZj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y6lJxlrD",
+            "target": "NOTE-jy7x664L"
+          },
+          {
+            "id": "END-EuPRwLJJ",
+            "target": "NOTE-2Y8edBde"
+          }
+        ]
+      },
+      {
+        "id": "REL-ctHEzKPG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qBV7cLDe",
+            "target": "NOTE-jy7x664L"
+          },
+          {
+            "id": "END-FQ7D7dR3",
+            "target": "NOTE-njPwlNny"
+          }
+        ]
+      }
+    ]
+  }
+}

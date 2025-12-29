@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-FKEY9FQj",
+        "userBounds": [
+          556,
+          255,
+          null,
+          null
+        ],
+        "bounds": [
+          556,
+          255,
+          225,
+          41
+        ],
+        "content": "SimpleScreenRecorder",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

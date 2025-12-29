@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-G9wA34TT",
+        "userBounds": [
+          219,
+          201,
+          null,
+          null
+        ],
+        "bounds": [
+          219,
+          201,
+          44,
+          41
+        ],
+        "content": "[FE](https://github.com/nexthink/investigations.fe-investigations)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qURNj4g1",
+        "userBounds": [
+          156,
+          138,
+          null,
+          null
+        ],
+        "bounds": [
+          156,
+          138,
+          87,
+          32
+        ],
+        "content": "Lucas Pallud",
+        "zIndex": 3,
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-7VvbulAN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bN4NVcqF",
+            "target": "NOTE-qURNj4g1"
+          },
+          {
+            "id": "END-coYePzXi",
+            "target": "NOTE-G9wA34TT"
+          }
+        ]
+      }
+    ]
+  }
+}

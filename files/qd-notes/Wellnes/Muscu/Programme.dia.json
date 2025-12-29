@@ -1,0 +1,96 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2lNsJs3T",
+        "userBounds": [
+          270,
+          56,
+          523.15625,
+          null
+        ],
+        "bounds": [
+          270,
+          56,
+          523,
+          292
+        ],
+        "content": "Voici une liste d'exercices physiques:\n---\n- Marche rapide (1h)\n---\n- 25 squats\n- 30 développés épaules avec rotation (3kg)\n- 30 déveleloppés couchés haltères avec flexion des poignets (3kg)\n- 30 pull overs (3kg)\n- 35 curls biceps classique (3kg)\n- planche sur les avant bras (20 sec)\n- 30 extensions des triceps décliné avec haltères (2kg)",
+        "zIndex": 3,
+        "fontSize": 20,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-7iV1nN1l",
+        "userBounds": [
+          1654,
+          50,
+          null,
+          null
+        ],
+        "bounds": [
+          1654,
+          50,
+          181,
+          57
+        ],
+        "content": "[BURPEES](https://www.youtube.com/watch?v=4YPWd8z090A)",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 34
+      },
+      {
+        "id": "NOTE-sk9LAdtq",
+        "userBounds": [
+          1567,
+          156,
+          null,
+          null
+        ],
+        "bounds": [
+          1567,
+          156,
+          85,
+          41
+        ],
+        "content": "[SQUAT](https://www.youtube.com/watch?v=k-AJ7EOx-Ms)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Nx3od5LM",
+        "userBounds": [
+          938,
+          268,
+          523.15625,
+          null
+        ],
+        "bounds": [
+          938,
+          268,
+          523,
+          522
+        ],
+        "content": "Et voici une liste de muscles:\n\nRectus abdominis\nObliques internes et externes\nTransverse abdominis\nErecteurs spinaux\nMultifides\nQuadriceps\nIschio-jambiers\nFessiers (maximus, medius, minimus)\nMollets (gastrocnemius et soleus)\nDeltoïdes\nTrapèzes\nRhomboïdes\nRotateurs de l'épaule (supra-épineux, infra-épineux, petit rond, sous-scapulaire)\nBiceps brachii\nTriceps brachii\nAvant-bras (flexeurs et extenseurs)\nFléchisseurs de la hanche (psoas major, iliaque)\nAdducteurs\nSternocléidomastoïdien\nScalènes\n\nPourrais-tu générer le code markdown d'un tableau avec en colonne les exercices (simplifie les noms s'il te plait) et en ligne les muscles (rend les noms plus concis également) ? Chaque cellule contiendrait 0, 1 ou 2 étoiles en fonction du fait que l'exercice entretienne le muscle.",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "TEXT"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-zRc3kDu7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PPJ5JEiX",
+            "target": "NOTE-sk9LAdtq"
+          },
+          {
+            "id": "END-HZbcb8y3",
+            "target": "NOTE-7iV1nN1l"
+          }
+        ]
+      }
+    ]
+  }
+}

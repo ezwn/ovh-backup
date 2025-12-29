@@ -1,0 +1,407 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-hAV9ib4K",
+        "userBounds": [
+          761,
+          380,
+          null,
+          null
+        ],
+        "content": "ATOUTS",
+        "bounds": [
+          761,
+          380,
+          216,
+          76
+        ],
+        "fontSize": 50
+      },
+      {
+        "id": "NOTE-f38uZxfu",
+        "userBounds": [
+          781,
+          220,
+          null,
+          null
+        ],
+        "content": "EXPÉRIENCE\n15 ANS",
+        "bounds": [
+          781,
+          220,
+          173,
+          74
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-eloJje16",
+        "userBounds": [
+          495,
+          337,
+          null,
+          null
+        ],
+        "content": "STAGE GRATUIT\nPOUR VOUS\nPAR CIPS",
+        "bounds": [
+          495,
+          337,
+          176,
+          87
+        ],
+        "fontSize": 20
+      },
+      {
+        "id": "NOTE-1iYzXupJ",
+        "userBounds": [
+          1075,
+          386,
+          null,
+          null
+        ],
+        "content": "FORMATION",
+        "bounds": [
+          1075,
+          386,
+          160,
+          46
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-c2QuGByV",
+        "userBounds": [
+          637,
+          663,
+          null,
+          null
+        ],
+        "content": "IMPLIQUÉE",
+        "bounds": [
+          637,
+          663,
+          105,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xezv93N5",
+        "userBounds": [
+          758,
+          716,
+          null,
+          null
+        ],
+        "content": "AIME\nCHALLENGE",
+        "bounds": [
+          758,
+          716,
+          115,
+          54
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-ZAsGdi5N",
+        "userBounds": [
+          915,
+          752,
+          null,
+          null
+        ],
+        "content": "CURIOSITÉ",
+        "bounds": [
+          915,
+          752,
+          105,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-JBebQnew",
+        "userBounds": [
+          965,
+          644,
+          null,
+          null
+        ],
+        "content": "RIGOUREUSE",
+        "bounds": [
+          965,
+          644,
+          126,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-KX6XvuID",
+        "userBounds": [
+          763,
+          550,
+          248.390625,
+          null
+        ],
+        "content": "PERSONNALITÉ",
+        "bounds": [
+          763,
+          550,
+          248,
+          46
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-XjMvh5gj",
+        "userBounds": [
+          1286,
+          242,
+          null,
+          null
+        ],
+        "content": "NIVEAU\n# HES",
+        "bounds": [
+          1286,
+          242,
+          92,
+          78
+        ]
+      },
+      {
+        "id": "NOTE-tiUuDD53",
+        "userBounds": [
+          1331,
+          443,
+          null,
+          null
+        ],
+        "content": "FAIRE DES\nPERFECTIONNEMENTS",
+        "bounds": [
+          1331,
+          443,
+          245,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-z4xLFUZn",
+        "userBounds": [
+          828,
+          52,
+          null,
+          null
+        ],
+        "content": "GRANDE PARTIE\nCHIRURGIE",
+        "bounds": [
+          828,
+          52,
+          131,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-SRmaURuI",
+        "userBounds": [
+          248,
+          351,
+          null,
+          null
+        ],
+        "content": "RECEVREZ\nCOMPENSATION\nFINANCIÈRE\nDE 2'000 FR",
+        "bounds": [
+          248,
+          351,
+          131,
+          82
+        ],
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-kxwZwwrc",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "I9oWo47j",
+            "target": "NOTE-f38uZxfu"
+          },
+          {
+            "id": "2UEiIrMc",
+            "target": "NOTE-hAV9ib4K"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-IKWZRD7Y",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "BtEUvirf",
+            "target": "NOTE-1iYzXupJ"
+          },
+          {
+            "id": "BD37Hvrz",
+            "target": "NOTE-hAV9ib4K"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-ooGDFsw8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Jkm9a3cV",
+            "target": "NOTE-KX6XvuID"
+          },
+          {
+            "id": "gBq9daqy",
+            "target": "NOTE-hAV9ib4K"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-lYDkCmmZ",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "LzlQ62CT",
+            "target": "NOTE-JBebQnew"
+          },
+          {
+            "id": "RpNpza4F",
+            "target": "NOTE-KX6XvuID"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Fm9YtXPE",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "qVmukKrg",
+            "target": "NOTE-xezv93N5"
+          },
+          {
+            "id": "vcSKT4Nc",
+            "target": "NOTE-KX6XvuID"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Uead4CMy",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "hHazT264",
+            "target": "NOTE-XjMvh5gj"
+          },
+          {
+            "id": "5aHYoS9T",
+            "target": "NOTE-1iYzXupJ"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-N2JZ8Eiw",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "nFDgcMPX",
+            "target": "NOTE-tiUuDD53"
+          },
+          {
+            "id": "egKsHGGY",
+            "target": "NOTE-1iYzXupJ"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-IVCYErnU",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "CQXraNRJ",
+            "target": "NOTE-z4xLFUZn"
+          },
+          {
+            "id": "fbGdmluT",
+            "target": "NOTE-f38uZxfu"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-4RRo2pMc",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "txdy3F4G",
+            "target": "NOTE-ZAsGdi5N"
+          },
+          {
+            "id": "rCqJAJnP",
+            "target": "NOTE-KX6XvuID"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BdkP7uNV",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "djecf3rZ",
+            "target": "NOTE-c2QuGByV"
+          },
+          {
+            "id": "hfiX7Ctq",
+            "target": "NOTE-KX6XvuID"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-GrCeewjJ",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "8FakDrbj",
+            "target": "NOTE-SRmaURuI"
+          },
+          {
+            "id": "g2oR7Xuq",
+            "target": "NOTE-eloJje16"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-KJwFKJ2p",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "HpfjIxBX",
+            "target": "NOTE-eloJje16"
+          },
+          {
+            "id": "Qj9H6yK1",
+            "target": "NOTE-hAV9ib4K"
+          }
+        ]
+      }
+    ]
+  }
+}

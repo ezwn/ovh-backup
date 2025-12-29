@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-mysqlListTables",
+  "content": {
+    "index": "mysql, list tables",
+    "name": "MySQL, list tables",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "SHOW TABLES;",
+        "defaultText": null
+      }
+    ]
+  }
+}

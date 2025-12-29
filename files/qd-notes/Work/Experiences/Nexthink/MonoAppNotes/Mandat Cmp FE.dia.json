@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ERkpfr8A",
+        "userBounds": [
+          320,
+          137.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          320,
+          137.1436424255371,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-1986)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-v9ZLVVlu",
+        "userBounds": [
+          297,
+          228.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          297,
+          228.1436424255371,
+          81,
+          41
+        ],
+        "content": "[FIGMA](https://www.figma.com/design/igIWTnl1p02AYL8sLwkvFM/%F0%9F%9A%80-Engage---Exploration?t=U9cEypAnDTKxj0mt-0)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gd2Zv71E",
+        "userBounds": [
+          286,
+          313.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          286,
+          313.1436424255371,
+          156,
+          41
+        ],
+        "content": "[CONFLUENCE](https://confluence.intra.nexthink.com/display/ENGAGE/Mandatory+campaigns)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

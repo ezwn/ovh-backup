@@ -1,0 +1,426 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ISoB8xN5",
+        "userBounds": [
+          955,
+          303,
+          202.546875,
+          null
+        ],
+        "content": "# BusinessService\n---\nDefines the business logic",
+        "bounds": [
+          955,
+          303,
+          203,
+          76
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-wA6AEP5b",
+        "userBounds": [
+          616,
+          280,
+          172.734375,
+          null
+        ],
+        "content": "# RestService\n---\nConverts REST messages in entities and calls the business methods",
+        "bounds": [
+          616,
+          280,
+          173,
+          124
+        ],
+        "fontSize": 14,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-DKyZuwmq",
+        "userBounds": [
+          342,
+          280,
+          168.25,
+          null
+        ],
+        "content": "# RestController\n---\nSecurizes access, defines endpoints and delegates to RestService",
+        "bounds": [
+          342,
+          280,
+          168,
+          124
+        ],
+        "fontSize": 14,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-8u7jXU27",
+        "userBounds": [
+          1408,
+          284,
+          207.609375,
+          null
+        ],
+        "content": "# LowLevelService\n---\nAbstracts the low level concerns, that is, the primitive behaviors that are Case Manager specific",
+        "bounds": [
+          1408,
+          284,
+          208,
+          124
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-98YPbjE4",
+        "userBounds": [
+          1409,
+          708,
+          208.234375,
+          null
+        ],
+        "content": "# LowLevelServiceImpl\n---\nImplements the low level concerns",
+        "bounds": [
+          1409,
+          708,
+          208,
+          68
+        ],
+        "fontSize": 12,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-qMVwpt9D",
+        "userBounds": [
+          1437,
+          144,
+          null,
+          null
+        ],
+        "content": "<< concern >>\n# Persistence\n---\nlow level persistence API",
+        "bounds": [
+          1437,
+          144,
+          129,
+          70
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-YQvIpXGl",
+        "userBounds": [
+          1300,
+          159,
+          117.078125,
+          null
+        ],
+        "content": "<< concern >>\n# Factory\n---\nreturns instances of entities",
+        "bounds": [
+          1300,
+          159,
+          117,
+          96
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-UQmATKBq",
+        "userBounds": [
+          1581,
+          183,
+          null,
+          null
+        ],
+        "content": "<< concern >>\n# Security\n---\nchecks action permission",
+        "bounds": [
+          1581,
+          183,
+          130,
+          70
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-62nVEmuB",
+        "userBounds": [
+          988,
+          710,
+          140.09375,
+          null
+        ],
+        "content": "# ServiceImpl\n---\nExtends the business logic",
+        "bounds": [
+          988,
+          710,
+          140,
+          82
+        ],
+        "fontSize": 12,
+        "zIndex": 1
+      },
+      {
+        "id": "NOTE-rUytXuLT",
+        "userBounds": [
+          904,
+          650,
+          795.1875,
+          189
+        ],
+        "content": "# CASE MANAGER",
+        "bounds": [
+          904,
+          650,
+          795,
+          189
+        ],
+        "zIndex": 0,
+        "backgroundStyle": "NONE",
+        "noteStyle": "CONTAINER",
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-VGqAESHa",
+        "userBounds": [
+          314,
+          205,
+          514.34375,
+          353
+        ],
+        "content": "# rest (optional)",
+        "bounds": [
+          314,
+          205,
+          514,
+          353
+        ],
+        "noteStyle": "CONTAINER",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-pG7dPp8g",
+        "userBounds": [
+          423,
+          458,
+          null,
+          null
+        ],
+        "content": "# RestDto\n---",
+        "bounds": [
+          423,
+          458,
+          104,
+          60
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-4KtLGnH9",
+        "userBounds": [
+          566,
+          455,
+          null,
+          null
+        ],
+        "content": "# RestMapper\n---",
+        "bounds": [
+          566,
+          455,
+          146,
+          60
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-gaHp9xvp",
+        "userBounds": [
+          1145,
+          400,
+          150.296875,
+          null
+        ],
+        "content": "# EntityTemplate(s)\n---\nMinimal expected data-structures",
+        "bounds": [
+          1145,
+          400,
+          150,
+          70
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-yKLVPPEo",
+        "userBounds": [
+          1150,
+          708,
+          135.203125,
+          null
+        ],
+        "content": "# Entity(ies)\n---\nExtended data-structures for the CM",
+        "bounds": [
+          1150,
+          708,
+          135,
+          70
+        ],
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-t3QvAjyJ",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "hJgFv2ys",
+            "target": "NOTE-wA6AEP5b",
+            "attachPointNumber": 3
+          },
+          {
+            "id": "tLmxnoFH",
+            "target": "NOTE-ISoB8xN5",
+            "decoration": "FULL_TRIANGLE",
+            "attachPointNumber": 9
+          }
+        ]
+      },
+      {
+        "id": "RELATION-dEEKTMoX",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "HotIRUEC",
+            "target": "NOTE-8u7jXU27",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "erc997lK",
+            "target": "NOTE-ISoB8xN5"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-rJFRdGHi",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "SNLNNbWt",
+            "target": "NOTE-DKyZuwmq"
+          },
+          {
+            "id": "6hsH8kQi",
+            "target": "NOTE-wA6AEP5b",
+            "decoration": "FULL_TRIANGLE",
+            "attachPointNumber": 9
+          }
+        ]
+      },
+      {
+        "id": "RELATION-US5qcj9j",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "9M1Pins8",
+            "target": "NOTE-98YPbjE4"
+          },
+          {
+            "id": "JxZXnYfs",
+            "target": "NOTE-8u7jXU27",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-H42S81QM",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "KoGV7LIU",
+            "target": "NOTE-8u7jXU27"
+          },
+          {
+            "id": "qzlU6wIk",
+            "target": "NOTE-qMVwpt9D",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-rHbZeIub",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "jxS8SpLc",
+            "target": "NOTE-8u7jXU27"
+          },
+          {
+            "id": "a5lNfYBG",
+            "target": "NOTE-YQvIpXGl",
+            "attachPointNumber": 5,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-T2rEkYRG",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "GIZKNbqy",
+            "target": "NOTE-8u7jXU27"
+          },
+          {
+            "id": "cjBtXsu8",
+            "target": "NOTE-UQmATKBq",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-NHxdWctr",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "xjCFizB7",
+            "target": "NOTE-62nVEmuB"
+          },
+          {
+            "id": "GCzwsyNs",
+            "target": "NOTE-ISoB8xN5",
+            "attachPointNumber": 6,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-rwvBEybC",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "9KYEbY2M",
+            "target": "NOTE-yKLVPPEo",
+            "attachPointNumber": 11
+          },
+          {
+            "id": "sqi7axW4",
+            "target": "NOTE-gaHp9xvp",
+            "attachPointNumber": 7,
+            "decoration": "EMPTY_TRIANGLE"
+          }
+        ]
+      }
+    ]
+  }
+}

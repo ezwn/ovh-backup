@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-downloadServerSslCertificate",
+  "content": {
+    "index": "download ssl certificate  of a server openssl",
+    "name": "Download SSL certificate  of a server",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "openssl s_client -showcerts -connect  ${hostname}:443 < /dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > ca.crt",
+        "defaultText": null
+      }
+    ]
+  }
+}

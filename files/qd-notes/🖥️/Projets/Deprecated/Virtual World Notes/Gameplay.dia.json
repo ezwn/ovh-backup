@@ -1,0 +1,97 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-C3FuZfb8",
+        "userBounds": [
+          808,
+          357,
+          null
+        ],
+        "content": "Gameplay",
+        "bounds": [
+          808,
+          357,
+          191.203125,
+          61
+        ],
+        "fontSize": 38
+      },
+      {
+        "id": "NOTE-FFkteL3C",
+        "userBounds": [
+          931,
+          256,
+          null
+        ],
+        "content": "Points de temps",
+        "bounds": [
+          931,
+          256,
+          161.421875,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-99NnXYsi",
+        "userBounds": [
+          1086,
+          341,
+          null
+        ],
+        "content": "Stress,\nDétente",
+        "bounds": [
+          1086,
+          341,
+          88.0625,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-GWCUgYys",
+        "userBounds": [
+          1241,
+          303,
+          null
+        ],
+        "content": "Guérison",
+        "bounds": [
+          1241,
+          303,
+          99.15625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-uzrWRgdf",
+        "userBounds": [
+          1078,
+          492
+        ],
+        "content": "Rituels",
+        "bounds": [
+          1078,
+          492,
+          79.140625,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-I7zABT4R",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "8fWaXFMG",
+            "target": "NOTE-99NnXYsi"
+          },
+          {
+            "id": "QC3WeaEM",
+            "target": "NOTE-GWCUgYys"
+          }
+        ]
+      }
+    ]
+  }
+}

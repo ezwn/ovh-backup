@@ -1,0 +1,55 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-g9odQPjP",
+        "userBounds": [
+          363,
+          211,
+          null,
+          null
+        ],
+        "content": "[edreams.ch](https://www.edreams.ch)",
+        "bounds": [
+          363,
+          211,
+          123,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QdlaAnSS",
+        "userBounds": [
+          322,
+          289,
+          null,
+          null
+        ],
+        "content": "[liligo.fr](https://www.liligo.fr/)",
+        "bounds": [
+          322,
+          289,
+          76,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-opvgSW6U",
+        "userBounds": [
+          458,
+          415,
+          null,
+          null
+        ],
+        "content": "easyjet\nMDP: 8e9af5g6y9dd5",
+        "bounds": [
+          458,
+          415,
+          211,
+          64
+        ]
+      }
+    ],
+    "relations": []
+  }
+}

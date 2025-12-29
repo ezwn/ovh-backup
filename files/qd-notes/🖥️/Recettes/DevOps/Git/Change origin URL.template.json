@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-gitSetOriginUrl",
+  "content": {
+    "index": "git change origin url reposiroty set update remote",
+    "name": "Git, Change origin URL",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "git remote set-url origin ${gitRepositoryUrl}",
+        "defaultText": null
+      }
+    ]
+  }
+}

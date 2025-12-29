@@ -1,0 +1,440 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-C3FuZfb8",
+        "userBounds": [
+          808,
+          361,
+          null
+        ],
+        "content": "Activity",
+        "bounds": [
+          808,
+          361,
+          132.015625,
+          60
+        ],
+        "fontSize": 36
+      },
+      {
+        "id": "NOTE-oKBAHcfb",
+        "userBounds": [
+          608,
+          374,
+          null
+        ],
+        "content": "Blender",
+        "bounds": [
+          608,
+          374,
+          80.046875,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-fxxhfr3s",
+        "userBounds": [
+          1277,
+          464,
+          null
+        ],
+        "content": "Organiser le\ndéveloppemet\n(mindmapping)",
+        "bounds": [
+          1277,
+          464,
+          151.390625,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-raATWeNw",
+        "userBounds": [
+          700,
+          271,
+          null
+        ],
+        "content": "UPBGE",
+        "bounds": [
+          700,
+          271,
+          81.03125,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-KDk5odtj",
+        "userBounds": [
+          506,
+          435,
+          null
+        ],
+        "content": "Scripting",
+        "bounds": [
+          506,
+          435,
+          72.46875,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-M96J3KGX",
+        "userBounds": [
+          677,
+          519,
+          null
+        ],
+        "content": "Site, page github",
+        "bounds": [
+          677,
+          519,
+          153.109375,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-jCSbharu",
+        "userBounds": [
+          955,
+          315,
+          null
+        ],
+        "content": "Auto-\ngenerate",
+        "bounds": [
+          955,
+          315,
+          96.96875,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-74JslHBS",
+        "userBounds": [
+          992,
+          246,
+          null
+        ],
+        "content": "Terrain",
+        "bounds": [
+          992,
+          246,
+          66.90625,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-3Io2FAGB",
+        "userBounds": [
+          1082,
+          299,
+          null
+        ],
+        "content": "Vegetables",
+        "bounds": [
+          1082,
+          299,
+          97.1875,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-nfrA3dps",
+        "userBounds": [
+          1074,
+          379,
+          null
+        ],
+        "content": "Stones",
+        "bounds": [
+          1074,
+          379,
+          67.8125,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-4EZb7uFb",
+        "userBounds": [
+          590,
+          309,
+          null
+        ],
+        "content": "Ogre Next",
+        "bounds": [
+          590,
+          309,
+          100.03125,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-23NQXRNb",
+        "userBounds": [
+          984,
+          539,
+          null
+        ],
+        "content": "\"World\" format",
+        "bounds": [
+          984,
+          539,
+          146.3125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-4a8WGNQW",
+        "userBounds": [
+          1002,
+          637,
+          null
+        ],
+        "content": "Abstract \"world\"\nplayer",
+        "bounds": [
+          1002,
+          637,
+          116.640625,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-87GcKFZ5",
+        "userBounds": [
+          718,
+          346,
+          null
+        ],
+        "content": "Learn",
+        "bounds": [
+          718,
+          346,
+          69.15625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-tGNHJ35R",
+        "userBounds": [
+          862,
+          464,
+          null
+        ],
+        "content": "Create",
+        "bounds": [
+          862,
+          464,
+          78.03125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-aJKxyyKX",
+        "userBounds": [
+          845,
+          596,
+          null
+        ],
+        "content": "Initial set\nof models",
+        "bounds": [
+          845,
+          596,
+          104.71875,
+          64
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-WgUF58Qj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "VnNrBBVZ",
+            "target": "NOTE-jCSbharu"
+          },
+          {
+            "id": "j3FB9kdh",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-5DiCAfP7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "C1voZxnN",
+            "target": "NOTE-74JslHBS"
+          },
+          {
+            "id": "AUrfn6Sv",
+            "target": "NOTE-jCSbharu"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-t4gTDA1H",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "m58s5f2z",
+            "target": "NOTE-3Io2FAGB"
+          },
+          {
+            "id": "Yi4xFy36",
+            "target": "NOTE-jCSbharu"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-CqU39SwE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "8AS8fHXI",
+            "target": "NOTE-nfrA3dps"
+          },
+          {
+            "id": "GuBh9le7",
+            "target": "NOTE-jCSbharu"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-M84ftPQz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dUtmHryI",
+            "target": "NOTE-87GcKFZ5"
+          },
+          {
+            "id": "P6e2jwQE",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-E6lGCA97",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "K4Bs1FJD",
+            "target": "NOTE-87GcKFZ5"
+          },
+          {
+            "id": "75SmkGwt",
+            "target": "NOTE-oKBAHcfb"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Rh4Zim9y",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "EL3S8mXV",
+            "target": "NOTE-87GcKFZ5"
+          },
+          {
+            "id": "73XfJx4o",
+            "target": "NOTE-4EZb7uFb"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-tvmJtAHm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2kshpUw3",
+            "target": "NOTE-raATWeNw"
+          },
+          {
+            "id": "C7d87mhs",
+            "target": "NOTE-87GcKFZ5"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-1VD6qjvI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "i87gGA7t",
+            "target": "NOTE-tGNHJ35R"
+          },
+          {
+            "id": "p4RzVqru",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-3GSxJGoQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "45PYQHTG",
+            "target": "NOTE-M96J3KGX"
+          },
+          {
+            "id": "oFU2W3yf",
+            "target": "NOTE-tGNHJ35R"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-rP78MlRv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "KUBxuwCW",
+            "target": "NOTE-23NQXRNb"
+          },
+          {
+            "id": "iBlseMxm",
+            "target": "NOTE-tGNHJ35R"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-rW876CTe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dPf7dRk2",
+            "target": "NOTE-23NQXRNb"
+          },
+          {
+            "id": "3PJlK6xp",
+            "target": "NOTE-4a8WGNQW"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-4SELQ3pI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "hDli3ovN",
+            "target": "NOTE-aJKxyyKX"
+          },
+          {
+            "id": "zY8DQ6mT",
+            "target": "NOTE-tGNHJ35R"
+          }
+        ]
+      }
+    ]
+  }
+}

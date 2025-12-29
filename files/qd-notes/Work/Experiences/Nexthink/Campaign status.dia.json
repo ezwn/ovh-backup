@@ -1,0 +1,191 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yJnrcUHS",
+        "userBounds": [
+          270,
+          305,
+          null,
+          null
+        ],
+        "bounds": [
+          270,
+          305,
+          85,
+          41
+        ],
+        "content": "DRAFT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dltodC16",
+        "userBounds": [
+          824,
+          57,
+          null,
+          null
+        ],
+        "bounds": [
+          824,
+          57,
+          124,
+          41
+        ],
+        "content": "UNKNOWN",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Jn9iRk9d",
+        "userBounds": [
+          511,
+          305,
+          null,
+          null
+        ],
+        "bounds": [
+          511,
+          305,
+          131,
+          41
+        ],
+        "content": "PUBLISHED",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-APh8uV7P",
+        "userBounds": [
+          873,
+          304,
+          null,
+          null
+        ],
+        "bounds": [
+          873,
+          304,
+          106,
+          41
+        ],
+        "content": "RETIRED",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kha41kkt",
+        "userBounds": [
+          557,
+          159,
+          null,
+          null
+        ],
+        "bounds": [
+          557,
+          159,
+          110,
+          41
+        ],
+        "content": "DELETED",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-VjV84wkJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Umhaci8l",
+            "target": "NOTE-yJnrcUHS"
+          },
+          {
+            "id": "END-7negid8i",
+            "target": "NOTE-Jn9iRk9d",
+            "attachPointNumber": 9,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-21CbYgAQ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BKcVqzdW",
+            "target": "NOTE-Jn9iRk9d",
+            "attachPointNumber": 2
+          },
+          {
+            "id": "END-u6XGHMiV",
+            "target": "NOTE-APh8uV7P",
+            "attachPointNumber": 10,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-jNt1Dkcn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MucuCnQq",
+            "target": "NOTE-APh8uV7P",
+            "attachPointNumber": 8
+          },
+          {
+            "id": "END-acbDwlQd",
+            "target": "NOTE-Jn9iRk9d",
+            "attachPointNumber": 4,
+            "decoration": "FULL_TRIANGLE"
+          }
+        ]
+      },
+      {
+        "id": "REL-vCKsAwIC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KZlEHVBb",
+            "target": "NOTE-kha41kkt",
+            "attachPointNumber": 1,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-SFYxkLuz",
+            "target": "NOTE-dltodC16"
+          }
+        ]
+      },
+      {
+        "id": "REL-YYhrwADf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lZwDwab2",
+            "target": "NOTE-kha41kkt",
+            "attachPointNumber": 5,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-PlMW1iUv",
+            "target": "NOTE-APh8uV7P"
+          }
+        ]
+      },
+      {
+        "id": "REL-Y1Wq9Q41",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-28MCfHI3",
+            "target": "NOTE-kha41kkt",
+            "attachPointNumber": 7,
+            "decoration": "FULL_TRIANGLE"
+          },
+          {
+            "id": "END-fZ8bmPMI",
+            "target": "NOTE-yJnrcUHS"
+          }
+        ]
+      }
+    ]
+  }
+}

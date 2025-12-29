@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-wiWvmBJg",
+        "userBounds": [
+          365,
+          241,
+          null,
+          null
+        ],
+        "bounds": [
+          365,
+          241,
+          59,
+          41
+        ],
+        "content": "[BCS](https://github.com/nexthink/business-config-store.business-config-store)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

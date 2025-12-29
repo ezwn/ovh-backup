@@ -1,0 +1,379 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-8VgCmtjg",
+        "userBounds": [
+          1040,
+          121,
+          null,
+          null
+        ],
+        "bounds": [
+          1040,
+          121,
+          39,
+          41
+        ],
+        "content": "IG",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-txbbKdoY",
+        "userBounds": [
+          139,
+          284,
+          null,
+          null
+        ],
+        "bounds": [
+          139,
+          284,
+          147,
+          41
+        ],
+        "content": "JSON schema",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-U4WrAfzU",
+        "userBounds": [
+          78,
+          130,
+          null,
+          null
+        ],
+        "bounds": [
+          78,
+          130,
+          87,
+          41
+        ],
+        "content": "STORE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aZJ2Hqpi",
+        "userBounds": [
+          331,
+          126,
+          null,
+          null
+        ],
+        "bounds": [
+          331,
+          126,
+          102,
+          41
+        ],
+        "content": "MAPPER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GdhBEzMl",
+        "userBounds": [
+          753,
+          277,
+          null,
+          null
+        ],
+        "bounds": [
+          753,
+          277,
+          66,
+          41
+        ],
+        "content": "Node",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-s8fWjcym",
+        "userBounds": [
+          944,
+          341,
+          null,
+          null
+        ],
+        "bounds": [
+          944,
+          341,
+          179,
+          86
+        ],
+        "content": "Store\\<D>\n---\nCRUD documents",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-q4b4FQXl",
+        "userBounds": [
+          424,
+          322,
+          175.28125,
+          null
+        ],
+        "bounds": [
+          424,
+          322,
+          175,
+          109
+        ],
+        "content": "EventEmitter\n---\nExpose functions to trigger events",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wwLU8CAh",
+        "userBounds": [
+          906,
+          506,
+          232.640625,
+          null
+        ],
+        "bounds": [
+          906,
+          506,
+          233,
+          109
+        ],
+        "content": "Qualificator\\<D>\n---\nQualifies a document, for instance its validity",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bNT33EGC",
+        "userBounds": [
+          632,
+          463,
+          null,
+          null
+        ],
+        "bounds": [
+          632,
+          463,
+          86,
+          41
+        ],
+        "content": "Mapper",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bxe4CPe1",
+        "userBounds": [
+          666,
+          545,
+          null,
+          null
+        ],
+        "bounds": [
+          666,
+          545,
+          106,
+          41
+        ],
+        "content": "Agregator",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ii9zNT6D",
+        "userBounds": [
+          793,
+          447,
+          null,
+          null
+        ],
+        "bounds": [
+          793,
+          447,
+          117,
+          64
+        ],
+        "content": "Dissociator\nExtractor",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VZs26oC2",
+        "userBounds": [
+          746,
+          610,
+          null,
+          null
+        ],
+        "bounds": [
+          746,
+          610,
+          62,
+          41
+        ],
+        "content": "Filter",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KEGGVsku",
+        "userBounds": [
+          378,
+          566,
+          null,
+          null
+        ],
+        "bounds": [
+          378,
+          566,
+          219,
+          109
+        ],
+        "content": "EventReceiver\n---\nCall functions when an\nevent is received",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-1fwD1GMH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pWXAwgrg",
+            "target": "NOTE-txbbKdoY"
+          },
+          {
+            "id": "END-H7bYJluE",
+            "target": "NOTE-U4WrAfzU"
+          }
+        ]
+      },
+      {
+        "id": "REL-DDgaeMg9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-D3v693vB",
+            "target": "NOTE-txbbKdoY",
+            "textOver": {
+              "content": "IN"
+            },
+            "attachPointNumber": 1
+          },
+          {
+            "id": "END-2Nyv8UXy",
+            "target": "NOTE-aZJ2Hqpi",
+            "attachPointNumber": 7
+          }
+        ]
+      },
+      {
+        "id": "REL-SDZ5Wot5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7WAelXeb",
+            "target": "NOTE-aZJ2Hqpi",
+            "attachPointNumber": 6
+          },
+          {
+            "id": "END-agZgB2ju",
+            "target": "NOTE-txbbKdoY",
+            "attachPointNumber": 2,
+            "textOver": {
+              "content": "OUT"
+            }
+          }
+        ]
+      },
+      {
+        "id": "REL-1Cql9ZQY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EJJdi3Hx",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-9LgaEc4B",
+            "target": "NOTE-bNT33EGC"
+          }
+        ]
+      },
+      {
+        "id": "REL-bWGU7bss",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tQenm7e6",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-JnaTuWrn",
+            "target": "NOTE-q4b4FQXl"
+          }
+        ]
+      },
+      {
+        "id": "REL-estYnGF8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9Syd9Wee",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-MXJdlVAP",
+            "target": "NOTE-ii9zNT6D"
+          }
+        ]
+      },
+      {
+        "id": "REL-B4nMsAJE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-65zzkJdR",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-AnN3AAG9",
+            "target": "NOTE-s8fWjcym"
+          }
+        ]
+      },
+      {
+        "id": "REL-svj6WeJS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Z8KoYdWd",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-qNfu9HXF",
+            "target": "NOTE-wwLU8CAh"
+          }
+        ]
+      },
+      {
+        "id": "REL-JiXpRpAn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g8NC53bi",
+            "target": "NOTE-GdhBEzMl"
+          },
+          {
+            "id": "END-CK8goQoS",
+            "target": "NOTE-bxe4CPe1"
+          }
+        ]
+      },
+      {
+        "id": "REL-uXq6EdDf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SVysZS7f",
+            "target": "NOTE-VZs26oC2"
+          },
+          {
+            "id": "END-8f8SmJKF",
+            "target": "NOTE-GdhBEzMl"
+          }
+        ]
+      }
+    ]
+  }
+}

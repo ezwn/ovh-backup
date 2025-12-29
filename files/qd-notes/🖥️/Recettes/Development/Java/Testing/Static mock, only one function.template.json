@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-mockitoStaticMockOnlyOneFunction",
+  "content": {
+    "index": "mockito, static mock, only one function",
+    "name": "Mockito, static mock, only one function",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "try (MockedStatic<Instant> instantMockedStatic = Mockito.mockStatic(Instant.class, invocation -> {\n            if (invocation.getMethod().getName().equals(\"now\")) {\n                return now;\n            }\n            return invocation.callRealMethod();\n        })) {\n            assertEquals(\n                    expectedInstant,\n                    attemptLog.earliestNextAttempt(exerciseType.getRefractoryMinutes())\n            );\n        }",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-YwWYqSaw",
+        "userBounds": [
+          1074,
+          194,
+          null,
+          null
+        ],
+        "bounds": [
+          1074,
+          194,
+          101,
+          41
+        ],
+        "content": "Omega-3",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TPSuQ9Bs",
+        "userBounds": [
+          1099,
+          39,
+          null,
+          null
+        ],
+        "bounds": [
+          1099,
+          39,
+          82,
+          50
+        ],
+        "content": "CERTIF\nANALYSE",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-mCUbq63C",
+        "userBounds": [
+          1106,
+          265,
+          null,
+          null
+        ],
+        "bounds": [
+          1106,
+          265,
+          104,
+          41
+        ],
+        "content": "NORSAN",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-zKWT6dyf",
+        "userBounds": [
+          1089,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          1089,
+          329,
+          98,
+          64
+        ],
+        "content": "FOIE DE\nMORUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7URfGcL1",
+        "userBounds": [
+          929,
+          265,
+          null,
+          null
+        ],
+        "bounds": [
+          929,
+          265,
+          116,
+          34
+        ],
+        "content": "PURIFICATION",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-FV2Rmy1D",
+        "userBounds": [
+          792,
+          279,
+          null,
+          null
+        ],
+        "bounds": [
+          792,
+          279,
+          89,
+          39
+        ],
+        "content": "TOTOX?",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-qc1jiZGv",
+        "userBounds": [
+          42,
+          58,
+          null,
+          null
+        ],
+        "bounds": [
+          42,
+          58,
+          271,
+          78
+        ],
+        "content": "# Huile de lin\n53 000 mg d'ALA pour 100 g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-i5r34bRu",
+        "userBounds": [
+          40,
+          150,
+          null,
+          null
+        ],
+        "bounds": [
+          40,
+          150,
+          260,
+          78
+        ],
+        "content": "# Noix\n2 600 mg d'ALA pour 100 g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2UdhUx8X",
+        "userBounds": [
+          39,
+          243,
+          null,
+          null
+        ],
+        "bounds": [
+          39,
+          243,
+          260,
+          78
+        ],
+        "content": "# Huile de colza\n8 000 mg d'ALA pour 100 g",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-rZ9v7LFQ",
+        "userBounds": [
+          37,
+          583,
+          null,
+          null
+        ],
+        "bounds": [
+          37,
+          583,
+          726,
+          133
+        ],
+        "content": "Saumon sauvage : environ 2 000-2 500 mg d'EPA et DHA combinés pour 100 g.\nSardines : environ 1 400-2 200 mg d'EPA et DHA combinés pour 100 g.\nMaquereau : environ 2 000-2 500 mg d'EPA et DHA combinés pour 100 g.\nHareng : environ 1 300-1 800 mg d'EPA et DHA combinés pour 100 g.\nFlétan : environ 500-1 500 mg d'EPA et DHA combinés pour 100 g.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pYAkdSRS",
+        "userBounds": [
+          832,
+          573,
+          null,
+          null
+        ],
+        "bounds": [
+          832,
+          573,
+          308,
+          133
+        ],
+        "content": "Norsan Omega-3 Premium (8ml)\n\n1152mg EPA\n112mg DPA\n496mg DHA",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Y7qPXGyo",
+        "userBounds": [
+          1491,
+          98,
+          null,
+          null
+        ],
+        "bounds": [
+          1491,
+          98,
+          154,
+          41
+        ],
+        "content": "Schizochytrium",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nnaymc9m",
+        "userBounds": [
+          1567,
+          264,
+          null,
+          null
+        ],
+        "bounds": [
+          1567,
+          264,
+          60,
+          41
+        ],
+        "content": "DHA",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-odpi3l85",
+        "userBounds": [
+          1535,
+          352,
+          null,
+          null
+        ],
+        "bounds": [
+          1535,
+          352,
+          57,
+          41
+        ],
+        "content": "EPA",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-soIt8XQD",
+        "userBounds": [
+          1357,
+          219,
+          null,
+          null
+        ],
+        "bounds": [
+          1357,
+          219,
+          159,
+          87
+        ],
+        "content": "Euglena gracilis\neau douce\nalgue?",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-oWAdfh8a",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-21GgZeaH",
+            "target": "NOTE-nnaymc9m"
+          },
+          {
+            "id": "END-cc9jelTs",
+            "target": "NOTE-Y7qPXGyo"
+          }
+        ]
+      },
+      {
+        "id": "REL-LWLQah8Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Sctgghq8",
+            "target": "NOTE-soIt8XQD"
+          },
+          {
+            "id": "END-zW1mgDxN",
+            "target": "NOTE-nnaymc9m"
+          }
+        ]
+      },
+      {
+        "id": "REL-L33ZcSEh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CUbWLe7i",
+            "target": "NOTE-soIt8XQD"
+          },
+          {
+            "id": "END-RT1zIcW1",
+            "target": "NOTE-odpi3l85"
+          }
+        ]
+      }
+    ]
+  }
+}

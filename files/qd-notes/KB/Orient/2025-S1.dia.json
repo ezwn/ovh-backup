@@ -1,0 +1,224 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-QsyErc6m",
+        "userBounds": [
+          836,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          836,
+          329,
+          196,
+          64
+        ],
+        "content": "TRANSVERSALITE\nTECHNIQUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2KeYsW3T",
+        "userBounds": [
+          702,
+          455,
+          null,
+          null
+        ],
+        "bounds": [
+          702,
+          455,
+          188,
+          64
+        ],
+        "content": "EMPLOYABILITE\nLEAD / MANAGER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-z36MgInW",
+        "userBounds": [
+          966,
+          457,
+          null,
+          null
+        ],
+        "bounds": [
+          966,
+          457,
+          151,
+          41
+        ],
+        "content": "INTERET PUR",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-h4WjUYiB",
+        "userBounds": [
+          858,
+          139,
+          142.5625,
+          null
+        ],
+        "bounds": [
+          858,
+          139,
+          143,
+          105
+        ],
+        "content": "# UTC505\nIntroduction à la cyberstructure de l'internet : réseaux et sécurité\n# 3 ECTS\n# DIFFICILE",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-axmtkG8p",
+        "userBounds": [
+          193,
+          39,
+          157.609375,
+          null
+        ],
+        "bounds": [
+          193,
+          39,
+          158,
+          94
+        ],
+        "content": "# UTC504\nSystèmes d'Information et Bases de Données\n# 1.5 ECTS\n# FACILE",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-oRYdtmtM",
+        "userBounds": [
+          32,
+          40,
+          null,
+          null
+        ],
+        "bounds": [
+          32,
+          40,
+          155,
+          83
+        ],
+        "content": "# UTC503\nParadigmes de programmation\n# 1.5 ECTS\n# FACILE",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-lR35vrlH",
+        "userBounds": [
+          1178,
+          433,
+          166.78125,
+          null
+        ],
+        "bounds": [
+          1178,
+          433,
+          167,
+          76
+        ],
+        "content": "# [ENG261](https://formation.cnam.fr/rechercher-par-discipline/information-et-communication-scientifique-1475357.kjsp?RF=)\nInformation et communication scientifique\n# 3 ECTS",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-Ce3XKYl1",
+        "userBounds": [
+          508,
+          523,
+          127.8125,
+          null
+        ],
+        "bounds": [
+          508,
+          523,
+          128,
+          90
+        ],
+        "content": "# [NSY115](https://formation.cnam.fr/rechercher-par-discipline/conduite-d-un-projet-informatique-208643.kjsp?RF=)\nConduite d'un projet informatique\n# 6 ECTS",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-iQYcyIMy",
+        "userBounds": [
+          1061,
+          544,
+          127.546875,
+          null
+        ],
+        "bounds": [
+          1061,
+          544,
+          128,
+          83
+        ],
+        "content": "# [AVT208](https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/gestion-publique-locale-finances-acteurs-et-institutions-1487088.kjsp)\nGestion publique locale\n# @\n# 4 ECTS",
+        "zIndex": 3,
+        "fontSize": 10
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-amoYEqMs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-winsl7AD",
+            "target": "NOTE-Ce3XKYl1"
+          },
+          {
+            "id": "END-jnEAmlch",
+            "target": "NOTE-2KeYsW3T"
+          }
+        ]
+      },
+      {
+        "id": "REL-hR6xjc2A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wsTUKKy8",
+            "target": "NOTE-h4WjUYiB"
+          },
+          {
+            "id": "END-2nFSnZeB",
+            "target": "NOTE-QsyErc6m"
+          }
+        ]
+      },
+      {
+        "id": "REL-jNI8snW5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RNCsBTvZ",
+            "target": "NOTE-lR35vrlH"
+          },
+          {
+            "id": "END-KBmwq9CV",
+            "target": "NOTE-z36MgInW"
+          }
+        ]
+      },
+      {
+        "id": "REL-LJIrQ9Ti",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-VHKgcFm2",
+            "target": "NOTE-iQYcyIMy"
+          },
+          {
+            "id": "END-EQSkMzbW",
+            "target": "NOTE-z36MgInW"
+          }
+        ]
+      }
+    ]
+  }
+}

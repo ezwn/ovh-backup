@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-rkxU7Fbs",
+        "userBounds": [
+          460,
+          185,
+          null,
+          null
+        ],
+        "bounds": [
+          460,
+          185,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/ENGAGE-1200)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-C4bwbq61",
+        "userBounds": [
+          630,
+          203,
+          640,
+          null
+        ],
+        "bounds": [
+          630,
+          203,
+          640,
+          87
+        ],
+        "content": "Par contre, pour \"using the \"demo.kanopy\" configmap as a source\", est-ce que tu arrives à me dire quel est le contenu de cette Config map? ça serait bien de le mettre dans la tâche our en discutre",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

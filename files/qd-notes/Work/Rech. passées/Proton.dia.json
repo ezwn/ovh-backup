@@ -1,0 +1,321 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-39yZeMcs",
+        "userBounds": [
+          412,
+          349,
+          null,
+          null
+        ],
+        "content": "Mail ou Calendar ?",
+        "zIndex": 3,
+        "bounds": [
+          412,
+          349,
+          186,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-IqUKTunf",
+        "userBounds": [
+          507,
+          244,
+          null,
+          null
+        ],
+        "content": "VPN",
+        "zIndex": 3,
+        "bounds": [
+          507,
+          244,
+          59,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-yVGNvvnI",
+        "userBounds": [
+          590,
+          165,
+          null,
+          null
+        ],
+        "content": "Drive=?",
+        "zIndex": 3,
+        "bounds": [
+          590,
+          165,
+          87,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5IAbsphh",
+        "userBounds": [
+          668,
+          305,
+          null,
+          null
+        ],
+        "content": "DPTS",
+        "zIndex": 3,
+        "bounds": [
+          668,
+          305,
+          71,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-A5AvPcvI",
+        "userBounds": [
+          776,
+          153,
+          null,
+          null
+        ],
+        "content": "WEB",
+        "zIndex": 3,
+        "bounds": [
+          776,
+          153,
+          64,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-CeuHU1xX",
+        "userBounds": [
+          717,
+          55,
+          null,
+          null
+        ],
+        "content": "DEV",
+        "zIndex": 3,
+        "bounds": [
+          717,
+          55,
+          59,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-lBaUPIl6",
+        "userBounds": [
+          834,
+          45,
+          null,
+          null
+        ],
+        "content": "PRODUIT",
+        "zIndex": 3,
+        "bounds": [
+          834,
+          45,
+          108,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ejkgILDP",
+        "userBounds": [
+          887,
+          105,
+          null,
+          null
+        ],
+        "content": "DESIGNERS",
+        "zIndex": 3,
+        "bounds": [
+          887,
+          105,
+          136,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-QWrKdd9C",
+        "userBounds": [
+          909,
+          180,
+          null,
+          null
+        ],
+        "content": "QA",
+        "zIndex": 3,
+        "bounds": [
+          909,
+          180,
+          47,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-aHtroVEm",
+        "userBounds": [
+          619,
+          421,
+          null,
+          null
+        ],
+        "content": "ARTICULATION\nFONCTL\nPLATEFORME",
+        "zIndex": 3,
+        "bounds": [
+          619,
+          421,
+          163,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-QuuKSlac",
+        "userBounds": [
+          1019,
+          323,
+          null,
+          null
+        ],
+        "content": "POIDS\nCRYPTAGE\n= FE très important",
+        "zIndex": 3,
+        "bounds": [
+          1019,
+          323,
+          189,
+          87
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-rePRapBZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JzLsYS5S",
+            "target": "NOTE-39yZeMcs"
+          },
+          {
+            "id": "END-yjjoePwl",
+            "target": "NOTE-5IAbsphh"
+          }
+        ]
+      },
+      {
+        "id": "REL-GEkY2Pz2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HZpZPDJk",
+            "target": "NOTE-IqUKTunf"
+          },
+          {
+            "id": "END-rMvLiypo",
+            "target": "NOTE-5IAbsphh"
+          }
+        ]
+      },
+      {
+        "id": "REL-incQCU1t",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dFlen24t",
+            "target": "NOTE-yVGNvvnI"
+          },
+          {
+            "id": "END-5E2gv4h3",
+            "target": "NOTE-5IAbsphh"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZS6gscta",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CB2j1JiV",
+            "target": "NOTE-A5AvPcvI"
+          },
+          {
+            "id": "END-Z7zYNTEU",
+            "target": "NOTE-5IAbsphh"
+          }
+        ]
+      },
+      {
+        "id": "REL-NNdwuWUb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JuoxGf2W",
+            "target": "NOTE-ejkgILDP"
+          },
+          {
+            "id": "END-pCdoJd8h",
+            "target": "NOTE-A5AvPcvI"
+          }
+        ]
+      },
+      {
+        "id": "REL-Gvxccvsg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-N5s5N9l3",
+            "target": "NOTE-QWrKdd9C"
+          },
+          {
+            "id": "END-1d7TGEHK",
+            "target": "NOTE-A5AvPcvI"
+          }
+        ]
+      },
+      {
+        "id": "REL-21catSjH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-FLdT5LG1",
+            "target": "NOTE-lBaUPIl6"
+          },
+          {
+            "id": "END-ZEEcSgxN",
+            "target": "NOTE-A5AvPcvI"
+          }
+        ]
+      },
+      {
+        "id": "REL-whJTBxZp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zkyYIzQw",
+            "target": "NOTE-CeuHU1xX"
+          },
+          {
+            "id": "END-8MZshrEI",
+            "target": "NOTE-A5AvPcvI"
+          }
+        ]
+      },
+      {
+        "id": "REL-rdNbLTYs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-C4eLgLIX",
+            "target": "NOTE-aHtroVEm"
+          },
+          {
+            "id": "END-xmUpiyLc",
+            "target": "NOTE-5IAbsphh"
+          }
+        ]
+      }
+    ]
+  }
+}

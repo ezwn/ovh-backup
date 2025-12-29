@@ -1,0 +1,408 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-C3FuZfb8",
+        "userBounds": [
+          857,
+          370,
+          null
+        ],
+        "content": "Game\nEngine",
+        "bounds": [
+          857,
+          370,
+          105.1875,
+          82
+        ],
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-5VHrEqtG",
+        "userBounds": [
+          603,
+          494,
+          null
+        ],
+        "content": "Armory3D",
+        "bounds": [
+          603,
+          494,
+          108.015625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-fU6YuRfW",
+        "userBounds": [
+          736,
+          614,
+          null
+        ],
+        "content": "UPBGE",
+        "bounds": [
+          736,
+          614,
+          88.03125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-YZ8Zgpu7",
+        "userBounds": [
+          673,
+          344,
+          null
+        ],
+        "content": "OGRE",
+        "bounds": [
+          673,
+          344,
+          76.90625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-YmSgShmc",
+        "userBounds": [
+          531,
+          613,
+          null
+        ],
+        "content": "jMonkey",
+        "bounds": [
+          531,
+          613,
+          92.484375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3zHtCJW4",
+        "userBounds": [
+          403,
+          534,
+          null
+        ],
+        "content": "Pyrogenesis",
+        "bounds": [
+          403,
+          534,
+          128.0625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-hQiAl8o8",
+        "userBounds": [
+          28,
+          456,
+          null
+        ],
+        "content": "Supported formats",
+        "bounds": [
+          28,
+          456,
+          182.53125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Laryq9qm",
+        "userBounds": [
+          37,
+          142,
+          null
+        ],
+        "content": "Perfs",
+        "bounds": [
+          37,
+          142,
+          64.6875,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-wM1YLPe8",
+        "userBounds": [
+          38,
+          256,
+          null
+        ],
+        "content": "Distributability",
+        "bounds": [
+          38,
+          256,
+          142.484375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-smpngY6x",
+        "userBounds": [
+          30,
+          372,
+          null
+        ],
+        "content": "Skilled developers\navailable",
+        "bounds": [
+          30,
+          372,
+          180.328125,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-b9hmv6da",
+        "userBounds": [
+          38,
+          85,
+          null
+        ],
+        "content": "Stability",
+        "bounds": [
+          38,
+          85,
+          88.03125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-UTrfvPi8",
+        "userBounds": [
+          36,
+          33,
+          null
+        ],
+        "content": "Support big worlds",
+        "bounds": [
+          36,
+          33,
+          183.65625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-bARWUEwT",
+        "userBounds": [
+          760,
+          498,
+          null
+        ],
+        "content": "Blender",
+        "bounds": [
+          760,
+          498,
+          86.9375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-VSAyJonF",
+        "userBounds": [
+          35,
+          310,
+          null
+        ],
+        "content": "Documentation + tutorials",
+        "bounds": [
+          35,
+          310,
+          245.34375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5Z9uEqjw",
+        "userBounds": [
+          318,
+          361,
+          null
+        ],
+        "content": "# Tutos\n---\nhttps://ogrecave.github.io/ogre/api/latest/building-ogre.html\nhttps://code.visualstudio.com/docs/cpp/cmake-linux",
+        "bounds": [
+          318,
+          361,
+          329.53125,
+          85
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-7yx196tH",
+        "userBounds": [
+          37,
+          195,
+          null
+        ],
+        "content": "Loading time",
+        "bounds": [
+          37,
+          195,
+          132.53125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Y9zIaqpf",
+        "userBounds": [
+          1003,
+          324,
+          null
+        ],
+        "content": "Bullet",
+        "bounds": [
+          1003,
+          324,
+          68.03125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-jAeWpI6g",
+        "userBounds": [
+          530,
+          272,
+          null
+        ],
+        "content": "OGRE Next",
+        "bounds": [
+          530,
+          272,
+          123.578125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-6VQnxwAp",
+        "userBounds": [
+          1117,
+          300,
+          null
+        ],
+        "content": "GLTF",
+        "bounds": [
+          1117,
+          300,
+          67.640625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-LKMouoSv",
+        "userBounds": [
+          962,
+          236,
+          null
+        ],
+        "content": "ThreeJS",
+        "bounds": [
+          962,
+          236,
+          93.59375,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-6zcDUZFE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "1DCLIQSl",
+            "target": "NOTE-bARWUEwT"
+          },
+          {
+            "id": "n7DxitZ9",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-I9Ns7Q6E",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "RToPBeJJ",
+            "target": "NOTE-bARWUEwT"
+          },
+          {
+            "id": "Wjq8RPdD",
+            "target": "NOTE-fU6YuRfW"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-dCtgqFmT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "jdPggnPr",
+            "target": "NOTE-bARWUEwT"
+          },
+          {
+            "id": "ekp9XCpF",
+            "target": "NOTE-5VHrEqtG"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-YPY3WfJm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "SkgM85Iw",
+            "target": "NOTE-C3FuZfb8"
+          },
+          {
+            "id": "TzPJufJf",
+            "target": "NOTE-YZ8Zgpu7"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-FCLmXWQL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "fwSGWzGD",
+            "target": "NOTE-5Z9uEqjw"
+          },
+          {
+            "id": "ctKhMuhb",
+            "target": "NOTE-YZ8Zgpu7"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-WJ1KAvPF",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ezhcsDwa",
+            "target": "NOTE-Y9zIaqpf"
+          },
+          {
+            "id": "EMZaRl3L",
+            "target": "NOTE-C3FuZfb8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-p8fNeCE9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "5jTvdvjz",
+            "target": "NOTE-jAeWpI6g"
+          },
+          {
+            "id": "hFacnyxo",
+            "target": "NOTE-YZ8Zgpu7"
+          }
+        ]
+      }
+    ]
+  }
+}

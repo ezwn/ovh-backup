@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-FMpUWQT7",
+        "userBounds": [
+          393,
+          298,
+          null,
+          null
+        ],
+        "bounds": [
+          393,
+          298,
+          168,
+          41
+        ],
+        "content": "investigations-be",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wGPC44vc",
+        "userBounds": [
+          531,
+          60,
+          445,
+          null
+        ],
+        "bounds": [
+          531,
+          60,
+          445,
+          144
+        ],
+        "content": "curl --request POST \\\n  --url http://localhost:8080/nql-ls/validate \\\n  --header 'Authorization: Bearer PORTAL_TOKEN' \\\n  --header 'Content-Type: application/json' \\\n  --header 'Tenant-UUID: 930e60fe-a4ff-4704-bb43-a0b76f427b76' \\\n  --data '{\"uri\":\"query_engage-nql-editor-schedule-tab.nql\",\"languageId\":\"nql_/nxaws/nql-editor\",\"text\":\"fds\",\"version\":6,\"rules\":{\"enable\":[{\"id\":\"SCHEDULER_NQL_PERIOD_LIMITS_RULE\",\"args\":{\"scheduledFrequency\":\"0 0 0 ? * * *\"}}]}}'",
+        "zIndex": 3,
+        "fontSize": 14
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-WQsVSZq8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-aEdFJSJo",
+            "target": "NOTE-wGPC44vc"
+          },
+          {
+            "id": "END-CJ443FyQ",
+            "target": "NOTE-FMpUWQT7"
+          }
+        ]
+      }
+    ]
+  }
+}

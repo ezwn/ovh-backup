@@ -1,0 +1,114 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-NSEXdeAi",
+        "userBounds": [
+          724,
+          408,
+          null,
+          null
+        ],
+        "content": "IT",
+        "bounds": [
+          724,
+          408,
+          36,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-5fDj9YZ9",
+        "userBounds": [
+          571,
+          371,
+          null,
+          null
+        ],
+        "content": "origine",
+        "bounds": [
+          571,
+          371,
+          78,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-NiHI6MXW",
+        "userBounds": [
+          442,
+          441,
+          null,
+          null
+        ],
+        "content": "société\nservice",
+        "bounds": [
+          442,
+          441,
+          81,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-cA2MWUHb",
+        "userBounds": [
+          324,
+          381,
+          null,
+          null
+        ],
+        "content": "IBM",
+        "bounds": [
+          324,
+          381,
+          54,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Ao374xMY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5b3S9K3V",
+            "target": "NOTE-5fDj9YZ9"
+          },
+          {
+            "id": "END-AhTB6G12",
+            "target": "NOTE-NSEXdeAi"
+          }
+        ]
+      },
+      {
+        "id": "REL-uowva6XU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qsQ2wYbd",
+            "target": "NOTE-NiHI6MXW"
+          },
+          {
+            "id": "END-8BT9fMB2",
+            "target": "NOTE-5fDj9YZ9"
+          }
+        ]
+      },
+      {
+        "id": "REL-rGH3GayI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MAw77AHc",
+            "target": "NOTE-cA2MWUHb"
+          },
+          {
+            "id": "END-62AmYQrv",
+            "target": "NOTE-NiHI6MXW"
+          }
+        ]
+      }
+    ]
+  }
+}

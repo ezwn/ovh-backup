@@ -1,0 +1,229 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-XzWBc74n",
+        "userBounds": [
+          908,
+          343,
+          null,
+          null
+        ],
+        "bounds": [
+          908,
+          343,
+          94,
+          50
+        ],
+        "content": "LANG",
+        "zIndex": 3,
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-VhPjjrix",
+        "userBounds": [
+          744,
+          268,
+          null,
+          null
+        ],
+        "bounds": [
+          744,
+          268,
+          60,
+          41
+        ],
+        "content": "Java",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-55tTmu9c",
+        "userBounds": [
+          904,
+          207,
+          113.390625,
+          null
+        ],
+        "bounds": [
+          904,
+          207,
+          113,
+          64
+        ],
+        "content": "Javascript\n[web]",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HQKU8T7y",
+        "userBounds": [
+          1092,
+          264,
+          114.515625,
+          null
+        ],
+        "bounds": [
+          1092,
+          264,
+          115,
+          64
+        ],
+        "content": "Typescript\n[web]",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-m6jZpLry",
+        "userBounds": [
+          941,
+          472,
+          96.484375,
+          null
+        ],
+        "bounds": [
+          941,
+          472,
+          96,
+          64
+        ],
+        "content": "Rust\n[concis]",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ypreLyr2",
+        "userBounds": [
+          738,
+          420,
+          117.625,
+          null
+        ],
+        "bounds": [
+          738,
+          420,
+          118,
+          64
+        ],
+        "content": "Python\n[concis]",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gJuiwoBk",
+        "userBounds": [
+          1137,
+          408,
+          null,
+          null
+        ],
+        "bounds": [
+          1137,
+          408,
+          56,
+          41
+        ],
+        "content": "C++",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xzW99Ekb",
+        "userBounds": [
+          18,
+          668,
+          null,
+          null
+        ],
+        "bounds": [
+          18,
+          668,
+          109,
+          156
+        ],
+        "content": "Javascript\nJava\nPython\nTypescript\nC++\nRust",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-96n9wNvK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-349tjCow",
+            "target": "NOTE-XzWBc74n"
+          },
+          {
+            "id": "END-vHV4E8nm",
+            "target": "NOTE-VhPjjrix"
+          }
+        ]
+      },
+      {
+        "id": "REL-FVKjoWV6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TEF3yZFY",
+            "target": "NOTE-XzWBc74n"
+          },
+          {
+            "id": "END-inEH8yk1",
+            "target": "NOTE-55tTmu9c"
+          }
+        ]
+      },
+      {
+        "id": "REL-zE7ohyNi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9GvNRHba",
+            "target": "NOTE-XzWBc74n"
+          },
+          {
+            "id": "END-46d3NETm",
+            "target": "NOTE-HQKU8T7y"
+          }
+        ]
+      },
+      {
+        "id": "REL-E7eDtHfG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-un6slEpC",
+            "target": "NOTE-XzWBc74n"
+          },
+          {
+            "id": "END-DE1MJH8l",
+            "target": "NOTE-m6jZpLry"
+          }
+        ]
+      },
+      {
+        "id": "REL-4LuLG4Lg",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NzkLNCpX",
+            "target": "NOTE-XzWBc74n"
+          },
+          {
+            "id": "END-hspgltda",
+            "target": "NOTE-ypreLyr2"
+          }
+        ]
+      },
+      {
+        "id": "REL-3WKuaAcl",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AzAmuzxE",
+            "target": "NOTE-gJuiwoBk"
+          },
+          {
+            "id": "END-BBq5X6ci",
+            "target": "NOTE-XzWBc74n"
+          }
+        ]
+      }
+    ]
+  }
+}

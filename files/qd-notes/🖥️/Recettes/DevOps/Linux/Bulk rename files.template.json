@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-shBulkRenameFiles",
+  "content": {
+    "index": "sh bash bulk rename files",
+    "name": "SH, Bulk rename files",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "for file in \"(2017) \"*; do\n    # Überprüfen, ob es sich um eine Datei handelt\n    if [ -f \"$file\" ]; then\n        mv \"$file\" \"${file:7}\"\n    fi\ndone",
+        "defaultText": null
+      }
+    ]
+  }
+}

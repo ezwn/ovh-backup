@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-gpVCEEj2",
+        "userBounds": [
+          168,
+          285,
+          null,
+          null
+        ],
+        "bounds": [
+          168,
+          285,
+          125,
+          41
+        ],
+        "content": "[WASM repo](https://us-east-1.console.aws.amazon.com/s3/buckets/cdn-public-assets-408700672191?region=us-east-1&bucketType=general&tab=objects)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

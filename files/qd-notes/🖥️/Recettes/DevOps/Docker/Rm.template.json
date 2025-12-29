@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerRemoveContainers",
+  "content": {
+    "index": "docker, rm",
+    "name": "Docker, rm",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker rm ${container}",
+        "defaultText": null
+      }
+    ]
+  }
+}

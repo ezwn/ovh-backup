@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerStopAllContainers",
+  "content": {
+    "index": "docker, stop all containers",
+    "name": "Docker, stop all containers",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker stop $(docker ps -aq)",
+        "defaultText": null
+      }
+    ]
+  }
+}

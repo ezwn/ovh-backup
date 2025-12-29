@@ -1,0 +1,646 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-4QoAp1xz",
+        "userBounds": [
+          925,
+          346,
+          null,
+          null
+        ],
+        "bounds": [
+          925,
+          346,
+          177,
+          87
+        ],
+        "content": "DEVELOPPER\nUN RESEAU\nINTERNATIONAL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UweWHScz",
+        "userBounds": [
+          175,
+          570,
+          null,
+          null
+        ],
+        "bounds": [
+          175,
+          570,
+          161,
+          41
+        ],
+        "content": "SUBVENTIONS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PAHsQ5w7",
+        "userBounds": [
+          106,
+          662,
+          null,
+          null
+        ],
+        "bounds": [
+          106,
+          662,
+          72,
+          41
+        ],
+        "content": "[OFEV](https://www.bafu.admin.ch/bafu/fr/home/themes/formation/innovation/gesuch.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gydYUQJY",
+        "userBounds": [
+          121,
+          474,
+          null,
+          null
+        ],
+        "bounds": [
+          121,
+          474,
+          84,
+          36
+        ],
+        "content": "[FRANCE](https://www.ecologie.gouv.fr/subventions-aux-associations)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-iKaDYFZ7",
+        "userBounds": [
+          1064,
+          285,
+          null,
+          null
+        ],
+        "bounds": [
+          1064,
+          285,
+          130,
+          34
+        ],
+        "content": "[CLIMATETRIAGE](https://climatetriage.com/category/climate-change)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-pR5B3S5m",
+        "userBounds": [
+          799,
+          279,
+          null,
+          null
+        ],
+        "bounds": [
+          799,
+          279,
+          137,
+          34
+        ],
+        "content": "[ONE PLANET LAB](https://www.one-planet-lab-fr.ch/)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-I2bTwC8F",
+        "userBounds": [
+          384,
+          439,
+          null,
+          null
+        ],
+        "bounds": [
+          384,
+          439,
+          162,
+          41
+        ],
+        "content": "FINANCEMENT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ESKe8hSU",
+        "userBounds": [
+          227,
+          314,
+          null,
+          null
+        ],
+        "bounds": [
+          227,
+          314,
+          139,
+          64
+        ],
+        "content": "WWF Suisse\nIls hébergent!",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-etdUnaIR",
+        "userBounds": [
+          898,
+          455,
+          143.609375,
+          null
+        ],
+        "bounds": [
+          898,
+          455,
+          144,
+          54
+        ],
+        "content": "[JE VEUX AIDER GOUV FR](https://www.jeveuxaider.gouv.fr/)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-yytYSnea",
+        "userBounds": [
+          130,
+          26,
+          null,
+          null
+        ],
+        "bounds": [
+          130,
+          26,
+          87,
+          41
+        ],
+        "content": "[FRONT](http://localhost:3000/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mWhIoJUT",
+        "userBounds": [
+          1296,
+          381,
+          null,
+          null
+        ],
+        "bounds": [
+          1296,
+          381,
+          114,
+          41
+        ],
+        "content": "ACTEURS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Y1RI6bBe",
+        "userBounds": [
+          1722,
+          224,
+          163.21875,
+          null
+        ],
+        "bounds": [
+          1722,
+          224,
+          163,
+          54
+        ],
+        "content": "plans climats air énergie (PCAET)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-WimBFVcm",
+        "userBounds": [
+          1492,
+          92,
+          null,
+          null
+        ],
+        "bounds": [
+          1492,
+          92,
+          82,
+          41
+        ],
+        "content": "Mairies",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6tLeBdQF",
+        "userBounds": [
+          1503,
+          232,
+          null,
+          null
+        ],
+        "bounds": [
+          1503,
+          232,
+          181,
+          41
+        ],
+        "content": "Intercommunalités",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gLA5hAV3",
+        "userBounds": [
+          1514,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          1514,
+          154,
+          80,
+          41
+        ],
+        "content": "France",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-51b8jJvy",
+        "userBounds": [
+          1520,
+          489,
+          null,
+          null
+        ],
+        "bounds": [
+          1520,
+          489,
+          91,
+          41
+        ],
+        "content": "SUISSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bhuabjfI",
+        "userBounds": [
+          1518,
+          345,
+          null,
+          null
+        ],
+        "bounds": [
+          1518,
+          345,
+          64,
+          41
+        ],
+        "content": "Privé",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-IEu7okfq",
+        "userBounds": [
+          0,
+          24,
+          null,
+          null
+        ],
+        "bounds": [
+          0,
+          24,
+          122,
+          41
+        ],
+        "content": "[SWAGGER](http://localhost:8080/swagger-ui/index.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HU58XDt3",
+        "userBounds": [
+          224,
+          26,
+          null,
+          null
+        ],
+        "bounds": [
+          224,
+          26,
+          145,
+          41
+        ],
+        "content": "[COUCHBASE](http://localhost:8091/ui/index.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CXtq1VpC",
+        "userBounds": [
+          1644,
+          433,
+          157.65625,
+          null
+        ],
+        "bounds": [
+          1644,
+          433,
+          158,
+          60
+        ],
+        "content": "Administration communale",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-kj7Eyawo",
+        "userBounds": [
+          857,
+          74,
+          null,
+          null
+        ],
+        "bounds": [
+          857,
+          74,
+          89,
+          41
+        ],
+        "content": "[ADEME](https://longuevieauxobjets.ademe.fr/decouvrir-nos-outils/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KiKMsNbx",
+        "userBounds": [
+          28,
+          100,
+          null,
+          null
+        ],
+        "bounds": [
+          28,
+          100,
+          63,
+          41
+        ],
+        "content": "[8998](http://localhost:8998/swagger-ui/index.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ZgeDAD2o",
+        "userBounds": [
+          133,
+          100,
+          null,
+          null
+        ],
+        "bounds": [
+          133,
+          100,
+          63,
+          41
+        ],
+        "content": "[3001](http://localhost:3001/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-eqseVjq6",
+        "userBounds": [
+          29,
+          202,
+          null,
+          null
+        ],
+        "bounds": [
+          29,
+          202,
+          63,
+          41
+        ],
+        "content": "[8997](http://localhost:8997/swagger-ui/index.html)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-xL4fox5S",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-M59M4ACf",
+            "target": "NOTE-UweWHScz"
+          },
+          {
+            "id": "END-QrBvSeYc",
+            "target": "NOTE-PAHsQ5w7"
+          }
+        ]
+      },
+      {
+        "id": "REL-duJnwdM5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-AGJ8va3m",
+            "target": "NOTE-UweWHScz"
+          },
+          {
+            "id": "END-PCHcDR3N",
+            "target": "NOTE-gydYUQJY"
+          }
+        ]
+      },
+      {
+        "id": "REL-dLRXd2az",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KWKdbt5L",
+            "target": "NOTE-iKaDYFZ7"
+          },
+          {
+            "id": "END-tCbSyqZC",
+            "target": "NOTE-4QoAp1xz"
+          }
+        ]
+      },
+      {
+        "id": "REL-E2foCsG6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Z8DZc96B",
+            "target": "NOTE-pR5B3S5m"
+          },
+          {
+            "id": "END-6guJCxVw",
+            "target": "NOTE-4QoAp1xz"
+          }
+        ]
+      },
+      {
+        "id": "REL-iCzQxrev",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xRZXa4rq",
+            "target": "NOTE-I2bTwC8F"
+          },
+          {
+            "id": "END-iA29YHxL",
+            "target": "NOTE-ESKe8hSU"
+          }
+        ]
+      },
+      {
+        "id": "REL-uyqCFzmd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pwKfzrDH",
+            "target": "NOTE-I2bTwC8F"
+          },
+          {
+            "id": "END-cuD5JcSn",
+            "target": "NOTE-UweWHScz"
+          }
+        ]
+      },
+      {
+        "id": "REL-AYTHYya5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Agx4mmYl",
+            "target": "NOTE-etdUnaIR"
+          },
+          {
+            "id": "END-4laopIqq",
+            "target": "NOTE-4QoAp1xz"
+          }
+        ]
+      },
+      {
+        "id": "REL-rmVfBUQa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gR839uR5",
+            "target": "NOTE-Y1RI6bBe"
+          },
+          {
+            "id": "END-YeETjrzy",
+            "target": "NOTE-6tLeBdQF"
+          }
+        ]
+      },
+      {
+        "id": "REL-V8GcmQ9V",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GIHtApxM",
+            "target": "NOTE-gLA5hAV3"
+          },
+          {
+            "id": "END-AFQMehST",
+            "target": "NOTE-WimBFVcm"
+          }
+        ]
+      },
+      {
+        "id": "REL-PoIm7bK7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZWigA4y7",
+            "target": "NOTE-gLA5hAV3"
+          },
+          {
+            "id": "END-n4VFE64l",
+            "target": "NOTE-6tLeBdQF"
+          }
+        ]
+      },
+      {
+        "id": "REL-InULoScw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7k57FjDr",
+            "target": "NOTE-mWhIoJUT"
+          },
+          {
+            "id": "END-qsdxVAUe",
+            "target": "NOTE-gLA5hAV3"
+          }
+        ]
+      },
+      {
+        "id": "REL-josB5k6T",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mKQsCFmZ",
+            "target": "NOTE-51b8jJvy"
+          },
+          {
+            "id": "END-S57XzJsY",
+            "target": "NOTE-mWhIoJUT"
+          }
+        ]
+      },
+      {
+        "id": "REL-y6hPXnAe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gYHo28Au",
+            "target": "NOTE-bhuabjfI"
+          },
+          {
+            "id": "END-e2zNPPyI",
+            "target": "NOTE-mWhIoJUT"
+          }
+        ]
+      },
+      {
+        "id": "REL-tUbXoVrd",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yLVrfCnr",
+            "target": "NOTE-CXtq1VpC"
+          },
+          {
+            "id": "END-1J7KhKC1",
+            "target": "NOTE-51b8jJvy"
+          }
+        ]
+      },
+      {
+        "id": "REL-utjBqkb8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gDyaZ12W",
+            "target": "NOTE-KiKMsNbx"
+          },
+          {
+            "id": "END-EvseluqL",
+            "target": "NOTE-IEu7okfq"
+          }
+        ]
+      },
+      {
+        "id": "REL-F3XbpZfo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8tzCEnMI",
+            "target": "NOTE-KiKMsNbx"
+          },
+          {
+            "id": "END-65kolPYv",
+            "target": "NOTE-eqseVjq6"
+          }
+        ]
+      }
+    ]
+  }
+}

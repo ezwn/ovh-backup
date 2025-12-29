@@ -1,0 +1,531 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-SlteHiE8",
+        "userBounds": [
+          398,
+          379,
+          null,
+          null
+        ],
+        "content": "Idées",
+        "bounds": [
+          398,
+          379,
+          111,
+          61
+        ],
+        "fontSize": 38
+      },
+      {
+        "id": "NOTE-avhTed5i",
+        "userBounds": [
+          316,
+          267,
+          null,
+          null
+        ],
+        "content": "portage",
+        "bounds": [
+          316,
+          267,
+          79,
+          39
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-yYJ2jN5e",
+        "userBounds": [
+          299,
+          165,
+          null,
+          null
+        ],
+        "content": "# MITC\nGeneve\nBlonay",
+        "bounds": [
+          299,
+          165,
+          65,
+          68
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-6ckSSVPn",
+        "userBounds": [
+          140,
+          201,
+          null,
+          null
+        ],
+        "content": "# Tek Systems\ntrouvent les missions",
+        "bounds": [
+          140,
+          201,
+          134,
+          54
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Lc5D2NiQ",
+        "userBounds": [
+          120,
+          277,
+          null,
+          null
+        ],
+        "content": "# payrollsolving.ch\n---\nfreelance.payrollsolving.ch\ncom: 500 CHF/mois\nfrederic@payrollsolving.ch",
+        "bounds": [
+          120,
+          277,
+          150,
+          81
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-wLr6m4h4",
+        "userBounds": [
+          275,
+          469,
+          null,
+          null
+        ],
+        "content": "Par domaine",
+        "bounds": [
+          275,
+          469,
+          131,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-8FkZljLL",
+        "userBounds": [
+          258,
+          575,
+          null,
+          null
+        ],
+        "content": "Bank",
+        "bounds": [
+          258,
+          575,
+          54,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-zTl1RxBA",
+        "userBounds": [
+          162,
+          511,
+          null,
+          null
+        ],
+        "content": "Insurance",
+        "bounds": [
+          162,
+          511,
+          88,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-peUVIk2c",
+        "userBounds": [
+          142,
+          456,
+          null,
+          null
+        ],
+        "content": "Investment",
+        "bounds": [
+          142,
+          456,
+          96,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-UTpcX1nm",
+        "userBounds": [
+          1570,
+          525,
+          null,
+          null
+        ],
+        "bounds": [
+          1570,
+          525,
+          123,
+          36
+        ],
+        "content": "[JOBSCOUT24](https://www.jobscout24.ch/de/jobs/Java%20OR%20React%20OR%20Kafka%20OR%20Domain%20Driven%20Design%20OR%20SOLID%20OR%20Cloud%20Architecture/?regidl=2-3-8&actuality=7)",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-UQ1Uju91",
+        "userBounds": [
+          1639,
+          78,
+          152.25,
+          null
+        ],
+        "bounds": [
+          1639,
+          78,
+          152,
+          110
+        ],
+        "content": "# [jobs.ch](https://www.jobs.ch/de/)\n---\nSuisse Alémanique Local\n---\n***gHfmY3T1\nnicolas.enzweiler@gmail",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-Vi7bdiWZ",
+        "userBounds": [
+          1679,
+          255,
+          null,
+          null
+        ],
+        "bounds": [
+          1679,
+          255,
+          127,
+          96
+        ],
+        "content": "# [Indeed CH](https://ch-fr.indeed.com/q-d%C3%A9veloppeur-informatique-emplois.html?vjk=0519ba8925c69948)\n---\nAggrégateur\n---\ntitle:(scrum OR java)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-6tHjIqmL",
+        "userBounds": [
+          1705,
+          599,
+          null,
+          null
+        ],
+        "bounds": [
+          1705,
+          599,
+          124,
+          41
+        ],
+        "content": "[EPFL / offre](https://careers.epfl.ch/job/Lausanne-Ing%C3%A9nieur%C2%B7e-de-d%C3%A9veloppement/940461574/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-txChHYNT",
+        "userBounds": [
+          1464,
+          337,
+          null,
+          null
+        ],
+        "bounds": [
+          1464,
+          337,
+          153,
+          82
+        ],
+        "content": "# [jobup](https://www.jobup.ch/fr/)\n---\nSuisse Romande Locale\nPrix annonce : 600 CHF?",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-GLl5mJpJ",
+        "userBounds": [
+          171,
+          565,
+          null,
+          null
+        ],
+        "bounds": [
+          171,
+          565,
+          59,
+          41
+        ],
+        "content": "DEX",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-RvAkTrY4",
+        "userBounds": [
+          351,
+          585,
+          null,
+          null
+        ],
+        "bounds": [
+          351,
+          585,
+          76,
+          41
+        ],
+        "content": "BPMN",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-69dCQFgt",
+        "userBounds": [
+          1702,
+          395,
+          null,
+          null
+        ],
+        "bounds": [
+          1702,
+          395,
+          105,
+          86
+        ],
+        "content": "glassdoor\n---\navec avis",
+        "zIndex": 3,
+        "noteStyle": "NOTE"
+      },
+      {
+        "id": "NOTE-GclzNLcd",
+        "userBounds": [
+          209,
+          381,
+          null,
+          null
+        ],
+        "bounds": [
+          209,
+          381,
+          125,
+          36
+        ],
+        "content": "helvetic-payroll",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-U2tUUs1e",
+        "userBounds": [
+          1395,
+          175,
+          null,
+          null
+        ],
+        "bounds": [
+          1395,
+          175,
+          103,
+          39
+        ],
+        "content": "Allemagne",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-vEqW9HJh",
+        "userBounds": [
+          1359,
+          228,
+          263.015625,
+          null
+        ],
+        "bounds": [
+          1359,
+          228,
+          263,
+          36
+        ],
+        "content": "https://www.freelancermap.de/",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-Tnn7qXh6",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "rFNKP7m6",
+            "target": "NOTE-avhTed5i"
+          },
+          {
+            "id": "CaEJ8daZ",
+            "target": "NOTE-SlteHiE8"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-X3WQSA7G",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "JDYM3PQr",
+            "target": "NOTE-yYJ2jN5e"
+          },
+          {
+            "id": "p1c566Ce",
+            "target": "NOTE-avhTed5i"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Xl5QX14o",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "lryHeINB",
+            "target": "NOTE-6ckSSVPn"
+          },
+          {
+            "id": "gsWhxSN7",
+            "target": "NOTE-avhTed5i"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-fdHoEXhd",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "UW4LhXPZ",
+            "target": "NOTE-Lc5D2NiQ"
+          },
+          {
+            "id": "LgAw5Cjw",
+            "target": "NOTE-avhTed5i"
+          }
+        ]
+      },
+      {
+        "id": "REL-nFQ4sbca",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vIkUv3Ju",
+            "target": "NOTE-wLr6m4h4"
+          },
+          {
+            "id": "END-il72v1TH",
+            "target": "NOTE-peUVIk2c"
+          }
+        ]
+      },
+      {
+        "id": "REL-2i35hGhA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LwzCPuKj",
+            "target": "NOTE-wLr6m4h4"
+          },
+          {
+            "id": "END-XF5A5f23",
+            "target": "NOTE-zTl1RxBA"
+          }
+        ]
+      },
+      {
+        "id": "REL-m61UaFWE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UxHQfmZc",
+            "target": "NOTE-wLr6m4h4"
+          },
+          {
+            "id": "END-JaZRgZrw",
+            "target": "NOTE-8FkZljLL"
+          }
+        ]
+      },
+      {
+        "id": "REL-wXFA6ZjE",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-28GWwXhl",
+            "target": "NOTE-SlteHiE8"
+          },
+          {
+            "id": "END-o6F3euus",
+            "target": "NOTE-wLr6m4h4"
+          }
+        ]
+      },
+      {
+        "id": "REL-62IToamq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-l2JLZok9",
+            "target": "NOTE-GLl5mJpJ"
+          },
+          {
+            "id": "END-1sqcrZBp",
+            "target": "NOTE-wLr6m4h4"
+          }
+        ]
+      },
+      {
+        "id": "REL-JN6oNMad",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-mam3zTzE",
+            "target": "NOTE-RvAkTrY4"
+          },
+          {
+            "id": "END-Yf8vEmcx",
+            "target": "NOTE-wLr6m4h4"
+          }
+        ]
+      },
+      {
+        "id": "REL-XHBq7Nwj",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rVurxqTc",
+            "target": "NOTE-GclzNLcd"
+          },
+          {
+            "id": "END-Jc5JSxj3",
+            "target": "NOTE-avhTed5i"
+          }
+        ]
+      },
+      {
+        "id": "REL-DRy2sZ5b",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IWacvEGL",
+            "target": "NOTE-U2tUUs1e"
+          },
+          {
+            "id": "END-sEzNMPLA",
+            "target": "NOTE-vEqW9HJh"
+          }
+        ]
+      }
+    ]
+  }
+}

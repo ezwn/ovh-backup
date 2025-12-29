@@ -1,0 +1,217 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-DZo41Wvl",
+        "userBounds": [
+          872,
+          359,
+          152.9375,
+          null
+        ],
+        "bounds": [
+          872,
+          359,
+          153,
+          137
+        ],
+        "content": "Dev. Logiciel\n# Java / React\n---\n* [Indeed Lausanne](https://ch-fr.indeed.com/jobs?q=java+OR+react&l=Lausanne%2C+VD&radius=25&sort=date&vjk=5ab4f40cdfccd119)\n* [Indeed Genève](https://ch-fr.indeed.com/jobs?q=java%20OR%20react&l=Gen%C3%A8ve%2C%20GE&radius=25&sort=date)\n* [Indeed Bern](https://ch.indeed.com/jobs?q=java+or+react&l=bern%2C+be&radius=25&sort=date&vjk=079084075d72dc4d)\n* [Indeed Paris](https://fr.indeed.com/jobs?q=java+or+react&l=paris+%2875%29&sort=date&vjk=1961a5702b3b4a7b)\n---\nFrontend Developer - Internship",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-H2eZdXc1",
+        "userBounds": [
+          745,
+          233,
+          null,
+          null
+        ],
+        "bounds": [
+          745,
+          233,
+          84,
+          82
+        ],
+        "content": "💰🪖\nSécurité\nSI",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-9H4IrrlK",
+        "userBounds": [
+          715,
+          460,
+          122.984375,
+          null
+        ],
+        "bounds": [
+          715,
+          460,
+          123,
+          64
+        ],
+        "content": "Architecture logicielle",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ltaiiTVC",
+        "userBounds": [
+          1078,
+          403,
+          180.328125,
+          null
+        ],
+        "bounds": [
+          1078,
+          403,
+          180,
+          104
+        ],
+        "content": "# Gestion projet / équipe\n---\n- [SM Lausanne](https://ch-fr.indeed.com/jobs?q=title%3A+scrum&l=Lausanne%2C+VD&radius=25&sort=date&vjk=8876860af75a4c6e)\n- [Chef de projet Lausanne](https://ch-fr.indeed.com/jobs?q=chef+de+projet&l=Lausanne%2C+VD&radius=25&sort=date&start=10&vjk=01f3293d73ca9d1f)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-yBI6Rppp",
+        "userBounds": [
+          1291,
+          197,
+          143.375,
+          null
+        ],
+        "bounds": [
+          1291,
+          197,
+          143,
+          82
+        ],
+        "content": "🌱\nTransitions écologiques",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-W6McmQkB",
+        "userBounds": [
+          439,
+          309,
+          209.21875,
+          null
+        ],
+        "bounds": [
+          439,
+          309,
+          209,
+          89
+        ],
+        "content": "# 🌱🪖\n# Intelligence Artificielle\n--\nProduct Manager - AI Features Squad\nFull-Stack Developer - AI Features Squad",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-Rw9e8rgt",
+        "userBounds": [
+          638,
+          580,
+          112.984375,
+          null
+        ],
+        "bounds": [
+          638,
+          580,
+          113,
+          64
+        ],
+        "content": "Ingénieurie système",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-M9GHDhD6",
+        "userBounds": [
+          541,
+          461,
+          120.09375,
+          null
+        ],
+        "bounds": [
+          541,
+          461,
+          120,
+          64
+        ],
+        "content": "Could computing",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-pEP7oZBI",
+        "userBounds": [
+          801,
+          607,
+          null,
+          null
+        ],
+        "bounds": [
+          801,
+          607,
+          181,
+          175
+        ],
+        "content": "# 🌱🪖\n# Data\n---\nStage data analyst\nSenior data analyst\nResponsable data engineering\nChef de produit data\nData Analyst\nData Analyst\nData Analyst",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-xUb3HJ8r",
+        "userBounds": [
+          1319,
+          326,
+          null,
+          null
+        ],
+        "bounds": [
+          1319,
+          326,
+          175,
+          65
+        ],
+        "content": "🌱🪖\nGestion de risque",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JZHHyjsk",
+        "userBounds": [
+          1324,
+          433,
+          159.484375,
+          null
+        ],
+        "bounds": [
+          1324,
+          433,
+          159,
+          41
+        ],
+        "content": "Stratégie",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-iwYfNpAl",
+        "userBounds": [
+          54,
+          51,
+          null,
+          null
+        ],
+        "bounds": [
+          54,
+          51,
+          974,
+          41
+        ],
+        "content": "title:(sécurité OR data OR java OR cloud OR \"chef de projet\" OR climat OR énergie OR écologie OR scrum)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

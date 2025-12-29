@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-cQze6abt",
+        "userBounds": [
+          194,
+          269,
+          null,
+          null
+        ],
+        "bounds": [
+          194,
+          269,
+          234,
+          41
+        ],
+        "content": "[DEPLOY MS WITH K9S](https://confluence.intra.nexthink.com/display/ARIS/Deploy+microservice+with+k9s)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7Vny7f5L",
+        "userBounds": [
+          363,
+          114,
+          null,
+          null
+        ],
+        "bounds": [
+          363,
+          114,
+          389,
+          41
+        ],
+        "content": "[DEPLOY STATIC FRONTEND WITH K9S](https://confluence.intra.nexthink.com/display/ARIS/Deploy+static+frontend+with+k9s)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wJGRMPzt",
+        "userBounds": [
+          599,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          599,
+          387,
+          237,
+          41
+        ],
+        "content": "[VICTOR DEPLOYMENT](https://confluence.intra.nexthink.com/display/~vbonnet/Manual+Deployment+of+Engage+Microservice)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-L3Kx2laz",
+        "userBounds": [
+          948,
+          215,
+          null,
+          null
+        ],
+        "bounds": [
+          948,
+          215,
+          226,
+          41
+        ],
+        "content": "[PATCH DEPLOYMENT](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

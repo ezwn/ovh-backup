@@ -1,0 +1,387 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-auhGKuBA",
+          "userBounds": [
+            49,
+            300,
+            null,
+            null
+          ],
+          "bounds": [
+            49,
+            300,
+            43,
+            42
+          ],
+          "content": "🔍",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-c8qopMR5",
+          "userBounds": [
+            48,
+            355,
+            null,
+            null
+          ],
+          "bounds": [
+            48,
+            355,
+            43,
+            42
+          ],
+          "content": "🔎",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-pHNw3RIa",
+          "userBounds": [
+            49,
+            414,
+            null,
+            null
+          ],
+          "bounds": [
+            49,
+            414,
+            43,
+            42
+          ],
+          "content": "✅",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-DJkRSQcU",
+          "userBounds": [
+            353,
+            275,
+            null,
+            null
+          ],
+          "bounds": [
+            353,
+            275,
+            43,
+            42
+          ],
+          "content": "⚙️",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-n1P2VUqV",
+          "userBounds": [
+            317,
+            335,
+            null,
+            null
+          ],
+          "bounds": [
+            317,
+            335,
+            43,
+            42
+          ],
+          "content": "🧩",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-qBgLNvPb",
+          "userBounds": [
+            302,
+            394,
+            null,
+            null
+          ],
+          "bounds": [
+            302,
+            394,
+            43,
+            42
+          ],
+          "content": "📦",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-izuhAEgW",
+          "userBounds": [
+            371,
+            391,
+            null,
+            null
+          ],
+          "bounds": [
+            371,
+            391,
+            43,
+            42
+          ],
+          "content": "🔗",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-j8zruJfp",
+          "userBounds": [
+            451,
+            342,
+            null,
+            null
+          ],
+          "bounds": [
+            451,
+            342,
+            43,
+            42
+          ],
+          "content": "🐳",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-HrJtNAXt",
+          "userBounds": [
+            427,
+            407,
+            null,
+            null
+          ],
+          "bounds": [
+            427,
+            407,
+            43,
+            42
+          ],
+          "content": "🌐",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-XUEvhCj9",
+          "userBounds": [
+            543,
+            430,
+            null,
+            null
+          ],
+          "bounds": [
+            543,
+            430,
+            43,
+            42
+          ],
+          "content": "💬",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-kIZhrl2C",
+          "userBounds": [
+            909,
+            373,
+            null,
+            null
+          ],
+          "bounds": [
+            909,
+            373,
+            36,
+            42
+          ],
+          "content": "☒",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-W4EVShcy",
+          "userBounds": [
+            825,
+            361,
+            null,
+            null
+          ],
+          "bounds": [
+            825,
+            361,
+            36,
+            42
+          ],
+          "content": "☐",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-atGhbeD8",
+          "userBounds": [
+            781,
+            476,
+            null,
+            null
+          ],
+          "bounds": [
+            781,
+            476,
+            37,
+            42
+          ],
+          "content": "▣",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-1fCSpfUm",
+          "userBounds": [
+            781,
+            145,
+            null,
+            null
+          ],
+          "bounds": [
+            781,
+            145,
+            36,
+            42
+          ],
+          "content": "⚠ ",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-nvUQqSpS",
+          "userBounds": [
+            431,
+            149,
+            null,
+            null
+          ],
+          "bounds": [
+            431,
+            149,
+            43,
+            42
+          ],
+          "content": "📍",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-fytger8c",
+          "userBounds": [
+            513,
+            165,
+            null,
+            null
+          ],
+          "bounds": [
+            513,
+            165,
+            43,
+            42
+          ],
+          "content": "📧",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-kzmWREiC",
+          "userBounds": [
+            748,
+            257,
+            null,
+            null
+          ],
+          "bounds": [
+            748,
+            257,
+            43,
+            42
+          ],
+          "content": "▶️",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-ErSs5WKT",
+          "userBounds": [
+            868,
+            450,
+            null,
+            null
+          ],
+          "bounds": [
+            868,
+            450,
+            43,
+            42
+          ],
+          "content": "📹",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-4CoM73Wk",
+          "userBounds": [
+            623,
+            213,
+            null,
+            null
+          ],
+          "bounds": [
+            623,
+            213,
+            36,
+            42
+          ],
+          "content": "★",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-NFkhFVWo",
+          "userBounds": [
+            923,
+            263,
+            null,
+            null
+          ],
+          "bounds": [
+            923,
+            263,
+            43,
+            42
+          ],
+          "content": "🌍",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-lHw5Fhx6",
+          "userBounds": [
+            13,
+            14,
+            null,
+            null
+          ],
+          "bounds": [
+            13,
+            14,
+            196,
+            42
+          ],
+          "content": "🇬🇧 🇺🇸 🇨🇳 🇩🇪 🇫🇷 🇨🇭",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-SvZy7knG",
+          "userBounds": [
+            121,
+            113,
+            null,
+            null
+          ],
+          "bounds": [
+            121,
+            113,
+            199,
+            42
+          ],
+          "content": "📐 🧩 🎨 🖥️ </> 🏡",
+          "zIndex": 3
+        }
+      ],
+      "relations": []
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "272beb6b-640f-4af3-a4bb-89dfeb8548af",
+  "docTypeVersion": 1
+}

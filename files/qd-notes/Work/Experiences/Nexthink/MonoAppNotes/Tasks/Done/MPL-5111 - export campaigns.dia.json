@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-MsMRUBxX",
+        "userBounds": [
+          660,
+          204,
+          null,
+          null
+        ],
+        "bounds": [
+          660,
+          204,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5111)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

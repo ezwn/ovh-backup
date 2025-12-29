@@ -1,0 +1,107 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-NiEzqVam",
+        "userBounds": [
+          34,
+          16,
+          null,
+          null
+        ],
+        "bounds": [
+          34,
+          16,
+          146,
+          41
+        ],
+        "content": "[NEXT RETRO](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=289905275)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NxbbQVQm",
+        "userBounds": [
+          30,
+          73,
+          413.84375,
+          null
+        ],
+        "bounds": [
+          30,
+          73,
+          414,
+          65
+        ],
+        "content": "Vote up, not if you agree, but if you think the topic needs to be addressed.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sg1U81Ax",
+        "userBounds": [
+          123,
+          196,
+          null,
+          null
+        ],
+        "bounds": [
+          123,
+          196,
+          242,
+          41
+        ],
+        "content": "[OVER ESTIMATED 1 SP](https://jira.nexthink.com:1443/browse/ENGAGE-1113)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wFTflAIA",
+        "userBounds": [
+          435,
+          332.1436424255371,
+          222.30810546875,
+          null
+        ],
+        "bounds": [
+          435,
+          332.1436424255371,
+          222,
+          65
+        ],
+        "content": "Remove ticket without discussion",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-L9kJ3gkC",
+        "userBounds": [
+          430,
+          226.1436424255371,
+          227.9632568359375,
+          null
+        ],
+        "bounds": [
+          430,
+          226.1436424255371,
+          228,
+          65
+        ],
+        "content": "Address simple tech debt in euf-dashboards",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-u8Q1FNqR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yeuWHppL",
+            "target": "NOTE-wFTflAIA"
+          },
+          {
+            "id": "END-d1NnV2Wh",
+            "target": "NOTE-L9kJ3gkC"
+          }
+        ]
+      }
+    ]
+  }
+}

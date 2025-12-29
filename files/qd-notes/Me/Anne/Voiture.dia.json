@@ -1,0 +1,363 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-GzqYyqjn",
+        "userBounds": [
+          546,
+          168,
+          null,
+          null
+        ],
+        "bounds": [
+          546,
+          168,
+          309,
+          41
+        ],
+        "content": "BRIDGESTONE ECOPIA EP150",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7uIikXDh",
+        "userBounds": [
+          1219,
+          582,
+          null,
+          null
+        ],
+        "bounds": [
+          1219,
+          582,
+          133,
+          72
+        ],
+        "content": "ASSUR AUTO\nELVIA by Allianz\n755",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-cgP8DacJ",
+        "userBounds": [
+          462,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          462,
+          456,
+          121,
+          41
+        ],
+        "content": "165/65 R14",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-LskMyGnR",
+        "userBounds": [
+          49,
+          553,
+          395.25,
+          null
+        ],
+        "bounds": [
+          49,
+          553,
+          395,
+          144
+        ],
+        "content": "165 : Largeur du pneu en millimètres.\n65 : Rapport hauteur/largeur du pneu en pourcentage (la hauteur du flanc est 65% de la largeur).\nR : Le pneu est de type radial.\n14 : Diamètre intérieur du pneu en pouces, correspondant au diamètre de la jante",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-akcWaxVH",
+        "userBounds": [
+          657,
+          471,
+          null,
+          null
+        ],
+        "bounds": [
+          657,
+          471,
+          87,
+          41
+        ],
+        "content": "S2WR2",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-p9LoAhnY",
+        "userBounds": [
+          504,
+          611,
+          273.40625,
+          null
+        ],
+        "bounds": [
+          504,
+          611,
+          273,
+          82
+        ],
+        "content": " S (sound) signifie « bruit de roulement », W (wet grip) signifie « adhérence sur sol mouillé » et R signifie « résistance au roulement »",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-hKPTlVJT",
+        "userBounds": [
+          567,
+          357,
+          null,
+          null
+        ],
+        "bounds": [
+          567,
+          357,
+          229,
+          41
+        ],
+        "content": "Fulda Kristall Montero 3",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-WQz3dhYJ",
+        "userBounds": [
+          849,
+          256,
+          186.1875,
+          null
+        ],
+        "bounds": [
+          849,
+          256,
+          186,
+          90
+        ],
+        "content": "Voiture\n---\nMitsubishi Space Star 1.2 1340kg, 52kW",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-5bcifj3v",
+        "userBounds": [
+          335,
+          249,
+          null,
+          null
+        ],
+        "bounds": [
+          335,
+          249,
+          90,
+          41
+        ],
+        "content": "2,6 / 2,7",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-1jLcIqVh",
+        "userBounds": [
+          1165,
+          40,
+          null,
+          null
+        ],
+        "bounds": [
+          1165,
+          40,
+          370,
+          41
+        ],
+        "content": "REINITIALISER CAPTEUR PRESSION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xEAjpvUo",
+        "userBounds": [
+          1181,
+          170,
+          null,
+          null
+        ],
+        "bounds": [
+          1181,
+          170,
+          355,
+          41
+        ],
+        "content": "LE SELECTIONNER DANS LA LISTE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ureipag7",
+        "userBounds": [
+          1234,
+          311,
+          null,
+          null
+        ],
+        "bounds": [
+          1234,
+          311,
+          161,
+          41
+        ],
+        "content": "APPUYE LONG",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-22cpV4bF",
+        "userBounds": [
+          1515,
+          457,
+          null,
+          null
+        ],
+        "bounds": [
+          1515,
+          457,
+          50,
+          41
+        ],
+        "content": "BIP",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9wCPzMB9",
+        "userBounds": [
+          1471,
+          611,
+          null,
+          null
+        ],
+        "bounds": [
+          1471,
+          611,
+          175,
+          41
+        ],
+        "content": "APPUYE COURT",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-JFlbPBZU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yTWfVEIh",
+            "target": "NOTE-LskMyGnR"
+          },
+          {
+            "id": "END-Aak2Qlly",
+            "target": "NOTE-cgP8DacJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-utuBCeU1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ImbqIqTV",
+            "target": "NOTE-p9LoAhnY"
+          },
+          {
+            "id": "END-pVfWltAF",
+            "target": "NOTE-akcWaxVH"
+          }
+        ]
+      },
+      {
+        "id": "REL-4sQ93VAI",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rEED3UrK",
+            "target": "NOTE-hKPTlVJT"
+          },
+          {
+            "id": "END-t4TcRR1z",
+            "target": "NOTE-cgP8DacJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-fHw4U7Sw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RoMAaUvW",
+            "target": "NOTE-hKPTlVJT"
+          },
+          {
+            "id": "END-rl9zgBoN",
+            "target": "NOTE-akcWaxVH"
+          }
+        ]
+      },
+      {
+        "id": "REL-XkbZpbtv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cbV8rz7h",
+            "target": "NOTE-1jLcIqVh"
+          },
+          {
+            "id": "END-l64v8Fte",
+            "target": "NOTE-xEAjpvUo"
+          }
+        ]
+      },
+      {
+        "id": "REL-lXhCqQLL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZRVsRy4x",
+            "target": "NOTE-Ureipag7"
+          },
+          {
+            "id": "END-Ie8d4xVB",
+            "target": "NOTE-xEAjpvUo"
+          }
+        ]
+      },
+      {
+        "id": "REL-JN3RDcPN",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wTpLL1bH",
+            "target": "NOTE-22cpV4bF"
+          },
+          {
+            "id": "END-zwqJ7TvV",
+            "target": "NOTE-Ureipag7"
+          }
+        ]
+      },
+      {
+        "id": "REL-fua5jpzB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-kczoleoJ",
+            "target": "NOTE-9wCPzMB9"
+          },
+          {
+            "id": "END-mGYmGGd4",
+            "target": "NOTE-22cpV4bF"
+          }
+        ]
+      }
+    ]
+  }
+}

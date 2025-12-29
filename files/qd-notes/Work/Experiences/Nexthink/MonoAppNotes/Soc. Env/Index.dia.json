@@ -1,0 +1,280 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-XhWu89fB",
+        "userBounds": [
+          878,
+          373,
+          null,
+          null
+        ],
+        "bounds": [
+          878,
+          373,
+          197,
+          70
+        ],
+        "content": "Nexthink",
+        "zIndex": 3,
+        "fontSize": 46
+      },
+      {
+        "id": "NOTE-mfFU4GpG",
+        "userBounds": [
+          1106,
+          155,
+          null,
+          null
+        ],
+        "bounds": [
+          1106,
+          155,
+          139,
+          65
+        ],
+        "content": "Joris Vanhoof\nSecu Engin.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PGVNsdmg",
+        "userBounds": [
+          1085,
+          303,
+          null,
+          null
+        ],
+        "bounds": [
+          1085,
+          303,
+          90,
+          41
+        ],
+        "content": "Security",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SZhMIxpm",
+        "userBounds": [
+          584,
+          160,
+          null,
+          null
+        ],
+        "bounds": [
+          584,
+          160,
+          148,
+          77
+        ],
+        "content": "# Oliver Kenyon\n# Tech Lead\nWAAS, NQL WIDGETS",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-jiph2kWn",
+        "userBounds": [
+          664,
+          290,
+          null,
+          null
+        ],
+        "bounds": [
+          664,
+          290,
+          167,
+          41
+        ],
+        "content": "Product Platform",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PbAWAYdR",
+        "userBounds": [
+          513,
+          421,
+          null,
+          null
+        ],
+        "bounds": [
+          513,
+          421,
+          86,
+          31
+        ],
+        "content": "Lucas Pallud",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-uSz74W97",
+        "userBounds": [
+          650,
+          475,
+          null,
+          null
+        ],
+        "bounds": [
+          650,
+          475,
+          184,
+          41
+        ],
+        "content": "INVESTIGATIONS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cc1HSq3k",
+        "userBounds": [
+          1101,
+          496,
+          null,
+          null
+        ],
+        "bounds": [
+          1101,
+          496,
+          98,
+          41
+        ],
+        "content": "[APOLLO](https://confluence.intra.nexthink.com/display/APO/Apollo+Home)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ump7WJNZ",
+        "userBounds": [
+          1437,
+          196.13678741455078,
+          null,
+          null
+        ],
+        "bounds": [
+          1437,
+          196.13678741455078,
+          226,
+          75
+        ],
+        "content": "# Owain Richards\nSoftware Engineer 5 & Tech Lead\nDiagnostics (Eng)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-WAqAZrVj",
+        "userBounds": [
+          1336,
+          459.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1336,
+          459.1436424255371,
+          104,
+          41
+        ],
+        "content": "[YAMMER](https://engage.cloud.microsoft/main/org/nexthink.com/feed)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-SHej45lm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-LlQedqCp",
+            "target": "NOTE-mfFU4GpG"
+          },
+          {
+            "id": "END-y7VtBs9g",
+            "target": "NOTE-PGVNsdmg"
+          }
+        ]
+      },
+      {
+        "id": "REL-TGJx6ehv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xDsK4X1a",
+            "target": "NOTE-XhWu89fB"
+          },
+          {
+            "id": "END-Pk5SFQRr",
+            "target": "NOTE-PGVNsdmg"
+          }
+        ]
+      },
+      {
+        "id": "REL-iAvHfeG5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TkRF7SPN",
+            "target": "NOTE-jiph2kWn"
+          },
+          {
+            "id": "END-zTss3IdJ",
+            "target": "NOTE-XhWu89fB"
+          }
+        ]
+      },
+      {
+        "id": "REL-EE9bcroM",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xaCfM8Kr",
+            "target": "NOTE-SZhMIxpm"
+          },
+          {
+            "id": "END-ZDjl15AC",
+            "target": "NOTE-jiph2kWn"
+          }
+        ]
+      },
+      {
+        "id": "REL-EYB2YHM1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qEPz3qHg",
+            "target": "NOTE-PbAWAYdR"
+          },
+          {
+            "id": "END-lTSqAtVC",
+            "target": "NOTE-uSz74W97"
+          }
+        ]
+      },
+      {
+        "id": "REL-ZqosJl9J",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y9HZUUsU",
+            "target": "NOTE-uSz74W97"
+          },
+          {
+            "id": "END-AITRCSMr",
+            "target": "NOTE-XhWu89fB"
+          }
+        ]
+      },
+      {
+        "id": "REL-dy9H1yym",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-nlPT18r2",
+            "target": "NOTE-cc1HSq3k"
+          },
+          {
+            "id": "END-ywdc77rI",
+            "target": "NOTE-XhWu89fB"
+          }
+        ]
+      }
+    ]
+  }
+}

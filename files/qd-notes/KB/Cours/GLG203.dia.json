@@ -1,0 +1,59 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-XUNQgsZi",
+        "userBounds": [
+          71,
+          281,
+          576.96875,
+          null
+        ],
+        "bounds": [
+          71,
+          281,
+          577,
+          108
+        ],
+        "content": "# [GIT](https://gitinfo.cnam.fr/glg203_2024_2025/glg203_nicolas.enzweiler)\n---\nhttps://nicolas.enzweiler@gitinfo.cnam.fr/glg203_2024_2025/glg203_nicolas.enzweiler.git\nnicolas.enzweiler\nWz_ZG@3f5Bzb=hR",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-EJhXKeKx",
+        "userBounds": [
+          331,
+          132,
+          null,
+          null
+        ],
+        "bounds": [
+          331,
+          132,
+          90,
+          41
+        ],
+        "content": "[COURS](https://par.moodle.lecnam.net/course/view.php?id=23302)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dVT6GjyW",
+        "userBounds": [
+          1133,
+          94.70486068725586,
+          257.3090515136719,
+          null
+        ],
+        "bounds": [
+          1133,
+          94.70486068725586,
+          257,
+          64
+        ],
+        "content": "Pourquoi un varchar pour les ID numériques ?",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

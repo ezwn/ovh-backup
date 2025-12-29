@@ -1,0 +1,321 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ouwrStdw",
+        "userBounds": [
+          866,
+          427,
+          null,
+          null
+        ],
+        "content": "Réflections",
+        "bounds": [
+          866,
+          427,
+          265,
+          76
+        ],
+        "fontSize": 50
+      },
+      {
+        "id": "NOTE-ccaiPaAl",
+        "userBounds": [
+          761,
+          174,
+          null
+        ],
+        "content": "CDI / CDD\nASSC",
+        "bounds": [
+          761,
+          174,
+          112,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-zQEacL7b",
+        "userBounds": [
+          485,
+          340,
+          null,
+          null
+        ],
+        "content": "un stage infirmier",
+        "bounds": [
+          485,
+          340,
+          171,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-PfoBSVoj",
+        "userBounds": [
+          162,
+          472,
+          null,
+          null
+        ],
+        "content": "(M) le bachelor of science en soins infirmier HES \npar le VAE de la source ",
+        "bounds": [
+          162,
+          472,
+          407,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-CIDbkT1u",
+        "userBounds": [
+          86,
+          384,
+          null,
+          null
+        ],
+        "content": "(M) travail en même temps",
+        "bounds": [
+          86,
+          384,
+          256,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3NnnPINT",
+        "userBounds": [
+          569,
+          113,
+          null
+        ],
+        "content": "évolue ma carrier d'infirmier après\navoir un diplôme infirmier HES ?",
+        "bounds": [
+          569,
+          113,
+          169,
+          40
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-El7XhC6G",
+        "userBounds": [
+          214,
+          171,
+          null
+        ],
+        "content": "(H) un stage dura 30 - 60 jours\n gratudement et rémunér 2000 CHF ",
+        "bounds": [
+          214,
+          171,
+          298,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-kXKgphdE",
+        "userBounds": [
+          77,
+          253,
+          null,
+          null
+        ],
+        "content": "(M) sur le terrain implique\nmes compétences \net apprendre les choses",
+        "bounds": [
+          77,
+          253,
+          245,
+          87
+        ]
+      },
+      {
+        "id": "NOTE-F1dTNT61",
+        "userBounds": [
+          753,
+          87,
+          null
+        ],
+        "content": "TRAVAIL DIRECTEMENT\nDANS L'HOPITAL",
+        "bounds": [
+          753,
+          87,
+          156,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-MeqAjV7D",
+        "userBounds": [
+          783,
+          338,
+          null,
+          null
+        ],
+        "content": "POSTE",
+        "bounds": [
+          783,
+          338,
+          113,
+          50
+        ],
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-DBy4LWoM",
+        "userBounds": [
+          1343,
+          84,
+          null,
+          null
+        ],
+        "content": "Téléphone: 031 388 36 36,",
+        "bounds": [
+          1343,
+          84,
+          257,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-cvEFxbWw",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "G2cnWPit",
+            "target": "NOTE-ouwrStdw"
+          },
+          {
+            "id": "qTRVjcIC",
+            "target": "NOTE-MeqAjV7D"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-JyHey6vy",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "GuK688Pc",
+            "target": "NOTE-zQEacL7b"
+          },
+          {
+            "id": "d7PpwXUl",
+            "target": "NOTE-MeqAjV7D"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-vqh7h5rv",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "M9ycyNdH",
+            "target": "NOTE-ccaiPaAl"
+          },
+          {
+            "id": "nFusq22L",
+            "target": "NOTE-MeqAjV7D"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-JLdysrkT",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "gwWEXnc3",
+            "target": "NOTE-ccaiPaAl"
+          },
+          {
+            "id": "zNagcTfh",
+            "target": "NOTE-F1dTNT61"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-iU5VSbBm",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "QZzTQf2n",
+            "target": "NOTE-ccaiPaAl"
+          },
+          {
+            "id": "4g4YQEbC",
+            "target": "NOTE-3NnnPINT"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-7BuqFaSN",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "paCvmiyM",
+            "target": "NOTE-zQEacL7b"
+          },
+          {
+            "id": "Zri2ZBfx",
+            "target": "NOTE-El7XhC6G"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-bNxFfGoE",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "NSXtyVgW",
+            "target": "NOTE-zQEacL7b"
+          },
+          {
+            "id": "yTNFDClR",
+            "target": "NOTE-kXKgphdE"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-SfJD4DDt",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "ikARiUXh",
+            "target": "NOTE-zQEacL7b"
+          },
+          {
+            "id": "6AG2wRGU",
+            "target": "NOTE-CIDbkT1u"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-BAJltPoJ",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "uatygxU3",
+            "target": "NOTE-zQEacL7b"
+          },
+          {
+            "id": "PisaFou2",
+            "target": "NOTE-PfoBSVoj"
+          }
+        ]
+      }
+    ]
+  }
+}

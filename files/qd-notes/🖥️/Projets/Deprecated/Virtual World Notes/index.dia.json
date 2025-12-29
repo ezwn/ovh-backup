@@ -1,0 +1,445 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-DEkH4lmn",
+        "userBounds": [
+          878,
+          356,
+          null
+        ],
+        "content": "Infinite\nDream",
+        "fontSize": 32,
+        "bounds": [
+          878,
+          356,
+          114.015625,
+          92
+        ]
+      },
+      {
+        "id": "NOTE-mitzXVce",
+        "userBounds": [
+          717,
+          348,
+          null
+        ],
+        "content": "3D Engine",
+        "bounds": [
+          717,
+          348,
+          111.40625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Rkpim3xj",
+        "userBounds": [
+          574,
+          402,
+          null
+        ],
+        "content": "Display",
+        "bounds": [
+          574,
+          402,
+          83.578125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-NdmCL8sv",
+        "userBounds": [
+          577,
+          258,
+          null
+        ],
+        "content": "Physics",
+        "bounds": [
+          577,
+          258,
+          86.90625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-sY6A1Wcm",
+        "userBounds": [
+          821,
+          235,
+          null
+        ],
+        "content": "Terrain",
+        "bounds": [
+          821,
+          235,
+          79.140625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-gSlboKZC",
+        "userBounds": [
+          992,
+          222,
+          null
+        ],
+        "content": "Characters",
+        "bounds": [
+          992,
+          222,
+          115.8125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-lfhcjLUc",
+        "userBounds": [
+          1063,
+          481,
+          null
+        ],
+        "content": "Plants",
+        "bounds": [
+          1063,
+          481,
+          73.59375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-q8hMIm9x",
+        "userBounds": [
+          713,
+          493,
+          null
+        ],
+        "content": "Game engine",
+        "bounds": [
+          713,
+          493,
+          138.078125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rjc7UPnP",
+        "userBounds": [
+          887,
+          542,
+          null
+        ],
+        "content": "Sound engine",
+        "bounds": [
+          887,
+          542,
+          141.453125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-BnqmJKB6",
+        "userBounds": [
+          1165,
+          455,
+          null
+        ],
+        "content": "300 plants",
+        "bounds": [
+          1165,
+          455,
+          110.296875,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Hrt6EXUg",
+        "userBounds": [
+          1119,
+          160,
+          null
+        ],
+        "content": "50 species",
+        "bounds": [
+          1119,
+          160,
+          113.625,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-CvCk7mqb",
+        "userBounds": [
+          581,
+          533,
+          null
+        ],
+        "content": "Alchemisty",
+        "bounds": [
+          581,
+          533,
+          114.703125,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Itp6zYYg",
+        "userBounds": [
+          711,
+          579,
+          null
+        ],
+        "content": "Craft",
+        "bounds": [
+          711,
+          579,
+          61.34375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-m7ZIbktD",
+        "userBounds": [
+          1105,
+          343
+        ],
+        "content": "Buildings",
+        "bounds": [
+          1105,
+          343,
+          99.171875,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-JecNLB5y",
+        "userBounds": [
+          438,
+          354,
+          null
+        ],
+        "content": "Animate",
+        "bounds": [
+          438,
+          354,
+          91.375,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-UxWy83Yt",
+        "userBounds": [
+          829,
+          144,
+          null
+        ],
+        "content": "Rocks",
+        "bounds": [
+          829,
+          144,
+          62.453125,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xZ2bnpMe",
+        "userBounds": [
+          978,
+          111
+        ],
+        "content": "Minerals",
+        "bounds": [
+          978,
+          111,
+          93.578125,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-XWA88eET",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Vxmln5pc",
+            "target": "NOTE-Rkpim3xj"
+          },
+          {
+            "id": "kQitIkeW",
+            "target": "NOTE-mitzXVce"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-5AxjajXc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "AymFU8Ay",
+            "target": "NOTE-NdmCL8sv"
+          },
+          {
+            "id": "PpB81Sp8",
+            "target": "NOTE-mitzXVce"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-YMMh9lHq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "dHdINps5",
+            "target": "NOTE-mitzXVce"
+          },
+          {
+            "id": "xy7FCmUJ",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-dWty9Fcz",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Bd7G57Ep",
+            "target": "NOTE-sY6A1Wcm"
+          },
+          {
+            "id": "s9thof5m",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-T6wIFmt6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "XsyUqdLH",
+            "target": "NOTE-DEkH4lmn"
+          },
+          {
+            "id": "gbDCZPCn",
+            "target": "NOTE-gSlboKZC"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Q4ikTbYf",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "IhrF5doj",
+            "target": "NOTE-lfhcjLUc"
+          },
+          {
+            "id": "9p2pfhiI",
+            "target": "NOTE-DEkH4lmn"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-44MrJVUn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "nsWPM8Sy",
+            "target": "NOTE-DEkH4lmn"
+          },
+          {
+            "id": "GqKchcDh",
+            "target": "NOTE-q8hMIm9x"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-s2XgPAmB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "phjM3P5X",
+            "target": "NOTE-DEkH4lmn"
+          },
+          {
+            "id": "R5DBlHk9",
+            "target": "NOTE-rjc7UPnP"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-a9ZM4JmA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "AfLSbeir",
+            "target": "NOTE-DEkH4lmn"
+          },
+          {
+            "id": "cqEfpUJY",
+            "target": "NOTE-m7ZIbktD"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-F4y2s32q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "mbJzzvUV",
+            "target": "NOTE-JecNLB5y"
+          },
+          {
+            "id": "hljzKoWj",
+            "target": "NOTE-Rkpim3xj"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-9gyPfLMZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "7Aa8ugTa",
+            "target": "NOTE-UxWy83Yt"
+          },
+          {
+            "id": "dAu3FG5d",
+            "target": "NOTE-sY6A1Wcm"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Hlqvltms",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Y8w9fZP2",
+            "target": "NOTE-CvCk7mqb"
+          },
+          {
+            "id": "LNsahJTr",
+            "target": "NOTE-q8hMIm9x"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-zCmeXIV7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "1iRGCWg9",
+            "target": "NOTE-Itp6zYYg"
+          },
+          {
+            "id": "DEIPmF52",
+            "target": "NOTE-q8hMIm9x"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-qVKHQ4ba",
+        "userBounds": [
+          817,
+          386,
+          null,
+          null
+        ],
+        "bounds": [
+          817,
+          386,
+          166,
+          41
+        ],
+        "content": "[AWS CONSOLE](https://eu-west-3.console.aws.amazon.com/console/home?region=eu-west-3)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-F5uZSxGQ",
+        "userBounds": [
+          590,
+          338,
+          null,
+          null
+        ],
+        "bounds": [
+          590,
+          338,
+          130,
+          41
+        ],
+        "content": "[BITBUCKET](https://bitbucket.org/ezwn/workspace/overview)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-l182tG5L",
+        "userBounds": [
+          707,
+          258,
+          null,
+          null
+        ],
+        "bounds": [
+          707,
+          258,
+          94,
+          41
+        ],
+        "content": "[GITHUB](https://github.com/ezwn)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6DfpohL6",
+        "userBounds": [
+          979,
+          154,
+          null,
+          null
+        ],
+        "bounds": [
+          979,
+          154,
+          478,
+          77
+        ],
+        "content": "```bash\nfind . -maxdepth 1 -type f -name \"*.pdf\" -exec pdftotext -layout -nopgbrk {} \\;\n```",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4XulNn9g",
+        "userBounds": [
+          663,
+          108,
+          null,
+          null
+        ],
+        "bounds": [
+          663,
+          108,
+          99,
+          64
+        ],
+        "content": "microsoft\ncopilot",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

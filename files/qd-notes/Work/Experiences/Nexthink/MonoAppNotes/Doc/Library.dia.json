@@ -1,0 +1,41 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-AeV8AdaV",
+        "userBounds": [
+          1135,
+          575,
+          null,
+          null
+        ],
+        "bounds": [
+          1135,
+          575,
+          102,
+          41
+        ],
+        "content": "[S3 library](https://s3.console.aws.amazon.com/s3/buckets/content-admin-builtin-eu-west-3-601687128953?region=eu-west-3&tab=objects)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ujSX6iQj",
+        "userBounds": [
+          431,
+          155,
+          null,
+          null
+        ],
+        "bounds": [
+          431,
+          155,
+          436,
+          41
+        ],
+        "content": "[WHITLISTING SERVICE IN CONTENT ADMIN](https://github.com/nexthink/content-admin.content-admin-api/blob/main/src/main/resources/application.yml)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

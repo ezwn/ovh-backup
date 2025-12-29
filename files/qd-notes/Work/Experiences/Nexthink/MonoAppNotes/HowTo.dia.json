@@ -1,0 +1,190 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-TVJoUlAF",
+        "userBounds": [
+          549,
+          195,
+          138.046875,
+          null
+        ],
+        "bounds": [
+          549,
+          195,
+          138,
+          65
+        ],
+        "content": "[MANAGE ROLES](https://github.com/nexthink/rbac4engineering/blob/6ff51d4ed490c57f0a8c42433be1a00ffdc5fc97/engineering-roles.yaml#L703)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mnMockrK",
+        "userBounds": [
+          976,
+          78,
+          161.390625,
+          null
+        ],
+        "bounds": [
+          976,
+          78,
+          161,
+          65
+        ],
+        "content": "[ENABLE LOGS IN FUJI](https://confluence.intra.nexthink.com/display/SRE/Enable+metrics+and+logs+in+DEV)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-JZMK7JDH",
+        "userBounds": [
+          1155,
+          316,
+          246.484375,
+          null
+        ],
+        "bounds": [
+          1155,
+          316,
+          246,
+          90
+        ],
+        "content": "# REDIRECT TESTS TO FILE\nset NO_COLOR=1 && yarn test:windows > test-results.txt 2>&1",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-vmZZRl4g",
+        "userBounds": [
+          1214,
+          154,
+          148.046875,
+          null
+        ],
+        "bounds": [
+          1214,
+          154,
+          148,
+          65
+        ],
+        "content": "[ENROLL TRAINING](https://confluence.intra.nexthink.com/pages/viewpage.action?pageId=192748792)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-e6zAAwJ2",
+        "userBounds": [
+          667,
+          358,
+          null,
+          null
+        ],
+        "bounds": [
+          667,
+          358,
+          140,
+          41
+        ],
+        "content": "[expensify doc](https://hc.nexthink.com/hc/en-us/articles/4405994232338-Expensify)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o8EhGxR5",
+        "userBounds": [
+          214,
+          432,
+          null,
+          null
+        ],
+        "bounds": [
+          214,
+          432,
+          61,
+          41
+        ],
+        "content": "WSL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HetWJ7Wz",
+        "userBounds": [
+          113,
+          328,
+          null,
+          null
+        ],
+        "bounds": [
+          113,
+          328,
+          119,
+          41
+        ],
+        "content": "[X SERVER](https://confluence.intra.nexthink.com/display/ITM/ITM+-+How+to+run+WSL+GUI+apps+in+windows)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-7FyYrpwZ",
+        "userBounds": [
+          670,
+          488,
+          null,
+          null
+        ],
+        "bounds": [
+          670,
+          488,
+          136,
+          41
+        ],
+        "content": "[ADD ROUTE](https://confluence.intra.nexthink.com/display/SON/How+to+add+a+Route+to+the+API+Gateway+and+test+it+works)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-lF1jX1My",
+        "userBounds": [
+          595,
+          588,
+          null,
+          null
+        ],
+        "bounds": [
+          595,
+          588,
+          167,
+          41
+        ],
+        "content": "[NXCLOUD-AWS](https://github.com/nexthink/infrastructure.nxcloud-aws)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Xsgwh5d1",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-I3RXQdyn",
+            "target": "NOTE-HetWJ7Wz"
+          },
+          {
+            "id": "END-1M1vSQh5",
+            "target": "NOTE-o8EhGxR5"
+          }
+        ]
+      },
+      {
+        "id": "REL-uK1pQFMC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4RgmUjZ6",
+            "target": "NOTE-lF1jX1My"
+          },
+          {
+            "id": "END-nxr6dhcc",
+            "target": "NOTE-7FyYrpwZ"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-junitParameterizedTest",
+  "content": {
+    "index": "junit parameterized test arguments nsy102",
+    "name": "JUnit, Parameterized Test Arguments",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "private static Stream<Arguments> provideParameters() {\n    return Stream.of(\n            Arguments.of(\"a\", 1)\n    );\n}\n\n@ParameterizedTest\n@MethodSource(\"provideParameters\")\npublic void testParametersFromMethod(String name, int value) {\n\n}",
+        "defaultText": null
+      },
+      {
+        "id": "imports",
+        "textTemplate": "import org.junit.jupiter.params.ParameterizedTest;\nimport org.junit.jupiter.params.provider.Arguments;\nimport org.junit.jupiter.params.provider.MethodSource;",
+        "defaultText": null
+      }
+    ]
+  }
+}

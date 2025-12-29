@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-2pweV4db",
+        "userBounds": [
+          426,
+          232,
+          null,
+          null
+        ],
+        "bounds": [
+          426,
+          232,
+          117,
+          41
+        ],
+        "content": "[COURBES](https://www.desmos.com/calculator?lang=fr)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

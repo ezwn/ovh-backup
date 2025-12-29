@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-aNRcKHDZ",
+        "userBounds": [
+          713,
+          221,
+          null,
+          null
+        ],
+        "bounds": [
+          713,
+          221,
+          148,
+          41
+        ],
+        "content": "CATEGORIES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-61EKC2K1",
+        "userBounds": [
+          606,
+          379,
+          null,
+          null
+        ],
+        "bounds": [
+          606,
+          379,
+          159,
+          41
+        ],
+        "content": "JOB SUPPORT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mU7cbVtB",
+        "userBounds": [
+          897,
+          352,
+          null,
+          null
+        ],
+        "bounds": [
+          897,
+          352,
+          215,
+          41
+        ],
+        "content": "FINALIZE WIKIPEDIA",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

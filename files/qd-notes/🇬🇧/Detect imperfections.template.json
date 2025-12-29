@@ -1,0 +1,21 @@
+{
+  "content": {
+    "index": "",
+    "name": "Detect imperfections",
+    "templates": [
+      {
+        "id": "root",
+        "textTemplate": "Detect and report the linguistic and stylistic imperfections in the provided text. For each error, identify the problem and provide the correct solution, following the format of these examples:\n\n* *\"She explained me the problem\"*: **incorrect verb pattern (explain something to someone).** Solution: \"She explained the problem to me\".\n* *\"My friend recommended me to buy this car\"*: **incorrect use of the 'that' clause (recommend does not take an object + infinitive).** Solution: \"My friend recommended that I buy this car\".\n* *\"I look forward to meet you\"*: **incorrect verb form after the prepositional 'to' in a fixed phrase.** Solution: \"I look forward to meeting you\".\n* *\"If I would have known, I would have told you\"*: **incorrect use of 'would' in the if-clause of a third conditional.** Solution: \"If I had known, I would have told you\".\n* *\"Only then I realized the truth\"*: **failure to use inversion after a restrictive adverbial at the start of a sentence.** Solution: \"Only then did I realize the truth\".\n* *\"I'm used to wake up early\"*: **confusion between 'used to' (past habit) and 'be used to' (familiarity, requiring a gerund).** Solution: \"I'm used to waking up early\".\n* *\"I suggest you to go now\"*: **incorrect verb pattern (suggest does not take object + infinitive).** Solution: \"I suggest (that) you go now\".\n* *\"Despite of the rain, we went out\"*: **confusion between the structures of 'despite' and 'in spite of'.** Solution: \"Despite the rain\" or \"In spite of the rain\".\n\n${mlscript}\n\n**Here is the text to process:**\n\n${text:text}"
+      },
+      {
+        "id": "mlscript",
+        "textTemplate": "The text follows a special format where each line represents a unit of meaning that can be matched with a translation in other languages and prefixed with several characters. This is perfectly normal and should not be considered a language imperfection.",
+        "defaultText": ""
+      }
+    ]
+  },
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docId": "b68c6531-faf5-47f4-8ca3-1c08dd6fb215",
+  "docTypeVersion": 1
+}

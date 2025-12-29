@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-peQkZbUe",
+        "userBounds": [
+          824,
+          312,
+          null,
+          null
+        ],
+        "bounds": [
+          824,
+          312,
+          121,
+          41
+        ],
+        "content": "[WIKIPEDIA](https://fr.wikipedia.org/wiki/Mirepoix_(cuisine)#:~:text=La%20(ou%20le)%20mirepoix%20est,des%20soupes%2C%20viandes%20ou%20poissons.)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

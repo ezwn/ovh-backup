@@ -1,0 +1,380 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-GKq4irBJ",
+        "userBounds": [
+          376,
+          250,
+          null,
+          null
+        ],
+        "content": "## ARCHI\nVincent Reviol",
+        "bounds": [
+          376,
+          250,
+          95,
+          52
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-gt6tDMk7",
+        "userBounds": [
+          449,
+          311,
+          null,
+          null
+        ],
+        "content": "Redouane\nBenmahdi",
+        "bounds": [
+          449,
+          311,
+          83,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-6lmlAbpm",
+        "userBounds": [
+          359,
+          110,
+          null,
+          null
+        ],
+        "content": "## Resp. plateformes IT\nBernhard Bosshard",
+        "bounds": [
+          359,
+          110,
+          183,
+          52
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-Rc8X25dv",
+        "userBounds": [
+          482,
+          478,
+          null,
+          null
+        ],
+        "content": "### CAB\nav. de la Vallombreuse 100\n1008 Prilly",
+        "bounds": [
+          482,
+          478,
+          210,
+          76
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-GWKj2bHN",
+        "userBounds": [
+          456,
+          54,
+          null,
+          null
+        ],
+        "content": "# Head of Solutions IT\nSerge Messin",
+        "bounds": [
+          456,
+          54,
+          173,
+          47
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-RxVGb63k",
+        "userBounds": [
+          712,
+          358,
+          null,
+          null
+        ],
+        "content": "# BCV",
+        "bounds": [
+          712,
+          358,
+          86,
+          55
+        ]
+      },
+      {
+        "id": "NOTE-fbIlTPTY",
+        "userBounds": [
+          525,
+          234,
+          null,
+          null
+        ],
+        "content": "## Personnes",
+        "bounds": [
+          525,
+          234,
+          133,
+          44
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-yrRvUEg1",
+        "userBounds": [
+          1054,
+          344,
+          null,
+          null
+        ],
+        "content": "# IT Advanced\n# Consulting",
+        "bounds": [
+          1054,
+          344,
+          169,
+          76
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-YGJBDq2H",
+        "userBounds": [
+          1362,
+          519,
+          null,
+          null
+        ],
+        "content": "Rue du Midi 4\n1003 Lausanne",
+        "bounds": [
+          1362,
+          519,
+          156,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-TvRMCYUL",
+        "userBounds": [
+          1339,
+          207,
+          null,
+          null
+        ],
+        "content": "## Daniel NIX\n+41(0)21 552 77 47",
+        "bounds": [
+          1339,
+          207,
+          141,
+          57
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-JcXkoBAi",
+        "userBounds": [
+          1361,
+          96,
+          null,
+          null
+        ],
+        "content": "## HR Consultant\n Khadija Rezzouqui",
+        "bounds": [
+          1361,
+          96,
+          154,
+          57
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-d5kH1oJN",
+        "userBounds": [
+          1167,
+          118,
+          null,
+          null
+        ],
+        "content": "## Account Manager\nRuben Olender",
+        "bounds": [
+          1167,
+          118,
+          159,
+          52
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-i2ha9qqT",
+        "userBounds": [
+          1160,
+          234,
+          null,
+          null
+        ],
+        "content": "Personnes",
+        "bounds": [
+          1160,
+          234,
+          114,
+          41
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8BzFPThK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-z688TppJ",
+            "target": "NOTE-fbIlTPTY"
+          },
+          {
+            "id": "END-qNumdU6N",
+            "target": "NOTE-RxVGb63k"
+          }
+        ]
+      },
+      {
+        "id": "REL-lem7nNUk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-MDtN7ipx",
+            "target": "NOTE-Rc8X25dv"
+          },
+          {
+            "id": "END-XlKjoDTR",
+            "target": "NOTE-RxVGb63k"
+          }
+        ]
+      },
+      {
+        "id": "REL-xuDEi24X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vEZ4oFtl",
+            "target": "NOTE-fbIlTPTY"
+          },
+          {
+            "id": "END-6DQgo9MZ",
+            "target": "NOTE-GKq4irBJ"
+          }
+        ]
+      },
+      {
+        "id": "REL-nAXbNjjb",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NpRBqFZk",
+            "target": "NOTE-fbIlTPTY"
+          },
+          {
+            "id": "END-IxPVasll",
+            "target": "NOTE-6lmlAbpm"
+          }
+        ]
+      },
+      {
+        "id": "REL-bq74AHwq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tN3QHNhf",
+            "target": "NOTE-fbIlTPTY"
+          },
+          {
+            "id": "END-sfmH7Dvl",
+            "target": "NOTE-GWKj2bHN"
+          }
+        ]
+      },
+      {
+        "id": "REL-Lbfr4UTV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Cz2w6rGG",
+            "target": "NOTE-fbIlTPTY"
+          },
+          {
+            "id": "END-ZGBNr1KR",
+            "target": "NOTE-gt6tDMk7"
+          }
+        ]
+      },
+      {
+        "id": "REL-cYbIKMgW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gE275PWa",
+            "target": "NOTE-yrRvUEg1"
+          },
+          {
+            "id": "END-RZWsnhTt",
+            "target": "NOTE-YGJBDq2H"
+          }
+        ]
+      },
+      {
+        "id": "REL-7y6E9AMh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4z4FlloY",
+            "target": "NOTE-i2ha9qqT"
+          },
+          {
+            "id": "END-DQpqZ65e",
+            "target": "NOTE-d5kH1oJN"
+          }
+        ]
+      },
+      {
+        "id": "REL-zaPI4Vep",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KNwmmJxI",
+            "target": "NOTE-i2ha9qqT"
+          },
+          {
+            "id": "END-7t5IbRwh",
+            "target": "NOTE-JcXkoBAi"
+          }
+        ]
+      },
+      {
+        "id": "REL-LdjJ7cPH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-237yJ5Gj",
+            "target": "NOTE-i2ha9qqT"
+          },
+          {
+            "id": "END-XzBuDykQ",
+            "target": "NOTE-TvRMCYUL"
+          }
+        ]
+      },
+      {
+        "id": "REL-f32uzog8",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WbQ2bBMR",
+            "target": "NOTE-i2ha9qqT"
+          },
+          {
+            "id": "END-PNl6cmB9",
+            "target": "NOTE-yrRvUEg1"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerBashInsideContainer",
+  "content": {
+    "index": "docker bash inside container execute",
+    "name": "Docker, bash in container",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "docker exec -it ${containerName} bash",
+        "defaultText": null
+      }
+    ]
+  }
+}

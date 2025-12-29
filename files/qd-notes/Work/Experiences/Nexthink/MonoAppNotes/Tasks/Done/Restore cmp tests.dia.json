@@ -1,0 +1,58 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ICUSGCTh",
+        "userBounds": [
+          342,
+          182,
+          null,
+          null
+        ],
+        "bounds": [
+          342,
+          182,
+          211,
+          41
+        ],
+        "content": "[DOCKER COMPOSE](https://github.com/nexthink/engage.euf-campaign-manager/blob/main/docker/docker-compose-component-test.yml#L86)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ekQWnjNS",
+        "userBounds": [
+          302,
+          289,
+          null,
+          null
+        ],
+        "bounds": [
+          302,
+          289,
+          207,
+          41
+        ],
+        "content": "[BASE CMP HELPER](https://github.com/nexthink/engage.euf-campaign-manager/blob/main/src/test/java/com/nexthink/euf/campaignmanager/component/helper/BaseComponentHelper.java#L172)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mT7tq8HA",
+        "userBounds": [
+          407,
+          378,
+          null,
+          null
+        ],
+        "bounds": [
+          407,
+          378,
+          102,
+          41
+        ],
+        "content": "[JENKINS](https://jenkins-euf-master.intra.nexthink.com/job/euf-campaign-manager-github/job/fix_component_tests/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

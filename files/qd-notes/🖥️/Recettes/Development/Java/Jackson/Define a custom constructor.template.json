@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jacksonDefineACustomConstructor",
+  "content": {
+    "index": "jackson,  define a custom constructor",
+    "name": "Jackson,  define a custom constructor",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@JsonCreator\npublic Personne2(\n    @JsonProperty(\"nom\")String nom,\n    @JsonProperty(\"prenom\") String prenom ,\n    @JsonProperty(\"age\") int age) {\n  this.nom= nom;\n  this.prenom= prenom;\n  this.age= age;\n}",
+        "defaultText": null
+      }
+    ]
+  }
+}

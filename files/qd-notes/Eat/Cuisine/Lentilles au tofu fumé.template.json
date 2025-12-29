@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-lentillesAuTofuFume",
+  "content": {
+    "index": "lentilles tofu fumé végétarien cuisine",
+    "name": "Lentilles au tofu fumé [**]",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "### Lentilles au tofu fumé (pour 2/3 personnes)\n**Préparation :** 30 minutes • **Cuisson :** 15 minutes  \n\n---\n\n### Ingrédients\n- 180 g de lentilles vertes  \n- 250 g de tofu fumé (trop?)\n- ½ oignon  \n- 2 carotte  \n- 1 navet  \n- 50 g de butternut. Remplacé par huile d'arachides\n- ½ c. à soupe d'ail en poudre. Remplacé par ail frais\n- ½ c. à soupe de thym  \n- ½ cube de bouillon de légumes  \n- Sel et poivre (quantité selon goût)  \n\n---\n\n### Étapes de préparation\n\n#### **1. Préparer et faire revenir les légumes et le tofu**  \n- Émincez l’oignon et faites-le revenir avec un filet d’huile d’olive dans une cocotte-minute (ou une grande casserole).  \n- Coupez les carottes, le navet et le butternut en petits cubes, puis ajoutez-les à la cocotte.  \n- Assaisonnez avec du sel, du poivre, l’ail en poudre, et le thym. Mélangez bien.  \n- Coupez le tofu fumé en petits dés et incorporez-le aux légumes. Faites revenir 2 à 3 minutes.  \n\n---\n\n#### **2. Cuire les lentilles avec les légumes**  \n- Ajoutez les lentilles et le ½ cube de bouillon de légumes émietté. Recouvrez d’eau :  \n  - Cocotte-minute : 1,5 fois le volume des lentilles.  \n  - Casserole : 3 fois le volume des lentilles.  \n- Si vous utilisez une cocotte-minute, fermez-la et laissez cuire 15 minutes à partir du sifflement.  \n- Si vous utilisez une casserole, laissez mijoter environ 25 minutes jusqu’à ce que les lentilles soient tendres.  \n\n--- \n\n### Bon appétit !",
+        "defaultText": null
+      }
+    ]
+  }
+}

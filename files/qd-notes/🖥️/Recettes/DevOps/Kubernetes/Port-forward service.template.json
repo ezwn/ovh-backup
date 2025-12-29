@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-kubectlPortforwardPod",
+  "content": {
+    "index": "cloud kubernate kubectl port forward port-forward portforward service",
+    "name": "Kubectl, port-forward service",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "kubectl port-forward svc/${kubeServiceName:KubeService} ${portMapping}",
+        "defaultText": null
+      }
+    ]
+  }
+}

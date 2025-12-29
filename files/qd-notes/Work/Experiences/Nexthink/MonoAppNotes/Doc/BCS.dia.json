@@ -1,0 +1,335 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-bJzdS4Hd",
+        "userBounds": [
+          988,
+          167,
+          null,
+          null
+        ],
+        "bounds": [
+          988,
+          167,
+          107,
+          41
+        ],
+        "content": "[BCS-SDK](https://bitbucket.intra.nexthink.com/projects/PC/repos/bcs-sdk/browse)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gAdSSAqp",
+        "userBounds": [
+          681,
+          262,
+          null,
+          null
+        ],
+        "bounds": [
+          681,
+          262,
+          167,
+          41
+        ],
+        "content": "[MAIN PROJECT](https://github.com/nexthink/business-config-store.business-config-store)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-p95d8JBU",
+        "userBounds": [
+          213,
+          245,
+          168.78125,
+          null
+        ],
+        "bounds": [
+          213,
+          245,
+          169,
+          39
+        ],
+        "content": "[ENGAGE DOC](https://confluence.intra.nexthink.com/display/ENGAGE/How+to+access+BCS+to+check+campaign+documents+and+retrieve+configuration)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-o8hMAw5f",
+        "userBounds": [
+          286,
+          338.66666412353516,
+          null,
+          null
+        ],
+        "bounds": [
+          286,
+          338.66666412353516,
+          189,
+          86
+        ],
+        "content": "ACCESS\nWITH GRPC",
+        "zIndex": 3,
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-BzHRJHxp",
+        "userBounds": [
+          615,
+          81.66666412353516,
+          null,
+          null
+        ],
+        "bounds": [
+          615,
+          81.66666412353516,
+          161,
+          41
+        ],
+        "content": "[TRAVERSE API](https://confluence.intra.nexthink.com/display/BCS/Traverse+API+-+Analysis)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9lBQ9uf4",
+        "userBounds": [
+          140,
+          419,
+          null,
+          null
+        ],
+        "bounds": [
+          140,
+          419,
+          88,
+          41
+        ],
+        "content": "[API doc](https://confluence.intra.nexthink.com/display/BCS/ListBusinessConfigDocuments#ListBusinessConfigDocuments-ListBusinessConfigDocumentsRequest)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cssJqEcY",
+        "userBounds": [
+          397,
+          98,
+          147.015625,
+          null
+        ],
+        "bounds": [
+          397,
+          98,
+          147,
+          65
+        ],
+        "content": "[Specify scope in BCS API](https://github.com/nexthink/business-config-store.business-config-store/blob/56460b627f9882b4adbae1bc7ea5f874440a70b2/docs/users/api/rest/api.yml#L271)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PHicZVb1",
+        "userBounds": [
+          1099,
+          507,
+          null,
+          null
+        ],
+        "bounds": [
+          1099,
+          507,
+          184,
+          41
+        ],
+        "content": "[Content Descriptor](https://confluence.intra.nexthink.com/display/BCS/Content+Descriptor)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-kq4QJCt5",
+        "userBounds": [
+          408,
+          502,
+          165.828125,
+          null
+        ],
+        "bounds": [
+          408,
+          502,
+          166,
+          65
+        ],
+        "content": "[PERMISSIONS HANDLING](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=BCS&title=Granular+Permissions+-+BCS)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-5ptV5Qwy",
+        "userBounds": [
+          731,
+          431,
+          null,
+          null
+        ],
+        "bounds": [
+          731,
+          431,
+          224,
+          41
+        ],
+        "content": "[CONTENT DESC EX 1](https://github.com/nexthink/support-views.checklist-config-be/blob/f1e9831613da08f6ea2df085fdf4fe7c42d94c32/customize/helm/support-checklist-config-be/templates/NxContentDescriptor.yaml#L4)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9D9GQqTk",
+        "userBounds": [
+          946,
+          376,
+          null,
+          null
+        ],
+        "bounds": [
+          946,
+          376,
+          224,
+          41
+        ],
+        "content": "[CONTENT DESC EX 2](https://github.com/nexthink/data-export.svc-nqlapistore/blob/94686d2a9d017984d1ee076bb847bab333974e67/customize/helm/svc-nqlapistore/templates/NxContentDescriptor.yaml#L4)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4ISsYsIA",
+        "userBounds": [
+          950,
+          554,
+          null,
+          null
+        ],
+        "bounds": [
+          950,
+          554,
+          101,
+          41
+        ],
+        "content": "[FORMAT](https://confluence.intra.nexthink.com/display/BCS/BCS-ADR-17+Content+descriptor+json+content+and+tags)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ItQqf1Ul",
+        "userBounds": [
+          1393,
+          441,
+          null,
+          null
+        ],
+        "bounds": [
+          1393,
+          441,
+          154,
+          41
+        ],
+        "content": "[JSON SChema](https://confluence.intra.nexthink.com/pages/viewpage.action?spaceKey=BCS&title=JSON+Schema)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TyrdudWp",
+        "userBounds": [
+          978,
+          59,
+          null,
+          null
+        ],
+        "bounds": [
+          978,
+          59,
+          98,
+          41
+        ],
+        "content": "[User doc](https://confluence.intra.nexthink.com/display/BCS/User+documentation#Userdocumentation-ContentDescriptor(nxcontentdescriptor)%E2%9A%99%EF%B8%8F)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-31KpKZ6k",
+        "userBounds": [
+          1377,
+          315,
+          172,
+          null
+        ],
+        "bounds": [
+          1377,
+          315,
+          172,
+          89
+        ],
+        "content": "[BCS Metadata Backward Compatibility](https://teams.microsoft.com/l/message/19:59324f6660064627a1c57e4e5299628f@thread.tacv2/1697643054143?tenantId=13387b29-82d9-4ca5-9fa0-b7b5635742ef&groupId=1ce1e26b-a841-4cc8-9f1d-c9f5d80d3a00&parentMessageId=1697643054143&teamName=Engineering-Product&channelName=Content%20Administration&createdTime=1697643054143&allowXTenantAccess=false)",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-zjrJm6KB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IJFM2ty1",
+            "target": "NOTE-o8hMAw5f"
+          },
+          {
+            "id": "END-BMaX2Lfg",
+            "target": "NOTE-p95d8JBU"
+          }
+        ]
+      },
+      {
+        "id": "REL-5Gc1Pgso",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wG4xVwGi",
+            "target": "NOTE-o8hMAw5f"
+          },
+          {
+            "id": "END-gLpKH5KH",
+            "target": "NOTE-9lBQ9uf4"
+          }
+        ]
+      },
+      {
+        "id": "REL-IepKeQb5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5Myr4LPQ",
+            "target": "NOTE-4ISsYsIA"
+          },
+          {
+            "id": "END-3wDAnIr9",
+            "target": "NOTE-PHicZVb1"
+          }
+        ]
+      },
+      {
+        "id": "REL-mkb3h1l6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-GbW3cLfk",
+            "target": "NOTE-PHicZVb1"
+          },
+          {
+            "id": "END-wzEQF1qg",
+            "target": "NOTE-5ptV5Qwy"
+          }
+        ]
+      },
+      {
+        "id": "REL-14MoIJx7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ctDdzD8v",
+            "target": "NOTE-PHicZVb1"
+          },
+          {
+            "id": "END-kXb8lemM",
+            "target": "NOTE-9D9GQqTk"
+          }
+        ]
+      }
+    ]
+  }
+}

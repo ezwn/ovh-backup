@@ -1,0 +1,150 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-gMEBaeBD",
+        "userBounds": [
+          759,
+          470,
+          null,
+          null
+        ],
+        "bounds": [
+          759,
+          470,
+          126,
+          87
+        ],
+        "content": "SYNTHESE\nACTIVITE\nPRO",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-EUAeYRMW",
+        "userBounds": [
+          701,
+          271,
+          434.09375,
+          null
+        ],
+        "bounds": [
+          701,
+          271,
+          434,
+          92
+        ],
+        "content": "DEMO ANL ET POS. PRO\nCOMMENTR DOSS",
+        "zIndex": 3,
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-4yUSz21s",
+        "userBounds": [
+          429,
+          360,
+          232.265625,
+          null
+        ],
+        "bounds": [
+          429,
+          360,
+          232,
+          110
+        ],
+        "content": "explicitation des compétences mobilisées et des acquis",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-TTjXNHM6",
+        "userBounds": [
+          460,
+          208,
+          157.6875,
+          null
+        ],
+        "bounds": [
+          460,
+          208,
+          158,
+          87
+        ],
+        "content": "regard critique sur le dossier écrit",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-f8kAmxWL",
+        "userBounds": [
+          673,
+          109,
+          236.53125,
+          null
+        ],
+        "bounds": [
+          673,
+          109,
+          237,
+          87
+        ],
+        "content": "perspectives de formation en lien avec le projet professionnel",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-3yGzwM3w",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-fmDvBByh",
+            "target": "NOTE-EUAeYRMW"
+          },
+          {
+            "id": "END-pG1sqgcC",
+            "target": "NOTE-gMEBaeBD"
+          }
+        ]
+      },
+      {
+        "id": "REL-WaXyl6jB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YGhkyg3a",
+            "target": "NOTE-4yUSz21s"
+          },
+          {
+            "id": "END-h5Fw2awM",
+            "target": "NOTE-EUAeYRMW"
+          }
+        ]
+      },
+      {
+        "id": "REL-9A7rljxq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-DZsmsMIt",
+            "target": "NOTE-EUAeYRMW"
+          },
+          {
+            "id": "END-LXLef8im",
+            "target": "NOTE-TTjXNHM6"
+          }
+        ]
+      },
+      {
+        "id": "REL-mDDVXrPi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dYJp2WcN",
+            "target": "NOTE-EUAeYRMW"
+          },
+          {
+            "id": "END-LjUY6UHe",
+            "target": "NOTE-f8kAmxWL"
+          }
+        ]
+      }
+    ]
+  }
+}

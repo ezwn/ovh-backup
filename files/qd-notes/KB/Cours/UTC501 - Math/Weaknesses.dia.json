@@ -1,0 +1,345 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-oF7cPIVc",
+        "userBounds": [
+          200,
+          322,
+          null,
+          null
+        ],
+        "bounds": [
+          200,
+          322,
+          227,
+          49
+        ],
+        "content": "aRb ∧ bRa ⇒ a=b",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-MRxYr1yw",
+        "userBounds": [
+          600,
+          56,
+          null,
+          null
+        ],
+        "bounds": [
+          600,
+          56,
+          84,
+          88
+        ],
+        "content": "P⇒Q\n---\n¬P ∨ Q",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PZGBq5W9",
+        "userBounds": [
+          406,
+          591,
+          null,
+          null
+        ],
+        "bounds": [
+          406,
+          591,
+          253,
+          41
+        ],
+        "content": "a*b = pgcd(a,b)*ppcm(a,b)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6tWbRKSk",
+        "userBounds": [
+          692,
+          190,
+          null,
+          null
+        ],
+        "bounds": [
+          692,
+          190,
+          109,
+          41
+        ],
+        "content": "LOGIQUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-tlZaVroV",
+        "userBounds": [
+          553,
+          314,
+          116.984375,
+          null
+        ],
+        "bounds": [
+          553,
+          314,
+          117,
+          64
+        ],
+        "content": "Relations binaires",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Fc8sy4Yv",
+        "userBounds": [
+          725,
+          466,
+          null,
+          null
+        ],
+        "bounds": [
+          725,
+          466,
+          130,
+          41
+        ],
+        "content": "Arithmetique",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4lhZnpBZ",
+        "userBounds": [
+          939,
+          201,
+          null,
+          null
+        ],
+        "bounds": [
+          939,
+          201,
+          120,
+          41
+        ],
+        "content": "MATRICES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-2vexmBer",
+        "userBounds": [
+          933,
+          85,
+          159.203125,
+          null
+        ],
+        "bounds": [
+          933,
+          85,
+          159,
+          60
+        ],
+        "content": "M1 multipliable par M2",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-bcE4Nnbk",
+        "userBounds": [
+          1126,
+          31,
+          null,
+          null
+        ],
+        "bounds": [
+          1126,
+          31,
+          201,
+          41
+        ],
+        "content": "cols(M1) = rows(M2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-fA7bNbNE",
+        "userBounds": [
+          1023,
+          381,
+          null,
+          null
+        ],
+        "bounds": [
+          1023,
+          381,
+          77,
+          41
+        ],
+        "content": "PETRI",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-bA5hjyeq",
+        "userBounds": [
+          1292,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          1292,
+          199,
+          123,
+          68
+        ],
+        "content": "COMPTAGE\n= VECT **COLONNE**\n# Vσ",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-RT4hFvQ9",
+        "userBounds": [
+          1177,
+          303,
+          126.375,
+          null
+        ],
+        "bounds": [
+          1177,
+          303,
+          126,
+          60
+        ],
+        "content": "CALCUL MARQUAGE",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-qGXL69Tb",
+        "userBounds": [
+          1333,
+          379,
+          null,
+          null
+        ],
+        "bounds": [
+          1333,
+          379,
+          173,
+          41
+        ],
+        "content": "Mt = M0 + C * Vσ",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-LpsZVu1X",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JlKZhnPe",
+            "target": "NOTE-6tWbRKSk"
+          },
+          {
+            "id": "END-8T3FCCKx",
+            "target": "NOTE-MRxYr1yw"
+          }
+        ]
+      },
+      {
+        "id": "REL-bItGWgag",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zebn9uay",
+            "target": "NOTE-oF7cPIVc"
+          },
+          {
+            "id": "END-9r8BEc67",
+            "target": "NOTE-tlZaVroV"
+          }
+        ]
+      },
+      {
+        "id": "REL-9SFfzujZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-dnUIbkhu",
+            "target": "NOTE-PZGBq5W9"
+          },
+          {
+            "id": "END-z5KpIMMy",
+            "target": "NOTE-Fc8sy4Yv"
+          }
+        ]
+      },
+      {
+        "id": "REL-7mxdCt3Q",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-22hm81Ce",
+            "target": "NOTE-4lhZnpBZ"
+          },
+          {
+            "id": "END-HDhH3plh",
+            "target": "NOTE-2vexmBer"
+          }
+        ]
+      },
+      {
+        "id": "REL-yq48uavn",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2p2XgJ4k",
+            "target": "NOTE-bcE4Nnbk"
+          },
+          {
+            "id": "END-U2JV3ZXv",
+            "target": "NOTE-2vexmBer"
+          }
+        ]
+      },
+      {
+        "id": "REL-znmvjCXv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-p6x6kfRW",
+            "target": "NOTE-bA5hjyeq"
+          },
+          {
+            "id": "END-CCFPneAG",
+            "target": "NOTE-RT4hFvQ9"
+          }
+        ]
+      },
+      {
+        "id": "REL-al9ohnss",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UfcXVaCN",
+            "target": "NOTE-qGXL69Tb"
+          },
+          {
+            "id": "END-A4QMetV6",
+            "target": "NOTE-RT4hFvQ9"
+          }
+        ]
+      },
+      {
+        "id": "REL-5kQe2YW7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Xr3sk1zh",
+            "target": "NOTE-RT4hFvQ9"
+          },
+          {
+            "id": "END-Ty5F5N3m",
+            "target": "NOTE-fA7bNbNE"
+          }
+        ]
+      }
+    ]
+  }
+}

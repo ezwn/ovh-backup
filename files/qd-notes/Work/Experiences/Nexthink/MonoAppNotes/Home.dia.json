@@ -1,0 +1,1076 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-LAXnjbGw",
+        "userBounds": [
+          1133,
+          323.39999771118164,
+          null,
+          null
+        ],
+        "bounds": [
+          1133,
+          323.39999771118164,
+          91,
+          41
+        ],
+        "content": "[SPRINT](https://jira.nexthink.com:1443/secure/RapidBoard.jspa?projectKey=ENGAGE&rapidView=779)",
+        "zIndex": 3,
+        "fontSize": 20,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-hv3Zgk84",
+        "userBounds": [
+          632,
+          548,
+          null,
+          null
+        ],
+        "bounds": [
+          632,
+          548,
+          74,
+          39
+        ],
+        "content": "[ARCHI](https://confluence.intra.nexthink.com/display/ENGAGE/Architecture+as+of+2024.5)",
+        "zIndex": 3,
+        "noteStyle": "BLUE",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-5cypCoak",
+        "userBounds": [
+          584,
+          75,
+          null,
+          null
+        ],
+        "bounds": [
+          584,
+          75,
+          101,
+          31
+        ],
+        "content": "[ARTIFACTORY](https://artifactory.intra.nexthink.com/ui/packages)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-6RIyPdZx",
+        "userBounds": [
+          488,
+          97,
+          null,
+          null
+        ],
+        "bounds": [
+          488,
+          97,
+          96,
+          31
+        ],
+        "content": "[SHAREPOINT](https://nexthink.sharepoint.com/sites/Maple?e=1%3Ab2c3e1b046164b8bb728dc75fce37e03)",
+        "zIndex": 3,
+        "noteStyle": "GREEN",
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-JqIyeyn7",
+        "userBounds": [
+          761,
+          551,
+          null,
+          null
+        ],
+        "bounds": [
+          761,
+          551,
+          66,
+          41
+        ],
+        "content": "[Code](./Code/Engage.dia.json)",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-V7tvpvuB",
+        "userBounds": [
+          763,
+          477,
+          null,
+          null
+        ],
+        "bounds": [
+          763,
+          477,
+          62,
+          41
+        ],
+        "content": "DOC",
+        "zIndex": 3,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-V4ZjLoJD",
+        "userBounds": [
+          614,
+          203,
+          null,
+          null
+        ],
+        "bounds": [
+          614,
+          203,
+          85,
+          65
+        ],
+        "content": "DEV\nTOOLS",
+        "zIndex": 3,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-a4HiJd4I",
+        "userBounds": [
+          852,
+          392,
+          125.625,
+          null
+        ],
+        "bounds": [
+          852,
+          392,
+          126,
+          83
+        ],
+        "content": "NICO'S\nHOME",
+        "zIndex": 3,
+        "fontSize": 28
+      },
+      {
+        "id": "NOTE-tJuxvX5j",
+        "userBounds": [
+          690,
+          104,
+          null,
+          null
+        ],
+        "bounds": [
+          690,
+          104,
+          68,
+          37
+        ],
+        "content": "[My VM](https://bs.vsphere.nexthink.com/ui/app/vm;nav=v/urn:vmomi:VirtualMachine:vm-220994:669d5c78-1b8c-4587-b237-07bee30c6284/summary)",
+        "zIndex": 3,
+        "noteStyle": "GREEN",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-zM213h4p",
+        "userBounds": [
+          669,
+          458,
+          null,
+          null
+        ],
+        "bounds": [
+          669,
+          458,
+          61,
+          37
+        ],
+        "content": "[ENVS](./Doc/Microservices.dia.json)",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-7fNaEkEf",
+        "userBounds": [
+          449,
+          146,
+          null,
+          null
+        ],
+        "bounds": [
+          449,
+          146,
+          85,
+          37
+        ],
+        "content": "[JENKINS](https://jenkins-euf-master.intra.nexthink.com/view/Cypress%20UI/job/Daily%20run%20EUF%20E2E%20Cypress%20(GIE)/job/master/)",
+        "zIndex": 3,
+        "noteStyle": "GREEN",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-9QjJWRXw",
+        "userBounds": [
+          1007,
+          322,
+          null,
+          null
+        ],
+        "bounds": [
+          1007,
+          322,
+          105,
+          39
+        ],
+        "content": "[BACKLOG](https://jira.nexthink.com:1443/secure/RapidBoard.jspa?rapidView=779&projectKey=ENGAGE&view=planning&issueLimit=100)",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-gWf5c4hf",
+        "userBounds": [
+          1038,
+          396,
+          null,
+          null
+        ],
+        "bounds": [
+          1038,
+          396,
+          135,
+          48
+        ],
+        "content": "ACTIVITY",
+        "zIndex": 3,
+        "fontSize": 26,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-5HNrZZf3",
+        "userBounds": [
+          447,
+          270,
+          null,
+          null
+        ],
+        "bounds": [
+          447,
+          270,
+          124,
+          50
+        ],
+        "content": "# [CYPRESS TESTS](https://jenkins-euf-master.intra.nexthink.com/view/Cypress%20UI/job/Daily%20run%20EUF%20E2E%20Cypress-Main/job/main/)\n---\n[TESTRAIL](https://testrail.intra.nexthink.com/index.php?/dashboard)",
+        "zIndex": 3,
+        "fontSize": 8,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-BV61mJuW",
+        "userBounds": [
+          1172,
+          483,
+          null,
+          null
+        ],
+        "bounds": [
+          1172,
+          483,
+          71,
+          39
+        ],
+        "content": "[CNAM](https://par.moodle.lecnam.net/course/view.php?id=15506)",
+        "zIndex": 3,
+        "fontSize": 18,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-rtUYIaly",
+        "userBounds": [
+          637,
+          400,
+          null,
+          null
+        ],
+        "bounds": [
+          637,
+          400,
+          64,
+          34
+        ],
+        "content": "[ENG01](https://eng-01-aws.dev.nexthink.cloud/dex/overview)",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-HQDS2kEI",
+        "userBounds": [
+          588,
+          469,
+          null,
+          null
+        ],
+        "bounds": [
+          588,
+          469,
+          64,
+          34
+        ],
+        "content": "[ENG03](https://eng-03-aws.dev.nexthink.cloud/login?redirectTo=%2Fdex%2Foverview)",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-WFbxyUva",
+        "userBounds": [
+          766,
+          246,
+          null,
+          null
+        ],
+        "bounds": [
+          766,
+          246,
+          93,
+          37
+        ],
+        "content": "[CHATGPT](https://chat.openai.com/)",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-of12AWGv",
+        "userBounds": [
+          1021,
+          495,
+          133.359375,
+          null
+        ],
+        "bounds": [
+          1021,
+          495,
+          133,
+          44
+        ],
+        "content": "[PRODUCT ALL HANDS (ZOOM)](https://nexthink.zoom.us/j/93215195356)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-6kpicZc8",
+        "userBounds": [
+          533,
+          433,
+          null,
+          null
+        ],
+        "bounds": [
+          533,
+          433,
+          64,
+          34
+        ],
+        "content": "[ENG04](https://eng-04-aws.dev.nexthink.cloud/login?redirectTo=%2Fdex%2Foverview)",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-hrgRAW6H",
+        "userBounds": [
+          1070,
+          581,
+          null,
+          null
+        ],
+        "bounds": [
+          1070,
+          581,
+          163,
+          37
+        ],
+        "content": "[SET DEFAULT ARM](https://github.com/nexthink/access-rights-management.arm-service/blob/ae14dcb0408c4a5e13142e260109de1b1ba0086a/arm-service-management/src/main/resources/permissions-definitions/inv-permissions.yaml#L200)",
+        "zIndex": 3,
+        "noteStyle": "NOTE",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-NdWDexBg",
+        "userBounds": [
+          839,
+          599,
+          null,
+          null
+        ],
+        "bounds": [
+          839,
+          599,
+          66,
+          31
+        ],
+        "content": "[Search...](https://github.com/nexthink)",
+        "zIndex": 3,
+        "fontSize": 12,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-zbMnhTax",
+        "userBounds": [
+          1027,
+          177,
+          172.4375,
+          null
+        ],
+        "bounds": [
+          1027,
+          177,
+          172,
+          65
+        ],
+        "content": "[NEW  MENU CONFIG](https://confluence.intra.nexthink.com/display/PSHELL/Removing+product-shell-menu-config+dependency)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-sYD2Y2u3",
+        "userBounds": [
+          147,
+          454,
+          null,
+          null
+        ],
+        "bounds": [
+          147,
+          454,
+          146,
+          41
+        ],
+        "content": "[QA Guidelines](https://confluence.intra.nexthink.com/display/ENGAGE/Guidelines)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-M9vPbSei",
+        "userBounds": [
+          336,
+          38,
+          null,
+          null
+        ],
+        "bounds": [
+          336,
+          38,
+          146,
+          34
+        ],
+        "content": "[GUIDELINES REPO](https://github.com/nexthink/github-as-code/pull/1610)",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-DnvDRfym",
+        "userBounds": [
+          473,
+          486,
+          null,
+          null
+        ],
+        "bounds": [
+          473,
+          486,
+          93,
+          34
+        ],
+        "content": "[GLOBAL 10](https://global-10-auto.dev.nexthink.cloud/login)",
+        "zIndex": 3,
+        "fontSize": 14,
+        "noteStyle": "BLUE"
+      },
+      {
+        "id": "NOTE-dIgEkLCS",
+        "userBounds": [
+          556,
+          387,
+          null,
+          null
+        ],
+        "bounds": [
+          556,
+          387,
+          46,
+          37
+        ],
+        "content": "[K09](https://k09.dev.nexthink.cloud/dex/overview)",
+        "zIndex": 3,
+        "noteStyle": "BLUE",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-Hu43gggc",
+        "userBounds": [
+          367,
+          396,
+          null,
+          null
+        ],
+        "bounds": [
+          367,
+          396,
+          131,
+          39
+        ],
+        "content": "nenzweiler\n,mA)mfZO4aJ@5zn_7B*-",
+        "zIndex": 3,
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-eVTt3QYl",
+        "userBounds": [
+          1200,
+          403,
+          null,
+          null
+        ],
+        "bounds": [
+          1200,
+          403,
+          122,
+          41
+        ],
+        "content": "[SM Routine](https://confluence.intra.nexthink.com/display/ENGAGE/Scrum+Master+routine)",
+        "zIndex": 3,
+        "noteStyle": "VIOLET"
+      },
+      {
+        "id": "NOTE-QyEXGg5B",
+        "userBounds": [
+          739,
+          161,
+          130.877197265625,
+          null
+        ],
+        "bounds": [
+          739,
+          161,
+          131,
+          59
+        ],
+        "content": "# Confluence\n---\n[ENGAGE](https://confluence.intra.nexthink.com/display/ENGAGE/Engage+Home) [Me](https://confluence.intra.nexthink.com/#recently-worked)",
+        "zIndex": 3,
+        "fontSize": 10,
+        "noteStyle": "GREEN"
+      },
+      {
+        "id": "NOTE-JbyRb1Le",
+        "userBounds": [
+          430,
+          205,
+          null,
+          null
+        ],
+        "bounds": [
+          430,
+          205,
+          94,
+          37
+        ],
+        "content": "[DATADOG](https://app.datadoghq.eu/logs?query=service%3Aeuf-campaign-manager%20&cols=host%2Cservice&fromUser=true&index=%2A&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1712575223754&to_ts=1712576123754&live=true)",
+        "zIndex": 3,
+        "noteStyle": "GREEN",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-BTK4xa4R",
+        "userBounds": [
+          188,
+          199.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          188,
+          199.1436424255371,
+          107,
+          41
+        ],
+        "content": "[euf-admin](http://localhost:8999/swagger-ui/index.html)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-FvW3jmur",
+        "userBounds": [
+          1263,
+          265.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1263,
+          265.1436424255371,
+          127,
+          41
+        ],
+        "content": "[TRAIN AWS](https://www.linkedin.com/learning/aws-essential-training-for-developers-17237791?trk=learning-topics_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-aq6CXdVG",
+        "userBounds": [
+          1401,
+          370.1436424255371,
+          null,
+          null
+        ],
+        "bounds": [
+          1401,
+          370.1436424255371,
+          171,
+          65
+        ],
+        "content": "[LEARN 2024](https://confluence.intra.nexthink.com/display/EO/Training+Initiatives+2024)\nRaoul centralizes",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-57FwLXvR",
+        "userBounds": [
+          1262,
+          102.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          1262,
+          102.14364242553711,
+          83,
+          76
+        ],
+        "content": "ZOOM\nto\nMeetings",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-xFlgXFYX",
+        "userBounds": [
+          1115,
+          75.14364242553711,
+          null,
+          null
+        ],
+        "bounds": [
+          1115,
+          75.14364242553711,
+          131,
+          60
+        ],
+        "content": "MANDATORY\nTRAININGS",
+        "zIndex": 3,
+        "noteStyle": "RED",
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-a9ivR1SK",
+        "userBounds": [
+          1351,
+          496.1436424255371,
+          274.08990478515625,
+          null
+        ],
+        "bounds": [
+          1351,
+          496.1436424255371,
+          274,
+          144
+        ],
+        "content": "Hey Nicolas,\nDaniel Kajita has set up a 1:1 with you in Lattice. You can now collaborate on a shared meeting agenda and track notes on a regular basis.\nYour next 1:1 is on Jul 11, 2024, 2:30 PM GMT+2\nAdd your first talking point in Lattice",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-VaaBfBS6",
+        "userBounds": [
+          1361,
+          145.1436424255371,
+          92.25054931640625,
+          null
+        ],
+        "bounds": [
+          1361,
+          145.1436424255371,
+          92,
+          76
+        ],
+        "content": "Prepare next\n1-1",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "RED"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-8LYc6uGJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-r2MSAgpp",
+            "target": "NOTE-hv3Zgk84"
+          },
+          {
+            "id": "END-MK1l57VL",
+            "target": "NOTE-V7tvpvuB"
+          }
+        ]
+      },
+      {
+        "id": "REL-CgL33QsR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lbPUN693",
+            "target": "NOTE-V7tvpvuB"
+          },
+          {
+            "id": "END-c82l337A",
+            "target": "NOTE-JqIyeyn7"
+          }
+        ]
+      },
+      {
+        "id": "REL-2zGd9r2I",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-i7sSniLa",
+            "target": "NOTE-V4ZjLoJD"
+          },
+          {
+            "id": "END-vYumcXV4",
+            "target": "NOTE-6RIyPdZx"
+          }
+        ]
+      },
+      {
+        "id": "REL-s9qxZnpD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XUaFicGm",
+            "target": "NOTE-V4ZjLoJD"
+          },
+          {
+            "id": "END-GNtB9EZC",
+            "target": "NOTE-5cypCoak"
+          }
+        ]
+      },
+      {
+        "id": "REL-yTIYohM2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CNMl4qRz",
+            "target": "NOTE-a4HiJd4I"
+          },
+          {
+            "id": "END-3dAk4sE5",
+            "target": "NOTE-V7tvpvuB"
+          }
+        ]
+      },
+      {
+        "id": "REL-rCEiF6V4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QnANnVRj",
+            "target": "NOTE-a4HiJd4I"
+          },
+          {
+            "id": "END-gH6tIteS",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-jLhJf9qm",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-KADCGntP",
+            "target": "NOTE-zM213h4p"
+          },
+          {
+            "id": "END-2ZBAwVPn",
+            "target": "NOTE-V7tvpvuB"
+          }
+        ]
+      },
+      {
+        "id": "REL-ALRX2FHh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-81gEFqge",
+            "target": "NOTE-tJuxvX5j"
+          },
+          {
+            "id": "END-ZylrWMvX",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-KpmDzauk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-s92T3INq",
+            "target": "NOTE-V4ZjLoJD"
+          },
+          {
+            "id": "END-zQWaFn5U",
+            "target": "NOTE-7fNaEkEf"
+          }
+        ]
+      },
+      {
+        "id": "REL-bhAudl9x",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rGUuAqpz",
+            "target": "NOTE-a4HiJd4I"
+          },
+          {
+            "id": "END-RuGkmTx4",
+            "target": "NOTE-gWf5c4hf"
+          }
+        ]
+      },
+      {
+        "id": "REL-N4ahEdn4",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-xH7IVzgo",
+            "target": "NOTE-gWf5c4hf"
+          },
+          {
+            "id": "END-JEF4KVWk",
+            "target": "NOTE-9QjJWRXw"
+          }
+        ]
+      },
+      {
+        "id": "REL-jeSvbH9n",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-lEMtkMGN",
+            "target": "NOTE-gWf5c4hf"
+          },
+          {
+            "id": "END-Q9rFvpBP",
+            "target": "NOTE-LAXnjbGw"
+          }
+        ]
+      },
+      {
+        "id": "REL-1XnVSYMT",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-k2ZC4uoJ",
+            "target": "NOTE-5HNrZZf3"
+          },
+          {
+            "id": "END-2VYqhHrb",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-APRWCAyZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-gXizvxJZ",
+            "target": "NOTE-zM213h4p"
+          },
+          {
+            "id": "END-nt5Wz2SL",
+            "target": "NOTE-HQDS2kEI"
+          }
+        ]
+      },
+      {
+        "id": "REL-LnUGn3Yi",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-ZESAfLDr",
+            "target": "NOTE-zM213h4p"
+          },
+          {
+            "id": "END-l47dRGb8",
+            "target": "NOTE-rtUYIaly"
+          }
+        ]
+      },
+      {
+        "id": "REL-Qd4JzYpC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-b9TUrvEw",
+            "target": "NOTE-BV61mJuW"
+          },
+          {
+            "id": "END-ueY1huAp",
+            "target": "NOTE-gWf5c4hf"
+          }
+        ]
+      },
+      {
+        "id": "REL-r6XtenRK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-m8YN3ZA3",
+            "target": "NOTE-WFbxyUva"
+          },
+          {
+            "id": "END-P7l4NlaE",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-aYQlJxgL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HHoTqSKo",
+            "target": "NOTE-of12AWGv"
+          },
+          {
+            "id": "END-WUfVNKE7",
+            "target": "NOTE-gWf5c4hf"
+          }
+        ]
+      },
+      {
+        "id": "REL-aymKH3kW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-IANhvNq6",
+            "target": "NOTE-6kpicZc8"
+          },
+          {
+            "id": "END-FQbrgzNR",
+            "target": "NOTE-zM213h4p"
+          }
+        ]
+      },
+      {
+        "id": "REL-y5FLi6iS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-HiJlvyF5",
+            "target": "NOTE-NdWDexBg"
+          },
+          {
+            "id": "END-TD2jx7qH",
+            "target": "NOTE-JqIyeyn7"
+          }
+        ]
+      },
+      {
+        "id": "REL-g2KkYTlw",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4gv4eHZQ",
+            "target": "NOTE-Hu43gggc"
+          },
+          {
+            "id": "END-E4nBVMwD",
+            "target": "NOTE-dIgEkLCS"
+          }
+        ]
+      },
+      {
+        "id": "REL-CCTxR3Q5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-2pDYG7ad",
+            "target": "NOTE-dIgEkLCS"
+          },
+          {
+            "id": "END-Gq2T5TYc",
+            "target": "NOTE-zM213h4p"
+          }
+        ]
+      },
+      {
+        "id": "REL-d4QpWrvB",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4nlKIqmX",
+            "target": "NOTE-DnvDRfym"
+          },
+          {
+            "id": "END-YZMXwDtQ",
+            "target": "NOTE-zM213h4p"
+          }
+        ]
+      },
+      {
+        "id": "REL-5ne7blkG",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-QpH2HRha",
+            "target": "NOTE-JbyRb1Le"
+          },
+          {
+            "id": "END-ImXgW4gl",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-QlyZ9tBL",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jKQoMrqo",
+            "target": "NOTE-QyEXGg5B"
+          },
+          {
+            "id": "END-k4KSX2js",
+            "target": "NOTE-V4ZjLoJD"
+          }
+        ]
+      },
+      {
+        "id": "REL-uwSrmYl6",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-PlPaELd5",
+            "target": "NOTE-gWf5c4hf"
+          },
+          {
+            "id": "END-TMN6EfBl",
+            "target": "NOTE-eVTt3QYl"
+          }
+        ]
+      }
+    ]
+  }
+}

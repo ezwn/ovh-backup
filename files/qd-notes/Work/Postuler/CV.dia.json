@@ -1,0 +1,152 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-KcBEaWT6",
+        "userBounds": [
+          779,
+          556,
+          136.125,
+          null
+        ],
+        "bounds": [
+          779,
+          556,
+          136,
+          64
+        ],
+        "content": "Aligner avec Linkedin",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cXNaPUhL",
+        "userBounds": [
+          409,
+          439,
+          null,
+          null
+        ],
+        "bounds": [
+          409,
+          439,
+          76,
+          41
+        ],
+        "content": "Revoir",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-KrRsokFC",
+        "userBounds": [
+          231,
+          338,
+          null,
+          null
+        ],
+        "bounds": [
+          231,
+          338,
+          126,
+          41
+        ],
+        "content": "expériences",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ye92Tflr",
+        "userBounds": [
+          541,
+          359,
+          null,
+          null
+        ],
+        "bounds": [
+          541,
+          359,
+          149,
+          41
+        ],
+        "content": "Centres intérêt",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-64o9BmaY",
+        "userBounds": [
+          398,
+          579,
+          null,
+          null
+        ],
+        "bounds": [
+          398,
+          579,
+          74,
+          41
+        ],
+        "content": "\"Tech\"",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-DzIuk3l3",
+        "userBounds": [
+          1053,
+          353,
+          172.5625,
+          null
+        ],
+        "bounds": [
+          1053,
+          353,
+          173,
+          110
+        ],
+        "content": "Transcripts\nSOLID, KISS, DRY, Clean Code, etc.",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-ERXIYj1m",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XzMqcVy7",
+            "target": "NOTE-cXNaPUhL"
+          },
+          {
+            "id": "END-2QPU2Uw4",
+            "target": "NOTE-64o9BmaY"
+          }
+        ]
+      },
+      {
+        "id": "REL-ps2JKxPK",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-f2AfUnrd",
+            "target": "NOTE-cXNaPUhL"
+          },
+          {
+            "id": "END-TVAu3TYZ",
+            "target": "NOTE-ye92Tflr"
+          }
+        ]
+      },
+      {
+        "id": "REL-XQ9rBek2",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rdm83C61",
+            "target": "NOTE-cXNaPUhL"
+          },
+          {
+            "id": "END-q4XFUETx",
+            "target": "NOTE-KrRsokFC"
+          }
+        ]
+      }
+    ]
+  }
+}

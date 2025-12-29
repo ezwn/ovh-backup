@@ -1,0 +1,392 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-txwyVGIZ",
+        "userBounds": [
+          1124,
+          120,
+          null,
+          null
+        ],
+        "bounds": [
+          1124,
+          120,
+          593,
+          64
+        ],
+        "content": "L’analyse réflexive permet de mettre en évidence les modules du\nprogramme qui pourraient être reconnus",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-gdpNiPYj",
+        "userBounds": [
+          1133,
+          199,
+          null,
+          null
+        ],
+        "bounds": [
+          1133,
+          199,
+          617,
+          64
+        ],
+        "content": "Le regard critique que le candidat porte sur ses acquis démontre un\npositionnement professionnel",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-SGY7BSEG",
+        "userBounds": [
+          1133,
+          403,
+          null,
+          null
+        ],
+        "bounds": [
+          1133,
+          403,
+          217,
+          64
+        ],
+        "content": "Replacer dans\nla carrière, le parcours",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VUJkPZHD",
+        "userBounds": [
+          1129,
+          329,
+          null,
+          null
+        ],
+        "bounds": [
+          1129,
+          329,
+          536,
+          64
+        ],
+        "content": "Les annexes apportent une plus-value pour comprendre le\nparcours",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Hsmuq5XY",
+        "userBounds": [
+          1127,
+          272,
+          null,
+          null
+        ],
+        "bounds": [
+          1127,
+          272,
+          504,
+          41
+        ],
+        "content": "Les supports visuels sont au service de la présentation",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-vMFcFp46",
+        "userBounds": [
+          361,
+          54,
+          null,
+          null
+        ],
+        "bounds": [
+          361,
+          54,
+          248,
+          49
+        ],
+        "content": "Sciences Humaines",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-z9vm8msv",
+        "userBounds": [
+          507,
+          139,
+          null,
+          null
+        ],
+        "bounds": [
+          507,
+          139,
+          166,
+          52
+        ],
+        "content": "MODULES",
+        "zIndex": 3,
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-P4pvnSDF",
+        "userBounds": [
+          791,
+          15,
+          null,
+          null
+        ],
+        "bounds": [
+          791,
+          15,
+          151,
+          41
+        ],
+        "content": "PROJET SOIN",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o3owVH4S",
+        "userBounds": [
+          666,
+          59,
+          null,
+          null
+        ],
+        "bounds": [
+          666,
+          59,
+          116,
+          49
+        ],
+        "content": "INTEGR",
+        "zIndex": 3,
+        "fontSize": 26
+      },
+      {
+        "id": "NOTE-cGGYEx9p",
+        "userBounds": [
+          928,
+          63,
+          null,
+          null
+        ],
+        "bounds": [
+          928,
+          63,
+          132,
+          41
+        ],
+        "content": "TRAVAIL EQ",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-jwkW6hPu",
+        "userBounds": [
+          231,
+          29,
+          null,
+          null
+        ],
+        "bounds": [
+          231,
+          29,
+          107,
+          41
+        ],
+        "content": "ETHIQUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-M9FZLx5u",
+        "userBounds": [
+          219,
+          93,
+          null,
+          null
+        ],
+        "bounds": [
+          219,
+          93,
+          117,
+          41
+        ],
+        "content": "RELATION",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CpyJaWH8",
+        "userBounds": [
+          319,
+          145,
+          null,
+          null
+        ],
+        "bounds": [
+          319,
+          145,
+          130,
+          64
+        ],
+        "content": "PARCOURS\nDE VIE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-dbF1qcVx",
+        "userBounds": [
+          812,
+          117,
+          null,
+          null
+        ],
+        "bounds": [
+          812,
+          117,
+          231,
+          41
+        ],
+        "content": "PLURIDISCIPLINARITé",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-PwQHp894",
+        "userBounds": [
+          766,
+          170,
+          null,
+          null
+        ],
+        "bounds": [
+          766,
+          170,
+          209,
+          41
+        ],
+        "content": "ORGANISATIONNEL",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Hs32IhC7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-TqxulZr9",
+            "target": "NOTE-o3owVH4S"
+          },
+          {
+            "id": "END-KzXuV8h8",
+            "target": "NOTE-cGGYEx9p"
+          }
+        ]
+      },
+      {
+        "id": "REL-yPHcyREc",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-y1arlTed",
+            "target": "NOTE-o3owVH4S"
+          },
+          {
+            "id": "END-6FktqBkG",
+            "target": "NOTE-P4pvnSDF"
+          }
+        ]
+      },
+      {
+        "id": "REL-sBaqH3hU",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Khdz2hea",
+            "target": "NOTE-vMFcFp46"
+          },
+          {
+            "id": "END-QXIeltSv",
+            "target": "NOTE-CpyJaWH8"
+          }
+        ]
+      },
+      {
+        "id": "REL-dycZJyki",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-l8jh87gg",
+            "target": "NOTE-vMFcFp46"
+          },
+          {
+            "id": "END-ms1TjKbn",
+            "target": "NOTE-M9FZLx5u"
+          }
+        ]
+      },
+      {
+        "id": "REL-pmkaPBze",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-vs7Ks4j7",
+            "target": "NOTE-vMFcFp46"
+          },
+          {
+            "id": "END-pAwdX9WR",
+            "target": "NOTE-jwkW6hPu"
+          }
+        ]
+      },
+      {
+        "id": "REL-IxlbNcPs",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XM3V4oPU",
+            "target": "NOTE-z9vm8msv"
+          },
+          {
+            "id": "END-jnebBPJQ",
+            "target": "NOTE-vMFcFp46"
+          }
+        ]
+      },
+      {
+        "id": "REL-6dzJETvq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-UK1niMIb",
+            "target": "NOTE-z9vm8msv"
+          },
+          {
+            "id": "END-JHRfALqa",
+            "target": "NOTE-o3owVH4S"
+          }
+        ]
+      },
+      {
+        "id": "REL-MM5Kzd8S",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-4a1xy2GM",
+            "target": "NOTE-dbF1qcVx"
+          },
+          {
+            "id": "END-zlmvdTqi",
+            "target": "NOTE-o3owVH4S"
+          }
+        ]
+      },
+      {
+        "id": "REL-MbVwzEUJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-EeZ5U94E",
+            "target": "NOTE-PwQHp894"
+          },
+          {
+            "id": "END-z7DlIU99",
+            "target": "NOTE-o3owVH4S"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,906 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-ukeDstBx",
+        "userBounds": [
+          334,
+          139,
+          null,
+          null
+        ],
+        "content": "Mapo\nTofu",
+        "bounds": [
+          334,
+          139,
+          68,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-h5SS6nk1",
+        "userBounds": [
+          1066,
+          338,
+          null
+        ],
+        "content": "Salades",
+        "bounds": [
+          1066,
+          338,
+          105,
+          46
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-s6vVydbE",
+        "userBounds": [
+          13,
+          614,
+          136.453125,
+          null
+        ],
+        "content": "Choux au vin rouge",
+        "bounds": [
+          13,
+          614,
+          136,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-IuQw5ymP",
+        "userBounds": [
+          13,
+          766,
+          157.046875,
+          null
+        ],
+        "content": "Boeuf bourguignon",
+        "bounds": [
+          13,
+          766,
+          157,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-R5gGTUBg",
+        "userBounds": [
+          221,
+          118,
+          null,
+          null
+        ],
+        "content": "Baozi",
+        "bounds": [
+          221,
+          118,
+          68,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-k6RANIvd",
+        "userBounds": [
+          168,
+          645,
+          183.765625,
+          null
+        ],
+        "content": "Blancs de poulet aux marrons\net aux champignons",
+        "bounds": [
+          168,
+          645,
+          184,
+          81
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-fJIE3Yor",
+        "userBounds": [
+          163,
+          535,
+          138.21875,
+          null
+        ],
+        "content": "Moelleux de poulet aux champignons",
+        "bounds": [
+          163,
+          535,
+          138,
+          81
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-kkTpzdWT",
+        "userBounds": [
+          15,
+          685,
+          134.015625,
+          null
+        ],
+        "content": "Poulet aux concombres",
+        "bounds": [
+          15,
+          685,
+          134,
+          60
+        ],
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-m22xtbU3",
+        "userBounds": [
+          126,
+          189,
+          137.75,
+          null
+        ],
+        "content": "Pâtes mexicaines",
+        "bounds": [
+          126,
+          189,
+          138,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-kvxytCK4",
+        "userBounds": [
+          1222,
+          235,
+          null,
+          null
+        ],
+        "content": "niçoise",
+        "bounds": [
+          1222,
+          235,
+          80,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-jCVNQSjw",
+        "userBounds": [
+          1234,
+          346,
+          null,
+          null
+        ],
+        "content": "océane",
+        "bounds": [
+          1234,
+          346,
+          84,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-P6MKLupU",
+        "userBounds": [
+          1344,
+          301,
+          null,
+          null
+        ],
+        "content": "crevettes",
+        "bounds": [
+          1344,
+          301,
+          75,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-8K7Az3qL",
+        "userBounds": [
+          1355,
+          358,
+          null,
+          null
+        ],
+        "content": "moules",
+        "bounds": [
+          1355,
+          358,
+          63,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-olkWVjvz",
+        "userBounds": [
+          1319,
+          419,
+          null,
+          null
+        ],
+        "content": "saumon",
+        "bounds": [
+          1319,
+          419,
+          68,
+          34
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-fmQM2gdd",
+        "userBounds": [
+          1135,
+          433,
+          null
+        ],
+        "content": "landaise",
+        "bounds": [
+          1135,
+          433,
+          93,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-3jBDzn1Y",
+        "userBounds": [
+          1094,
+          510,
+          null,
+          null
+        ],
+        "content": "magrets canard",
+        "bounds": [
+          1094,
+          510,
+          101,
+          32
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-M8gDzchS",
+        "userBounds": [
+          1199,
+          538,
+          null,
+          null
+        ],
+        "content": "gésiers",
+        "bounds": [
+          1199,
+          538,
+          57,
+          32
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-HVF1nWZz",
+        "userBounds": [
+          1103,
+          219,
+          null,
+          null
+        ],
+        "content": "verte",
+        "bounds": [
+          1103,
+          219,
+          62,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-9FNc71er",
+        "userBounds": [
+          882,
+          467,
+          null,
+          null
+        ],
+        "content": "Sandwitchs",
+        "bounds": [
+          882,
+          467,
+          131,
+          44
+        ],
+        "fontSize": 22
+      },
+      {
+        "id": "NOTE-tW9G4z8I",
+        "userBounds": [
+          801,
+          344,
+          null
+        ],
+        "content": "Recettes",
+        "bounds": [
+          801,
+          344,
+          144,
+          55
+        ],
+        "fontSize": 32
+      },
+      {
+        "id": "NOTE-xJLVBjaY",
+        "userBounds": [
+          967,
+          560,
+          null,
+          null
+        ],
+        "content": "chèvre/moza\ntomates",
+        "bounds": [
+          967,
+          560,
+          98,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-D21vGpX4",
+        "userBounds": [
+          855,
+          564,
+          null,
+          null
+        ],
+        "content": "jambon cuit\ncornichons",
+        "bounds": [
+          855,
+          564,
+          90,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-ZuaP1ZjU",
+        "userBounds": [
+          641,
+          350,
+          null,
+          null
+        ],
+        "content": "Chaud",
+        "bounds": [
+          641,
+          350,
+          77,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-CXoWQRre",
+        "userBounds": [
+          843,
+          261,
+          null,
+          null
+        ],
+        "content": "Pains",
+        "bounds": [
+          843,
+          261,
+          68,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-GgrtPuxl",
+        "userBounds": [
+          775,
+          195,
+          null,
+          null
+        ],
+        "content": "Normal",
+        "bounds": [
+          775,
+          195,
+          70,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-QzeTeylY",
+        "userBounds": [
+          888,
+          192,
+          null,
+          null
+        ],
+        "content": "Curcuma",
+        "bounds": [
+          888,
+          192,
+          83,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-EL8VxpMs",
+        "userBounds": [
+          1394,
+          123,
+          null,
+          null
+        ],
+        "content": "Kartoffelsalat",
+        "bounds": [
+          1394,
+          123,
+          134,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-gHtZdoEy",
+        "userBounds": [
+          1219,
+          631,
+          null,
+          null
+        ],
+        "content": "Soupe aux pois cassés",
+        "bounds": [
+          1219,
+          631,
+          224,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-ttV9CfC8",
+        "userBounds": [
+          273,
+          269,
+          null,
+          null
+        ],
+        "content": "Cuisses de poulet\nau four avec légumes",
+        "bounds": [
+          273,
+          269,
+          209,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-HiBqiaIT",
+        "userBounds": [
+          680,
+          457,
+          null,
+          null
+        ],
+        "content": "Soupes",
+        "bounds": [
+          680,
+          457,
+          86,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-rEf8e1Jf",
+        "userBounds": [
+          196,
+          762,
+          null,
+          null
+        ],
+        "content": "# Grumberkiechel\n---\n!!! gras",
+        "bounds": [
+          196,
+          762,
+          140,
+          62
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-cZSQbB2P",
+        "userBounds": [
+          498,
+          531,
+          null,
+          null
+        ],
+        "content": "!!! Soupe du prisonnier",
+        "bounds": [
+          498,
+          531,
+          251,
+          46
+        ]
+      },
+      {
+        "id": "NOTE-kl1y9HzX",
+        "userBounds": [
+          182,
+          355,
+          null,
+          null
+        ],
+        "content": "Soupe pois cassés",
+        "bounds": [
+          182,
+          355,
+          186,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-sdnfDRiQ",
+        "userBounds": [
+          445,
+          168,
+          null,
+          null
+        ],
+        "content": "Wock au poulpe\net calamar",
+        "zIndex": 3,
+        "bounds": [
+          445,
+          168,
+          161,
+          64
+        ]
+      },
+      {
+        "id": "NOTE-AitEqShg",
+        "userBounds": [
+          1003,
+          75,
+          null,
+          null
+        ],
+        "bounds": [
+          1003,
+          75,
+          171,
+          41
+        ],
+        "content": "[GOOGLE DRIVE](https://drive.google.com/drive/folders/1q_MVq2glooueNARcukcDCZ-JzqNMcrh3?usp=share_link)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-4R1e5YAA",
+        "userBounds": [
+          1536,
+          61,
+          null,
+          null
+        ],
+        "bounds": [
+          1536,
+          61,
+          174,
+          41
+        ],
+        "content": "[PÂTE A TOURTE](https://www.academiedugout.fr/recettes/pate-a-tourte_5279_2)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wPZRM9P5",
+        "userBounds": [
+          1583,
+          260,
+          null,
+          null
+        ],
+        "bounds": [
+          1583,
+          260,
+          179,
+          41
+        ],
+        "content": "[PÂTE HARICOTS](https://www.youtube.com/watch?v=SDuNDJzT7qk)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-UgenEMh5",
+        "userBounds": [
+          1418,
+          446,
+          null,
+          null
+        ],
+        "bounds": [
+          1418,
+          446,
+          168,
+          133
+        ],
+        "content": "Lentilles\n233g / jour / pers\n\nTofu\n700g/jour / pers",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "RELATION-KFJymESB",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "T8QGjWIj",
+            "target": "NOTE-h5SS6nk1"
+          },
+          {
+            "id": "tM5lzGVW",
+            "target": "NOTE-kvxytCK4"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-PfFLHRQn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "auLWgNjh",
+            "target": "NOTE-jCVNQSjw"
+          },
+          {
+            "id": "osBS6EhY",
+            "target": "NOTE-h5SS6nk1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-4W6T6jn8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "LM61pH6L",
+            "target": "NOTE-P6MKLupU"
+          },
+          {
+            "id": "MLA7qrLs",
+            "target": "NOTE-jCVNQSjw"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-b4WaJ3jv",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "M2bXzxgt",
+            "target": "NOTE-8K7Az3qL"
+          },
+          {
+            "id": "ZAykIVps",
+            "target": "NOTE-jCVNQSjw"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-Qre8hes2",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "gJIrmFFe",
+            "target": "NOTE-olkWVjvz"
+          },
+          {
+            "id": "ZfaF1wPj",
+            "target": "NOTE-jCVNQSjw"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-hGu7quUV",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "mCkzzCWL",
+            "target": "NOTE-fmQM2gdd"
+          },
+          {
+            "id": "FaVBqIiw",
+            "target": "NOTE-h5SS6nk1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-u3Utn8T3",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "YiuVQ5pW",
+            "target": "NOTE-3jBDzn1Y"
+          },
+          {
+            "id": "TycyMnme",
+            "target": "NOTE-fmQM2gdd"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-8HHCTHAG",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "G42Zg5jz",
+            "target": "NOTE-M8gDzchS"
+          },
+          {
+            "id": "rf7YyGPR",
+            "target": "NOTE-fmQM2gdd"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-t3eliRtS",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "2AkFB4J1",
+            "target": "NOTE-HVF1nWZz"
+          },
+          {
+            "id": "HtMBucak",
+            "target": "NOTE-h5SS6nk1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-STPPnNVC",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "A9TQ6sjp",
+            "target": "NOTE-tW9G4z8I"
+          },
+          {
+            "id": "s5ia8Yda",
+            "target": "NOTE-h5SS6nk1"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-8c7fgXc8",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "hriJKN63",
+            "target": "NOTE-tW9G4z8I"
+          },
+          {
+            "id": "Yyd3N7pM",
+            "target": "NOTE-9FNc71er"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-LbAtjdna",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "TBzpFQ5D",
+            "target": "NOTE-xJLVBjaY"
+          },
+          {
+            "id": "vBXxSgey",
+            "target": "NOTE-9FNc71er"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-MKxmq2Sn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "co5QvNHo",
+            "target": "NOTE-D21vGpX4"
+          },
+          {
+            "id": "WWUvmKga",
+            "target": "NOTE-9FNc71er"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-F7P3MgT5",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "AKB4JawW",
+            "target": "NOTE-tW9G4z8I"
+          },
+          {
+            "id": "QFEwlvYX",
+            "target": "NOTE-ZuaP1ZjU"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-aVZIZHb3",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "GiV81s7f",
+            "target": "NOTE-CXoWQRre"
+          },
+          {
+            "id": "tgbAVUVP",
+            "target": "NOTE-tW9G4z8I"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-I9pNGANY",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "7euMNb2a",
+            "target": "NOTE-QzeTeylY"
+          },
+          {
+            "id": "JdbIviha",
+            "target": "NOTE-CXoWQRre"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-EF8v7Zbb",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "Gk9g8V6s",
+            "target": "NOTE-GgrtPuxl"
+          },
+          {
+            "id": "IrBu1QGZ",
+            "target": "NOTE-CXoWQRre"
+          }
+        ]
+      },
+      {
+        "id": "RELATION-5xlGhJhn",
+        "attachPointNumber": 99,
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "W2dU5Qqv",
+            "target": "NOTE-HiBqiaIT"
+          },
+          {
+            "id": "YXJMgL7h",
+            "target": "NOTE-tW9G4z8I"
+          }
+        ]
+      }
+    ]
+  }
+}

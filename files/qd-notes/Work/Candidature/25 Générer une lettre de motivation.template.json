@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-emploiGenererUneLettreDeMotivation",
+  "content": {
+    "index": "emploi générer une lettre de motivation prompt",
+    "name": "Candidature 25 : Générer une lettre de motivation (emploi)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "Agit en tant qu'expert en placement professionnel, et rédige une lettre de motivation dans un style de langue et d'expression faisant écho à l'offre. Utilise le plan \"vous\", \"moi\", \"nous\" (mais ne fais pas apparaître le titre de ces parties : l'enchaînement doit être natuel comme dans une lettre) :\n\n- La partie \"vous\" doit insister sur le caractère motivant pour moi, de(s) caractéristique(s) de l'entreprise choisie(s).\n\n- La partie \"moi\" doit montrer mon expertise et mes soft-skills en rapport avec l'offre et l'entreprise. Plutôt que de compter l'expérience, parler de compétence ou d'expértise acquise, l'expérience n'étant qu'un argument parmi d'autres.\n\nVoici les éléments à utiliser :\n\nVous :\n${vous:text}\n\nMoi :\n${moi:text}\n\nNous :\n${nous:text}\n\nSpécificités pour cette candidature :\n\n- Attention, cette entreprise est très connue : ne pas donne l'impression de la découvrir.\n- Précise, en les mentionnant que je suis prêt à apprendre le compétences dont je n'ai visiblement pas une maîtrise suffisante pour le poste.\n- Mentionne une de mes réalisations majeures en rapport avec le poste.",
+        "defaultText": null
+      }
+    ]
+  }
+}

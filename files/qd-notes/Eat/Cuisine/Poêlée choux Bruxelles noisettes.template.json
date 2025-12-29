@@ -1,0 +1,17 @@
+{
+  "content": {
+    "index": "poêlée choux bruxelles noisettes cuisine",
+    "name": "Poêlée choux Bruxelles noisettes",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "## Ingrédients\n\n- 1 cs d’huile d'olive\n- ½ cc de sel\n- 1 oignons en lamelles\n- 40 g de noisettes hachées grossièrement\n- 400 g de choux de Bruxelles coupés en deux\n- un peu de poivre\n- 1 citron bio, le zeste râpé et 1 cs de jus\n- 30 g de parmesan coupé en copeaux à l'épluche-légumes\n\n## Préparation\n\nFaire chauffer l'huile dans une poêle antiadhésive. Faire revenir l'oignon, les choux de Bruxelles et les noisettes pendant 4 min. Baisser le feu, couvrir et laisser cuire env. 10 min. en remuant de temps en temps, assaisonner. Ajouter le zeste et le jus du citron, dresser avec le parmesan.\n\n**source**: https://www.coop.ch/fr/marques-inspirations/recettes/automne/poelee-de-choux-de-bruxelles-aux-noisettes/rc/236/r/21956?srsltid=AfmBOoqE6_IzfENG2TQUkZ3pmd5BjwQDoSHcbFrdozApUXahNvrylVu_",
+        "defaultText": null
+      }
+    ]
+  },
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docId": "operation-poeleeChouxBruxellesNoisettes",
+  "docTypeVersion": 1
+}

@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-haricotsBlancsAlcoolDeRizEtCiboulette",
+  "content": {
+    "index": "haricots blancs alcool de riz et ciboulette chine chinois chinoise cuisine",
+    "name": "Haricots blancs à l'alcool de riz et ciboulette",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "# Haricots blancs macérés à l'alcool jaune de riz et à la ciboulette\n\n**Préparation :** 10 minutes  \n**Trempage :** 1 heure  \n**Cuisson :** 15 minutes  \n\n## Ingrédients :\n- 200 g de haricots blancs frais\n- 3 c. à s. d'huile de tournesol\n- 1 échalote finement hachée\n- 1 c. à s. de ciboulette finement ciselée\n- 1 c. à s. de vinaigre de riz\n- 1 c. à s. d'alcool jaune de riz\n- 1 c. à c. de sucre en poudre\n- 1 c. à c. de sel\n\n## Instructions :\n1. Faites tremper les haricots blancs frais dans de l'eau pendant 1 heure.\n2. Mettez-les dans une casserole d'eau avec le sel. Portez à ébullition puis laissez **cuire pendant 15 minutes**. Lavez-les dans de l'eau froide et égouttez-les.\n3. Faites chauffer l'huile de tournesol dans une poêle. Faites-y colorer l'échalote avec la ciboulette à feu doux. Versez cette huile aromatisée sur les haricots blancs cuits.\n4. Ajoutez le vinaigre, l'alcool jaune de riz et le sucre. Mélangez et servez.\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-IpfZGv7Y",
+        "userBounds": [
+          39,
+          760,
+          null,
+          null
+        ],
+        "bounds": [
+          39,
+          760,
+          112,
+          39
+        ],
+        "content": "[THE WEEK](https://www.theweek.ooo/)",
+        "zIndex": 3,
+        "fontSize": 18
+      },
+      {
+        "id": "NOTE-TrioH9ZB",
+        "userBounds": [
+          1689,
+          693,
+          null,
+          null
+        ],
+        "bounds": [
+          1689,
+          693,
+          70,
+          41
+        ],
+        "content": "[MIRO](https://miro.com/app/board/uXjVKXqSjwc=/)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Va7By3kN",
+        "userBounds": [
+          1670,
+          562,
+          130.015625,
+          null
+        ],
+        "bounds": [
+          1670,
+          562,
+          130,
+          66
+        ],
+        "content": "OPTIMISATION D'USAGE DES OBJETS",
+        "zIndex": 3,
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-mpY3Hd3I",
+        "userBounds": [
+          749,
+          360,
+          null,
+          null
+        ],
+        "bounds": [
+          749,
+          360,
+          121,
+          36
+        ],
+        "content": "DECHETERIE",
+        "zIndex": 3,
+        "fontSize": 16,
+        "noteStyle": "RED"
+      },
+      {
+        "id": "NOTE-HaKUtmAU",
+        "userBounds": [
+          305,
+          180,
+          null,
+          null
+        ],
+        "bounds": [
+          305,
+          180,
+          127,
+          87
+        ],
+        "content": "NETTOYER\nNOTES\nPASSÉES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-wQk1mEya",
+        "userBounds": [
+          183,
+          95,
+          null,
+          null
+        ],
+        "bounds": [
+          183,
+          95,
+          127,
+          41
+        ],
+        "content": "PIZZA TALK",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-ymSEhpjM",
+        "userBounds": [
+          419,
+          88,
+          null,
+          null
+        ],
+        "bounds": [
+          419,
+          88,
+          115,
+          64
+        ],
+        "content": "VIDÉOS\nYOUTUBE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-CufoVU6i",
+        "userBounds": [
+          604,
+          94,
+          null,
+          null
+        ],
+        "bounds": [
+          604,
+          94,
+          152,
+          41
+        ],
+        "content": "SOUS-TITRES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qFxBCVEM",
+        "userBounds": [
+          1241,
+          112,
+          null,
+          null
+        ],
+        "bounds": [
+          1241,
+          112,
+          95,
+          41
+        ],
+        "content": "[SUJETS](https://drive.google.com/drive/folders/1AiSjoVpOv6M0MVqnnFFD1kSoUUr5zfeD)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hAHR4Au5",
+        "userBounds": [
+          1198,
+          215,
+          null,
+          null
+        ],
+        "bounds": [
+          1198,
+          215,
+          93,
+          41
+        ],
+        "content": "HSE134",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-obMzZ4wL",
+        "userBounds": [
+          1267,
+          284,
+          124.296875,
+          null
+        ],
+        "bounds": [
+          1267,
+          284,
+          124,
+          41
+        ],
+        "content": "[YOUTUBE](https://studio.youtube.com/playlist/PLGFsFnbMB2GtTE8pVKaeibtVXXS1gh5Wf/videos)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-C4JAHwD7",
+        "userBounds": [
+          1057,
+          216,
+          null,
+          null
+        ],
+        "bounds": [
+          1057,
+          216,
+          87,
+          41
+        ],
+        "content": "[NOTES](http://localhost:3000/explore/privateStore////Notes/Ecological%20transitions/EXC4)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-HL9Krnd5",
+        "userBounds": [
+          1602,
+          145,
+          91.515625,
+          null
+        ],
+        "bounds": [
+          1602,
+          145,
+          92,
+          64
+        ],
+        "content": "[REVOLT JEU](https://la-revolt.org/jeu/REVOLT-regles.pdf)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hERHa69x",
+        "userBounds": [
+          1287,
+          441,
+          null,
+          null
+        ],
+        "bounds": [
+          1287,
+          441,
+          113,
+          41
+        ],
+        "content": "Gaspillage",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GntXABeB",
+        "userBounds": [
+          1496,
+          434,
+          null,
+          null
+        ],
+        "bounds": [
+          1496,
+          434,
+          288,
+          41
+        ],
+        "content": "Livraison conjointe? La poste?",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-qNbPA4Ge",
+        "userBounds": [
+          1560,
+          301,
+          null,
+          null
+        ],
+        "bounds": [
+          1560,
+          301,
+          196,
+          36
+        ],
+        "content": "ESPION PROJETS ECO",
+        "zIndex": 3,
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-FZUP5E1q",
+        "userBounds": [
+          1033,
+          448,
+          null,
+          null
+        ],
+        "bounds": [
+          1033,
+          448,
+          109,
+          32
+        ],
+        "content": "[CLIMATE TOWN](https://www.youtube.com/@ClimateTown)",
+        "zIndex": 3,
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-FnrDkPkH",
+        "userBounds": [
+          688,
+          456,
+          null,
+          null
+        ],
+        "bounds": [
+          688,
+          456,
+          214,
+          54
+        ],
+        "content": "PROMOUVOIR\nOUTILS ANTI-HARDWARE",
+        "zIndex": 3,
+        "fontSize": 16
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-rgWvEJiD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6PS6dIP4",
+            "target": "NOTE-HaKUtmAU"
+          },
+          {
+            "id": "END-2smyMWYh",
+            "target": "NOTE-wQk1mEya"
+          }
+        ]
+      },
+      {
+        "id": "REL-yVdG8DiV",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-opbNvZXw",
+            "target": "NOTE-HaKUtmAU"
+          },
+          {
+            "id": "END-JAgunbmh",
+            "target": "NOTE-ymSEhpjM"
+          }
+        ]
+      },
+      {
+        "id": "REL-ht9sFGNR",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9jSgMJlQ",
+            "target": "NOTE-CufoVU6i"
+          },
+          {
+            "id": "END-QmGi4mfd",
+            "target": "NOTE-ymSEhpjM"
+          }
+        ]
+      },
+      {
+        "id": "REL-nS6i36oY",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g8NAxX6X",
+            "target": "NOTE-hAHR4Au5"
+          },
+          {
+            "id": "END-WUDBtXj4",
+            "target": "NOTE-qFxBCVEM"
+          }
+        ]
+      },
+      {
+        "id": "REL-cAqRNEav",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-t5oNu5mL",
+            "target": "NOTE-obMzZ4wL"
+          },
+          {
+            "id": "END-vhYdBLHS",
+            "target": "NOTE-hAHR4Au5"
+          }
+        ]
+      },
+      {
+        "id": "REL-34vvkKP5",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-6bItnu1M",
+            "target": "NOTE-C4JAHwD7"
+          },
+          {
+            "id": "END-lFyeF8aG",
+            "target": "NOTE-hAHR4Au5"
+          }
+        ]
+      }
+    ]
+  }
+}

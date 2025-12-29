@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-dockerComposeConfigureKafka",
+  "content": {
+    "index": "docker compose configure kafka",
+    "name": "Docker compose, configure kafka",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "version: '3.8'\n\nservices:\n  kafka:\n    image: wurstmeister/kafka:latest\n    ports:\n      - '9092:9092'\n      - '9094:9094'\n    environment:\n      - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181\n      - ALLOW_PLAINTEXT_LISTENER=yes\n      - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=CLIENT:PLAINTEXT,EXTERNAL:PLAINTEXT\n      - KAFKA_LISTENERS=CLIENT://:9092,EXTERNAL://:9094\n      - KAFKA_ADVERTISED_LISTENERS=CLIENT://kafka:9092,EXTERNAL://localhost:9094\n      - KAFKA_INTER_BROKER_LISTENER_NAME=CLIENT\n      - KAFKA_CREATE_TOPICS=platform_dictionary-importer_record:1:1,platform_bcs_events:1:1\n    depends_on:\n      - zookeeper\n\n  kafka-ui:\n    image: provectuslabs/kafka-ui:latest\n    container_name: kafka-ui\n    ports:\n      - \"9001:8080\"\n    restart: always\n    environment:\n      - KAFKA_CLUSTERS_0_NAME=local\n      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka:9092\n    depends_on:\n      - kafka\n\n  clickhouse-server:\n    image: artifactory.intra.nexthink.com:443/nexthink-docker-dev/nxc-clickhouse-demo:main\n    hostname: clickhouse-01\n    ports:\n      - \"8123:8123\"\n      - \"9005:9000\"\n    volumes:\n      - \"/tmp:/var/log\"\n    ulimits:\n      nproc: 65535\n      nofile:\n        soft: 262144\n        hard: 262144\n    depends_on:\n      - zookeeper\n    links:\n      - zookeeper",
+        "defaultText": null
+      }
+    ]
+  }
+}

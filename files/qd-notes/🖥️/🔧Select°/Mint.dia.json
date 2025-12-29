@@ -1,0 +1,24 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-yPmB5yVX",
+        "userBounds": [
+          195,
+          135,
+          null,
+          null
+        ],
+        "bounds": [
+          195,
+          135,
+          113,
+          41
+        ],
+        "content": "keepassxc",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

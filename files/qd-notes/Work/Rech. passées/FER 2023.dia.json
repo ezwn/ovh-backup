@@ -1,0 +1,268 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-CjKJLUrL",
+        "userBounds": [
+          252,
+          295,
+          null,
+          null
+        ],
+        "bounds": [
+          252,
+          295,
+          120,
+          64
+        ],
+        "content": "POINTER\nDISFONCT",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-mvdvRSCE",
+        "userBounds": [
+          283,
+          453,
+          null,
+          null
+        ],
+        "bounds": [
+          283,
+          453,
+          86,
+          64
+        ],
+        "content": "EXCES\nZELE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-GSmQmuDt",
+        "userBounds": [
+          402,
+          190,
+          null,
+          null
+        ],
+        "bounds": [
+          402,
+          190,
+          110,
+          64
+        ],
+        "content": "TROP\nDIRECTIF",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-xXHyNbyi",
+        "userBounds": [
+          448,
+          359,
+          null,
+          null
+        ],
+        "bounds": [
+          448,
+          359,
+          92,
+          87
+        ],
+        "content": "APRES\nCREDIT\nSUISSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-NmVVPoar",
+        "userBounds": [
+          847,
+          350,
+          null,
+          null
+        ],
+        "bounds": [
+          847,
+          350,
+          86,
+          41
+        ],
+        "content": "3 MOIS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cQxd6WPA",
+        "userBounds": [
+          649,
+          123,
+          null,
+          null
+        ],
+        "bounds": [
+          649,
+          123,
+          154,
+          64
+        ],
+        "content": "RACCOURCIR\nNEGATIF",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-cEkpRjwb",
+        "userBounds": [
+          1161,
+          237,
+          null,
+          null
+        ],
+        "bounds": [
+          1161,
+          237,
+          104,
+          87
+        ],
+        "content": "INTERET\nTRAVAIL\nSOCIAL",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-u6c2xJyp",
+        "userBounds": [
+          1178,
+          438,
+          null,
+          null
+        ],
+        "bounds": [
+          1178,
+          438,
+          136,
+          41
+        ],
+        "content": "TECHNIQUE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-hniccGhA",
+        "userBounds": [
+          829,
+          510,
+          null,
+          null
+        ],
+        "bounds": [
+          829,
+          510,
+          189,
+          41
+        ],
+        "content": "3 COMPETENCES",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-nuEY3GZZ",
+        "userBounds": [
+          842,
+          585,
+          null,
+          null
+        ],
+        "bounds": [
+          842,
+          585,
+          161,
+          41
+        ],
+        "content": "3 SOFT SKILLS",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-9C3dLERu",
+        "userBounds": [
+          1103,
+          565,
+          null,
+          null
+        ],
+        "bounds": [
+          1103,
+          565,
+          92,
+          64
+        ],
+        "content": "CREDIT\nSUISSE",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-uzPqWLUK",
+        "userBounds": [
+          995,
+          694,
+          null,
+          null
+        ],
+        "bounds": [
+          995,
+          694,
+          231,
+          41
+        ],
+        "content": "Note NOTE-uzPqWLUK",
+        "zIndex": 3
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-Cutm67gH",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-hfUyyR1r",
+            "target": "NOTE-xXHyNbyi"
+          },
+          {
+            "id": "END-4ssGfskx",
+            "target": "NOTE-GSmQmuDt"
+          }
+        ]
+      },
+      {
+        "id": "REL-hIi7ItHv",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-jA7fKHuT",
+            "target": "NOTE-xXHyNbyi"
+          },
+          {
+            "id": "END-VNZkHjMF",
+            "target": "NOTE-CjKJLUrL"
+          }
+        ]
+      },
+      {
+        "id": "REL-rjPAZ25B",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-usv3IkLU",
+            "target": "NOTE-xXHyNbyi"
+          },
+          {
+            "id": "END-VkRaAQt5",
+            "target": "NOTE-mvdvRSCE"
+          }
+        ]
+      },
+      {
+        "id": "REL-mwHQ8klo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-JiN7Vpch",
+            "target": "NOTE-9C3dLERu"
+          },
+          {
+            "id": "END-hWdgnYDt",
+            "target": "NOTE-nuEY3GZZ"
+          }
+        ]
+      }
+    ]
+  }
+}

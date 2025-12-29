@@ -1,0 +1,22 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-javaSockets",
+  "content": {
+    "index": "java sockets nsy102",
+    "name": "Java, Sockets",
+    "templates": [
+      {
+        "id": "serverSocket",
+        "textTemplate": "ServerSocket ss = new ServerSocket(54321);\nSocket s = ss.accept();\nOutputStream os = s.getOutputStream();\nInputStream is = s.getInputStream();\nObjectOutput out = new ObjectOutputStream(os);\nObjectInput in = new ObjectInputStream(is);\n\nout.writeObject(arg);\nvar a = (A)in.readObject();\n\ns.close();\nss.close();",
+        "defaultText": null
+      },
+      {
+        "id": "clientSocket",
+        "textTemplate": "Socket s = new Socket(\"localhost\", 54321);\nOutputStream os = s.getOutputStream();\nInputStream is = s.getInputStream();\nObjectOutput out = new ObjectOutputStream(os);\nObjectInput in = new ObjectInputStream(is);\n\nout.writeObject(new Put<>(key, value));\nAnswer<V> answer = in.readObject();\n\nclient.run();\ns.close();",
+        "defaultText": null
+      }
+    ]
+  }
+}

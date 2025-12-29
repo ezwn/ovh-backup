@@ -1,0 +1,110 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Pz64k8lC",
+        "userBounds": [
+          656,
+          122.66666412353516,
+          377.19793701171875,
+          null
+        ],
+        "bounds": [
+          656,
+          122.66666412353516,
+          377,
+          134
+        ],
+        "content": "trace.id\n---\ntraceId: It is a unique Id assigned to the request and is the same across all the microservices.",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-6iEBDTKT",
+        "userBounds": [
+          1254,
+          146.66666412353516,
+          null,
+          null
+        ],
+        "bounds": [
+          1254,
+          146.66666412353516,
+          63,
+          41
+        ],
+        "content": "MDC",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-N2pjXFlJ",
+        "userBounds": [
+          775,
+          346.66666412353516,
+          null,
+          null
+        ],
+        "bounds": [
+          775,
+          346.66666412353516,
+          140,
+          41
+        ],
+        "content": "method.name",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-o4he8QlY",
+        "userBounds": [
+          962,
+          381.66666412353516,
+          178.90076446533203,
+          null
+        ],
+        "bounds": [
+          962,
+          381.66666412353516,
+          179,
+          41
+        ],
+        "content": "class.name",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VdYhycvg",
+        "userBounds": [
+          79,
+          74,
+          null,
+          null
+        ],
+        "bounds": [
+          79,
+          74,
+          392,
+          320
+        ],
+        "content": "[18:17] Victor Bonnet\ntu peux faire un port forward de ton pod\n\n[18:17] Victor Bonnet\net executer ça\n\n[18:17] Victor Bonnet\n```bash\ncurl -X \"POST\" \"http://localhost:8081/loggers/com.nexthink\" \\\n-H \"Content-Type: application/json; charset=utf-8\" \\\n-d $'{\n\"configuredLevel\": \"DEBUG\"\n}'\n\n```",
+        "zIndex": 3,
+        "noteStyle": "TEXT"
+      },
+      {
+        "id": "NOTE-jof7bvLL",
+        "userBounds": [
+          977,
+          288,
+          null,
+          null
+        ],
+        "bounds": [
+          977,
+          288,
+          125,
+          41
+        ],
+        "content": "[DATADOG2](https://learn.datadoghq.com/)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

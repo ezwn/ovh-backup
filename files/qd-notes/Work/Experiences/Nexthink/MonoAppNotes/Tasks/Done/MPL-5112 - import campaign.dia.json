@@ -1,0 +1,75 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-8oPxXZlI",
+        "userBounds": [
+          820,
+          369,
+          null,
+          null
+        ],
+        "bounds": [
+          820,
+          369,
+          61,
+          41
+        ],
+        "content": "[JIRA](https://jira.nexthink.com:1443/browse/MPL-5112)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-Ac2jsfW4",
+        "userBounds": [
+          1004,
+          224,
+          null,
+          null
+        ],
+        "bounds": [
+          1004,
+          224,
+          211,
+          41
+        ],
+        "content": "[DEEPAK TEST PLAN](https://testrail.intra.nexthink.com/index.php?/suites/view/50526&group_by=cases:section_id&group_order=asc&group_id=294660)",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-VNCEwfrI",
+        "userBounds": [
+          723,
+          200,
+          null,
+          null
+        ],
+        "bounds": [
+          723,
+          200,
+          183,
+          64
+        ],
+        "content": "EXPORT/IMPORT\nORDER",
+        "zIndex": 3
+      },
+      {
+        "id": "NOTE-32kXSMsl",
+        "userBounds": [
+          1095,
+          401,
+          null,
+          null
+        ],
+        "bounds": [
+          1095,
+          401,
+          167,
+          41
+        ],
+        "content": "[ERROR CODES](https://confluence.intra.nexthink.com/pages/resumedraft.action?draftId=213824325&draftShareId=7b828303-b2c3-4239-b778-cba1f3096ea2&)",
+        "zIndex": 3
+      }
+    ],
+    "relations": []
+  }
+}

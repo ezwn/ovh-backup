@@ -1,0 +1,27 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-jpaInheritanceHandling",
+  "content": {
+    "index": "jpa inheritance handling",
+    "name": "JPA, inheritance handling (single table)",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "@Entity\n@Inheritance(strategy = InheritanceType.JOINED)\n@DiscriminatorValue(value = \"0\")\n@DiscriminatorColumn(name = \"DTYPE\",discriminatorType = DiscriminatorType.CHAR)\npublic abstract class Document {\n    @Id\n    @GeneratedValue\n    private Long id;",
+        "defaultText": null
+      },
+      {
+        "id": "child1",
+        "textTemplate": "@Entity\n@DiscriminatorValue(value = \"i\")\npublic class ImageDocument extends Document{\n\n    private String filePath;",
+        "defaultText": null
+      },
+      {
+        "id": "child2",
+        "textTemplate": "@Entity\n@DiscriminatorValue(value = \"t\")\npublic class TextDocument extends Document {\n    private String content;\n",
+        "defaultText": null
+      }
+    ]
+  }
+}

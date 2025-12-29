@@ -1,0 +1,982 @@
+{
+  "elements": {
+    "notes": [
+      {
+        "id": "NOTE-Na6f55te",
+        "userBounds": [
+          793,
+          381,
+          null,
+          null
+        ],
+        "content": "[EPISTEMIOLOGY](https://en.wikipedia.org/wiki/Epistemology#The_regress_problem)",
+        "zIndex": 3,
+        "bounds": [
+          793,
+          381,
+          265,
+          52
+        ],
+        "fontSize": 30
+      },
+      {
+        "id": "NOTE-zDF8RAvm",
+        "userBounds": [
+          335,
+          300,
+          null,
+          null
+        ],
+        "content": "EPISTEMIC\nJUSTIFICATION",
+        "zIndex": 3,
+        "bounds": [
+          335,
+          300,
+          121,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-NMsD1WBs",
+        "userBounds": [
+          229,
+          261,
+          null,
+          null
+        ],
+        "content": "KNOWLEDGE\n/ BELIEF",
+        "zIndex": 3,
+        "bounds": [
+          229,
+          261,
+          83,
+          40
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-GLfBdG3Q",
+        "userBounds": [
+          730,
+          270,
+          null,
+          null
+        ],
+        "content": "CORE\nAREAS",
+        "zIndex": 3,
+        "bounds": [
+          730,
+          270,
+          99,
+          74
+        ],
+        "fontSize": 24
+      },
+      {
+        "id": "NOTE-iEoXjtL6",
+        "userBounds": [
+          508,
+          303,
+          null,
+          null
+        ],
+        "content": "PHILOSOPHICAL\nANALYSIS & CONDITIONS\nFOR KNOWLEDGE",
+        "zIndex": 3,
+        "bounds": [
+          508,
+          303,
+          190,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-Wy6okG3j",
+        "userBounds": [
+          557,
+          210,
+          null,
+          null
+        ],
+        "content": "SOURCES\nOF KNOWLEDGE",
+        "zIndex": 3,
+        "bounds": [
+          557,
+          210,
+          132,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-1oCDM758",
+        "userBounds": [
+          455,
+          247,
+          null,
+          null
+        ],
+        "content": "PERCEPTION",
+        "zIndex": 3,
+        "bounds": [
+          455,
+          247,
+          83,
+          29
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-8FD4VKLt",
+        "userBounds": [
+          462,
+          208,
+          null,
+          null
+        ],
+        "content": "REASON",
+        "zIndex": 3,
+        "bounds": [
+          462,
+          208,
+          60,
+          29
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-kNd4Pewi",
+        "userBounds": [
+          456,
+          168,
+          null,
+          null
+        ],
+        "content": "MEMORY",
+        "zIndex": 3,
+        "bounds": [
+          456,
+          168,
+          63,
+          29
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-lJgNQE96",
+        "userBounds": [
+          523,
+          156,
+          null,
+          null
+        ],
+        "content": "TESTIMONY",
+        "zIndex": 3,
+        "bounds": [
+          523,
+          156,
+          76,
+          29
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-FaEMJd8K",
+        "userBounds": [
+          621,
+          127,
+          null,
+          null
+        ],
+        "content": "STRUCTURE\nOF BODY OF\nKNOWLEDGE",
+        "zIndex": 3,
+        "bounds": [
+          621,
+          127,
+          109,
+          66
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-HTWSQvar",
+        "userBounds": [
+          735,
+          182,
+          null,
+          null
+        ],
+        "content": "PHILOSOPHICAL\nSKEPTICISM",
+        "zIndex": 3,
+        "bounds": [
+          735,
+          182,
+          115,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-u1vDffkN",
+        "userBounds": [
+          1083,
+          293,
+          null,
+          null
+        ],
+        "content": "CENTRAL\nCONCEPTS",
+        "zIndex": 3,
+        "bounds": [
+          1083,
+          293,
+          140,
+          70
+        ],
+        "fontSize": 22
+      },
+      {
+        "id": "NOTE-zpYQNVyg",
+        "userBounds": [
+          1014,
+          207,
+          null,
+          null
+        ],
+        "content": "KNOWLEDGE",
+        "zIndex": 3,
+        "bounds": [
+          1014,
+          207,
+          148,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-Geosc1Wb",
+        "userBounds": [
+          1198,
+          196,
+          null,
+          null
+        ],
+        "content": "BELIEF",
+        "zIndex": 3,
+        "bounds": [
+          1198,
+          196,
+          87,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-XyYaHSnv",
+        "userBounds": [
+          1288,
+          281,
+          null,
+          null
+        ],
+        "content": "TRUTH",
+        "zIndex": 3,
+        "bounds": [
+          1288,
+          281,
+          86,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-v7UlqF98",
+        "userBounds": [
+          1207,
+          400,
+          null,
+          null
+        ],
+        "content": "JUSTIFICATION",
+        "zIndex": 3,
+        "bounds": [
+          1207,
+          400,
+          165,
+          41
+        ]
+      },
+      {
+        "id": "NOTE-suJ9QQGe",
+        "userBounds": [
+          883,
+          163,
+          null,
+          null
+        ],
+        "content": "FACTS\n= THAT",
+        "zIndex": 3,
+        "bounds": [
+          883,
+          163,
+          52,
+          40
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-sfDdILyX",
+        "userBounds": [
+          917,
+          115,
+          null,
+          null
+        ],
+        "content": "SKILLS\n= HOW",
+        "zIndex": 3,
+        "bounds": [
+          917,
+          115,
+          52,
+          40
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-lPSQQAGN",
+        "userBounds": [
+          967,
+          155,
+          null,
+          null
+        ],
+        "content": "OBJECTS",
+        "zIndex": 3,
+        "bounds": [
+          967,
+          155,
+          64,
+          29
+        ],
+        "fontSize": 10
+      },
+      {
+        "id": "NOTE-Sd7bFuEk",
+        "userBounds": [
+          926,
+          215,
+          null,
+          null
+        ],
+        "content": "TYPES",
+        "zIndex": 3,
+        "bounds": [
+          926,
+          215,
+          70,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-UTS4AlTI",
+        "userBounds": [
+          1056,
+          131,
+          null,
+          null
+        ],
+        "content": "A PRIORI\nA POSTERIORI",
+        "zIndex": 3,
+        "bounds": [
+          1056,
+          131,
+          103,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-fPBiBwNT",
+        "userBounds": [
+          1062,
+          76,
+          null,
+          null
+        ],
+        "content": "EXPERIENCE",
+        "zIndex": 3,
+        "bounds": [
+          1062,
+          76,
+          95,
+          32
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-x6vC8ACQ",
+        "userBounds": [
+          1184,
+          106,
+          null,
+          null
+        ],
+        "content": "= propositional\ntruth acceptance",
+        "zIndex": 3,
+        "bounds": [
+          1184,
+          106,
+          122,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-IaFfcMoT",
+        "userBounds": [
+          1341,
+          154,
+          null,
+          null
+        ],
+        "content": "credence",
+        "zIndex": 3,
+        "bounds": [
+          1341,
+          154,
+          84,
+          36
+        ],
+        "fontSize": 16
+      },
+      {
+        "id": "NOTE-oitrIYQH",
+        "userBounds": [
+          1338,
+          59,
+          null,
+          null
+        ],
+        "content": "spectrum of\ndegrees of\nbeliefs",
+        "zIndex": 3,
+        "bounds": [
+          1338,
+          59,
+          81,
+          60
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-TDLxtrCL",
+        "userBounds": [
+          1379,
+          217,
+          null,
+          null
+        ],
+        "content": "ACCORDANCE\nWITH REALITY",
+        "zIndex": 3,
+        "bounds": [
+          1379,
+          217,
+          118,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-bjiaDVsJ",
+        "userBounds": [
+          1410,
+          290,
+          null,
+          null
+        ],
+        "content": "CONDITION\nTO KNOWLEDGE",
+        "zIndex": 3,
+        "bounds": [
+          1410,
+          290,
+          116,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-zQx1jp32",
+        "userBounds": [
+          1403,
+          380,
+          null,
+          null
+        ],
+        "content": "REASON\nTO BELEIVE",
+        "zIndex": 3,
+        "bounds": [
+          1403,
+          380,
+          99,
+          50
+        ],
+        "fontSize": 14
+      },
+      {
+        "id": "NOTE-2YePSsNc",
+        "userBounds": [
+          1304,
+          476,
+          null,
+          null
+        ],
+        "content": "INTERNALISM\n& EXTERNALIMS",
+        "zIndex": 3,
+        "bounds": [
+          1304,
+          476,
+          114,
+          46
+        ],
+        "fontSize": 12
+      },
+      {
+        "id": "NOTE-qVBUbap9",
+        "userBounds": [
+          1464,
+          475,
+          null,
+          null
+        ],
+        "content": "WHERE THOSE\nREASONS\nSHOULD BE\n(MIND/REALITY)",
+        "zIndex": 3,
+        "bounds": [
+          1464,
+          475,
+          110,
+          74
+        ],
+        "fontSize": 12
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-hGCV6Jgo",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-7YvTqRiB",
+            "target": "NOTE-NMsD1WBs"
+          },
+          {
+            "id": "END-ISvdtLiE",
+            "target": "NOTE-zDF8RAvm"
+          }
+        ]
+      },
+      {
+        "id": "REL-4z7KLMTk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-CJtjMFKc",
+            "target": "NOTE-GLfBdG3Q"
+          },
+          {
+            "id": "END-2LGPu8bR",
+            "target": "NOTE-Na6f55te"
+          }
+        ]
+      },
+      {
+        "id": "REL-aDtvUYxX",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YWVCgACZ",
+            "target": "NOTE-iEoXjtL6"
+          },
+          {
+            "id": "END-dSsSpgf4",
+            "target": "NOTE-GLfBdG3Q"
+          }
+        ]
+      },
+      {
+        "id": "REL-YNDeQxD9",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-M4QGKft9",
+            "target": "NOTE-zDF8RAvm"
+          },
+          {
+            "id": "END-1YZVGMGS",
+            "target": "NOTE-iEoXjtL6"
+          }
+        ]
+      },
+      {
+        "id": "REL-68Qn1C91",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pobgPYbv",
+            "target": "NOTE-Wy6okG3j"
+          },
+          {
+            "id": "END-leUteMyd",
+            "target": "NOTE-GLfBdG3Q"
+          }
+        ]
+      },
+      {
+        "id": "REL-tLPxVxvJ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-9IDV1zss",
+            "target": "NOTE-1oCDM758"
+          },
+          {
+            "id": "END-ltr9o6fe",
+            "target": "NOTE-Wy6okG3j"
+          }
+        ]
+      },
+      {
+        "id": "REL-owdhaqrp",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-pCfVwiG4",
+            "target": "NOTE-8FD4VKLt"
+          },
+          {
+            "id": "END-jPC598Wd",
+            "target": "NOTE-Wy6okG3j"
+          }
+        ]
+      },
+      {
+        "id": "REL-NIGgIRS7",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-tXtLLoNm",
+            "target": "NOTE-kNd4Pewi"
+          },
+          {
+            "id": "END-o7aJliNG",
+            "target": "NOTE-Wy6okG3j"
+          }
+        ]
+      },
+      {
+        "id": "REL-qRgSWrnq",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-bHoJNYrW",
+            "target": "NOTE-lJgNQE96"
+          },
+          {
+            "id": "END-bCq3hmc1",
+            "target": "NOTE-Wy6okG3j"
+          }
+        ]
+      },
+      {
+        "id": "REL-Ug6W6gLS",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-RJsRHhwe",
+            "target": "NOTE-FaEMJd8K"
+          },
+          {
+            "id": "END-NUvY1StR",
+            "target": "NOTE-GLfBdG3Q"
+          }
+        ]
+      },
+      {
+        "id": "REL-AevEariD",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-wK8otPfu",
+            "target": "NOTE-HTWSQvar"
+          },
+          {
+            "id": "END-YV3fle9E",
+            "target": "NOTE-GLfBdG3Q"
+          }
+        ]
+      },
+      {
+        "id": "REL-epbBZq9I",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-aMR4tSa9",
+            "target": "NOTE-u1vDffkN"
+          },
+          {
+            "id": "END-YNy38nWj",
+            "target": "NOTE-Na6f55te"
+          }
+        ]
+      },
+      {
+        "id": "REL-En2KjY2b",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-8DddiN5R",
+            "target": "NOTE-zpYQNVyg"
+          },
+          {
+            "id": "END-57My4N5P",
+            "target": "NOTE-u1vDffkN"
+          }
+        ]
+      },
+      {
+        "id": "REL-ox2un19b",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-cwFEvvNE",
+            "target": "NOTE-Geosc1Wb"
+          },
+          {
+            "id": "END-vtrvPhNt",
+            "target": "NOTE-u1vDffkN"
+          }
+        ]
+      },
+      {
+        "id": "REL-bnJmHgBP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-NgPsv2ou",
+            "target": "NOTE-XyYaHSnv"
+          },
+          {
+            "id": "END-r3U6qqsV",
+            "target": "NOTE-u1vDffkN"
+          }
+        ]
+      },
+      {
+        "id": "REL-Hc9GlmgA",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-5uUZgVw7",
+            "target": "NOTE-v7UlqF98"
+          },
+          {
+            "id": "END-3SkX8Ff2",
+            "target": "NOTE-u1vDffkN"
+          }
+        ]
+      },
+      {
+        "id": "REL-45GwKLAa",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-BNqf8gtS",
+            "target": "NOTE-Sd7bFuEk"
+          },
+          {
+            "id": "END-jNu8L8ng",
+            "target": "NOTE-zpYQNVyg"
+          }
+        ]
+      },
+      {
+        "id": "REL-nQYCt461",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-yZmZZeSl",
+            "target": "NOTE-suJ9QQGe"
+          },
+          {
+            "id": "END-utdaTN9e",
+            "target": "NOTE-Sd7bFuEk"
+          }
+        ]
+      },
+      {
+        "id": "REL-a71Z82Lh",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Sj3d44DQ",
+            "target": "NOTE-sfDdILyX"
+          },
+          {
+            "id": "END-t41rfp6Q",
+            "target": "NOTE-Sd7bFuEk"
+          }
+        ]
+      },
+      {
+        "id": "REL-YDJjzXic",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-rryusRSq",
+            "target": "NOTE-lPSQQAGN"
+          },
+          {
+            "id": "END-ZYL3WFgP",
+            "target": "NOTE-Sd7bFuEk"
+          }
+        ]
+      },
+      {
+        "id": "REL-DZQh53hk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-46fCdLCR",
+            "target": "NOTE-zpYQNVyg"
+          },
+          {
+            "id": "END-XQErUjDP",
+            "target": "NOTE-UTS4AlTI"
+          }
+        ]
+      },
+      {
+        "id": "REL-v3qr6gwP",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-zlibz8Kk",
+            "target": "NOTE-fPBiBwNT"
+          },
+          {
+            "id": "END-c3egduve",
+            "target": "NOTE-UTS4AlTI"
+          }
+        ]
+      },
+      {
+        "id": "REL-v2B5y5rW",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-qN2k54dE",
+            "target": "NOTE-x6vC8ACQ"
+          },
+          {
+            "id": "END-teMpQhdi",
+            "target": "NOTE-Geosc1Wb"
+          }
+        ]
+      },
+      {
+        "id": "REL-4vUp92Vk",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-SDB4sloD",
+            "target": "NOTE-IaFfcMoT"
+          },
+          {
+            "id": "END-a8uj5D29",
+            "target": "NOTE-Geosc1Wb"
+          }
+        ]
+      },
+      {
+        "id": "REL-QwYEgrYC",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XqIPX2l4",
+            "target": "NOTE-IaFfcMoT"
+          },
+          {
+            "id": "END-NU9U8XJ4",
+            "target": "NOTE-oitrIYQH"
+          }
+        ]
+      },
+      {
+        "id": "REL-Dpf9BmFr",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-XFIs35rQ",
+            "target": "NOTE-TDLxtrCL"
+          },
+          {
+            "id": "END-abogWXfy",
+            "target": "NOTE-XyYaHSnv"
+          }
+        ]
+      },
+      {
+        "id": "REL-1XBi9fAe",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-Rfiv9Nj3",
+            "target": "NOTE-bjiaDVsJ"
+          },
+          {
+            "id": "END-8Vjhzenw",
+            "target": "NOTE-XyYaHSnv"
+          }
+        ]
+      },
+      {
+        "id": "REL-AK6IakyZ",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-g2uKoDFr",
+            "target": "NOTE-zQx1jp32"
+          },
+          {
+            "id": "END-ZqU6lwes",
+            "target": "NOTE-v7UlqF98"
+          }
+        ]
+      },
+      {
+        "id": "REL-fDuIN11A",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-YjzJHhkP",
+            "target": "NOTE-2YePSsNc"
+          },
+          {
+            "id": "END-pj2ynyef",
+            "target": "NOTE-v7UlqF98"
+          }
+        ]
+      },
+      {
+        "id": "REL-xPlvcdy3",
+        "shape": "CENTROID",
+        "ends": [
+          {
+            "id": "END-WTiGfcd8",
+            "target": "NOTE-qVBUbap9"
+          },
+          {
+            "id": "END-H8lsQGQT",
+            "target": "NOTE-2YePSsNc"
+          }
+        ]
+      }
+    ]
+  }
+}

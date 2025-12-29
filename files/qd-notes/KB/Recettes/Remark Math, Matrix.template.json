@@ -1,0 +1,17 @@
+{
+  "storeVersion": 1,
+  "docType": "QuickTemplate",
+  "docTypeVersion": 1,
+  "docId": "operation-remarkMathMatrix",
+  "content": {
+    "index": "remark math matrix",
+    "name": "Remark Math, Matrix",
+    "templates": [
+      {
+        "id": "input",
+        "textTemplate": "$$\n\\left( \\begin{array}{ccc}\n2 & -1 & 0 \\\\\n-1 & 2 & -1 \\\\\n0 & -1 & 2 \\\\\n\\end{array} \\right)\n$$",
+        "defaultText": null
+      }
+    ]
+  }
+}
