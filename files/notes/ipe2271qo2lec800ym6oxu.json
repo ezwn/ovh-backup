@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ipe2271qo2lec800ym6oxu",
+  "content" : {
+    "domain" : "ACCOUNTING_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Définitions de comptabilité",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Définitions de comptabilité\n\n~? **Passif** en comptabilité :\n- il s'agit de **dettes** et d'**obligations** envers des tiers,\n- c'est l'**origine des ressources financières**.\n\n~? **Actif** en comptabilité :\n- ce sont les **biens** possédés et les **droits**,\n- c'est à dire l'**emploi des ressources financières**.\n\n~? **Exemples** de **passif** :\n- **capitaux propres**, qui sont dus aux associés ou aux actionnaires\n- **dettes financières** comme les **crédits** dus aux banques\n- **dettes d'exploitation** comme les **factures**, les **impôts** ou les **cotisations** à payer\n- **provisions pour risques et charges** : épargne pour **faire face à** des **charges** **futures** probables\n- produits constatés d'avance\n\n~? **Liquidité** comptable :\n**facilité** **à être converti** **en argent liquide**\n\n~? **Catégories** d'**actifs** comptables **de** la **moins** à la **plus** **liquide** :\n- immobilisations\n- stocks\n- créances\n- trésorerie\n\n~? **Débit** comptable :\n**augmentation d’un actif** ou **augmentation d’une charge**\nou **diminution d’un passif** ou **diminution d’un produit**\n\n~? **Crédit** comptable :\n**diminution d’un actif** ou **diminution d’une charge**\nou **augmentation d’un passif** ou **augmentation d’un produit**\n\n~? Comptabilité en **partie double** :\ntoute opération **débite** **un compte** et en **crédite** **un autre** du **même montant**\n\n~? Chiffre d’affaires :\n**montant total** des **ventes** de **biens** ou de **services** sur une **période donnée**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-24T14:52:58.877102205Z",
+    "quality" : "LOW"
+  }
+}

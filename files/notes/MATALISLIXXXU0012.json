@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0012",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Maintenu en audio car initialement l'audio contenait une erreur.\nDe plus, contenait une imprécision.",
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Déterminant matrice lors de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Lors de l'application de l'algorithme de Gauss-Jordan,\nle déterminant d'une matrice peut être calculé.\n\nSi le nombre de pivots est inférieur au nombre de lignes,\nle déterminant vaut 0.\n\nSinon, il est le produit de :\n-1 à la puissance N,\noù N est le nombre de permutations de lignes effectuées,\net du produit des pivots avant qu'on les ramène à 1.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Déterminant matrice lors de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "When applying the Gauss-Jordan algorithm,  \nthe determinant of a matrix can be calculated.  \n  \nIf the number of pivots is less than the number of rows,  \nthe determinant is 0.  \n  \nOtherwise, it is the product of:  \n-1 to the power of N,  \nwhere N is the number of row permutations performed,  \nand the product of the pivots before they are reduced to 1.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Déterminant matrice lors de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Bei der Anwendung des Gauss-Jordan-Algorithmus,  \nkann die Determinante einer Matrix berechnet werden.  \n\nWenn die Anzahl der Pivots kleiner ist als die Anzahl der Zeilen,  \nbeträgt die Determinante 0.  \n\nAndernfalls ist sie das Produkt von:  \n-1 zur Potenz N,  \nwobei N die Anzahl der durchgeführten Zeilenvertauschungen ist,  \nund dem Produkt der Pivots, bevor man sie auf 1 bringt.  ",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Déterminant matrice lors de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在应用高斯-约旦算法时，  \n一个矩阵的行列式可以被计算。  \n\n如果主元的数量少于行数，  \n行列式的值为 0。  \n\n否则，它是以下的乘积：  \n-1 的 N 次方，  \n其中 N 是执行的行置换的数量，  \n以及在将主元变为 1 之前的主元的乘积。  ",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.955086511Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCITIL4XU0020",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Système de Valeur des Services et Chaîne de Valeur (ITIL4)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Système de Valeur des Services et Chaîne de Valeur (ITIL4)\n\n##% Éléments du Système de Valeur des Services\n\n~? 5 éléments du Système de Valeur des Services :\n- principes directeurs\n- gouvernance\n- chaîne de valeur des services\n- pratiques de gestion\n- amélioration continue\n\n##% Complément sur les éléments du système de valeur\n\n~? Principes directeurs du système de valeur des services :\n**recommandations** universelles orientant la **gestion des services**\n\n~? Gouvernance du système de valeur des services :\n**mécanismes** d'**évaluation**, d'**orientation** et de **contrôle** **des activités**,\npour les aligner sur les objectifs stratégiques\n\n~? Chaîne de valeur des services du système de valeur des services  :\nensemble d'**activités menant de la demande à la livraison de valeur**\n\n##% Activités typiques de la chaîne de valeur des services\n\n~? Activités typiques recommandés dans la chaîne de valeur des services :\n- Planifier\n- Améliorer\n- **Interagir** : **créer le lien de collaboration**\n- **Concevoir** et **préparer la mise en service**\n- **Acquérir** ou **bâtir**\n- **Fournir** et **maintenir**\n\n~? Ordre des activités recommandé dans la chaîne de valeur des services :\nC'est un piège : **rien n'est obligatoire** et **l'ordre dépend de la situation**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Service Value System and Service Value Chain (ITIL4)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Service Value System and Service Value Chain (ITIL4)\n\n## Components of the Service Value System\n\n~?%5 components of the Service Value System:\n- guiding principles\n- governance\n- service value chain\n- management practices\n- continual improvement\n\n## Further details on the components of the value system\n\n~?Guiding principles of the Service Value System:\nuniversal **recommendations** guiding **service management**\n\n~?Governance of the Service Value System:\n**mechanisms** for **evaluation**, **direction**, and **control** of **activities**,\nto align them with strategic objectives\n\n~?Service value chain of the Service Value System:\nset of **activities leading from demand to value delivery**\n\n## Typical activities of the service value chain\n\n~?Typical recommended activities in the service value chain:\n- Plan\n- Improve\n- **Engage**: **create collaborative relationships**\n- **Design** and **transition**\n- **Obtain** or **build**\n- **Deliver** and **support**\n\n~?Recommended order of activities in the service value chain:\nIt's a trap: **nothing is mandatory** and **the order depends on the situation**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : " Servicewertsystem und Wertschöpfungskette (ITIL4)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Servicewertsystem und Wertschöpfungskette (ITIL4)\n\n## Elemente des Servicewertsystems\n\n~?%5 Elemente des Servicewertsystems:\n- Leitprinzipien\n- Steuerung\n- Servicewertschöpfungskette\n- Managementpraktiken\n- kontinuierliche Verbesserung\n\n## Ergänzung zu den Elementen des Servicewertsystems\n\n~?Leitprinzipien des Servicewertsystems:\nuniverselle **Empfehlungen** zur Steuerung des **Service-Managements**\n\n~?Steuerung des Servicewertsystems:\n**Mechanismen** zur **Bewertung**, **Ausrichtung** und **Überwachung** von **Aktivitäten**,\num sie mit den strategischen Zielen in Einklang zu bringen\n\n~?Servicewertschöpfungskette des Servicewertsystems:\nSatz von **Aktivitäten, die von der Anfrage bis zur Wertlieferung führen**\n\n## Typische Aktivitäten der Servicewertschöpfungskette\n\n~?Empfohlene typische Aktivitäten in der Servicewertschöpfungskette:\n- Planen\n- Verbessern\n- **Interagieren** : **die Zusammenarbeitsbeziehung aufbauen**\n- **Entwerfen** und **Bereitstellung vorbereiten**\n- **Beschaffen** oder **entwickeln**\n- **Liefern** und **unterhalten**\n\n~?Empfohlene Reihenfolge der Aktivitäten in der Servicewertschöpfungskette:\nDas ist eine Falle: **nichts ist verpflichtend** und **die Reihenfolge hängt von der Situation ab**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T18:18:09.962320570Z",
+    "quality" : "LOW"
+  }
+}

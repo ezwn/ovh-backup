@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIRSAXXXU0040",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "RSA, Décryptage",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Pour décrypter un nombre encrypté en RSA...\non l'élève à la puissance $$d$$ et on applique modulo $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "RSA, Décryptage",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "?Um eine in RSA verschlüsselte Zahl zu entschlüsseln...\nerhöht man sie auf die Potenz $$d$$ und wendet modulo $$N$$ an.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.887264652Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "cyvi6nwitjac188ylr2nze",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Estimations",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Estimations\n\n~?% 5 **sources** pour **estimer** les **tâches** :\n- **bilan** des **projets précédents**\n- l'avis de **collègues expérimentés**\n- les **experts du métier**\n- les **grilles** d'**estimation** **standard**\n- l'**équipe**, **en confrontant** les **estimations**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Estimates",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Estimates\n\n~?% 5 **sources** to **estimate** **tasks**:\n- **review** of **previous projects**\n- input from **experienced colleagues**\n- **subject-matter experts**\n- **standard** **estimation** **templates**\n- the **team**, by **comparing** **estimates**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-20T15:25:41.090789490Z",
+    "quality" : "LOW"
+  }
+}

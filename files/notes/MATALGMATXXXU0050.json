@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALGMATXXXU0050",
+  "content" : {
+    "domain" : "MATHEMATICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Multiplication matricielle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Multiplication matricielle\n\n?~Possible à condition que :\nNombre de colonnes du facteur gauche = nombre de lignes du facteur droit.\n\n?~Pour remplir la matrice résultat :\nCroiser chaque ligne du facteur gauche avec chaque colonne du facteur droit.\n\n?~Dimension du résultat :\nAutant de lignes que facteur gauche et autant de colonnes que facteur droit.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : null,
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Multiplication matricielle\n\n?~À quelles conditions la multiplication matricielle est-elle possible ?\nNombre de colonnes du facteur gauche égal au nombre de lignes du facteur droit.\n\n?~Comment remplir la matrice résultat lors d'une multiplication matricielle ?\nCroiser chaque ligne du facteur gauche avec chaque colonne du facteur droit.\n\n?~Quelle est la dimension de la matrice résultat d'une multiplication matricielle ?\nAutant de lignes que le facteur gauche et autant de colonnes que le facteur droit.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Multiplication matricielle",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Matrizenmultiplikation\n\n?~Unter welchen Bedingungen ist die Matrizenmultiplikation möglich?\nAnzahl der Spalten des linken Faktors gleich der Anzahl der Zeilen des rechten Faktors.\n\n?~Wie füllt man die Ergebnismatrix bei einer Matrizenmultiplikation aus?\nJede Zeile des linken Faktors mit jeder Spalte des rechten Faktors kreuzen.\n\n?~Welche Dimension hat die Ergebnismatrix einer Matrizenmultiplikation?\nSo viele Zeilen wie der linke Faktor und so viele Spalten wie der rechte Faktor.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.155842355Z",
+    "quality" : "LOW"
+  }
+}

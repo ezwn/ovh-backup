@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0017",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorème de Bézout",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Quels que soient A et B entiers,\nil existe deux entiers U et V tels que :\nA fois U plus B fois V égal le PGCD de A et de B.\nU et V sont appelés coefficients de Bézout.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Théorème de Bézout",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Welche auch immer A und B ganzzahlig sind,\nes gibt zwei ganze Zahlen U und V, so dass:\nA mal U plus B mal V gleich dem GGT von A und B ist.\nU und V werden Bézout-Koeffizienten genannt.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.911132862Z",
+    "quality" : "LOW"
+  }
+}

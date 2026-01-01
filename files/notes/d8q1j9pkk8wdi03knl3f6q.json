@@ -1,0 +1,25 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "d8q1j9pkk8wdi03knl3f6q",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Menaces de sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Menaces de sécurité\n\n## [Attaquants et motivations](note::COSSECXXXXXXU0006)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-01T06:10:59.732364555Z"
+  }
+}

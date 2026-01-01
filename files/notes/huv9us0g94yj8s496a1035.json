@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "huv9us0g94yj8s496a1035",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modélisation des menaces",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modélisation des menaces\n\n## Fiches\n\n- [Modélisation des menaces](note::kep8caowyl222f7gahdv7s)\n\n## Repérage\n\n### [Définition et objectif](video::2;00:00:05)\n### [Intérêt](video::2;00:0:37)\n### [Limites](video::2;00:1:21)\n### [3 approches de la modélisation](video::2;00:02:00)\n### [Approche centrée sur attaquants](video::2;00:02:40)\n### [Avantages et incovénients](video::2;00:3:51)\n### [Approches centrées sur les actifs, aperçu](video::2;00:04:41)\n### [7 Etapes de la méthodo PASTA](video::2;00:05:15)\n### [Avantage approches centrés sur actifs](video::2;00:08:15)\n\n-prennent en compte des probabilités et l'impact\n\n### [Inconvénient](video::2;00:8:33)\n### [Approches centrées sur les applications](video::2;00:08:48)\n### [Avantages](video::2;00:09:13)\n### [Inconvénients](video::2;00:09:29)\n### [Exemple : méthode de Microsoft donnant un liste d'après une archi applicative](video::2;00:09:42)\n### [Demo](video::2;00:10:16)\n### [Diagrammes Flux Données](video::2;00:12:23)\n### [Conventions graphiques](video::2;00:12:59)\n### [Méthode pour identifier les menaces](video::2;00:13:48)\n### [Arbres d'attaque](video::2;00:14:7)\n### [STRIDE de Microsoft](video::2;00:14:34)\n### [Spoofing](video::2;00:15:20)\n### [Tampering](video::2;00:15:40)\n### [Répudiation](video::2;00:15:52)\n### [Fuite d'infos](video::2;00:15:59)\n### [Déni de service](video::2;00:16:25)\n### [Elevation de privilères](video::2;00:16:34)\n### [Comment définir/référencer les menaces ?](video::2;00:16:58)\n### [Évaluer les menaces](video::2;00:17:59)\n### [Dread en détais](video::2;00:18:19)\n### [ex. d'évaluation numérique](video::2;00:18:40)\n### [Remarque sur DREAD](video::2;00:19:30)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "2" : "https://www.youtube.com/watch?v=GzcjG0oUDyM"
+      }
+    } ],
+    "modificationDate" : "2025-10-04T15:27:38.974570727Z"
+  }
+}

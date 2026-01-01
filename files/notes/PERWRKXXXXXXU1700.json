@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1700",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ileotech : notes consolidée pour LLM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## Expérience chez Ileotech\n\n**Poste** : Lead Frontend Developer\n**Technologies** : Ionic, Angular, Android, REST, Docker\n**Méthodologie** : Scrum\n**Équipe** : 4 développeurs\n\n### Contexte des projets\n\nParticipation à deux applications mobiles principales :\n- **Digital Wallet** : Portefeuille numérique centralisant des versions dématérialisées de documents administratifs (carte d’identité, passeport, etc.). L'application interagit avec les administrations publiques pour faciliter les démarches en cas de perte ou de vol.\n- **Vente automobile entre particuliers** : Application simplifiant la vente de véhicules grâce au scan de QR-Codes et à l’envoi automatique des documents aux administrations compétentes.\n\nCes applications intégraient un système de **reconnaissance automatique de documents administratifs (OCR)** permettant le pré-remplissage des formulaires afin de fluidifier l'expérience utilisateur.\n\n### Rôle et responsabilités\n\n- **Lead Frontend** sur les deux projets.\n- Conception de la base technique des applications.\n- Développement de fonctionnalités clés et correction de bugs.\n- Mise en place d’un moteur de workflow léger pour factoriser le code récurrent :\n- Types de tâches gérées : saisie, traitement, déclencheur, embranchement conditionnel.\n- Objectif : réduire la duplication de code en structurant les processus métier.\n- Participation aux revues de code.\n- Interaction avec les fournisseurs, notamment pour l'intégration de services OCR.\n\n### Environnement technique\n\n- **Frameworks** : Ionic, Angular\n- **Backend/API** : REST\n- **Mobile** : Android\n- **Conteneurisation** : Docker\n- **Méthodologie** : Agile / Scrum",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.178094552Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0006",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Définition matrice identité [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Une matrice carrée a autant de lignes que de colonnes.\n\nLa matrice identité :\nest carrée,\nsa diagonale principal est composée de 1,\nses autres coefficients valent 0.\n\nElle est neutre dans la multiplication.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Définition matrice identité [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "A square matrix has as many rows as columns.\n\nThe identity matrix:\nis square,\nits main diagonal is composed of 1s,\nits other coefficients are 0.\n\nIt is neutral in multiplication.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Définition matrice identité [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Eine quadratische Matrix hat genauso viele Zeilen wie Spalten.\n\nDie Einheitsmatrix:\nist quadratisch,\nihre Hauptdiagonale besteht aus Einsen,\nihre anderen Elemente sind Null.\n\nSie ist neutral bei der Multiplikation.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Définition matrice identité [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "方阵有相同数量的行和列。\n\n单位矩阵：\n是方阵，\n主对角线由1组成，\n其他系数为0。\n\n在乘法中是中性的。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.117132094Z",
+    "quality" : "LOW"
+  }
+}

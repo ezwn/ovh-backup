@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSECOXXXXXXU1100",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Marché de concurrence pure et parfaite",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Marché de concurrence pure et parfaite\n\n~? **Hypothèses** définissant un **marché de concurrence pure et parfaite** :\n- l'**atomicité du marché** : aucun agent n'a assez de pouvoir pour l'influencer\n- l'**homogénéité** : les **produits** sont parfaitement **interchangeables**\n- la **flexibilité complète** des biens, services et facteurs de production\n- la **libre entrée sur le marché**\n\n~? Coût marginal :\n**coût supplémentaire total** **engendré par** la **production** d’une **unité additionnelle**\n\n~? **Variation** de la **demande** dans un **marché de concurrence pure et parfaite** :\nla demande **diminue avec** le **prix**.\n\n~? **Variation** de l'**offre** dans un **marché de concurrence pure et parfaite** :\n- l'**entreprise** est \"**preneuse de prix**\"\n- pour maximiser son profit, elle **produit** **tant que** le **coût marginal** est **inférieur ou égal** au **prix du marché**\n- ainsi la production, et donc l'**offre**, **augmentent** avec le **prix**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-18T17:36:57.704451415Z"
+  }
+}

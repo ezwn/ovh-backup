@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0020",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mémoires implicite et déclarative",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Mémoires implicite et déclarative\n\n~?Deux modalités d'encodage depuis la mémoire sensorielle :\n**consciente** et **automatique**\n\n##% Mémoires implicite et déclarative\n\n~?Types d'informations encodés en mémoire implicite :\n**espace**, **temps** et **fréquences**.\n\n~?Modalité de l'apprentissage de la mémoire implicite :\n**Automatique** et **sans effort**.\n\n~?Exemples de contenus de la mémoire implicite :\n**connaissances** **procédurales** et **associatives**.\n\n~?Particularité des souvenirs de la mémoire déclarative :\nils peuvent être exprimés.\n\n~?Modalité de l'apprentissage de la mémoire déclarative :\n**conscient** et **nécessitant de l'attention**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Implicit and declarative memory",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Implicit and declarative memory\n\n~?Two encoding pathways from sensory memory:\n**conscious** and **automatic**\n\n##% Implicit and declarative memory\n\n~?Types of information encoded in implicit memory:\n**space**, **time**, and **frequencies**.\n\n~?Learning mode of implicit memory:\n**Automatic** and **effortless**.\n\n~?Examples of implicit memory content:\n**procedural** and **associative** **knowledge**.\n\n~?Particular feature of declarative memory recall:\nthey can be expressed.\n\n~?Learning mode of declarative memory:\n**conscious** and **attention-demanding**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Implizites und deklaratives Gedächtnis",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Implizites und deklaratives Gedächtnis\n\n~?Zwei Arten der Enkodierung aus dem sensorischen Gedächtnis:\n**bewusst** und **automatisch**\n\n##% Implizites und deklaratives Gedächtnis\n\n~?Arten von Informationen, die im impliziten Gedächtnis gespeichert werden:\n**Raum**, **Zeit** und **Häufigkeiten**.\n\n~?Art des Lernens im impliziten Gedächtnis:\n**Automatisch** und **mühelos**.\n\n~?Beispiele für Inhalte des impliziten Gedächtnisses:\n**prozedurales** und **assoziatives** **Wissen**.\n\n~?Besonderheit der Erinnerungen des deklarativen Gedächtnisses:\nsie können ausgedrückt werden.\n\n~?Art des Lernens im deklarativen Gedächtnis:\n**bewusst** und **aufmerksamkeitsbedürftig**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T17:28:24.152546631Z",
+    "quality" : "LOW"
+  }
+}

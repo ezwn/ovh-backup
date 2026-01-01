@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "v6oozw56yr1qmltxct315q",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Couches du modèle OSI",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Couches du modèle OSI\n\n~? **Couches** du modèle OSI :\n- **1**, **physique**\n- **2**, **liaison**\n- **3**, **réseau**\n- **4**, **transport**\n- **5**, **session**\n- **6**, **présentation**\n- **7**, **application**\n\n## Description des couches\n\n~? Couche **1**, **physique** :\n**codage** **physique**\n\n~? Couche **2**, **liaison** :\n- transmission de **trames** de **point à point**\n- en utilisant les **adresses matérielles**\n-des **terminaux** et des **commutateurs**\n- assure le **contrôle de flux** et la **correction d'erreur**\n\n~? Couche **3**, **réseau** :\n- **trouve** un **chemin** (**routage**) pour les **paquets**\n- en utilisant les **adresses logiques**\n-des **terminaux** et des **routeurs**\n\n~? Couche **4**, **transport** :\n- transfère les **données complètes** de **bout en bout**\n-entre **terminaux**\n-en **multiplexant**, **segmentant**, **réordonnant**\n-elle peut ainsi, par exemple, **établir des connexions**\n- exemple : **TCP** / **UDP**\n\n~? Couche **5**, **session** :\n-fournit des **fonctionnalités de haut niveau** entre **terminaux**, comme\n-les **options protocolaires**\n-le **rétablissement** d'échange\n-la **fin propre**\n- l'**authentification**\n\n~? Couche **6**, **présentation** :\n- **structure** l'**information**, et fonctions telles que :\n- **encodage**, **chiffrement**, **compression**, ...\n\n~? Couche **7**, **application** :\n-nombreux **protocoles** comme **pour** :\n-la **messagerie**\n-le **transfert** de **fichiers**\n-le **web**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "OSI" : "Open Systems Interconnection"
+      },
+      "sttMapping" : { },
+      "tooltips" : {
+        "OSI" : "Open Systems Interconnection"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-22T17:06:50.430608301Z",
+    "quality" : "LOW"
+  }
+}

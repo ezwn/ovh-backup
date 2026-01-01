@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFARCXXXU0715",
+  "content" : {
+    "domain" : "SOFTWARE_DESIGN",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Analyse",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Analyse\n\nModèle assez fruste mais lisible\nPas technique\nModélisation de la partie métier des use cases\n\nRésultat métier :\nmodèle logique\nmodèle processus\n\n## Sélection de cas d'utilisation\n\nCritères :\n- prêts\n- ensemble cohérent\n- risque\n\n### Risques\n\nRisques à prendre en compte ?\n- performances\n- complexité interface utilisateur\n- temps de réalisation estimé\n- nécessité d'extensibilité\n\nNiveaux ?\n1 : on sait faire\n2 : on sait plus ou moins faire\n3 : il y  a de la bibliographie dessus\n4 : c'est probablement possible\n5 : c'est un sujet de recherche\n\nPertinence\n1 : optionnel\n5 : nécessaire\n\nTableau des UC : risques, pertinence, prioritaire\n\n## Analyse stricto-sensu\n\nce que les objets feront (attributs et responsabilités)\nniveau logique (pas technologique)\ndétecter contradictions dans les cas d'utilisation\n\nPour chaque CU :\n- classes\n- interactions entre classes (séquence : object dans PlantUML)\n\n### Types d'objets\n\nTypologie des objets :\n- entity\n- boundary : interface acteur / cas d'utilisation\n- control : c'est plutôt un service\n- LifeCycle = c'est plutôt un repository\n\n#### Entity\n\nPassage en revue des cas d'utilisation\n\nRepérer :\n- substantifs -> classes / propriétés\n- verbes -> méthodes\n\nConsolider :\n- Tri, fusion, vocabulaire\n- SOLID, cohésion, single vocabulary\n\n#### Classes Boundary\n\n# 42:15\n\nUne interface vers l'extérieur\n1 par couple acteur / use case (ou par acteur, mal compris???)\n\npas de design UI, pas de protocole\n\n### Comportement des objets\n\ndiagramme de séquence : interactions\ndiagramme de collaboration : relations\n\n# 1:19\n\nCheck list\n\nLes messages doivent former un tout cohérent\nNom de classe clair\nUse cases satisfait\nKeep it simple\nsingle respo\n\nAprès description par diagramme de séquence, consolidation\nenrichissement du diagramme de classe initial à partir des diagrammes de séquence\n\n# 1:28:10\n\nRegrouper les éléments par types (voir fin du document \"groupes\")",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.960178407Z",
+    "quality" : "LOW"
+  }
+}

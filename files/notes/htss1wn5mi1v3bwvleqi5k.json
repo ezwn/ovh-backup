@@ -1,0 +1,33 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "htss1wn5mi1v3bwvleqi5k",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dépenses des collectivités territoriales françaises",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Dépenses des collectivités territoriales françaises\n\n~? Montant des **dépenses totales** des **CT** françaises :\n- **316** **Mds** **€**\n\n~? **Dépenses par niveau** de **CT** :\n- **régions** : **12** %\n- **départements** : **24** %\n- **communes** et **groupements** : **56** %\n\n~? **Répartition** des **dépenses** **entre** **communes** :\n- **fortes disparités**\n- les **dépenses de fonctionnement** **par habitant** **augmentent** avec le **nombre d'habitants**\n- les **dépenses d'investissement** **par habitant** sont **stables**\n- les **très petites communes** dépensent plus par habitant (**dépenses incompressibles**)\n\n~? **Répartition** des **dépenses** **entre** **départements** :\n- le **volume** **augmente** **avec** l'**urbanisation**\n- les dépenses **par habitant** **diminuent** **avec** l'**urbanisation**\n- **plus** de **dépenses par habitant** en **outre-mer**\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "CT" : "collectivité territoriale"
+      },
+      "sttMapping" : {
+        "collectivité territoriale" : "CT"
+      },
+      "tooltips" : {
+        "CT" : "Collectivité Territoriale"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-15T12:55:47.569083985Z",
+    "quality" : "LOW"
+  }
+}

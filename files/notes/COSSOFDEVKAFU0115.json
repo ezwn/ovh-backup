@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVKAFU0115",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Types de processeurs de flux Kafka [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Il existe plusieurs types de processeurs de flux Kafka.\nOn peut citer:\nles processeurs source,\nles transformateurs,\net les processeurs puit.\n\nAu besoin,\nles processeurs peuvent accéder à des systèmes tiers.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Types de processeurs de flux Kafka [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "There are several types of Kafka stream processors.\nAmong them are:\nsource processors,\ntransformers,\nand sink processors.\n\nIf needed,\nprocessors can access external systems.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Types de processeurs de flux Kafka [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Es gibt mehrere Arten von Kafka-Stream-Prozessoren.\nMan kann nennen:\ndie Quellprozessoren,\ndie Transformatoren,\nund die Senkenprozessoren.\n\nBei Bedarf\nkönnen die Prozessoren auf Drittsysteme zugreifen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Types de processeurs de flux Kafka [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "有多种类型的Kafka流处理器。\n可以提到：\n源处理器，\n转换器，\n以及汇处理器。\n\n如有需要，\n处理器可以访问第三方系统。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.919012957Z",
+    "quality" : "LOW"
+  }
+}

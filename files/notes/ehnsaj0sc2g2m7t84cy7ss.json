@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ehnsaj0sc2g2m7t84cy7ss",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "EN",
+      "title" : "Membership types at the TC level",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Membership types at the TC level\n\n~? Types of membership at the TC level:\n- Participating members\n- Observing members\n- External liaisons\n- Internal liaisons\n\n~? Participating members\nmust be full ISO members\nand are committed to:\n- voting\n- identifying experts\n- providing national delegations\n- engaging stakeholders\n\n~? Observing members\n- follow\n- can contribute\n\n~? External liaisons\n- are international or regional organizations\n- participate and follow\n- help ensure wider acceptance\n- 3 subtypes: A, B, and C\n\n~? Internal liaisons\nensure effective collaboration between committees",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "TC" : "Technical Committee"
+      },
+      "sttMapping" : { },
+      "tooltips" : {
+        "TC" : "Technical Committee"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:18:08.354Z",
+    "quality" : "LOW"
+  }
+}

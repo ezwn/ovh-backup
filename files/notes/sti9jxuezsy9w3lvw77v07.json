@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "sti9jxuezsy9w3lvw77v07",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Moyens de sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Moyens de sécurité\n\n## Cadres modélisant les méthodes des attaquants\n\n### [Tactiques MITRE](note::ws0sjlvhyhlkuvxi8c1clk)\n### [Chaîne d'Attaque Unifiée](note::j2jeysw7u5bu8k3licaxi0)\n\n## Mesures de sécurité\n\n### [Aperçu des mesures de sécurité des SI](note::2yztyv85z3aesx7f66wx2y)\n### [Cloisonnement des réseaux](note::COSSECXXXXXXU0200)\n### [Détection des intrusions et surveillance](note::COSSECXXXXXXU0300)\n### [Gestion des sinistres](note::ukmpe2xp0murjho07oqkbk)\n### [Scan de vulnérabilité](note::uun2z3wxrkdapdujbbmmbs)\n### [Correctifs de sécurité](note::5lyigvari9ld6yp770q0dr)\n\n## [Outils offensifs](note::97kw4dk0q6267t8z2o5eig)\n\n## Techniques\n\n### [Bases de la cryptographie](note::COSSECXXXXXXU0103)\n### [Cryptographie](note::COSSECXXXXXXU0100)\n### [Techniques diverses](note::ydm4uyn0zfwctf9hxi48uq)\n\nWAF :\nWeb Application Firewall\n\n~? Types de moyens de la sécurité :\n- les **méthodes** : cadre, orientation, démarche\n- les **techniques** : manières concrètes d'appliquer les méthodes\n- les **outils** : mises en oeuvre opérationnelle des techniques\n\n### Attaques\n\nEn quoi consiste attaque passive ?\nà écouter sans se faire remarquer.\n\nSe présenter comme relayeur de packets réseau optimal et les enregistrer\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-08T13:37:38.220991598Z",
+    "quality" : "LOW"
+  }
+}

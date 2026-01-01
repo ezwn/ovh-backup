@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0001",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Systèmes linéaires, introduction (1) [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Un système linéaire admet :\nsoit aucune solution,\nsoit une seule solution,\nsoit une infinité de solutions.\n\nLe rang d'une matrice est son nombre de vecteurs lignes indépendants.\nUn vecteur indépendant ne peut pas être exprimé par une combinaison linéaire d'autres vecteurs.\nUne combinaison linéaire est une somme de vecteurs multipliés chacun par un scalaire.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Systèmes linéaires, introduction (1) [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "A linear system admits:\neither no solution,\nor a single solution,\nor an infinite number of solutions.\n\nThe rank of a matrix is its number of independent row vectors.\nAn independent vector cannot be expressed as a linear combination of other vectors.\nA linear combination is a sum of vectors each multiplied by a scalar.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Systèmes linéaires, introduction (1) [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Ein lineares System hat:\nentweder keine Lösung,\neine einzige Lösung,\noder unendlich viele Lösungen.\n\nDer Rang einer Matrix ist die Anzahl ihrer unabhängigen Zeilenvektoren.\nEin unabhängiger Vektor kann nicht durch eine lineare Kombination anderer Vektoren ausgedrückt werden.\nEine lineare Kombination ist eine Summe von Vektoren, die jeweils mit einem Skalar multipliziert sind.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Systèmes linéaires, introduction (1) [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "一个线性系统可能有：\n没有解，\n只有一个解，\n或无穷多个解。\n\n矩阵的秩是其独立行向量的数量。\n一个独立向量不能用其他向量的线性组合来表示。\n线性组合是指每个向量乘以一个标量后再相加的总和。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.922901871Z",
+    "quality" : "LOW"
+  }
+}

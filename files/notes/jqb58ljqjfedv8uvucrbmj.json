@@ -1,0 +1,50 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "jqb58ljqjfedv8uvucrbmj",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "SSO avec OpenID Connect",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# SSO avec OpenID Connect\n\n~? SSO :\n**méthode** qui **centralise** l’**authentification**\n**auprès** d’un **fournisseur unique**.\n\n~? OAuth 2 :\n**protocole** de **délégation d'autorisation**\npermettant à une application d'**accéder à** des **ressources** **sécurisées**,\n**sans partager** les **identifiants** de l'**utilisateur**,\nà l'aide d'un **token d'accès**\n\n~? OpenID Connect :\n**protocole** étendant **OAuth 2** d'une **couche d’identité**,\npermettant le **partage d’attributs** (**claims**)\ngrâce à un **token spécifique** appelé **ID Token** (au **format JWT**)\n\n~? En bref :\n**OpenID Connect** **utilise** **OAuth 2**,\nlui **ajoute** une **couche d'identité**,\n**réalisant** ainsi concrètement le **SSO**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "SSO with OpenID Connect",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# SSO with OpenID Connect\n\n~?SSO:\na **method** that **centralizes** **authentication**\n**with** a **single provider**.\n\n~?OAuth 2:\nan **authorization delegation protocol**\nthat allows an application to **access** **protected** **resources**\n**without sharing** the user's **credentials**,\nusing an **access token**\n\n~?OpenID Connect:\na **protocol** that extends **OAuth 2** with an **identity layer**,\nallowing the **sharing of attributes** (**claims**)\nusing a **specific token** called an **ID Token** (in **JWT format**)\n\n~?In short:\n**OpenID Connect** **uses** **OAuth 2**,\n**adds** an **identity layer** on top of it,\nthereby **implementing** **SSO** in practice.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "SSO" : "Single Sign-on",
+        " OAuth" : "Open Authorization"
+      },
+      "sttMapping" : {
+        "single sign on" : "SSO",
+        "open authorization" : "OAuth",
+        "open ID" : "OpenID"
+      },
+      "tooltips" : {
+        "SSO" : "Single Sign-on",
+        " OAuth" : "Open Authorization"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-29T17:08:56.385707169Z",
+    "quality" : "LOW"
+  }
+}

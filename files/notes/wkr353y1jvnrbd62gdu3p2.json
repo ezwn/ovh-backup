@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "wkr353y1jvnrbd62gdu3p2",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "UCT505",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# UCT505\n\n## [Droit du numérique](note::jffssvk934wgmj4npbw1v3)\n\nLois concernant la protection des données personnelles :\n- RGPD (EU 2016/679) : protection et traitement des données personnelles, notification des violations.\n- Code pénal art. 226-16 et suivants : infractions liées à la protection des données personnelles.\n\nLois concernant la sécurité des systèmes d’information et la cybercriminalité :\n- Loi Godfrain n°88-19 (1988) : réprime les atteintes aux systèmes de traitement automatisé de données.\n- Loi LOPPSI 2 n°2011-267 (2011) : programmation pour la performance de la sécurité intérieure.\n- Lois de programmation militaire (2014-2019, 2019-2025) : obligations de cybersécurité, protection des OIV.\n- Code de la défense (art. L1332 et suivants) : sécurité des opérateurs d’importance vitale.\n- Directive 2008/114/CE : protection des infrastructures critiques européennes.\n\nLois concernant la propriété intellectuelle et la création numérique :\n- Loi DADVSI n°2006-691 (2006) : droit d’auteur et droits voisins dans la société de l’information.\n- Loi HADOPI 2 n°2009-1311 (2009) : protection de la propriété littéraire et artistique en ligne.\n- Code de la propriété intellectuelle : protection des logiciels, bases de données et œuvres numériques.\n\nLois concernant la liberté de communication et la responsabilité des acteurs du numérique :\n- Loi n°86-1067 (1986) modifiée par la loi n°2000-719 (2000) : liberté de communication.\n- Loi LCEN n°2004-575 (2004, modifiée 2011-2016) : responsabilité des FAI, hébergeurs et éditeurs ; obligation de conservation des logs.\n- Loi antiterroriste (2006) : extension de l’obligation de conservation des données aux entreprises.\n- Jurisprudence BNP Paribas (2005) : condamnation pour non-conservation des logs.\n\nLois concernant la lutte contre le terrorisme et le crime organisé :\n- Loi n°2014-1353 (2014) : renforcement de la lutte contre le terrorisme.\n- Loi renseignement n°2015-912 (2015) : encadrement de la surveillance et du renseignement.\n- Loi n°2016-731 (2016) : lutte contre le crime organisé, le terrorisme et leur financement.\n\nLois concernant le numérique et la société :\n- Loi pour une République numérique n°2016-1321 (2016) : open data, droits numériques des citoyens.\n- Code du travail : encadrement de la cybersurveillance des salariés.\n- Code civil : contrats électroniques, preuve numérique.\n\nNormes et standards internationaux :\n- ISO/IEC 27000 et 27002 : management de la sécurité de l’information.\n- PCI DSS : standard de sécurité pour les données de paiement par carte.\n- Sarbanes-Oxley Act (USA, 2002) : obligations de sécurité et de conformité du reporting financier.\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-22T17:24:02.208486144Z",
+    "quality" : "LOW"
+  }
+}

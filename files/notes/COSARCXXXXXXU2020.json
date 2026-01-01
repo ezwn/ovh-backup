@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU2020",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architecture métier (urbanisation)",
+      "description" : "Domaine : architecture métier en urbanisation",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecture métier (urbanisation)\n\n## Démarche\n\n~? A faire, dans l'ordre, pour définir l'architecture métier :\n- modéliser la **stratégie**\n- puis modéliser les **processus**\n\n~? A faire, dans l'ordre, pour modéliser la stratégie :\n-  modéliser les **objectifs métier**\n- modéliser les **objectifs du système d'informations**\n- valider l'**alignement** des **objectifs** du **système d'informations** sur ceux du **métier**\n\n~? A faire, dans l'ordre, pour modéliser les processus :\n- **cartographier les processus** (c'est l'état **actuel**)\n- **aligner** les **processus** **avec** les **objectifs** (c'est l'état **cible**)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Business architecture (urbanization)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Business architecture (urbanization)\n\n## Approach\n\n~?To do, in order, to define the business architecture:\n- model the **strategy**\n- then model the **processes**\n\n~?To do, in order, to model the strategy:\n-  model the **business objectives**\n- model the **objectives of the information system**\n- validate the **alignment** of the **objectives** of the **information system** with those of the **business**\n\n~?To do, in order, to model the processes:\n- **map the processes** (this is the **current** state)\n- **align the processes** **with the objectives** (this is the **target** state)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Geschäftsarchitektur (Urbanisierung)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Geschäftsarchitektur (Urbanisierung)\n\n## Vorgehen\n\n~?In dieser Reihenfolge vorgehen, um die Geschäftsarchitektur zu definieren:\n- die **Strategie** modellieren\n- dann die **Prozesse** modellieren\n\n~?In dieser Reihenfolge vorgehen, um die Strategie zu modellieren:\n- die **Geschäftsziele** modellieren\n- die **Ziele des Informationssystems** modellieren\n- die **Ausrichtung** der **Ziele** des **Informationssystems** an den **Geschäftszielen** validieren\n\n~?In dieser Reihenfolge vorgehen, um die Prozesse zu modellieren:\n- **Prozesse kartieren** (das ist der **Ist**-Zustand)\n- die **Prozesse** **an** den **Zielen** **ausrichten** (das ist der **Soll**-Zustand)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-29T17:49:19.520645725Z",
+    "quality" : "LOW"
+  }
+}

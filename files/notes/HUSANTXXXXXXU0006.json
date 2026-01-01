@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSANTXXXXXXU0006",
+  "content" : {
+    "domain" : "ANTHROPOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Pères fondateurs de l'anthropologie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "# Pères fondateurs de l'anthropologie\n\n## Franz Boas\n\n~?Quels principes épistémologiques défend Franz Boas ?\n**Relativisme culturel** et **particularisme historique**.\n\n~?Qu'est ce que le relativisme culturel ?\n**Comprendre chaque culture de l'intérieur**, **sans ethnocentrisme**.\n\n~?Qu'est ce que le particularisme historique ?\n**Chaque société suit une trajectoire unique**, **sans étapes universelles**.\n\n## Bronisław Malinowski\n\n~?Quelles approches méthodologiques préconise Malinowski ?\n**Observation participative** et **étude détaillée de petit groupes**.\n\n## Radcliffe-Brown\n\n~?Quelle approche théorique introduit Radcliffe-Brown ?\nLe **fonctionnalisme structurel**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Founding Fathers of Anthropology",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "# Founding Fathers of Anthropology\n\n## Franz Boas\n\n~?What epistemological principles does Franz Boas advocate?\n**Cultural relativism** and **historical particularism**.\n\n~?What is cultural relativism?\n**Understanding each culture from the inside**, **without ethnocentrism**.\n\n~?What is historical particularism?\n**Each society follows a unique path**, **without universal stages**.\n\n## Bronisław Malinowski\n\n~?What methodological approaches does Malinowski recommend?\n**Participant observation** and **detailed study of small groups**.\n\n## Radcliffe-Brown\n\n~?What theoretical approach does Radcliffe-Brown introduce?\n**Structural functionalism**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Gründungsväter der Anthropologie",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "# Gründungsväter der Anthropologie\n\n## Franz Boas\n\n~?Welche epistemologischen Prinzipien verteidigt Franz Boas?\n**Kultureller Relativismus** und **historischer Partikularismus**.\n\n~?Was ist der kulturelle Relativismus?\n**Jede Kultur von innen verstehen**, **ohne Ethnozentrismus**.\n\n~?Was ist der historische Partikularismus?\n**Jede Gesellschaft folgt einem einzigartigen Weg**, **ohne universelle Etappen**.\n\n## Bronisław Malinowski\n\n~?Welche methodologischen Ansätze empfiehlt Malinowski?\n**Teilnehmende Beobachtung** und **detaillierte Studie kleinerer Gruppen**.\n\n## Radcliffe-Brown\n\n~?Welchen theoretischen Ansatz führt Radcliffe-Brown ein?\nDer **strukturelle Funktionalismus**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.341706429Z",
+    "quality" : "LOW"
+  }
+}

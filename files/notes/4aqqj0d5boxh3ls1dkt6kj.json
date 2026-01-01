@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "4aqqj0d5boxh3ls1dkt6kj",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 4",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 4\n\n[vidéo 4a](note::2w27m03q20vgpysv67jbv2)\n[vidéo 4b](note::s8pq644yhtddys23wl2agh)\n[vidéo 4c](note::tc3whobuxwr7i0t9twcw7a)\n[vidéo 4d](note::lu9gaonvaz2iqrtlcpa6jf)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-04a" : "https://www.youtube.com/watch?v=1X7jaEUtEFE&list=PLee71BtkRmY46dLEJ35TlwA_jU1M2hQDJ"
+      }
+    } ],
+    "modificationDate" : "2025-10-04T14:37:34.136347384Z"
+  }
+}

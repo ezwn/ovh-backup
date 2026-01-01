@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKMOTXXXU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Motivations",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Disponibilité : 2 juin\n\nAtouts :\n- expérience : 20 ans\n- organisé, rigoureux, capacité à favoriser la clarté, la transparence et la simplicité, qui contribue à l’efficacité du travail collaboratif.\n- proactivité technique est importante pour moi : évitement les problèmes et lourdeurs techniques, pour projet maintenable\n\nObjectifs d'amélioration 2025 :\n- python (acquisition en cours)\n- architecture, en particulier Cloud (acquisition en cours)\n- sécurité (acquisition en cours)\n- management (perfectionnement prévu en 2025)\n- satistiques (perfectionnement prévu en 2025)\n- allemand (acquisition en cours)\n\nFacteurs de choix :\n- adéquation poste / objectifs d'amélioration\n\nValeurs possibles :\n- intérêt pour le savoir et son partage\n- transitions écologiques",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.046821129Z",
+    "quality" : "LOW"
+  }
+}

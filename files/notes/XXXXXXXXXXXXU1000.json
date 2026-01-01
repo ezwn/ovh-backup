@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU1000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Unités non relues",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Unités non relues\n\n### [Outils et méthodes Lean en IT](note::HUSMGTLEAXXXU0020)\n### [Building blocks et continuum d'entreprise du TOGAF](note::COSARCTOGAFXU0030)\n### [Rôle du management et culture Lean](note::HUSMGTLEAXXXU0030)\n### [Système de Valeur des Services et Chaîne de Valeur ITIL4](note::COSARCITIL4XU0020)\n### [Synthèse pour les Architectes d’Entreprise et Cloud ITIL4](note::COSARCITIL4XU0010)\n\n## Allemand\n\n### [Cas allemands](note::LNGGERGRMXXXU0090)\n\n## Écologie\n\n### [Équation de Kaya](note::MULECOTRAXXXU0050)\n\n## Politique\n\n## Computer science\n\n### [Dépendances logicielles, inversion de contrôle et injection](note::COSSDECODDESU0020)\n### [Principes de sécurité informatique](note::COSSECXXXXXXU0015)\n### [Cloisonnement des réseaux](note::COSSECXXXXXXU0200)\n### [Could: généralités et notion clés](note::COSARCXXXXXXU1010)\n### [REST et WebSockets](note::COSARCXXXXXXU0020)\n### [Systèmes répartis](note::COSARCXXXXXXU0050)\n### [Systèmes transactionnels](note::COSDATXXXXXXU1010)\n### [Systèmes transactionnels répartis](note::COSDATXXXXXXU2020)\n### [Attaquants, vulnérabilités et conséquences](note::COSSECXXXXXXU0006)\n\n## Psychology\n\n### [Manifestations de la mémoire](note::HUSPSYCOGMEMU0005)\n### [Modèles de la mémoire](note::HUSPSYCOGMEMU0010) [A RETRAVAILLER]\n### [Mémoires sensorielles](note::HUSPSYCOGMEMU0015)\n### [Short-term memory](note::HUSPSYCOGMEMU0025)\n### [L'engagement](note::HUSPSYSOCXXXU0355)\n\n## Survie\n\n### [Fondamentaux de la survie, PLAN](note::PSKSVIXXXXXXU0001)\n\n---\n\nNON RECYCLES POUR LE MOMENT\n\n### [Architectures logicielles à n couches](note::COSARCXXXXXXU0010)\n### [Conception de bases de données réparties](note::COSDATXXXXXXU2014)\n### [Bases de données réparties](note::COSDATXXXXXXU2012)\n### [Glucides](note::HHENUTXXXXXXU0015)\n### [Graisses](note::HHENUTXXXXXXU0020)\n\n### [Système nerveux](note::HUSPSYEMOXXXU0017)\n\n## Survie\n\n### [Décrire une personne](note::PSKSVIURBXXXU0003)\n\n## Anthropology\n\n### [Anthropologie (aperçu)](note::HUSANTXXXXXXU0003)\n### [Concepts clé de l'anthropologie](note::HUSANTXXXXXXU0030)\n### [Pères fondateurs de l'anthropologie](note::HUSANTXXXXXXU0006)\n### [Structuralisme fonctionnel](note::PHIEPIXXXXXXU0005)\n\n## Travail\n\n### [Éléments de présentation à la demande](note::PERWRKXXXXXXU0005)\n### [Rôles du Scrum Master](note::PERWRKXXXXXXU0300)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T17:39:34.072306258Z",
+    "quality" : "LOW"
+  }
+}

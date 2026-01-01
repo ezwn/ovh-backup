@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0000",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architecture Cloud AWS",
+      "description" : "Architecture Cloud AWS : présentation et framework",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecture Cloud AWS\n\n## Module 2 : présentation de l'archi cloud\n\n### [Présentation](note::COSARCCLOAWSU0010)\n### [Bonnes pratiques](note::COSARCCLOAWSU0020)\n### [Infrastructure mondiale AWS](note::COSARCCLOAWSU0030)\n\n## Module 3 : ajout d'une couche de stockage\n\nSimple Store Service S3\n\n### [Part 1](note::COSARCCLOAWSU0110)\n### [Part 2](note::COSARCCLOAWSU0120)\n\n### Stockage des données dans Amazon S3\n\nIA:\nInfrequent Access\n\nClasses de stockage S3 :\n- **Standard** : données fréquemment accédées, usage intensif (apps web, mobiles).\n- **Intelligent-Tiering** : accès imprévisible, gestion automatique des coûts.\n- **Standard-IA** : accès rare, récupération rapide, sauvegardes.\n- **One Zone-IA** : accès rare, stockage localisé, données non critiques.\n- **Glacier Instant Retrieval** : archives consultées rarement, accès en millisecondes.\n- **Glacier Flexible Retrieval** : archives à long terme, récupération en minutes/heures.\n- **Glacier Deep Archive** : archives très longues durées, accès en 12–48h.\n\nCycle de vie S3 :\nstratégie de déplacement des automatique objets d'une classe à une autre\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T11:29:17.763245196Z",
+    "quality" : "LOW"
+  }
+}

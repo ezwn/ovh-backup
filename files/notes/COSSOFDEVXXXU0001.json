@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVXXXU0001",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "SOLID",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "SOLID est un acronyme désignant 5 principes.\n\nLe principe de responsabilité unique.\n\nLe principe d'ouverture/fermeture.\nUn composant logiciel  doit être conçu pour qu'il ne soit plus nécessaire ou possible de le modifier\n(fermeture à la modification).\nAu lieu de cela, il doit proposer des mécanismes de réutilisation et de spécialisation\n(ouverture à l'extension).\n\nLe principe de substitution de Liskov.\nToute sous-classe doit pouvoir être utilisée à la place de sa classe parente, sans altérer le comportement souhaité.\n\nLe principe de ségrégation des interfaces.\nLes interfaces doivent être minimalistes afin :\nque les clients ne dépendent pas de méthodes inutiles pour eux,\net d'éviter de coupler les méthodes qui n'ont pas besoin de l'être.\n\nLe principe d'inversion des dépendances.\nDécoupler les composants de haut niveau de ceux de bas niveau.\nPour ce faire, utiliser des interfaces partagées (abstractions).\nLes abstractions ne doivent pas dépendre des détails.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "SOLID [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "SOLID is an acronym for 5 principles.\n\nThe Single Responsibility Principle.\n\nThe Open/Closed Principle.\nA software component should be designed so that it is no longer necessary or possible to modify it\n(closed to modification).\nInstead, it should offer mechanisms for reuse and specialisation\n(open to extension).\n\nThe Liskov Substitution Principle.\nAny subclass should be usable in place of its parent class without altering the desired behaviour.\n\nThe Interface Segregation Principle.\nInterfaces should be minimalist so that:\nclients do not depend on methods they do not need,\nand to avoid coupling methods that do not need to be coupled.\n\nThe Dependency Inversion Principle.\nDecouple high-level components from low-level components.\nTo do this, use shared interfaces (abstractions).\nAbstractions should not depend on details.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "SOLID [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "SOLID ist ein Akronym für fünf Prinzipien.\n\nDas Prinzip der einzigen Verantwortung.\n\nDas Prinzip der Offen-/Geschlossenheit.\nEine Softwarekomponente muss so entworfen sein, dass sie nicht mehr geändert werden muss oder kann\n(Geschlossenheit für Modifikationen).\nStattdessen sollte sie Mechanismen zur Wiederverwendung und Spezialisierung bieten\n(Offenheit für Erweiterung).\n\nDas Liskov'sche Substitutionsprinzip.\nJede Unterklasse sollte anstelle ihrer Oberklasse verwendet werden können, ohne das gewünschte Verhalten zu ändern.\n\nDas Prinzip der Schnittstellensegregation.\nSchnittstellen sollten minimalistisch sein, damit:\ndie Clients nicht von für sie unnötigen Methoden abhängen,\nund um zu vermeiden, dass Methoden gekoppelt werden, die nicht gekoppelt werden müssen.\n\nDas Prinzip der Abhängigkeitsinversion.\nEntkoppeln von hochrangigen und niedrigrangigen Komponenten.\nVerwenden Sie dazu gemeinsame Schnittstellen (Abstraktionen).\nAbstraktionen sollten nicht von Details abhängen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "SOLID [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "SOLID 是一个代表 5 个原则的首字母缩略词。\n\n单一职责原则。\n\n开闭原则。\n软件组件应该被设计为不再需要或可能被修改\n（对修改关闭）。\n相反，它应该提供复用和专门化的机制\n（对扩展开放）。\n\n里氏替换原则。\n任何子类都应该能够替代其父类，而不改变期望的行为。\n\n接口隔离原则。\n接口应该是最小化的，以便：\n客户端不依赖于对他们无用的方法，\n并避免耦合不需要耦合的方法。\n\n依赖倒置原则。\n将高层组件与低层组件解耦。\n为此，使用共享接口（抽象）。\n抽象不应该依赖细节。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.399109560Z",
+    "quality" : "LOW"
+  }
+}

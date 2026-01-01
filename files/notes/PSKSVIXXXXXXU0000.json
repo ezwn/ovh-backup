@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PSKSVIXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Survie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "### [Décrire une personne](note::PSKSVIURBXXXU0003)\n\n### [Fondamentaux de la survie, PLAN](note::PSKSVIXXXXXXU0001)\n\n### [Feminologie](note::SHUFEMXXXXXXU0001)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.940418998Z",
+    "quality" : "LOW"
+  }
+}

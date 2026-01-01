@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Arithmétique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Arithmétique\n\n[Digitaliser l'exercice 11](file::/Math/MATARIXXX%20-%20Arithm%C3%A9tique/Notes.md)\n\n[Arithmétique du lycée](https://www.youtube.com/watch?v=0MCgGsZUoLw&list=PL_ZtK1TB2InoLppUgStXgFYLCDbJXojaJ&index=14)\n\n## Unités\n\n### [Divisibilité, définition](note::MATARIXXXXXXU0005)\n\n### [Divisibilité, propriétés](note::MATARIXXXXXXU0006)\n\n### [Théorème de la division euclidienne](note::MATARIXXXXXXU0007)\n\n### [Définition du PGCD](note::MATARIXXXXXXU0009)\n\n### [Lemme d'Euclide](note::MATARIXXXXXXU0011)\n\n### [Algorithme d'Euclide](note::MATARIXXXXXXU0013)\n\n### [Nombres premiers entre eux](note::MATARIXXXXXXU0015)\n\n### [Théorème de Bézout](note::MATARIXXXXXXU0017)\n\n### [Déterminer les coefficients de Bézout](note::MATARIXXXXXXU0019)\n\n### [Théorème de Bézout et corollaires](note::MATARIXXXXXXU0021)\n\n### [Définition PPCM](note::MATARIXXXXXXU0023)\n\n### [Propositions concernant le PPCM](note::MATARIXXXXXXU0025)\n\n### [Définition des nombres premiers](note::MATARIXXXXXXU0030)\n\n### [Propositions sur les nombres premiers](note::MATARIXXXXXXU0033)\n\n### [Déterminer si un nombre est premier](note::MATARIXXXXXXU0035)\n\n### [Crible d’Ératosthène](note::MATARIXXXXXXU0038)\n\n### [Autre lemme d'Euclide](note::MATARIXXXXXXU0042)\n\n### [Théorème de division en facteurs premiers](note::MATARIXXXXXXU0045)\n\n### [Décomposition d'un entier en nombres premiers](note::MATARIXXXXXXU0048)\n\n### [PPCM et PGCD depuis décomposition en puissances de premiers](note::MATARIXXXXXXU0053)\n\n### [Indicatrice d'Euler](note::MATARIXXXXXXU0055)\n\n### [Indicatrice d'Euler (formules)](note::MATARIXXXXXXU0056)\n\n### [Congruences](note::MATARIXXXXXXU0060)\n\n---\n\n### [Congruences, operations](note::MATARIXXXXXXU0067)\n\n### [Exponentiation modulaire rapide](note::MATARIXXXXXXU0073)\n\n### [Équations diophantiennes: définition](note::MATTNBXXXXXXU0200)\n\n### [Petit théorème de Fermat](note::MATARIXXXXXXU0150)\n\n### [Inversibilité et diviseurs de zéro](note::MATARIXXXXXXU0155)\n\n### [Déterminer si équation diophantienne a solutions](note::MATTNBXXX204)\n\n### [Résolution des équations diophantiennes \"simples\"](note::MATTNBXXXXXXU0201)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Arithmétique",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Arithmétique",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.030385508Z",
+    "quality" : "LOW"
+  }
+}

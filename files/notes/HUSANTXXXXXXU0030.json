@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSANTXXXXXXU0030",
+  "content" : {
+    "domain" : "ANTHROPOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Concepts clé de l'anthropologie",
+      "description" : "Notes introduisant les concepts clés de l'anthropologie, et développant en particulier celui de \"personne\".",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Concepts clé de l'anthropologie\n\n## Personne\n\nQuels sont les 3 exemples qui montrent que la notion de personne n'est pas universelle ?\nÉgocentrique (en occident), sociocentrique (en Inde) et relationnelle (en Mélanésie).\n\nQue signifie égocentrique ramené à la notion de personne ?\nL'individu décide librement, est responsable et central.\n\nQue signifie sociocentrique ramené à la notion de personne ?\nL'identité et le destin individuels sont déterminés par la société.\n\nQue signifie relationnelle ramené à la notion de personne ?\nla personne existe à travers ses relations.\n\n## Société\n\nComment l'anthropologie a-t-elle, historiquement, essayé de classifier les sociétés ?\nPar taille, déterminant des relations et complexité.\n\nQuelle distinction fait Tönnies concernant la taille des sociétés ?\nCommunauté (traditionnelle et normative), et société (utilitaire et anonyme).\n\nQuelle constat fait Henry Maine sur les relations sociales ?\nElles sont déterminées soit par le statut social des individus, soit par des contrats.\n\nPourquoi la notion de société est-elle complexe ?\n- Un individu appartient à plusieurs systèmes sociétaux.\n- Les frontières d’une société sont floues.\n\n## Culture\n\nComment Tylor définit-il la culture en 1871 ?\nSavoirs, croyances, art, morale, coutumes et autres capacités.\n\nComment Geertz définit-il la culture en 1960 ?\nSignifications partagées via la communication publique.\n\nPourquoi les anthropologues sont-ils sceptiques à l'égard du concept de culture ?\nÀ la fois universel et différenciateur, mal délimitée, instrumentalisée politiquement, trop large et vague.\n\n## Traduction\n\nPourquoi la traduction en anthropologie est-elle plus complexe qu’en usage quotidien ?\n- Elle doit véhiculer le sens et les connotations des natifs, pas seulement décrire.\n- Elle fait face à des différences interculturelles de découpage du monde.\n- Elle est influencée par la subjectivité du traducteur.\n\n## Comparaison\n\nA qui sert la comparaison en anthropologie ?\n- Révéler similitudes et contrastes entre sociétés.\n- Explorer l’existence ou la non-existence d’universels humains.\n\nQuelles sont ses limites ?\n- Incertitude des traductions.\n- Décontextualisation nécessaire.\n\nEn quoi la comparaison anthropologique peut-elle s’inspirer de l’expérimentation ?\nEn sélectionnant des sociétés semblables sauf sur certains critères, afin d’analyser ces différences.\n\n## Holisme\n\nQu’est-ce que l’approche holistique en anthropologie ?\nUne méthode qui connecte un phénomène à d’autres dans un tout qui lui donne du sens.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Concepts clé de l'anthropologie",
+      "description" : "Notes introduisant les concepts clés de l'anthropologie et développant celui de \"personne\".",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Schlüsselkonzepte der Anthropologie\n\n## Person\n\nWelche 3 Beispiele zeigen, dass der Begriff der Person nicht universell ist?\nEgzentriert (im Westen), soziocentriert (in Indien) und relational (in Melanesien).\n\nWas bedeutet egzentriert im Zusammenhang mit dem Begriff der Person?\nDas Individuum entscheidet frei, ist verantwortlich und zentral.\n\nWas bedeutet soziocentriert im Zusammenhang mit dem Begriff der Person?\nDie individuelle Identität und Schicksal sind durch die Gesellschaft bestimmt.\n\nWas bedeutet relational im Zusammenhang mit dem Begriff der Person?\nDie Person existiert durch ihre Beziehungen.\n\n## Gesellschaft\n\nWie hat die Anthropologie historisch versucht, Gesellschaften zu klassifizieren?\nNach Größe, Bestimmen der Beziehungen und Komplexität.\n\nWelche Unterscheidung trifft Tönnies bezüglich der Größe der Gesellschaften?\nGemeinschaft (traditionell und normativ) und Gesellschaft (utilitaristisch und anonym).\n\nWelche Feststellung macht Henry Maine über soziale Beziehungen?\nSie werden entweder durch den sozialen Status der Individuen oder durch Verträge bestimmt.\n\nWarum ist der Begriff der Gesellschaft komplex?\n- Ein Individuum gehört zu mehreren gesellschaftlichen Systemen.\n- Die Grenzen einer Gesellschaft sind unklar.\n\n## Kultur\n\nWie definiert Tylor Kultur im Jahr 1871?\nWissen, Glauben, Kunst, Moral, Bräuche und andere Fähigkeiten.\n\nWie definiert Geertz Kultur im Jahr 1960?\nGeteilte Bedeutungen durch öffentliche Kommunikation.\n\nWarum sind Anthropologen skeptisch gegenüber dem Konzept der Kultur?\nSowohl universell als auch differenzierend, schlecht abgegrenzt, politisch instrumentalisiert, zu weit und vage.\n\n## Übersetzung\n\nWarum ist die Übersetzung in der Anthropologie komplexer als im täglichen Gebrauch?\n- Sie muss den Sinn und die Konnotationen der Einheimischen vermitteln, nicht nur beschreiben.\n- Sie steht vor interkulturellen Unterschieden in der Weltauffassung.\n- Sie wird von der Subjektivität des Übersetzers beeinflusst.\n\n## Vergleich\n\nWem dient der Vergleich in der Anthropologie?\n- Ähnlichkeiten und Unterschiede zwischen Gesellschaften aufzuzeigen.\n- Das Bestehen oder Nichtbestehen menschlicher Universalien zu erforschen.\n\nWelche sind ihre Grenzen?\n- Unsicherheit der Übersetzungen.\n- Notwendige Dekontextualisierung.\n\nInwiefern kann sich der anthropologische Vergleich von der Experimentierung inspirieren lassen?\nIndem Gesellschaften ausgewählt werden, die ähnlich sind außer in bestimmten Kriterien, um diese Unterschiede zu analysieren.\n\n## Holismus\n\nWas ist der holistische Ansatz in der Anthropologie?\nEine Methode, die ein Phänomen mit anderen in einem Ganzen verbindet, das ihm Bedeutung verleiht.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.463740303Z",
+    "quality" : "LOW"
+  }
+}

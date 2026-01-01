@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ztq6f8w6v87urh3q3w1b2x",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "EN",
+      "title" : "Fine-tuning",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Fine-tuning\n\n~? Fine-tuning :\nuses the **same algorithms** **as** the **initial training**,\nis **shorter** and configured to have a **lighter impact**,\nand is **based on** a **specialized data corpus**.\n\n~? **Requirements** for fine-tuning :\n- **optimization techniques** like **Low-Rank Adaptation**\n-machine capabilities **slightly beyond inference**\n-dataset\n-relevant **libraries** (PEFT, **transformers**, etc.)\n\n~? **Benefits** of LLM fine-tuning :\n-**very high performance** **on** **specific tasks**\n-**specialization** and **modularization** of LLMs\n-**sovereignty** by **enabling** **self-hosted** LLMs",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : "Ajustement fin",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Ajustement fin\n\n~? Ajustement fin :\nutilise les mêmes algorithmes que l'entraînement initial,\nest plus court et configuré pour avoir un impact plus léger,\net repose sur un corpus de données spécialisé.\n\n~? Exigences pour l'ajustement fin :\n- techniques d'optimisation comme l'adaptation à faible rang\n- capacités de calcul légèrement au-delà de l'inférence\n- jeu de données\n- bibliothèques pertinentes (PEFT, transformers, etc.)\n\n~? Avantages de l'ajustement fin des grands modèles de langage :\n- très hautes performances sur des tâches spécifiques\n- spécialisation et modularisation des grands modèles de langage\n- souveraineté en permettant des grands modèles de langage auto-hébergés",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-12T18:55:40.245652808Z",
+    "quality" : "LOW"
+  }
+}

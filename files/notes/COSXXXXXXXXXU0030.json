@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0030",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Virtualisation du stockage de données",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Quels types de virtualisation pour le stockage des données ?\nDirect Attached Storage, Network Access Storage et Storage Area Network.\n\nQu'est ce que Direct Attached Storage ?\nLe stockage sur disques internes traditionel.\n\nQu'est ce que Network Access Storage ?\nUn répertoire partagé par le réseau.\n\nQu'est ce que Storage Area Network ?\nArmoire de disques, fibré avec système de fichier virtuel.\n\nEn DAS, quels sont les bénéfices du RAID ?\n- performances\n- fiabilité\n\nComment le RAID fiabilise les données ?\nPar la présence d'informations de parité utilisant l'opérateur logique XOR.\n\nQuelle différence entre RAID 3 et 5 ?\nRAID 3 c'est un disque de parité, RAID 5 des segments de parité distribués.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.421775612Z",
+    "quality" : "LOW"
+  }
+}

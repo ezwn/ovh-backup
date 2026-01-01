@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "BIOMYCXXXXXXU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "https://fr.wikipedia.org/wiki/Boletaceae",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Boletaceae [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "caractéristique\n# Caractéristiques du **sporophore** des champignons de la famille des **Boletaceae**\n\nchapeau\n## un **chapeau**\n### qui **ressemble à un coussin (pulviné)**,\ntube\n### et porte des tubes sur sa partie inférieure,\nsurface\n### formant une surface poreuse.\n\npied\n## un **pied**\népais\n### qui est **épais** et parfois ventru ou bulbeux.\n\n## une **chair**\nbleu\n### qui parfois **vire au bleu** à la coupe.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Boletaceae [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "~characteristic\n# Characteristics of the **sporophore** of mushrooms in the **Boletaceae** family\n\n~a cap\n## a **cap**\n### which **resembles a cushion (pulvinate)**,\ntube\n### and bears tubes on its lower part,\n~surface\n### forming a porous surface.\n\nstem\n## a **stem**\nthick\n### which is **thick** and sometimes swollen or bulbous.\n\n## a **flesh**\n~blue\n### which sometimes **turns blue** when cut.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Boletaceae [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^die Eigenschaft\n# Eigenschaften des **Sporophors** der Pilze aus der Familie der **Boletaceae**\n\n^der Hut, die Hüte\n## ein **Hut**\n### der **kissenartig (pulviniert)** ist,\n^die Röhre\n### und auf seiner Unterseite Röhren trägt,\n^die Oberfläche,\n### die eine poröse Oberfläche bilden.\n\n^der Stiel, die Stiele\n## ein **Stiel**\ndick\n### der **dick** und manchmal bauchig oder knollig ist.\n\n## ein **Fleisch**\nblau\n### das beim Schneiden manchmal **blau anläuft**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Boletaceae [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^!一个特征\n# **Boletaceae** 家蘑菇的 **子实体** 特征\n\n^!一个帽\n## 一个 **帽**\n### **像垫子 (垫状)**，\n^!一个管子\n### 其下部分有管子，\n^!一个表面\n### 形成多孔表面。\n\n^!一个柄\n## 一个 **柄**\n^!厚\n### **厚**，有时腹胀或球状。\n\n## 一个 **肉**\n^!蓝\n### 有时切开后 **变蓝**。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.238957538Z",
+    "quality" : "LOW"
+  }
+}

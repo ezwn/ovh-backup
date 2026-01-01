@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "l68bb0ilqionu54mjhbfdg",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Automatisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Automatisation\n\n### [Quai 14 satisfaction](note::9c4m8iaxs2le41kvhpw60e)\n\n### [VEi](note::p4g4kvw4n989k3j8y24fwf)\n\n### Syni\n\n- programme de EL\n- institution d'accueil, stage en entreprise, coopération internationale\n- syni.ch\n- formation préalable de 7 jours + formations après\n\nEvaluation satisfaction obligatoire papier avant chaque départ le soir\nSaisie\nTransmission des résultats\n\nAnne-Lise : responsable de formation chez Syni\n\nPistes évoqués :\n- formulaire en ligne\n- automatisation du processus\n\nTravail de Manu :\n- démarrage pas scan de QR code\n- prototype avec formulaire\n- export vers google docs\n- taux de retour faible\n- formulaire non anonyme? être sûr que tout le monde a répondu\n\nManu pas là du 3 au 16\nRemplaçant de Ivan prend en charge la VE\n\n### Workflow existant\n\nEntrée :\n- formateur\n- formation\n- fiche de présence depuis Simel (Système Interne de Mesure Emploi Lausanne = activité)\n\nPremière génération :\nlist google sheet\nGoogle Form d'enquête\nQR code\n\nURL par QR code > scan > remplir > stockage dans GS\n\nEnvoi mail > Responsable de formation\n\n## VE\n\n- Logo VE dans l'email\n\n## Tâches\n\n- rédiger la Feuille de route de VE\n- analyse du prototype\n- réunion objectfs\n\n## Ressources\n\n### Personnes\n\n- Émilien\n- Richard\n- Pascal\n- Nicolas\n- Maurizio\n- Manu",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-14T06:36:43.054027069Z"
+  }
+}

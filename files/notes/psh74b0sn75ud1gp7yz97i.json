@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "psh74b0sn75ud1gp7yz97i",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "EN",
+      "title" : "The ISO Council",
+      "description" : null,
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# The ISO Council\n\n~? Council:\n-comparable to the board of directors\n-includes 25 members\n-appoints the Technical Management Board\n\n~? President's Committee:\n-includes:\n-principal officer\n-vice presidents\n-submits recommendations to the Council\n\n~? Council Standing Committees:\n-advise the Council\n-specialized by domains\n\n~? Policy Development Committees:\n-conformity\n-consumers\n-developing countries",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-30T09:54:04.366164455Z",
+    "quality" : "LOW"
+  }
+}

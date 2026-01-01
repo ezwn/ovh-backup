@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0072",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Représenter un entier naturel en binaire",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Représenter un entier naturel en binaire\n\n~?La représentation binaire décompose un entier en :\nune somme de multiples de 2.\n\n~?On obtient la représentation binaire d'un entier en :\neffectuant une suite de divisions euclidiennes par 2,\nd'abord de cet entier,\npuis des quotients obtenus lors des itérations précédentes.\n?On s'arrête quand :\nle quotient vaut 0.\n?La représentation binaire est alors donnée par :\nles restes, pris de bas en haut.\n\n@## Exercices\n\n€### Exercice 1 // {\"id\":\"d1c825b4-363b-444d-9d52-dede9e557841\"}\n\n?Calculez la **représentation binaire de 1481**.\n\n|   |           |  |\n|:--------------- |:---------------|:-----|\n$$1481$$  |  $$=740\\times 2$$ |  $$+ 1$$\n$$740$$  | $$=370 \\times 2$$ |   $$+ 0$$\n$$370$$  | $$=185 \\times 2$$ |   $$+ 0$$\n$$185$$  | $$=92 \\times 2$$ |   $$+ 1$$\n$$92$$  | $$=46 \\times 2$$ |   $$+ 0$$\n$$46$$  | $$=23 \\times 2$$ |   $$+ 0$$\n$$23$$  | $$=11 \\times 2$$ |   $$+ 1$$\n$$11$$  | $$=5 \\times 2$$ |   $$+ 1$$\n$$5$$  | $$=2 \\times 2$$ |   $$+ 1$$\n$$2$$  | $$=1 \\times 2$$ |   $$+ 0$$\n$$1$$  | $$=0 \\times 2$$ |   $$+ 1$$\n\n**Résultat :** 10111001001",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Representing a natural number in binary",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Representing a natural number in binary\n\n~?The binary representation breaks down an integer into:\na sum of multiples of 2.\n\n~?The binary representation of an integer is obtained by:\nperforming a series of Euclidean divisions by 2,\nfirst of this integer,\nthen of the quotients obtained in previous iterations.\n?We stop when:\nthe quotient equals 0.\n?The binary representation is then given by:\nthe remainders, read from bottom to top.\n\n@## Exercises\n\n€### Exercise 1 // {\"id\":\"d1c825b4-363b-444d-9d52-dede9e557841\"}\n\n?Calculate the **binary representation of 1481**.\n\n|   |           |  |\n|:--------------- |:---------------|:-----|\n$$1481$$  |  $$=740\\times 2$$ |  $$+ 1$$\n$$740$$  | $$=370 \\times 2$$ |   $$+ 0$$\n$$370$$  | $$=185 \\times 2$$ |   $$+ 0$$\n$$185$$  | $$=92 \\times 2$$ |   $$+ 1$$\n$$92$$  | $$=46 \\times 2$$ |   $$+ 0$$\n$$46$$  | $$=23 \\times 2$$ |   $$+ 0$$\n$$23$$  | $$=11 \\times 2$$ |   $$+ 1$$\n$$11$$  | $$=5 \\times 2$$ |   $$+ 1$$\n$$5$$  | $$=2 \\times 2$$ |   $$+ 1$$\n$$2$$  | $$=1 \\times 2$$ |   $$+ 0$$\n$$1$$  | $$=0 \\times 2$$ |   $$+ 1$$\n\n**Result:** 10111001001",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.235027688Z",
+    "quality" : "LOW"
+  }
+}

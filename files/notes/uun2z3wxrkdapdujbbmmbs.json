@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "uun2z3wxrkdapdujbbmmbs",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Scan de vulnérabilité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Scan de vulnérabilité\n\nDAST:\nDynamic Application Security Testing\n\nType :\n- configuration\n- code\n\nIntéressant : [ducissement de configuration](video::1;00:29:22)\nIntéressant : [ducissement JRE](video::1;00:32:56)\n\nTLS 1.3 (peu supporté), 1.2 (99%)\n\ncisecurity décrit des durcissements pour beaucoup de \"produits\"\n\nC'est quoi [Vérif de conformité TSCM](video::1;00:43:34) ?\n\nTechnical State Compliance Monitoring\n\nScan :\nextérieur : black box\nintérieur : white box\n\nIntéressant : [vulnérabilités, recherche dans la base, description, etc.](video::1;00:58:09)\n\nCVE de MITRE répertoriée :\nCommon Vulnerabilities and Exposures\n\nCVE-année-numéro\n\nNational vulnérability DB : https://nvd.nist.gov/\n\nScanner de vulnérabilités :\nOpenVAS, GVM, Nessus, Quallys",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "1" : "https://www.youtube.com/watch?v=iN4pPi7VYoE"
+      }
+    } ],
+    "modificationDate" : "2025-10-04T15:25:13.142860130Z",
+    "quality" : "LOW"
+  }
+}

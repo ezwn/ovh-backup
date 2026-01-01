@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0015",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architectures serveur",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Concernant l'architecture serveur quelle différence entre couplage serré et lâche ?\n- serré : optimisation des machines\n- lâche : multiplication des machines\n\nQuels usage du couplage lâche ?\n- Grilles de calculs répartis\n- Répartition des utilisateurs",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.931735474Z",
+    "quality" : "LOW"
+  }
+}

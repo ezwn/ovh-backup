@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTORGMINU0020",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorie de Mintzberg",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Théorie de Mintzberg\n\n~?5 constituants des organisations selon la théorie de Mintzberg :\nle **sommet stratégique**,\nle **centre opérationnel**,\nla **ligne hiérarchique**,\nla **technostructure**,\net le **support logistique**.\n\n~?Rôles de la technostructure :\nElle **normalise** la **qualité** et les **méthodes**, et elle **planifie**.\n\n~?Fonction du support logistique :\nIl **soutient indirectement l'activité**.\n\n~?Exemples de services du support logistique :\nLes **ressources humaines** et la **comptabilité**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Mintzberg-Theorie",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "%# Mintzberg-Theorie\n\n~?5 Bestandteile von Organisationen nach der Theorie von Mintzberg:\ndie **strategische Spitze**,\ndas **operative Zentrum**,\ndie **hierarchische Linie**,\ndie **Technostruktur**,\nund den **logistischen Support**.\n\n~?Rollen der Technostruktur:\nSie **normiert** die **Qualität** und die **Methoden**, und sie **plant**.\n\n~?Funktion der logistischen Unterstützung:\nEr **unterstützt indirekt die Aktivität**.\n\n~?Beispiele für logistische Unterstützungsdienste:\nDie **Personalabteilung** und die **Buchhaltung**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Mintzberg's Theory",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Mintzberg's Theory\n\n~?5 components of organizations according to Mintzberg's theory:\nthe **strategic apex**,\nthe **operating core**,\nthe **middle line**,\nthe **techno-structure**,\nand the **support staff**.\n\n~?Roles of the techno-structure:\nIt **standardizes** **quality** and **methods**, and it **plans**.\n\n~?Function of the support staff:\nIt **indirectly supports the activity**.\n\n~?Examples of support staff services:\n**Human resources** and **accounting**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T17:15:27.450787419Z",
+    "quality" : "LOW"
+  }
+}

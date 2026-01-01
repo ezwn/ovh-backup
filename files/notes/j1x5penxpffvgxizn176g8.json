@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "j1x5penxpffvgxizn176g8",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Stratégie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Stratégie\n\n## [Notions de prospective](note::HUSMGTTECPRSU0001)\n## [Théorie de la décision et valeur espérée](note::7fa4ngn6xmiaxd3hx78jix)\n##\n## Systémique !\n\n~? Méthode d'étude prospective :\n- étude du présent : rétrospective, enjeux, déterminants internes, externes et dynamique\n- définition de futurs\n- évaluation et choix\n- chemins du présent vers les futurs\n- stratégie\n\n~? Dimensions de l'anticipation :\n- **prévision** : en situation d'incertitude, définition d'un futur possible\n- **évaluation** : si le futur est favorable ou défavorable\n- **action** : agir dans le présent en fonction des prévisions et de leur évaluation\n\n~? Attitudes face à l'avenir :\n- **passivité** : ne rien faire et subir\n- **réactivité** : se défendre en s'adaptant\n- **préactivité** : préparation basée sur les informations visibles\n- **proactivité** : provoquer les changements voulus\n\n~? Comment identifier les variables ?\n- doctrines et théories du domaine\n-ateliers avec des experts du terrain\n-glossaires d'autres études\n-rétrospective et prospectives antérieures\n-repères : internet, externe, demande, offre, réglementation, institutions, acteurs, ...\n\n~? L'horizon :\n- suffisamment loin pour agir et que cette action ait un effet\n- stabilité de la dynamique du système\n\nTendances lourdes (proche de méga-tendance) : influente jusqu'à l'horizon\n\nRuptures : déviation annonçant un changement de trajectoire d'une variable\n\nSignaux faibles = germes de changement\n\nInvariant : données qui ne changent pas d'état jusqu'à l'horizon\n\n## La rétrospective\n\n- étude des facteurs clés (faits)\n=> dégager les mécanismes et acteurs déterminants\n\n## Les scénarios\n\ndescription d'une situation future et du\ncheminement des évènements qui permettent de passer de la situation d'origine à la situation\nfuture\n\nscénarios tendanciels : tendance lourdes ou corrigées\nscénarios de ruptures : nouvelles directions détectables par signaux faibles\n\nPhases d'une étude prospective :\n- dynamique du système : composantes du système, influence entre composantes\n-scénarios\n-stratégie\n\n# 37\n\n---\n\n\n## Suite...\n\nIl s'agit d'une donc rupture potentielle plus ou moins forte.\n\n~? **Concepts** utilisés par la **prospective** :\n- fait\n- tendance\n- signal\n- incertitude\n- **structure** et **constante**\n- acteur\n- **perception** et **schéma interprétatif**\n\n\n##% Détails\n\n~? **Types** de **faits** selon le cadre STEEP :\n- **social** : **démographie**, **normes culturelles**, **comportements collectifs**, ...\n- **technologique** : **innovations**, **diffusion de technologies**, **efforts de recherche**, ...\n- **économique** : **indicateurs conjoncturels**, ...\n- **environnemental** : **climat**, **ressources**, **état des écosystèmes**, ...\n- **politique** : **décisions**, **changements de pouvoir** et **conflits**, ...\n\n~? **Types** de **tendances** :\n- **mégatendance** : **à fort impact** et **durable**\n- tendance **émergente** : **naissante**, **visible dans** des **niches**, **à potentiel de croissance**\n- **contre-tendance** : **s'oppose à** une **mégatendance**, **de moindre durée**\n\n~? **Types** d'**événements** :\n- **attendu** ou **planifié**\n- probable\n- improbable\n- **perturbation** : **changement radical**\n- **cygne noir** : **rare**, **imprévisible**, **à très fort impact**\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-14T18:26:27.104297892Z",
+    "quality" : "LOW"
+  }
+}

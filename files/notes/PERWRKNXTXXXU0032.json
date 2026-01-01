@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKNXTXXXU0032",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Nexthink (résumé)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "L'efficacité du management est un point fort de Nexthink.\n\nBien organisé, il est engageant et souple.\n\n^finalement\nSi les valeurs officielles de l'entreprise poussent à l'efficacité et à la collaboration, on comprend cependant finalement que c'est avant tout la rentabilité qui importe.\n\n^rivalité\n^faire disparaître\nAinsi, la pression et les rivalités sont fortes, et Nexthink ne parvient pas à faire disparaître un certain sentiment d'insécurité chez ses employés.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Nexthink (résumé)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Nexthink's management efficiency is a strong point.\n\nWell-organised, it is engaging and flexible.\n\n^eventually\nWhile the company's official values push for efficiency and collaboration, one eventually understands that profitability is what matters most in the end.\n\n^rivalry, rivalries\n^eliminate\nAs a result, pressure and rivalries are strong, and Nexthink fails to eliminate a certain feeling of insecurity among its employees.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Nexthink (résumé)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Die Managementeffizienz ist eine Stärke von Nexthink.\n\nGut organisiert, ist es ansprechend und flexibel.\n\n^letztendlich\nWährend die offiziellen Unternehmenswerte Effizienz und Zusammenarbeit fördern, wird letztendlich klar, dass vor allem die Rentabilität im Vordergrund steht.\n\n^die Rivalität, die Rivalitäten\n^beseitigen\nFolglich sind der Druck und die Rivalitäten stark, und Nexthink schafft es nicht, ein gewisses Gefühl der Unsicherheit bei seinen Mitarbeitern zu beseitigen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Nexthink (résumé)",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "Nexthink的管理效率是其一大优势。\n\n组织有序，既具吸引力又灵活。\n\n^最终\n虽然公司的官方价值观强调效率和协作，但最终会发现利润才是最重要的。\n\n^一种竞争\n^消除\n因此，压力和竞争都很强，Nexthink也无法消除员工心中的不安全感。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.270797810Z",
+    "quality" : "LOW"
+  }
+}

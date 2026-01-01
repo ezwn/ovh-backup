@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU1000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Géopolitique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Géopolitique\n\n## [Europe](note::eqvfv5pbf83pj6wq7h01up)\n\n## [Théories des relations internationales](note::HUSPOSGPOXXXU1110)\n\n## [La puissance](note::HUSPOSGPOXXXU1100)\n\n## [Multilatéralisme](note::HUSPOSGPOXXXU1001)\n\n## [République](note::HUSPOSGPOXXXU0005)\n\n## [Palestine et Israel](note::HUSHISXXXXXXU0005)\n\n# A recycler\n\n## [Le moment de l'Europe](note::HUSPOSGPOXXXU1005)\n\n## [Territoire de l'UE : géopolitique inclusive volontaire](note::HUSPOSGPOXXXU1008)\n\n## [Normes, marché intérieur et espace de mobilité](note::HUSPOSGPOXXXU1014)\n\nReprise p. 701 : \"Le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,...\"\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "\n\n### [](note::eqvfv5pbf83pj6wq7h01up)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "\n\n### [](note::eqvfv5pbf83pj6wq7h01up)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "\n\n### [](note::eqvfv5pbf83pj6wq7h01up)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-09T19:20:51.340536273Z",
+    "quality" : "LOW"
+  }
+}

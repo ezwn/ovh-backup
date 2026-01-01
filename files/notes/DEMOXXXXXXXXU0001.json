@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "DEMOXXXXXXXXU0001",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Demo",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Matières grasses\n\n?Quelles matières grasses sont bénéfiques en quantité raisonnable ?\n- insaturées\n\n?Où trouve-t-on des graisses insaturées ?\n- huiles végétales\n- noix\n- graines\n- poisson\n\n?Quelles matières grasses sont plutôt néfastes ?\n- saturées\n\n?Où trouve-t-on des graisses saturées ?\n- viande rouge\n- beurre\n- fromage\n- huile de palme",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.676505418Z",
+    "quality" : "LOW"
+  }
+}

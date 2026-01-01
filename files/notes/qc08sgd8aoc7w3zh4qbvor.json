@@ -1,0 +1,55 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "qc08sgd8aoc7w3zh4qbvor",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Fonctions projets, code d'éthique et principes",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Fonctions projets, code d'éthique et principes\n\n~?% **Fonctions** **associées** aux **projets** selon le GCCMP :\n- Assurer la **supervision** et la **coordination**\n- **Présenter** les **objectifs** et les **retours d'information**\n- **Faciliter** et **soutenir**\n- **Réaliser** le **travail** et le **comprendre** **par** l'**analyse**\n- **Mobiliser** l'**expertise**\n- **Relayer** l'**orientation** et la **vision stratégique**\n- **Fournir** les **ressources** et **orienter**\n- **Assurer** la **gouvernance**\n\n~?% **Valeurs** du **code d'éthique et de conduite professionnelle** du PMI :\n- Responsabilité\n- Respect\n- Équité\n- Honnêteté\n\n~?% **12 principes** de **gestion de projet** du GCCMP :\n-**être** un gestionnaire **sérieux**, **respectueux** et **bienveillant**\n-**créer** un **environnement collaboratif** **pour** l'**équipe** projet\n-**impliquer** **efficacement** les **parties prenantes**\n-**se concentrer** **sur** la **valeur**\n-**reconnaître**, **évaluer** et **répondre** aux **interactions du système**\n-**faire preuve de** **comportements de leadership**\n-**adapter** **au contexte**\n-**intégrer** la **qualité** **dans** les **processus** et les **livrables**\n-**naviguer** **dans** la **complexité**\n-**optimiser** les **réponses** aux **risques**\n-**adopter** l'**adaptabilité** et la **résilience**\n-**permettre** le **changement** **pour** **atteindre** l'**état** futur **visé**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "GCCMP" : "Guide du Corpus des Connaissances en Management de Projet",
+        "Project Management Institute" : "Project Management Institute"
+      },
+      "sttMapping" : {
+        "guide du corpus des connaissances en management de projet" : "GCCMP",
+        "project management institute" : "PMI"
+      },
+      "tooltips" : {
+        "PMI" : "Project Management Institute",
+        "GCCMP" : "Guide du Corpus des Connaissances en Management de Projet"
+      },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Project functions, code of ethics and principles",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Project functions, code of ethics and principles\n\n~?% **Functions** **associated** with **projects** according to the PMBOK:\n- Ensure **supervision** and **coordination**\n- **Present** the **objectives** and **feedback**\n- **Facilitate** and **support**\n- **Perform** the **work** and **understand** it **through** **analysis**\n- **Mobilize** **expertise**\n- **Relay** **direction** and **strategic vision**\n- **Provide** **resources** and **guide**\n- **Ensure** **governance**\n\n~?% **Values** of the PMI **Code of Ethics and Professional Conduct**:\n- Responsibility\n- Respect\n- Fairness\n- Honesty\n\n~?% **12 principles** of **project management** in the PMBOK:\n-**be** a **serious**, **respectful**, and **caring** manager\n-**create** a **collaborative environment** **for** the project **team**\n-**engage** **stakeholders** **effectively**\n-**focus** **on** **value**\n-**recognize**, **assess**, and **respond** to **system interactions**\n-**demonstrate** **leadership behaviors**\n-**tailor** **to the context**\n-**build** **quality** **into** **processes** and **deliverables**\n-**navigate** **complexity**\n-**optimize** **responses** to **risks**\n-**embrace** **adaptability** and **resilience**\n-**enable** **change** **to** **reach** the desired **future** **state**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "PMBOK" : "Project Management Body of Knowledge"
+      },
+      "sttMapping" : {
+        "project management body of knowledge" : "PMBOK"
+      },
+      "tooltips" : {
+        "PMBOK" : "Project Management Body of Knowledge"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-16T18:50:22.340256395Z",
+    "quality" : "LOW"
+  }
+}

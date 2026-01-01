@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0055",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Indicatrice d'Euler",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?L'indicatrice d'Euler s'applique à :\nun entier naturel non nul $$N$$.\n\n?Elle est définie par :\nle nombre d'entiers strictement positifs inférieurs à $$N$$,\ndont le PGCD avec $$N$$ vaut un.\n\n?Un cas particulier est celui $$N$$ où est le produit de :\ndeux nombres premiers distincts $$p$$ et $$q$$.\n\n?L'indicatrice d'Euler vaut alors :\n$$p$$ moins un fois $$q$$ moins un.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Indicatrice d'Euler",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?Euler’s totient function applies to:\na non-zero natural number $$N$$.\n\n?It is defined by:\nthe number of strictly positive integers less than $$N$$,\nwhose GCD with $$N$$ is one.\n\n?A particular case is when $$N$$ is the product of:\ntwo distinct prime numbers $$p$$ and $$q$$.\n\n?Euler’s totient function is then:\n$$p$$ minus one times $$q$$ minus one.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.277284417Z",
+    "quality" : "LOW"
+  }
+}

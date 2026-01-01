@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGLEAU0001",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "favoriser la mémorisation [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour favoriser la mémorisation :\nMettre en relation avec des connaissances existantes,\nen les activant avant l'apprentissage.\nEspacer les révisions dans le temps.\nPrivilégier les exercices de rappel.\nConstruire des modèles mentaux,\nen reformulant et réorganisant contenu.\nMobiliser l'affectif,\nen trouvant une utilité.\nDiversifier les indices de récupération,\nen variant les modes d'apprentissage.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "favoriser la mémorisation [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "To enhance memory retention:\nConnect with existing knowledge,\nby activating it before learning.\nSpace out revisions over time.\nPrioritise recall exercises.\nConstruct mental models,\nby rephrasing and reorganising content.\nEngage the emotional,\nby finding a purpose.\nDiversify retrieval cues,\nby varying learning methods.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "favoriser la mémorisation [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Um das Erinnern zu fördern:\nMit bereits vorhandenen Kenntnissen verknüpfen,\nindem man sie vor dem Lernen aktiviert.\nDie Wiederholungen zeitlich auseinanderziehen.\nVor allem Erinnerungsübungen bevorzugen.\nMentale Modelle aufbauen,\nindem man den Inhalt neu formuliert und umorganisiert.\nDas Emotionale mobilisieren,\nindem man einen Nutzen findet.\nDie Abrufhinweise diversifizieren,\nindem man die Lernmethoden variiert.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "favoriser la mémorisation [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "为了促进记忆：\n与现有知识联系起来，\n在学习前激活这些知识。\n在时间上间隔复习。\n优先进行回忆练习。\n构建心理模型，\n通过重新表述和重新组织内容。\n调动情感，\n找到实用性。\n多样化恢复线索，\n通过改变学习方式。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.351388773Z",
+    "quality" : "LOW"
+  }
+}

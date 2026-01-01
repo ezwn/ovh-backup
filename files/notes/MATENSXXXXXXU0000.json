@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATENSXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ensembles (sommaire)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Ensembles\n\n## Unités\n\n### [Cardinal et sous-ensembles](note::MATENSXXXXXXU0003)\n\n### [Union, intersection et différence](note::MATENSXXXXXXU0006)\n\n### [Paire et produit cartésien](note::MATENSXXXXXXU0007)\n\n### [Ensemble des parties d'un ensemble](note::MATENSXXXXXXU0009)\n\n## Notes\n\n- Tous les exercices de UTC501 IDF sont transcrits en quiz.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.323204308Z",
+    "quality" : "LOW"
+  }
+}

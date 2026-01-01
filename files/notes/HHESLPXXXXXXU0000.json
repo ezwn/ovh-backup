@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HHESLPXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sommeil (introduction)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Sommeil\n\n## Phases du sommeil\n\nUne nuit de sommeil comporte :\n3 à 6 cycles de 60 à 120 minutes constitués :\nd'une alternance de sommeil lent et de sommeil paradoxal.\n\nLe sommeil lent est caractérisé par :\nun métabolisme cérébral ralenti,\net un tonus musculaire diminué.\nIl peut être \"léger\" ou \"profond\".\n\nLe sommeil paradoxal se distingue par :\nune activité cérébrale proche de celle de l'état de veille,\net un tonus musculaire totalement aboli.\n\n## Variabilité du sommeil\n\nDans la première moitié de la nuit le sommeil est profond,\ntandis que dans la seconde moitié il est plus léger.\nIl y a plus de sommeil paradoxal en fin de nuit.\n\nEn cas de dette de sommeil, la profondeur augmente.\n\nUne variabilité existe également au cours de la vie :\nDurant la croissance, la part de sommeil paradoxal est plus importante.\nEt la profondeur du sommeil diminue avec l'âge.\n\n## Processus impliqués dans l'endormissement\n\nDeux types de processus conditionnent l'endormissement:\nles processus homéostatiques,\net les processus circadiens.\n\n## Processus homéostatiques et adénosine\n\nLes processus homéostatiques qui conduisent à l'endormissement\nreposent sur plusieurs médiateurs chimiques.\n\nMais il est admis que l'adénosine joue un rôle central,\nen inhibant le fonctionnement cérébral.\nElle favorise le sommeil lent profond.\nElle s'accumule pendant la journée,\net est éliminée la nuit.\n\n## Sommeil et système circadien\n\nOn sait que plusieurs systèmes contribuent à l'endormissement.\n\nIl y a les cellules ganglionnaires à mélanopsine, dans la rétine.\nElles sont sensibles à la lumière bleue.\n\nMais aussi la mélatonine produite par la glande pinéale.\nCe phénomène a lieu en début de nuit, dans l'obscurité,\nmais diminue avec l'âge.\n\nEnfin certains gènes dit \"horloge\" organisent le sommeil.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Sommeil (sommaire)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Sommeil (sommaire)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Sommeil (sommaire)",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.073353906Z",
+    "quality" : "LOW"
+  }
+}

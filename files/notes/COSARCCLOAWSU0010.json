@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Part 1",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecture Cloud AWS\n\n%## Présentation\n\n~? Architecture cloud :\nappliquer le cloud à une solution qui répond aux besoins techniques et commerciaux\n\n~? Fourni par le cloud :\n- haute disponibilité\n- évolutivité\n- fiabilité\n\n%## AWS Well-Architect Framework\n\n~? Piliers de AWS Well-Architect Framework :\n- sécurité\n- excellence opérationnelle\n- fiabilité\n- performances\n- optimisation des coûts\n\n~? Sécurité selon AWS Well-Architect Framework :\n- traçabilité\n- sécurité à toutes les couches\n- évaluation des risques et stratégies d'atténuation\n\n~? Excellence opérationnelle selon AWS Well-Architect Framework :\n- exécuter et surveiller les systèmes\n- améliorer continuellement la prise en charge\n\n~? Fiabilité selon AWS Well-Architect Framework :\n- récupération rapide\n- acquisition dynamique de ressources\n- limiter les perturbations\n\n~? Performance selon AWS Well-Architect Framework :\n- utilisation efficace des ressources\n- utiliser les technologie avancées\n- utiliser la meilleure technologie de la meilleur façon\n\n~? Coûts selon AWS Well-Architect Framework :\n- mesurer l'efficacité\n- éliminer les dépenses inutiles\n- les services gérés sont moins cher\n\n~? Ce que permet AWS Well-Architect Tool :\n- se comparer avec meilleurs pratiques\n- accéder à une base de connaissances\n- planifier l'action\n- adopter un processus cohérent",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# AWS Cloud-Architektur\n\n%## Präsentation\n\n~? Cloud-Architektur:\nCloud anwenden auf eine Lösung, die technische und geschäftliche Anforderungen erfüllt\n\n~? Vom Cloud bereitgestellt:\n- hohe Verfügbarkeit\n- Skalierbarkeit\n- Zuverlässigkeit\n\n%## AWS Well-Architected Framework\n\n~? Säulen des AWS Well-Architected Framework:\n- Sicherheit\n- betriebliche Exzellenz\n- Zuverlässigkeit\n- Leistung\n- Kostenoptimierung\n\n~? Sicherheit nach AWS Well-Architected Framework:\n- Nachverfolgbarkeit\n- Sicherheit auf allen Ebenen\n- Risikobewertung und Strategien zur Abschwächung\n\n~? Betriebliche Exzellenz nach AWS Well-Architected Framework:\n- Systeme betreiben und überwachen\n- kontinuierliche Verbesserung der Unterstützung\n\n~? Zuverlässigkeit nach AWS Well-Architected Framework:\n- schnelle Wiederherstellung\n- dynamische Ressourcenbeschaffung\n- Begrenzung von Störungen\n\n~? Leistung nach AWS Well-Architected Framework:\n- effiziente Nutzung von Ressourcen\n- fortschrittliche Technologien nutzen\n- die beste Technologie auf die beste Weise nutzen\n\n~? Kosten nach AWS Well-Architected Framework:\n- Effizienz messen\n- unnötige Ausgaben vermeiden\n- verwaltete Services sind günstiger\n\n~? Was das AWS Well-Architected Tool ermöglicht:\n- Vergleich mit Best Practices\n- Zugriff auf eine Wissensbasis\n- Aktionsplanung\n- einen konsistenten Prozess übernehmen",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.128028240Z",
+    "quality" : "LOW"
+  }
+}

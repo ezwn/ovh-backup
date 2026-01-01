@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOBXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Observation personnelle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## [Diagnostic n°4](note::PERSOBXXXXXXU0004)\n\n## [Diagnostic n°3](note::PERSOBXXXXXXU0003)\n\n## [Rétrospective n°2](note::PERSOBXXXXXXU0002)\n\n## [Symptômes](note::PERSOBXXXXXXU1501)\n\n## Biais\n\n### ce n'est pas parce qu'on ne s'aime pas qu'il est bête\n### ne pas sous-estimer les autres\n### il est important de comprendre la position des gens dans l'entreprise qui peut parfois ne pas être apparente (les gens avancent masqués)\n\n## Améliorations\n\n### analyser avant d'agir. lire plus en profondeur.\n### demander de l'aide, un avis est perçu différemment selon les entreprise\n\n## Interactions\n\n### odeur des chaussures? proximité excessive? désintérêt? mauvaise période?\n### faire des préparations/bilans des interactions",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-04T17:45:15.131412866Z",
+    "quality" : "LOW"
+  }
+}

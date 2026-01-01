@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "vre2nsmujcxqtt84g2di6z",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Gestion publique locale",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Gestion publique locale\n\n## Todo\n\n## Fiches\n\n### [Analyse du budget des administrations publiques](note::f0ip2yduw86ltn7ctzls4v)\n### [Coût du mille-feuille administratif](note::dfn9xsh3yaa8rf6z4ewyu0)\n### [Dépenses des collectivités territoriales françaises](note::htss1wn5mi1v3bwvleqi5k)\n### [Organisation d'une mairie](note::1soo32bfll2vlj1gh9u3z7)\n### [Compétences et budget des différentes collectivités territoriales](note::2qnb5xts6x4vm8sr33w640)\n### [Dépenses des administrations publiques françaises](note::7zr0qvotfrw9g1j6ilbgzf)\n### [Structure des administrations publiques](note::7edffausrqraura9kntg5w)\n### [Prélèvements en France](note::noe83d7fum7t5kx879t9qe)\n### [Collectivités territoriales : définition et diversité](note::7ph36xk328zpe05fd20yma)\n### [Définitions d'administration publique](note::tfqa5ye851ozbgczk94t1u)\n\n## Séances\n\n[Séance 7](note::uk7h54k0ew0wb4pd9sk84f)\n[Séance 6](note::es7eipvn5hpzt3bjlucszi)\n[Séance 5](note::7675q3vab7ynzlacznvc90)\n[Séance 4](note::df9d4fsiga8ruoqgyon1xy)\n[Séance 3](note::j7t3a3v8y17pqpk25ai39w)\n[Séance 2](note::57ek6jcb6xcrn8rj4oyop8)\n[Séance 1](note::8id1p0i2m6vng2c7bfe6tl)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "avt208-1-1" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-17T16:10:31.204809239Z",
+    "quality" : "LOW"
+  }
+}

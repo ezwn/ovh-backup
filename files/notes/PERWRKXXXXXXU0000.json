@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Emploi",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Emploi\n\n## [Raisons de la crise](note::PERWRKRECTECU8000)\n\n## [Techniques de recherche de travail](note::PERWRKRECTECU0010)\n\n## Todo\n\n- Fond LinkedIn en rapport avec le poste recherché, cf. canva.com\n- Ajouter ma photo au CV?\n- Ajouter rubriques sur linkedin et mieux répartir\n- Lab4Tech: exemple de lettre si souhaité\n- **Retravailler le pitch principal LinkedIn et oral** : être catégorisé rapidement + compétences/atouts principales\n- Réalisations / succès : imaginer un message court. Méthode STAR\n- CV/LM: revoir pour filtrage en moins de 7 secondes : critères d'exclusion en avant\n\n### Lab4Tech : Projets\n\n- retour attendu/objectifs (dans description contexte)\n- apprentissage : problème à gérer\n- données métriques : chiffres clés, participants, utilisateurs >> envergure, complexité\n\n## Textes à apprendre\n\n### Pitch\n\nLead agile, avec une réelle expertise fullstack, j'apporte une vision claire, de la transparence et des valeurs comme l'équipe et l'amélioration continue. Ces ingrédients ont fait mes succès passés. À présent, je souhaite m'appuyer sur mes formations récentes pour m'orienter des responsabilités plus larges (métier, fonctionnel, technique et gestion de projet).\n\n### [Présentation rapide](note::PERWRKXXXXXXU8001)\n\n### [Biographie](note::PERWRKXXXXXXU8005)\n\n### [Éléments de présentation](note::PERWRKXXXXXXU0001)\n\n## [Expériences](note::PERWRKXXXXXXU5000)\n\n---\n\nAstreylia\n\n## [Motivations](note::PERWRKMOTXXXU0010)\n\n## Développeur React / ReactNative pour groupe mutuel\n\n---\n\nCadre : je suis développeur logiciel depuis 20 ans et je prépare un master intitulé \"Intégration et Architecture des Systèmes Logiciels\". Je suis à la recherche d'un poste qui me permettra à la fois de gagner ma vie et de préparer mon dossier pour ma soutenance.\n\nDemande : j'aurais besoin d'un texte d'un dizaine de lignes pour mon CV générique, cohérent avec mes objectifs, et décrivant mon expérience pour la rubrique \"expériences professionnelles\".\n\nNotes :\n\n## Pistes en cours\n\n### [Wiz-Team SA](note::PERWRKXXXXXXU6025)\n\n### [Flyability](note::PERWRKXXXXXXU6020)\n\n### [SOPHiA Genetics](note::PERWRKXXXXXXU6015)\n\n### [BS-Team](note::PERWRKXXXXXXU6005)\n\n### [CLEO AG](note::PERWRKXXXXXXU6000)\n\n## Pistes abandonnées\n\n### [EPFL](note::PERWRKXXXXXXU6010)\n\n## Autres\n\n### [Réflexions sur le développement logiciel](note::PERSOFDEVXXXU0000)\n\n### [Ma recherche](note::PERWRKXXXXXXU0700)\n\n## Notes ORP\n\nhttps://www.vd.ch/economie/prestations-destinees-aux-demandeuses-et-demandeurs-demploi/videos-dinformation-sur-lassurance-chomage\n\nSuivant : Optimisation des recherches d’emploi\n\nORP : partie recherce travail\nCaisse de chômage : argent\n\n### Planning\n\nFormulaire IPA -> caisse chômage, dés le 25 du mois\nPreuves de recherche -> ORP avant le 5",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-10T11:46:47.473739680Z",
+    "quality" : "LOW"
+  }
+}

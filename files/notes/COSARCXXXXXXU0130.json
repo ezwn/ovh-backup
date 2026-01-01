@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0130",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Services WEB",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Les services WEB\n\nQuels sont, dans les systèmes distribués, les trois types d'éléments pouvant être exposés ?\nProcédure, objet et service.\n\nQuel est le protocole d'échange des services WEB ?\nHTTP\n\nQuel est le format d'échange des services WEB ?\nXML\n\nQuels sont les avantages des web services ?\n- indépendance (plateforme, langage, architecture)\n- auto-description\n\nQuels sont les 3 composants des architectures web-services ?\n- fournisseur\n- annuaire\n- demandeur\n\n## Annuaire\n\nQuel est le standard pour les annuaires ?\nUDDI.\n\nQuels sont les 3 types de recherche possible dans un annuaire UDDI ?\n- par nom\n- par service\n- par éléments techniques\n\nQuels est la nature des résultats ?\ndes WSDL\n\nUne particularité de WSDL est de\ncontenir absolument toutes les informations nécessaire à l'utilisation du service\n\n## Messages\n\nLeur format est\nSOAP\n\nUn message SOAP contient :\n-des HTTP headers\n- une enveloppe SOAP\n- un header SOAP\n- et un body\n\nOn peut donc y distinguer 3 niveau :\n- HTTP\n- Emballage SOAP\n- contenu utilisateur (espace de nommage)\n\n## Structure WSDL\n- types : description des types utilisés\n- message : déclaration des messages\n- portType : méthodes dispo\n- binding\n- name\n\n### messages :\ninput et output\n\n### portType\nLes opérations avec leurs paramètres\n\n### binding\n- protocole : exemple SOAP sur HTTP\n\n### services ?\n- assemblage contenant port, adresse, ...\n\n## Bilan\n- invocation dynamique\n- HTTP : passe les firewalls\n- XML : typage complet, description complète\n- intégrité garantie, robustesse, validation très forte\n- interopérabilité, échange interaplicatif\n- UDDI : découverte de services\n- codage pare-feu selon contenu possible\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.977889780Z",
+    "quality" : "LOW"
+  }
+}

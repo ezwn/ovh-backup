@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVSPRU0310",
+  "content" : {
+    "domain" : "SPRING_FRAMEWORK",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "JPA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# JPA\n\n## Annotations de relations\n\nOn utilise les annotations suivantes.\n\n~?Quand l'entité source participe une fois et l'entité cible plusieurs fois :\nManyToOne avec JoinColumn et name.\n\n~?Quand l'entité source participe plusieurs fois et l'entité cible plusieurs fois :\nManyToMany avec JoinTable, name, joinColumns et inverseJoinColumns.\n~?Et si la relation est bidirectionnelle, côté cible\non utilise mappedBy.\n\n~?Quand l'entité source participe plusieurs fois et l'entité cible une seule fois :\nOneToMany avec mappedBy pour désigner la propriété de la classe cible.\n\n~?Dans une relation bidirectionnelle, il est nécessaire de\nmettre à jour les deux entités impliquées\n?en\névitant de créer de boucle infinie.\n\n## Chargement glouton et paresseux\n\n?Pour choisir le chargement glouton ou paresseux on peut le préciser :\nsoit sur l'entité dans la relation, soit au niveau de la méthode du repository.\n\n~?Au niveau de l'annotation de relation de l'entité, on dispose de l'attribut :\nfetch\n?dont la valeur par défaut est :\nEAGER.\n\n~?Au niveau du repository, on peut choisir le mode de chargement grâce à :\nl'attribut attributePaths de l'annotation EntityGraph, qui désigne les champs à charger.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.408419277Z",
+    "quality" : "LOW"
+  }
+}

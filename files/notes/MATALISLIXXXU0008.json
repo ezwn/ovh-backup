@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0008",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Inversibilité d'une matrice [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Inverse d'une matrice.\n\nSoit A une matrice.\nA est inversible si et seulement si :\nil existe une matrice B telle que :\nA fois B est égal à la matrice identité.\n\nD'autre part, A est inversible est équivalent à chacune de ces propositions :\ntoutes ses lignes sont linéairement indépendantes,\ntoutes ses colonnes sont linéairement indépendantes,\nsa matrice échelonnée réduite est une matrice identité,\nson déterminent est non nul.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Inversibilité d'une matrice [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Inverse of a matrix.\n\nLet A be a matrix.\nA is invertible if and only if:\nthere exists a matrix B such that:\nA times B is equal to the identity matrix.\n\nMoreover, A being invertible is equivalent to each of these propositions:\nall its rows are linearly independent,\nall its columns are linearly independent,\nits reduced row echelon form is an identity matrix,\nits determinant is non-zero.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Inversibilité d'une matrice [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Inverse einer Matrix.\n\nSei A eine Matrix.\nA ist invertierbar, wenn und nur wenn:\nes existiert eine Matrix B, so dass:\nA mal B ist gleich der Einheitsmatrix.\n\nAndererseits ist A invertierbar äquivalent zu jeder dieser Aussagen:\nalle ihre Zeilen sind linear unabhängig,\nalle ihre Spalten sind linear unabhängig,\nihre reduzierte Stufenform ist eine Einheitsmatrix,\nihr Determinant ist ungleich null.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Inversibilité d'une matrice [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "矩陣的逆。\n\n設 A 為一矩陣。\nA 可逆若且唯若：\n存在一矩陣 B 使得：\nA 乘 B 等於單位矩陣。\n\n此外，A 可逆等價於以下命題之一：\n所有的行都是線性獨立的，\n所有的列都是線性獨立的，\n其階梯矩陣是單位矩陣，\n其行列式不為零。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.084606618Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0025",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mémoire à court terme",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "# Mémoire à court terme\n\n%## Capacité\n\n~?Quelle est sa capacité ?\nEnviron **sept** éléments, mais cela **dépend de la tâche**.\n\n~?Qui a été le premier à proposer le chiffre 7 ?\n**George Miller,** en **1956**.\n\n%## Durée de persistance\n\n~?Qui l'a mesurée ?\n**Lloyd** et **Margaret** **Peterson**.\n\n~?Comment la mémoire à court terme a t-elle été isolée ?\nEn **empêchant la répétition** grâce à une **tâche secondaire**.\n\n~?Combien de temps persistent les souvenirs en mémoire à court terme ?\nQuelques secondes.\n\n## Facteurs d'efficacité\n\n~?Qu'est ce qui est nécessaire pour que l'efficacité de la mémoire de travail soit maximale ?\n**Se concentrer** et ne faire qu'**une seule tâche à la fois**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Kurzzeitgedächtnis",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "# Kurzzeitgedächtnis\n\n%## Kapazität\n\n~?Wie groß ist seine Kapazität?\nUngefähr **sieben** Elemente, aber das **hängt von der Aufgabe ab**.\n\n~?Wer hat zuerst die Zahl 7 vorgeschlagen?\n**George Miller**, im Jahr **1956**.\n\n%## Dauer der Speicherung\n\n~?Wer hat sie gemessen?\n**Lloyd** und **Margaret** **Peterson**.\n\n~?Wie wurde das Kurzzeitgedächtnis isoliert?\nDurch **Verhinderung der Wiederholung** mittels einer **Zweitaufgabe**.\n\n~?Wie lange bleiben die Erinnerungen im Kurzzeitgedächtnis?\nEinige Sekunden.\n\n## Effizienzfaktoren\n\n~?Was ist notwendig, damit die Effizienz des Arbeitsgedächtnisses maximal ist?\n**Sich konzentrieren** und nur **eine Aufgabe gleichzeitig erledigen**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.926319502Z",
+    "quality" : "LOW"
+  }
+}

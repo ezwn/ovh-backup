@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "je33945ix397sn378mo0ic",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Monnaie",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Monnaie\n\n~? **Fonctions économiques** de la **monnaie** :\n- intermédiaire des échanges\n- réserve de valeur\n- **unité de compte** (**étalon**)\n\n~? **Formes** de **monnaies** :\n- monnaie **divisionnaire** : **pièces** émise par le Trésor public\n- monnaie **fiduciaire** : **billets** émis par la Banque de France\n- monnaie **scripturale** (**dématérialisée**)\n\n~? Comment la **banque centrale** **crée** de la **monnaie** :\n-en **créditant** les **comptes** des **banques commerciales** ou du **Trésor public**\n-pour **mettre** des **liquidités** **à** leur **disposition**\n\n~? **Fonctionnement** des **crédits** octroyés par les **banques commerciales** :\nla banque **crédite le compte du client **(c'est un **passif** pour elle)\net elle **enregistre une créance** sur le client (remboursement futur).\nCette **double écriture** comptable entraîne une création **monétaire**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-28T20:24:45.265504060Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0064",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Biais acteur / observateur [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "On a tendance a privilégier une attribution :\ninterne quand on est observateur,\net externe quand on est acteur.\n\nCela a été démontré, par exemple, en faisant varier la perspective d'une caméra.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Biais acteur / observateur [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "We tend to favour an attribution:\ninternal when we are observers,\nand external when we are actors.\n\nThis has been demonstrated, for instance, by varying camera perspectives.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Biais acteur / observateur [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Man neigt dazu, einer Attribution den Vorzug zu geben:\neiner internalen, wenn man Beobachter ist,\nund einer externalen, wenn man Handelnder ist.\n\nDies wurde zum Beispiel durch die Variation der Kameraperspektive nachgewiesen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Biais acteur / observateur [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "人们倾向于做出如下归因：\n当作为观察者时，倾向于内部归因，\n而作为行为者时，倾向于外部归因。\n\n这已经通过改变摄像机视角等实验得到证实。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.440997157Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ukmpe2xp0murjho07oqkbk",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Gestion des sinistres",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Gestion des sinistres\n\n## Sauvegarde\n\n~? Questions à traiter :\n- que sauvegarder ?\n-quand sauvegarder ?\n-où stocker la sauvegarde ?\n\n~? Critères de décision :\n-perte acceptable : point de reprise\n-capacité à restaurer : temps de reprise\n-coût\n\n~? Bonne pratiques :\n- réseau de sauvegarde isolé\n- hors du LAN, hors du serveur\n- 3 copies, 2 supports différentes, 1 copie hors site\n- chiffrer les sauvegardes\n\npolitique\n\nAttaque de sauvegarde...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-24T06:17:28.591808083Z",
+    "quality" : "LOW"
+  }
+}

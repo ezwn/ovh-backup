@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "dfn9xsh3yaa8rf6z4ewyu0",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Coût du mille-feuille administratif",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Coût du mille-feuille administratif\n\n~? **Cause** et **montant** de **coûts** administratifs **inutiles** selon le rapport Boris Ravignon :\n-**enchevêtrement** de **compétences**\n-nécessitant des **transferts financiers** et de la **coordination**\n-**mal compris** **par** les **usagers**\n-**déresponsabilisant**\n-**7,5 Md €**\n\n~? Recommandations :\n-**clarifier** les **responsabilités**\n-désigner des **chefs de file** **par** **action**\n-**aligner** / **restructurer** les **compétences** et les **moyens**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-10T12:51:35.086973909Z",
+    "quality" : "LOW"
+  }
+}

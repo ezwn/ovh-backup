@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU2014",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Conception de bases de données réparties",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "# Conception de bases de données réparties\n\n~?Quelle est la différence entre fragmentation et fédération?\n- la fragmentation découpe une base\n- la **fédération** **agrège plusieurs bases** en une **vue unique**\n\n%### Fragmentation\n\n~?Quelles sont les deux façons de fragmenter une table ?\n- horizontalement\n- verticalement\n\n~?Comment s'appelle la fragmentation qui distribue les enregistrements ?\n- horizontale.\n\n~?Comment s'appelle la fragmentation qui distribue les colonnes ?\n- verticale.\n\n~?Quelles possibilités apparaissent une fois les données fragmentées ?\n- **répartir les fragments** **sur plusieurs sites**\n- dupliquer les fragments\n\n~?Que peut-on observer pour savoir si on doit dupliquer les fragments ?\n- ratio lectures / mise à jour\n\n%## Fédération\n\n~?Quels sont les niveaux d'analyse de la démarche de fédération ?\n- sémantique\n- syntaxique\n- global\n\n~?A quoi correspond la sémantique, qui diffère d'une base à l'autre ?\n- à la **conception**, c'est à dire au **sens que l'on donne aux données**\n\n~?A quoi correspond la syntaxe, qui diffère d'une base à l'autre ?\n- comment les données sont organisées en un schéma\n\n~?Que produit aboutit l'analyse de toutes les bases ?\n- un **schéma global unifié**\n- une **projection des schémas hétérogènes vers des schémas unifiés partiels**\n- une **intégration des schémas partiels en un schéma global**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Design of Distributed Databases",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "# Design of Distributed Databases\n\n~?What is the difference between fragmentation and federation?\n- fragmentation slices a database\n- **federation** **aggregates multiple databases** into a **single view**\n\n%### Fragmentation\n\n~?What are the two ways to fragment a table?\n- horizontally\n- vertically\n\n~?What is the name of the fragmentation that distributes records?\n- horizontal.\n\n~?What is the name of the fragmentation that distributes columns?\n- vertical.\n\n~?What possibilities arise once the data is fragmented?\n- **distribute the fragments** **across multiple sites**\n- duplicate the fragments\n\n~?What can be observed to determine if fragments should be duplicated?\n- **read**/**update** **ratio**\n\n%## Federation\n\n~?What are the levels of analysis in the federation approach?\n- semantic\n- syntactic\n- global\n\n~?What does semantics, which differs from one database to another, correspond to?\n- to the **design**, that is to say, the **meaning given to the data**\n\n~?What does syntax, which differs from one database to another, correspond to?\n- how the data is organised in a schema\n\n~?What results from analysing all the databases?\n- a **unified global schema**\n- a **projection of heterogeneous schemas towards partial unified schemas**\n- an **integration of partial schemas into a global schema**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.246385719Z",
+    "quality" : "LOW"
+  }
+}

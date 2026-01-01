@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0010",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèles de la mémoire",
+      "description" : "Modèles de la mémoire",
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "# Modèles de la mémoire\n\n~?Les trois étapes de la mémorisation sont\nl'**encodage**, le **stockage** et la **récupération**.\n\n## Connexionnisme\n\n~?Le connexionnisme envisage la mémoire comme\nune **interconnexion de réseaux de neurones**\n?et les souvenirs comme\ndes **patterns d'activation**.\n\n~?L'encodage correspond alors\nà la **création** et au **renforcement** de **chemins**.\n\n## Modèle de mémorisation en 3 étapes de Atkinson et Shiffrin\n\n~?Les 3 étapes du modèle de Atkinson et Shiffrin sont\nla **mémoire sensorielle**,\nla **répétition en mémoire à court terme**,\npuis le **stockage en mémoire à long terme**.\n\n## Mise à jour du modèle de Atkinson et Shiffrin\n\n~?Le modèle de la mémorisation en 3 étapes a été mis à jour en\najoutant le **traitement automatique de l'information sensorielle**,\nintroduisant le concept de **mémoire de travail**.\n\n### Traitement automatique de l'information sensorielle\n\n~?Le traitement automatique de l'information sensorielle désigne un mécanisme qui\ntransfère l'information directement de la mémoire sensorielle à la mémoire à long terme.\n\n### Mémoire de travail\n\n~?Selon Baddeley en 2002, la mémoire de travail\n**interprète** et **connecte** de **nouvelles expériences** à des **souvenirs de la mémoire à long terme**,\nrécupère et modifie des informations de la mémoire à long terme.\n\n~?Pour fonctionner, elle nécessite\nde concentrer son attention.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Models of Memory",
+      "description" : "Models of Memory",
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "# Models of Memory\n\n~?The three stages of memorisation are\n**encoding**, **storage**, and **retrieval**.\n\n## Connectionism\n\n~?Connectionism views memory as\nan **interconnection of neural networks**\n?and memories as\n**patterns of activation**.\n\n~?Encoding then corresponds to\nthe **creation and strengthening of pathways**.\n\n## Atkinson and Shiffrin's Three-Stage Model of Memory\n\n~?The three stages of Atkinson and Shiffrin's model are\nsensory memory,\nrehearsal in short-term memory,\nthen **storage in long-term memory**.\n\n## Update of Atkinson and Shiffrin's Model\n\n~?The three-stage model of memory has been updated by\nadding **automatic processing of sensory information**,\nintroducing the concept of **working memory**.\n\n### Automatic Processing of Sensory Information\n\n~?Automatic processing of sensory information refers to a mechanism that\ntransfers information directly from sensory memory to long-term memory.\n\n### Working Memory\n\n~?According to Baddeley in 2002, working memory\n**interprets and connects new experiences** to **long-term memory memories**,\nretrieves and modifies information from long-term memory.\n\n~?To function, it requires\nfocused attention.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.285761885Z",
+    "quality" : "LOW"
+  }
+}

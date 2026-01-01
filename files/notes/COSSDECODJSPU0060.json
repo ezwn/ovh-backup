@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU0060",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Recherche de composants et configuration",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Pour activer la recherche de composants par Spring boot, on utilise :\nl'annotation SpringBootApplication sur la classe principale.\n\n?Si l'on souhaite indiquer à Spring boot quels chemins inspecter pour des composants, on utilise :\nComponentScan.\n\n?Avec Spring boot, on peut configurer le niveau logging dans :\nle fichier properties\n?à l'aide d'entrées de la forme :\nlogging point level point package égal et le niveau souhaité.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.292569401Z",
+    "quality" : "LOW"
+  }
+}

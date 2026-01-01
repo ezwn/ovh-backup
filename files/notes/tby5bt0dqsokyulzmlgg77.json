@@ -1,0 +1,70 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "tby5bt0dqsokyulzmlgg77",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Acteurs et rôles des procédures de l’ISO",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Acteurs et rôles des procédures de l’ISO\n\n~?Bureau de gestion technique :\nautorité exécutive, qui\n-crée les TC,\n-nomme les présidents,\n-et approuve les plans d’affaires stratégiques\n\n~?Comité technique :\norgane de gestion pour un domaine spécifique,\n-responsable du programme de travail\n-crée les SC.\n\n~?Sous-comité :\ngère des domaines spécifiques\n\n~?Groupe de travail :\nensemble d’experts rédacteurs\nqui ne doivent pas être des délégués nationaux.\n\n~?Organisme national ou organisme membre :\norganisation membre représentant un pays.\nIl enregistre les délégués et les experts,\net dispose d’une voix.\n\n~?Animateur :\npersonne dirigeant un WG\n\n~?Secrétariat :\nrôle attribué à un organisme national,\nimpliquant l’administration d’un comité ou d’un sous-comité.\n\n~?Président :\nrôle proposé par le secrétariat\net nommé par le CGT\nimpliquant la direction et la recherche du consensus\n\n~?Chef de projet :\npersonne responsable de la rédaction d’un document spécifique.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "TC" : "comité technique",
+        "SC" : "sous-comité",
+        "WG" : "groupe de travail",
+        "TMB" : "bureau de gestion technique"
+      },
+      "sttMapping" : {
+        "bureau de gestion technique" : "TMB",
+        "comité technique" : "TC",
+        "groupe de travail" : "WG",
+        "sous-comité" : "SC"
+      },
+      "tooltips" : {
+        "TC" : "comité technique (Technical Committee)",
+        "SC" : "sous-comité (Subcommittees)",
+        "WG" : "groupe de travail (Working Group)",
+        "TMB" : "bureau de gestion technique (Technical Management Board)"
+      },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Actors and roles in ISO procedures",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Actors and roles in ISO procedures\n\n~? Technical Management Board :\nexecutive authority, which\n-establishes TCs,\n-appoints Chairs,\n-and approves Strategic Business Plans\n\n~? Technical Committee :\nmanagement body for a specific field,\n-responsible for the programme of work\n-establishes SCs.\n\n~? Subcommittee :\nmanages specific areas\n\n~? Working group :\nset of drafting experts\nwho should not be national delegates.\n\n~? National Body or Member Body :\nmember organization representing a country.\nIt registers delegates and experts,\nand has one vote.\n\n~? Convenor :\nperson leading of a WG\n\n~? Secretariat :\nrole assigned to a National Body,\ninvolving administering a committee or subcommittee.\n\n~? Chair :\nrole nominated by the Secretariat\nand appointed by the TMB\ninvolving leading and building consensus\n\n~? Project Leader:\nperson responsible for the drafting of a specific document.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "TCs" : "Technical Committees",
+        "SCs" : "Subcommittees",
+        "WG" : "Working group",
+        "TMB" : "Technical Management Board"
+      },
+      "sttMapping" : {
+        "working group" : "WG",
+        "technical management board" : "TMB",
+        "subcommittees" : "SCs",
+        "technical committees" : "TCs"
+      },
+      "tooltips" : {
+        "TCs" : "Technical Committees",
+        "SCs" : "Subcommittees",
+        "WG" : "Working group",
+        "TMB" : "Technical Management Board"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-03T18:23:40.757259417Z",
+    "quality" : "LOW"
+  }
+}

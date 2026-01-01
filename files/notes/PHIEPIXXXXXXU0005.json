@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PHIEPIXXXXXXU0005",
+  "content" : {
+    "domain" : "EPISTEMOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Définition d'épistémologie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Épistémologie : définitions\n\n?~Quel partie d'un système analyse le structuralisme ?\nStructure globale.\n\n?~Sur quoi met l'accent l'analyse structuraliste ?\nRelations entre éléments.\n\n?~Qu'étudie de fonctionnalisme ?\nContribution de chaque élément au fonctionnement du tout dont il fait partie.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Structuralisme fonctionnel",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Epistemology: Definitions\n\n?~What part of a system does structuralism analyse?\nOverall structure.\n\n?~What does structuralist analysis emphasize?\nRelations between elements.\n\n?~What does functionalism study?\nContribution of each element to the functioning of the whole of which it is a part.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Structuralisme fonctionnel",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "%# 认识论：定义\n\n?~结构主义分析系统的哪一部分？\n整体结构。\n\n?~结构主义分析强调什么？\n元素之间的关系。\n\n?~功能主义研究什么？\n每个元素对其所属整体运作的贡献。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.603641850Z",
+    "quality" : "LOW"
+  }
+}

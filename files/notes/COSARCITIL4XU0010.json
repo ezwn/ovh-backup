@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCITIL4XU0010",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Concepts clés de la bibliothèque pour l'infrastructure des technologies de l'information",
+      "description" : "Sujet : bibliothèque pour l'infrastructure des technologies de l'information",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Concepts clés de la bibliothèque pour l'infrastructure des technologies de l'information\n\n## Racine\n\n~? Service selon ITIL :\nmoyen de produire de la valeur pour les clients\n\n~? Acteurs qui créent la valeur selon ITIL :\n**fournisseur de service** et **consommateurs** **ensemble**\n\n~? Structure d'ITIL4 :\n- **système de valeur des services**, qui **décrit comment la valeur est produite**\n- **modèle en quatre dimensions**, **à considérer dans toute démarche** IT\n\n## Modèle en 4 dimensions\n\n~? Dimensions du modèle en 4 dimensions de ITIL:\n- **organisations** et **personnes**\n- **information** et **technologie**\n- **partenaires** et **fournisseurs**\n- **flux de valeur** et **processus**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Key Concepts of the Library for Information Technology Infrastructure",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Key Concepts of the Library for Information Technology Infrastructure\n\n## Root\n\n~?Service according to ITIL:\nway to produce value for customers\n\n~?Actors who create value according to ITIL:\n**service provider** and **consumers** **together**\n\n~?ITIL4 structure:\n- **service value system**, which **describes how value is produced**\n- **four-dimension model**, **to consider in every IT approach**\n\n## 4-dimension model\n\n~?Dimensions of the 4-dimensional ITIL model:\n- **organizations** and **people**\n- **information** and **technology**\n- **partners** and **suppliers**\n- **value streams** and **processes**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Schlüsselkonzepte der Bibliothek für die Infrastruktur der Informationstechnologien",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Schlüsselkonzepte der Bibliothek für die Infrastruktur der Informationstechnologien\n\n## Wurzel\n\n~?Service nach ITIL:\nMittel, um Wert für Kunden zu schaffen\n\n~?Akteure, die laut ITIL Wert schaffen:\n**Dienstleister** und **Kunden** **gemeinsam**\n\n~? Struktur von ITIL4:\n- **Service-Wertsystem**, das **beschreibt, wie Wert geschaffen wird**\n- **Vier-Dimensionen-Modell**, **das bei jedem IT-Vorgehen zu berücksichtigen ist**\n\n## Modell in 4 Dimensionen\n\n~?Dimensionen des 4D-Modells von ITIL:\n- **Organisationen** und **Personen**\n- **Information** und **Technologie**\n- **Partner** und **Lieferanten**\n- **Wertströme** und **Prozesse**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-13T06:34:20.100462278Z",
+    "quality" : "LOW"
+  }
+}

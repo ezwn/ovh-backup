@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "xrzfsb4ry2ra37c3aibzle",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 3",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 3\n\nFiches :\n\n- [Modèle OSI](note::v6oozw56yr1qmltxct315q)\n\nRepérage :\n\n00:01:08  assembler des fonctions sous forme de couches\n00:02:23  Couches OSI \uD83D\uDD0D\uD83D\uDD0D\uD83D\uDD0D\n00:02:33  La communication etnre couches est virtuelle, réalisée par délégation jusqu'à a couche physique \uD83E\uDDE0\n00:03:35  Protocole\n00:04:23  Encapsulation\n\nPDU = haut niveau = protocol data unit\nSDU = même chose du point de vue du niveau inférieur = service data unit\nPCI = ce qui est ajouté : Protocol Control Information\n\n00:05:50  C'est reproduit aux niveau inférieurs \uD83E\uDDE0\n00:06:30  Application PDU, Presentation PDU, Session PDU, etc.\n00:06:40  PDU réseau = packet, PDU données = trames\n00:07:30  En réalité un SDU peut être segmenté en plusieurs N PDU et ré-assemblé de part et d'autre \uD83E\uDDE0\n00:08:57  Taille minimale et maximale selon protocole d'un PDU : segmentation / regroupement\n00:11:14  L'assemblage peut être descendant dans les couches \uD83D\uDD0D(si pas clair)\n00:13:33  (Ou Concaténation / séparation)\n00:14:11  Exemple\n00:15:55  De nombreux protocoles : connexion puis transfert de données\n00:16:40  Primitives : opération de base des protocoles \uD83E\uDDE0\uD83E\uDDE0\n00:18:20  Exemple montrant la cascade des couches\n00 20 00  Côté réception on enlève les entêtes !\n00:23:24  Illustration alternative\n00 24 36  Illustration alternative\n25 19  Services et couches protocolaires\n00:25:28  Couche physique : codage physiques\n00:26:08  Couche Liaison\n00:27:45  Exemple : entre deux commutateurs, entre deux ordinateurs directement liés \uD83E\uDDE0\uD83E\uDDE0\n00:28:40  Couche réseau\nExemples : internet\nExemple : réseau IP\n00:33:15  Couche transport\n00:35:08  Multiplexage, segmentation, contrôle de congestion, ré ordonnancement\nSegment\nNotion de port\n00:36:37  Exemples\n00:38:08  Exemple : firefox et apache\n00:38:50  Use case des couche 1 (physique) : wifi, mobile, fil\n00:47:57  Déploiement de protocoles TCP/IP\n00:48:00  Résumé complet de la transmission TCP/IP \uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0\n\nInternet : les routeurs ne \"remontent\" (implémente) qu'à la couche 3 (réseau)\n\n00:51:00  Mapping OSI <> TCP/IP\n00:52:02  Protocoles du modèle TCP/IP \uD83D\uDD0D\uD83D\uDD0D\uD83D\uDD0D\n00:54:59  Pont, ou passerelle de niveau 2 : connecte des liaisons différente (fibre, filaire, ...) \uD83D\uDD0D\uD83D\uDD0D\n00:56:07  Wi-Fi <> Ehternet (pont)\n00:57:10  Conclusion",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-20T05:46:48.141080103Z",
+    "quality" : "LOW"
+  }
+}

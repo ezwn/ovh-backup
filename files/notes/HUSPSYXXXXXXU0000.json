@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Psychologie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Psychologie : personnalité](note::HUSPSYPERXXXU0000)\n\n# [Psychologie des émotions](note::HUSPSYEMOXXXU0000)\n\n# [Psychologie sociale](note::HUSPSYSOCXXXU0000)\n\n# [Psychologie : mémoire](note::HUSPSYCOGMEMU0000)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.275845843Z",
+    "quality" : "LOW"
+  }
+}

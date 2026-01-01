@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "d2hn7vvemubjzkjm9d393a",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Impacts",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Impacts\n\n## Fiches\n\n- [Impact des atteintes](note::undgha94a12q22u07zsagv)\n- [Gestion de la continuité](note::30f3u5b9kpa3b4079squwn)\n\n## Cours\n\n[Définitions](video::3;00:00:00)\n[Impact](video::3;00:00:20)\n[Examples de types d'impacts](video::3;00:01:02)\n[Business Impact Analysis](video::3;00:01:48)\n[Définition](video::3;00:01:48)\n[Le BIA permet d'établir](video::3;00:02:58)\n[Temps et points de rétablissement](video::3;00:04:10)\n[Privacy Impact Assessment ou PIA](video::3;00:05:22)\n\nPIA :\nprocessus d'analyse des impacts potentiels sur la vie privée\n\n[Définition](video::3;00:05:45)\n[Données sensibles concernées](video::3;00:06:05)\n[RGPD : Data Protection Impact Assessment, conditions le rendant nécessaire](video::3;00:06:30)\n[Références](video::3;00:07:30)\n[Plan de Continuité d'Activité (PCA)](video::3;00:07:54)\n[Définition](video::3;00:07:59)\n[PRA : plan de reprise d'activité : partie informatique du PCA](video::3;00:08:35)\n[Tester régulièrement le PRA](video::3;00:08:30)\n[Comparaison PRA PCA](video::3;00:09:35)\n[Plan d'Urgence et de Poursuite d'Activité (PUPA)](video::3;00:10:40)\n[Citations](video::3;00:11:30)\n[Références](video::3;00:12:05)\n[Définition de risque](video::3;00:14:35)\n[Sécurité physique](video::3;00:15:07)\n[Risque, impact et probabilité](video::3;00:16:00)\n[Niveaux de risque](video::3;00:15:54)\n\nNiveaux de risque :\n- Critique : impact et probabilité élevés\n- Élevé\n- Moyen\n- Faible : impact faible et probabilité moyenne, ou impact moyen et probabilité faible\n\n[Stratégie de réduction du risque : courbe impact / probabilité d'occurrence](video::3;00:17:58)\n[Réparer pour réduire l'impact](video::3;00:20:22)\n[Tests de restauration](video::3;00:21:10)\n[Protection des sauvegardes](video::3;00:23:15)\n[Expression des besoins et identification des Objectifs de Sécurité](video::3;00:25:54)\n\n5 Ateliers :\n- cadrage et socle de sécu\n- identifier les sources de risques\n- scénarios stratégiques (chemin d'attaques)\n- scénarios opérationnels (enchaînements d'actions)\n- traitement du risque : mesures dans plan",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "3" : "https://www.youtube.com/watch?v=4tkdkNhzHw4"
+      }
+    } ],
+    "modificationDate" : "2025-10-06T17:49:10.772144521Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "p4jhwtjvfliivxwib7buvd",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Analyse des besoins lors de l'initialisation d'un projet",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Analyse des besoins lors de l'initialisation d'un projet\n\n~? Objectifs de l'analyse des besoins :\n- **recueillir** les **besoins exprimés**\n- dégager les **besoins implicites**\n- s'approcher d'une **compréhension exhaustive**\n- **distinguer** le **nécessaire** du **souhaitable**\n- **reformuler**\n- **proposer** des **livrables**\n- comprendre les **critères de sélection du partenaire**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-22T11:58:04.730289246Z",
+    "quality" : "LOW"
+  }
+}

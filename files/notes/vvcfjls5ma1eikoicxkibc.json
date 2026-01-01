@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "vvcfjls5ma1eikoicxkibc",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Vidéo 2a",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Vidéo 2a\n\n## Fiches\n\n### [Attaques célèbres](note::ivrk300otr49k7232bi527)\n\n## Repérage\n\n# Attaques célèbres\n\n### [Stuxnet (2010)](video::utc505-02a;00:01:10)\n### [TV5MONDE (2015)](video::utc505-02a;00:08:46)\n### [Cyberbraquage Banque Centrale Bangladesh](video::utc505-02a;00:14:53)\n### [Equation Group (2017)](video::utc505-02a;00:20:53)\n### [WannaCry (2017)](video::utc505-02a;00:23:41)\n### [NotPetya](video::utc505-02a;00:28:20)\n### [Carbanak/Cobalt](video::utc505-02a;00:39:12)\n\n1 milliard d'euros dérobés\n\n- hameçonnage ciblé (employé des banques)\n- diffusion dans le réseau interne\n- cible : les ATM\n\n## Fraude au président\n\n19 millions\n\n- Pathé 2018\n- Acquisition secrète à Dubaï\n- Comptable convaincu par le dirigeant de faire le virement\n\n## 2020 solarwinds\n\ninfection par la Russie via chaîne de compilation\n\n## Colonial Pipeline\n\nEntreprise pétrolière vitale aux US\n\n29 avril 2021 : VPN avec mot de passe valide (non multi-facteurs)\n6 mai : 100 Go de données volées\n7 main : rançongiciel Darkside\n\nEffet sur le prix du pétrole, fermeture 2 aéroports\n\nIls ont payés la rançon. 4.4 millions de dollars\n\nAttaquant : DarkSide et REvil (randsomeware as a service clé en main commission 30%). Très organisés : support, ...\n\n- réfuse d'attaquer le cyrilique\n\ndécouverte de ressources : sauvegards, serveurs distants\npropagation : annuaires en part. active directory\n\npas besoin des droit d'admin\n\ninstall et dissimule des portes dérobées\n\n## LockFile\n\ninnovation : chiffrement intermittent (partiel dans fichier pour détection plus tardive)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-26T18:44:34.246291874Z"
+  }
+}

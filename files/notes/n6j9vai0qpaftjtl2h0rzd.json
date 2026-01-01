@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "n6j9vai0qpaftjtl2h0rzd",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sécurité dans le cloud",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Sécurité dans le cloud\n\n00:50:11  Architecturer un service Cloud c'est assurer : \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\n-la gestion opérationnelle\n-la sécurité\n-la fiabilité du système\n-l'efficacité du système\n-l'optimisation des coûts\n00:51:52  Responsabilité partagée\nReponsabilité client/vendeur, selon la formule cloud : \uD83E\uDDE0\n-IaaS : frontière entre la virtualisation et la création d'instances\n-PaaS : frontière entre l'environnement d'exécution et l'application\n-Saas : vendeur entièrement responsable\nEn IaaS : le client est responsable de la sécurité\n00:54:10  Implication de la responsabilité partagée en terme de professionnels à inclure \uD83E\uDDE0\uD83E\uDDE0\n00:55:09  10 points de sécurité cloud \uD83E\uDDE0\uD83E\uDDE0\n- protéger les données sensibles\n-authentification forte\n-principe de moindre privilège d'accès\n-sécurité à tous les niveaux\n-auditer la sécurité et les évènements de sécurité\n-automatiser les bonnes pratiques de sécurité \uD83E\uDDE0\uD83E\uDDE0\n-protéger les données en transit et dormantes\n-protéger son réseau\n-être préparé aux évènements de sécurité\n00:58:26  Compromis : sécurité / fonctionnalités / facilité d'utilisation \uD83E\uDDE0\uD83E\uDDE0\n00:59:55  Bonnes pratiques de sécurité : \uD83E\uDDE0\n-définir la cible de sécurité\n-définir les mesures : organisationnelles, sensibilisation, techniques",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-15T16:13:40.994979958Z",
+    "quality" : "LOW"
+  }
+}

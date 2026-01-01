@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0020",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Bonnes pratiques",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Bonnes pratiques\n\n## Scalabilité à la conception\n\n- scalabilité à la conception pour éviter les délai d'adaptation\n- monitoring à l'aide de amazon cloud watch\n\n## automatiser l'environnement\n\n## traiter les ressources comme remplaçables\n\nPour :\npouvoir jeter celles qui sont inutiles\n\n## composants faiblement couplés\n\nUtiliser :\n- load balancers (ELB)\n- MOM\n\n## concevoir des services, pas des serveurs\n\nExemple de meilleures alternatives selon le cas :\n- conteneurs\n- files d'attente\n- ressources statiques\n- authentification\n\n## choisir la solution de base de données optimale\n\nSelon :\n- lecture/écriture?\n- taille totale, taille des éléments\n- durabilité\n- latence\n- utilisateurs simultanés\n- type de requêtes\n- besoin de confidentialité\n\n## Eviter les points unique de défaillance\n\nMauvais exemple :\nbase de données unique\n\nBon exemple :\n- base de données multiples avec usage maîtrisé de la réplication\n- serveur de secours\n\n## Optimiser la rentabilité des coûts\n\nFacteurs:\n- adéquation type de ressources / tâche\n- métriques à surveiller\n- bonne désactivation des ressources inutiles\n- prendre en compte fréquence d'utilisation des ressources\n\n## Utiliser la mise en cache\n\nDans AWS, gérée par :\nCloudFront\n\n## Sécuriser\n\n- goupes de sécurité : filtrage d'accès au groupe\n\n## Conclusion\n\n- Évaluer les compromis\n- Décider d'après des données empiriques",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.680769199Z",
+    "quality" : "LOW"
+  }
+}

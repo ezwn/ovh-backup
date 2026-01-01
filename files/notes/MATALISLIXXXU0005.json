@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Rang matrice à partir de matrice échelonnée réduite [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Connaître le rang d'une matrice grâce à l'algorithme de Gauss-Jordan.\n\nLe rang d'une matrice correspond au nombre de pivots de sa matrice échelonnée réduite.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Rang matrice à partir de matrice échelonnée réduite [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Knowing the rank of a matrix using the Gauss-Jordan algorithm.\n\nThe rank of a matrix corresponds to the number of pivots in its reduced row echelon form.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Rang matrice à partir de matrice échelonnée réduite [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Den Rang einer Matrix mit dem Gauss-Jordan-Algorithmus bestimmen.\n\nDer Rang einer Matrix entspricht der Anzahl der Pivots in ihrer reduzierten Stufenform.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Rang matrice à partir de matrice échelonnée réduite [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "通過高斯-喬丹算法了解矩陣的秩。\n\n矩陣的秩對應於其簡化梯形矩陣中的主元數量。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.055048742Z",
+    "quality" : "LOW"
+  }
+}

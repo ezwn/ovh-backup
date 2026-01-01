@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU0050",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Injection de dépendances (Spring)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Injection de dépendances (avec Spring)\n\n~?Dans Spring, pour résoudre les problèmes d’ambiguïté à l'injection :\n- ajouter un nom au composant\n- utiliser \"Qualifier\" avec \"Autowired\"\n- ou marquer avec \"Primary\" le composant prioritaire\n\n~?Pour injecter une valeur dans une application Spring :\nannoter le champ avec \"Value\".\n?Pour spécifier d'où vient cette valeur, on peut :\n- cibler une propriété à l'aide du symbole dollar\n- ou utiliser \"Spring Expression Language\" à l'aide du symbole dièse\n\n~?L'annotation Spring qui permet de changer la portée s'appelle :\n\"Scope\".\n\n~?Spring propose 4 portées pour les beans :\n\"singleton\", \"prototype\", \"request\" et \"session\".\n\n~?Quand est-ce que Spring crée un bean de type \"prototype\" ?\nà chaque demande.\n\n~?Dans un bean Spring, on peut exécuter du Code quand un bean est prêt dans :\nles méthodes annotées \"PostConstruct\".\n\n~?Dans un bean Spring, on peut exécuter du Code avant qu'un bean soit détruit dans :\nles méthodes annotées \"PreDestroy\".\n\n?Avec spring,  pour qu'un bean ne soit créé que pour un profile donné, on peut :\nannoter sa classe avec @Profile.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.089488720Z",
+    "quality" : "LOW"
+  }
+}

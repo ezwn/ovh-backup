@@ -1,0 +1,32 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "0c6mc3n6n56e7001ykvyvc",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 3",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 3\n\nVidéos :\n* [vidéo 1](video::1;00:00:00)\n* [vidéo 2](video::2;00:00:00)\n* [vidéo 3](video::3;00:00:00)\n* [vidéo 4](video::4;00:00:00)\n\n## [Gestion des correctifs](note::5lyigvari9ld6yp770q0dr)\n## [Modélisation des menaces](note::huv9us0g94yj8s496a1035)\n## [Sécurité du code](note::ax1s9y242n9a09eihs1fit)\n## [Impacts](note::d2hn7vvemubjzkjm9d393a)\n## [Gestion des risques](note::mkqxcxkle79v1s5yc2lxdl)\n## [Supervision événements sécurité](note::eu7ospzyb8sp6d4legqpmo)\n## [Organisation de la sécurité](note::v8um1kelqwlpgrw5cvv9aq)\n## [Attaques](note::j60u2k6ywxzwo675oo2mi7)\n## [Sensibilisation des utilisateurs](note::se1575cr95tblrob0odiyc)\n## [Éléments d'une politique de sécurité](note::gd5ece48tevxsdkoiwd0nt)\n## [Modèle du château fort](note::6ayza8x57bcjn2ygibpk8j)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "1" : "https://www.youtube.com/watch?v=iN4pPi7VYoE",
+        "2" : "https://www.youtube.com/watch?v=GzcjG0oUDyM",
+        "3" : "https://www.youtube.com/watch?v=4tkdkNhzHw4",
+        "4" : "https://www.youtube.com/watch?v=09hTeHOeQuY"
+      }
+    } ],
+    "modificationDate" : "2025-10-03T18:26:04.085063512Z",
+    "quality" : "LOW"
+  }
+}

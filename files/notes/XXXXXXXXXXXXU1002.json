@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU1002",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Expérimental français",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Expérimental français\n\n### [Synthèse et assimilation de corpus d'informations](note::vpqwtz1gtseq3i8fibmkt6)\n\n---\n\n### [Europe](note::eqvfv5pbf83pj6wq7h01up)\n### [Systems basés sur des LLM](note::766uweulg0ncv7d7tw0g60)\n### [Structure des dépenses des APU](note::317yfdz18wmdidixd70r91)\n### [Production mondiale de gaz à effet de serre](note::MULECOTRAXXXU0150)\n\n---\n\n### [Méthodes de sécurité défensives](note::sghvqfqjsjqfew949pkgee)\n### [Outils de sécurité offensifs](note::97kw4dk0q6267t8z2o5eig)\n### [Attaquants et motivations](note::COSSECXXXXXXU0006)\n### [Définitions de sécurité](note::31ft1zcd9gmkgwbmh3frkb)\n### [Constitution française](note::lq1tl1b30o8vaxhs3yop43)\n### [Grammaire et orthographe françaises](note::ksqduam7l2bkf6bup6bbb9)\n\n---\n\n## Réseaux\n\n### [Modèle TCP/IP](note::95uf3dqm2pigu270sxz6rq)\n### [Modèle OSI](note::v6oozw56yr1qmltxct315q)\n### [Modèles de communication réseau en couches](note::pw28ipgra0uqb3f3c8lc6x)\n\n## Administration publique\n\n### [Analyse du budget des administrations publiques](note::f0ip2yduw86ltn7ctzls4v)\n### [Coût du mille-feuille administratif](note::dfn9xsh3yaa8rf6z4ewyu0)\n### [Dépenses des collectivités territoriales françaises](note::htss1wn5mi1v3bwvleqi5k)\n### [Organisation d'une mairie](note::1soo32bfll2vlj1gh9u3z7)\n### [Compétences et budget des différentes collectivités territoriales](note::2qnb5xts6x4vm8sr33w640)\n### [Dépenses des administrations publiques françaises](note::7zr0qvotfrw9g1j6ilbgzf)\n### [Structure des administrations publiques](note::7edffausrqraura9kntg5w)\n### [Prélèvements en France](note::noe83d7fum7t5kx879t9qe)\n### [Collectivités territoriales : définition et diversité](note::7ph36xk328zpe05fd20yma)\n### [Définitions d'administration publique](note::tfqa5ye851ozbgczk94t1u)\n\n## Gestion de projets\n\n### [Méthodologie financière projet](note::8acgw0lbz8mdhczdg73wbq)\n### [Méthodes agiles populaires](note::2mde80y3di7qe2mn9jecmv)\n### [Aspects financiers d'un projet, définitions](note::2lgkhk54nxmjuveaoj0364)\n### [Choix d'une méthode de gestion de projet](note::wmm95q14bduyj5413kqydg)\n### [Rôles du chef de projet](note::jreo7k0hvyyycdptvc96uz)\n### [Conception créative](note::qujr9urqnb2os3fncdk6ay)\n\n## Comptabilité\n\n### [Définitions de comptabilité](note::ipe2271qo2lec800ym6oxu)\n\n## Sécurité informatique\n\n### [Actifs à sécuriser](note::5k97c5yw3n0ghywimndvtv)\n### [Attaques célèbres](note::ivrk300otr49k7232bi527)\n### [Stéganographie](note::fccxdc3a26opbaa228im6m)\n### [Bases de la cryptographie](note::COSSECXXXXXXU0103)\n### [Politique de sécurité](note::5561fv8k8txaz6c75ooc9q)\n### [Authentification et autorisation](note::kxn69rqct1d9jze2xo56dz)\n### [Aperçu des mesures de sécurité des SI](note::2yztyv85z3aesx7f66wx2y)\n### [Modélisation des menaces](note::kep8caowyl222f7gahdv7s)\n### [Gestion de la continuité](note::30f3u5b9kpa3b4079squwn)\n### [Impact des atteintes](note::undgha94a12q22u07zsagv)\n### [Sécurité du code](note::pd3qzsjauxb3alywlt12l2)\n### [Législation de la sécurité numérique](note::jffssvk934wgmj4npbw1v3)\n\n## Architecture des SI\n\n## Stratégie\n\n### [Négociation](note::HUSMGTTECNEGU0120)\n\n## Droit français\n\n### [Introduction, branches et sources](note::LAWXXXXXXXXXU0100)\n\n## Economie\n\n### [Facteurs de la croissance](note::hf57rzlmyi3ppj49z347q0)\n### [Grille d’analyse du modèle économique](note::6a4uzt0hxl8ny0llaufqea)\n### [Monnaie](note::je33945ix397sn378mo0ic)\n### [Monopole](note::8nfeob5juha7gm7ganjrcx)\n### [Keynésianisme](note::HUSECOXXXXXXU0100)\n### [Marché de concurrence pure et parfaite](note::HUSECOXXXXXXU1100)\n### [Agrégats de revenus](note::HUSECOXXXXXXU1025)\n\n## Psychologie\n\n## Politique\n\n### [Organisation des pouvoirs et juridictions](note::LAWXXXXXXXXXU0200)\n### [Le pouvoir exécutif](note::HUSPOSGPOXXXU0045)\n### [Les régimes électoraux](note::HUSPOSGPOXXXU0035)\n### [La souveraineté et ses modes d’expression](note::HUSPOSGPOXXXU0025)\n\n## Géopolitique",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T07:25:58.307Z",
+    "quality" : "LOW"
+  }
+}

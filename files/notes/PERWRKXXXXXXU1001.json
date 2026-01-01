@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1001",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Credit Suisse : en parler",
+      "description" : "Description de mon expérience professionnelle chez Credit Suisse",
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "#% Parler de Credit Suisse\n\n?~ Mes rôles chez Credit Suisse :\n- lead technique\n- release manager\n- **ingénieur de support** (**niveau 3**)\n- ingénieur full-stack\n\n?~ Mes tâches d'interfaçage avec le métier :\n- gestion du backlog\n- alignement des objectifs techniques avec le métier\n- publication d'indicateurs de progression\n\n?~ Mes tâches d'optimisation de la production de valeur :\n- scrum Mastering\n- définition et suivi d'indicateurs de performance\n- prise en compte des stratégies individuelles\n- participation aux développements critiques\n\n?~ Mes tâches de gestion des connaissances :\n- **cartographie technique** de l'application et de ses **interactions**\n- **inventaire** et **documentation** des **bonnes pratiques**\n- **animation de présentations** : clean code, SOLID\n- revue de code\n- animation de retrospectives\n- coaching\n\n?~ Mes tâches de gestion structurelle de l'équipe :\n- expression des besoins en ressources humaines\n- conduite d'entretiens\n- évaluation technique\n- sélection de prestataires\n\n?~ Exemples de composants développés :\n- audit trail métier\n- **comparateur** visuel de **dossiers**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Discussing Credit Suisse in a Job Interview",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "#% Talking about Credit Suisse\n\n?~My roles at Credit Suisse:\n- technical lead\n- release manager\n- **support engineer** (**level 3**)\n- full-stack engineer\n\n?~My tasks in business interfacing:\n- backlog management\n- aligning technical objectives with business goals\n- publishing progress indicators\n\n?~My tasks in optimizing value delivery:\n- scrum mastering\n- defining and monitoring performance indicators\n- taking individual strategies into account\n- participating in critical developments\n\n?~My tasks in knowledge management:\n- **technical mapping** of the application and its **interactions**\n- **inventory** and **documentation** of **best practices**\n- **leading presentations**: clean code, SOLID\n- code review\n- leading retrospectives\n- coaching\n\n?~My tasks in structural team management:\n- expressing human resource needs\n- conducting interviews\n- technical assessment\n- selecting service providers\n\n?~Examples of developed components:\n- business audit trail\n- visual **comparison tool** for **files**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Über die Credit Suisse in einem Vorstellungsgespräch sprechen",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "#% Über Credit Suisse sprechen\n\n?~Meine Rollen bei Credit Suisse:\n- technischer Leiter\n- Veröffentlichungsleiter\n- **Supportingenieur** (**Stufe 3**)\n- Full-Stack-Ingenieur\n\n?~Meine Aufgaben im Austausch mit dem Fachbereich:\n- Backlog-Management\n- Abstimmung der technischen Ziele mit dem Fachbereich\n- Veröffentlichung von Fortschrittsindikatoren\n\n?~Meine Aufgaben zur Optimierung der Wertschöpfung:\n- Scrum Mastering\n- Definition und Nachverfolgung von Leistungskennzahlen\n- Berücksichtigung individueller Strategien\n- Teilnahme an kritischen Entwicklungen\n\n?~Meine Aufgaben im Wissensmanagement:\n- **technische Kartographie** der Anwendung und ihrer **Interaktionen**\n- **Inventar** und **Dokumentation** der **Best Practices**\n- **Präsentationsleitung**: Clean Code, SOLID\n- Code-Review\n- Moderation von Retrospektiven\n- Coaching\n\n?~Meine Aufgaben im strukturellen Teammanagement:\n- Formulierung des Personalbedarfs\n- Durchführung von Gesprächen\n- technische Bewertung\n- Auswahl von Dienstleistern\n\n?~Beispiele für entwickelte Komponenten:\n- Geschäfts-Audit-Trail\n- **visueller** vergleich von **Unterlagen**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.192221794Z",
+    "quality" : "LOW"
+  }
+}

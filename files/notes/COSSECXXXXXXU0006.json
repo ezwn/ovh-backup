@@ -1,0 +1,25 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSECXXXXXXU0006",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Attaquants et motivations",
+      "description" : "En sécurité informatique qui peuvent être les attaquants et pourquoi agissent-ils ?",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Attaquants et motivations\n\n?~En sécurité, attaquants possibles :\n- amateurs\n- employés\n- concurrents\n- escrocs\n- crime organisé\n- terrorisme\n- gouvernements\n- espionnage\n\n?~En sécurité, motivations des attaquants :\n- nuisance\n- vol d'informations\n- falsification\n- détournement",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-08T05:23:53.042849533Z"
+  }
+}

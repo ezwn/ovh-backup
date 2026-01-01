@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0988",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Nexthink : en parler",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Expérience chez Nexthink\n\n?~Qu'ais-je fait chez Nexthink ?\n- **architecture** et **conception** technique\n- développement full-stack\n- scrum mastering\n- promotion de **bonnes pratiques**\n-sécurisation de code et d'images docker\n\n?~Quels éléments backend critiques ai-je conçus ?\n**Permissions granulaires**, **import/export de campagnes**.\n\n?~Quelles optimisations ai-je mises en place ?\n**Cache**, **circuit breaker**, **optimisation de requêtes**.\n\n?~Quelles bibliothèques partagées ai-je conçues ?\n**Client REST générique**, **producteur Kafka de logs d’audit**.\n\n?~Quels composants React ai-je créés ou modifiés ?\n**Bandeau statistiques**, **éditeur texte riche**, **formulaire de saisie de campagnes**.\n\n?~Ai-je collaboré avec d’autres équipes ?\n**Oui**, avec **Data Plateform** pour le **client BCS**.\n\n?~Quelles bonnes pratiques ai-je impulsées ?\n**Validation côté serveur**, **documentation des processus**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Experience at Nexthink\n\n?~What did I do at Nexthink?\n- **architecture** and technical **design**\n- full-stack development\n- scrum mastering\n- promoting **good practices**\nsecuring code and Docker images\n\n?~What critical backend elements did I design?\n**Granular permissions**, **campaign import/export**.\n\n?~What optimisations did I implement?\n**Caching**, **circuit breaker**, **query optimisation**.\n\n?~What shared libraries did I design?\n**Generic REST client**, **Kafka audit log producer**.\n\n?~What React components did I create or modify?\n**Statistics banner**, **rich text editor**, **campaign input form**.\n\n?~Did I collaborate with other teams?\n**Yes**, with **Data Platform** for the **BCS client**.\n\n?~What good practices did I instigate?\n**Server-side validation**, **process documentation**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Erfahrung bei Nexthink\n\n?~Was habe ich bei Nexthink gemacht?\n- **Architektur** und technisches **Design**\n- Full-Stack-Entwicklung\n- Scrum-Mastering\n- Förderung von **Best Practices**\nAbsicherung von Code und Docker-Images\n\n?~Welche kritischen Backend-Elemente habe ich entworfen?\n**Granulare Berechtigungen**, **Import/Export von Kampagnen**.\n\n?~Welche Optimierungen habe ich umgesetzt?\n**Cache**, **Circuit Breaker**, **Optimierung von Abfragen**.\n\n?~Welche gemeinsam genutzten Bibliotheken habe ich entworfen?\n**Generischer REST-Client**, **Kafka-Producer für Audit-Logs**.\n\n?~Welche React-Komponenten habe ich erstellt oder modifiziert?\n**Statistikbanner**, **Rich-Text-Editor**, **Eingabeformular für Kampagnen**.\n\n?~Habe ich mit anderen Teams zusammengearbeitet?\n**Ja**, mit der **Data Platform** für den **BCS-Client**.\n\n?~Welche Best Practices habe ich initiiert?\n**Serverseitige Validierung**, **Dokumentation von Prozessen**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.502054163Z",
+    "quality" : "LOW"
+  }
+}

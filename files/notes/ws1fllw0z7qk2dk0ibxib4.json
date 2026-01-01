@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ws1fllw0z7qk2dk0ibxib4",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Développement logiciel assisté par IA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Développement logiciel assisté par IA\n\nOffres au 11.10.2025 à Paris :\n- Claude Code : 3\n- Cursor : 19\n- GitHub Copilot : 22\n\nTechnologies :\n- Claude Code : cher, moins bon sur le niveau repository\n- Cursor: équilibre coût/performance/échelle\n- GitHub Copilot : bien intégré, convivial, niveau unitaire",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-11T05:06:22.240968299Z"
+  }
+}

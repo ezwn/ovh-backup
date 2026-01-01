@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ayq39cjdmzqfbpb1vzi2va",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Vulnérabilités en sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Vulnérabilités en sécurité\n\n~?Quels sont les principaux points d'accès ?\n- réseau\n- employés (manipulation, infiltration)\n- accès physique\n\n^une protection // {\"headword\":\"protection\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^un manque // {\"headword\":\"manque\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n~?Quelles idées fausses favorisent le manque de protection ?\n- une seule barrière suffit (ex.: firewall, chiffrement)\n- nous ne sommes pas une cible\n\nlogiciels gratuits non vérifiés\n\nordinateurs en libre service\n\nzero-day : vulnérabilité non publiée",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-01T06:08:55.530538133Z",
+    "quality" : "LOW"
+  }
+}

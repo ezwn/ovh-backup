@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVSPRU0350",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dépôts JPA et Spring Data",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Dépôts JPA et Spring Data\n\n?Dans un repository, pour lié une méthode à une requête $$JPQL$$, utiliser :\nles annotations Query et éventuellement Modifying.\n\n?Pour choisir l'ordre d'une liste on peut utiliser :\nl'annotation OrderBy sur l'entité.\n\n## Vocabulaire des noms de méthodes\n\n?Comment exprimer supérieur ou égal ?\nPar GreaterThanEqual.\n\n?Comment exprimer la non-inclusion ?\nPar NotIn.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.404679294Z",
+    "quality" : "LOW"
+  }
+}

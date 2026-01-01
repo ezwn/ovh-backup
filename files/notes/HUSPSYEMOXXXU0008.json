@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU0008",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorie bi-factorielle [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "En 1964,\nSchachter établi que l'émotion résulte :\nd'une activation physiologique non spécifique,\net d'une interprétation cognitive qui labellise cet état.\n\nUn sujet reçois une injection d'épinéphrine,\nmais il n'en connaît pas les effets.\nDans certains cas,\nil recherche alors les raisons de cette stimulation dans la situation.\nC'est la première théorie cognitive de l'émotion.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Théorie bi-factorielle [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "In 1964,\nSchachter established that emotion results from:\na non-specific physiological activation,\nand a cognitive interpretation that labels this state.\n\nA subject receives an injection of epinephrine,\nbut they do not know its effects.\nIn certain cases,\nthey then seek the reasons for this stimulation in the situation.\nThis is the first cognitive theory of emotion.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Théorie bi-factorielle [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Im Jahr 1964,\nstellte Schachter fest, dass Emotionen resultieren aus:\neiner unspezifischen physiologischen Aktivierung,\nund einer kognitiven Interpretation, die diesen Zustand kennzeichnet.\n\nEin Proband erhält eine Injektion von Epinephrin,\nkennt aber nicht die Auswirkungen.\nIn einigen Fällen,\nsucht er dann nach den Gründen für diese Stimulation in der Situation.\nDas ist die erste kognitive Theorie der Emotion.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Théorie bi-factorielle [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在1964年，\nSchachter 发现情绪产生于：\n一种非特定的生理激活，\n和对这种状态的认知解释。\n\n一个受试者接受了肾上腺素的注射，\n但他不知道其效果。\n在某些情况下，\n他会在情境中寻找这种刺激的原因。\n这是第一个认知情绪理论。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.650723639Z",
+    "quality" : "LOW"
+  }
+}

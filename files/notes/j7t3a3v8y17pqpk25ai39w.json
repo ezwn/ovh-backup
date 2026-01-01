@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "j7t3a3v8y17pqpk25ai39w",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 3 ✔️",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 3 ✔️\n\n## Repérage\n\n[Analyse courrier du 9.25 du premier ministre aux maires : décentralisation ? clarification des rôles ?](video::avt208-3-1;00:02:15)\n[Volonté du premier ministre : clarification des responsabilités, finances, efficacité](video::avt208-3-1;00:07:06)\n[Focus de séance 3 : poids économique des collectivités et re-situation dans économie globale](video::avt208-3-1;00:10:20)\n[Secteurs d'acteurs économique INSEE : par objectifs et sources de financement similaires](video::avt208-3-1;00:11:04)\n[Acteurs économiques et focus sur les admininstration publiques : production services non marchand et redistribution](video::avt208-3-1;00:12:01)\n[Les sources de financement : versement obligatoires + cotisations](video::avt208-3-1;00:13:39)\n[La redistribution est assurée par la sécurité sociale](video::avt208-3-1;00:14:54)\n[3 types d'administrations publiques INSEE : centrales, locales et sociales](video::avt208-3-1;00:16:15)\n[Administrations publiques centrales : Etat et organismes d'admin centrale](video::avt208-3-1;00:16:15)\n[Administration publiques locales : Collectivités et organismes d’administration locale](video::avt208-3-1;00:18:16)\n\nCritères d'inclusion :\n- non marchand\n\n[Administrations de sécurité sociale : collecte, financement et action](video::avt208-3-1;00:26:58)\n[Les APUL dépensent 11% du PIB](video::avt208-3-1;00:28:40)\n[Dépenses des APU par sous-secteur](video::avt208-3-1;00:30:42)\n[Les CT représentent 48% de l'investissement public](video::avt208-3-1;00:34:22)\n[Un graphique qui ne sert à rien](video::avt208-3-1;00:36:27)\n[L'essentiel de l'augmentation des dépenses publiques s'explique par l'augmentation des dépenses des ASSO](video::avt208-3-1;00:39:22)\n[Les décentralisations s'accompagnent d'augmentation des dépenses des CT. Depuis 2010 c'est plat](video::avt208-3-1;00:41:10)\n[Autres facteurs de variation des dépenses des CT : décisions politiques, investissements, en rapport avec les mandats](video::avt208-3-1;00:44:06)\n[Influencé aussi par variation du PIB](video::avt208-3-1;00:46:53)\n[Ressources des APU, APUC, APUL et ASSO](video::avt208-3-1;00:47:55)\n[Principaux impôts des prélévements obligatoires](video::avt208-3-1;00:49:10)\n[Taxe de rendement et taxe comportementale](video::avt208-3-1;00:53:00)\n[Depuis les années 1970, les recettes publiques sont systématiquement inférieures aux dépenses](video::avt208-3-1;00:56:25)\n[Dépenses et recettes varient avec la conjoncture](video::avt208-3-1;00:59:30)\n[Impact important des retraites](video::avt208-3-1;01:00:45)\n[Déficit important et financement par l'emprunt](video::avt208-3-1;01:01:13)\n[Déficit >> Emprunt >> Dette](video::avt208-3-1;01:02:38)\n[Répartition de la dette : APUC 83%, ASSO 9%, APUL 8%](video::avt208-3-1;01:03:10)\n[Le CT contribuent relativement peu au déficit](video::avt208-3-1;01:04:02)\n[Limite Euro déficit : 3%](note::a2ed01pu8q6ziyr1vx2e2d)\n[Que devient l'excédent des CT?](video::avt208-3-1;01:10:01)\n[Contrairement à l'État, led CT ne peuvent recourir à l'emprunt que pour investir](video::avt208-3-1;01:11:21)\n[Les CL s'endettent moins que l'administration centrale](video::avt208-3-1;01:13:15)\n[Etat : dépenses - recettes = déficit. Le remboursement de la dette génère de la dette](video::avt208-3-1;01:15:56)\n[Selon Bayrou le remboursement de la dette est la charge de l'Etat la plus élevée](video::avt208-3-1;01:18:42)\n[Qui prête à l'État français ?](video::avt208-3-1;01:19:33)\n[Obligations française : sûreté et rendement](video::avt208-3-1;01:20:56)\nNotes de l'État = capacité à rembourser\n[Pour les CT, légalement : dépenses courantes couvertes par recettes courantes](video::avt208-3-1;01:24:23)\nEmprunt uniquement pour investissement\n01:29:10  Engagement partenaires euro : réduction du déficit en dessous de 3% en 2029\n1 31 55  Plan Bayrou pour réduire la dette de 43,8 milliards d'euros\n1 33 50  Contribution des APUL : 5.3 milliards d'euros\n1 37 40  Investissement local : variable d'ajustement pour les APUL\n1 40 00  Le CT ressentent cela comme injustifié (pas responable de la dette), pas proportionnel\nmoins de dépenses de fonctionnement > moins d'investissement\nterritoires industriels plus ciblés ?\n1 43 15  Certaines mesures sont ponctuelles et d'autres augmentent dans le temps\n1 47 35  Question de Jean : l'inflation prise en compte ou pas ?",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "avt208-3-1" : ""
+      }
+    } ],
+    "modificationDate" : "2025-11-01T12:28:46.185146185Z",
+    "quality" : "LOW"
+  }
+}

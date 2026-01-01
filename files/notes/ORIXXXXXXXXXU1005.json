@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ORIXXXXXXXXXU1005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "IRA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Référentiel des compétences - Concours IRA\n\nEntrée : niveau licence\nConcours avec garantie de poste après formation rémunérée\n\nDevenir attaché d’administration de l’État\nAprès réussite du concours, vous intégrez un IRA (il en existe 5 en France, dont un à Paris).\n\nVous suivez 6 mois de formation rémunérée (environ 1 700–1 800 €/mois net).\n\nÀ la fin, vous êtes nommé fonctionnaire titulaire de catégorie A, sur un poste administratif dans un ministère ou une préfecture.\n\n## 1. Conduite de l’action publique\n\n- Conception et mise en œuvre : traduire des orientations en actions concrètes.\n- Évaluation des politiques : mesurer les résultats et ajuster les actions.\n- Coordination partenariale : travailler avec d’autres services ou institutions.\n- Veille stratégique : anticiper les évolutions administratives.\n\n## 2. Ressources humaines\n\n- Gestion administrative : suivre la carrière et les droits des agents.\n- Recrutement et intégration : organiser les concours et accueillir les nouveaux.\n- Formation et développement : piloter la montée en compétences.\n- Dialogue social : coopérer avec les représentants du personnel.\n- Pilotage RH : anticiper les besoins et gérer les effectifs.\n\n## 3. Compétences juridiques\n\n- Droit administratif : appliquer les règles de l’action publique.\n- Organisation administrative : comprendre l’articulation des structures.\n- Procédure : sécuriser les actes administratifs.\n- Commandes publiques : suivre les règles des marchés publics.\n- Droit du travail public : garantir les conditions de travail.\n\n## 4. Pilotage des ressources\n\n- Finances publiques : construire et exécuter un budget.\n- Logistique : gérer les moyens matériels d’un service.\n- Systèmes d’information : utiliser et sécuriser les données.\n- Contrôle interne : fiabiliser les processus de gestion.\n\n## 5. Management\n\n- Encadrement : organiser l’activité quotidienne des agents.\n- Conduite d’équipe : motiver et évaluer ses collaborateurs.\n- Conduite du changement : accompagner les transformations.\n- Management par objectifs : suivre la performance d’un service.\n\n## 6. Communication et transition numérique\n\n- Communication institutionnelle : informer le public avec clarté.\n- Communication interne : partager l’information en équipe.\n- Usages numériques : maîtriser les outils informatiques.\n- Transformation numérique : conduire la dématérialisation des services.\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.059005608Z",
+    "quality" : "LOW"
+  }
+}

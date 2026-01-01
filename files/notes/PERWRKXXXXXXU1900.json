@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1900",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "MNT : notes consolidée pour LLM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "### Expérience à la Mutuelle Nationale Territoriale (MNT)\n\n**Rôle** : Technical Designer, Lead Développeur Frontend, Développeur Backend\n**Équipe** : 5 personnes\n**Méthodologie** : Scrum (participation active aux cérémonies, estimations, conception technique)\n\n#### Projet principal\nDéveloppement d'une application web destinée aux agents, offrant une **vue 360° des adhérents**.\n\n- **Conception technique** et **mise en place de la base technologique** de l'application.\n- Implémentation de la **gestion d'état**, des **interactions REST**, et des **tests automatisés**.\n- Développement de **composants d'interface utilisateur** réutilisables.\n- Formation d'un autre développeur sur Angular\n- Définition de bonnes pratiques de design logiciel frontent/angular\n\n#### Fonctionnalités\nAjout de nouvelles fonctionnalités aux deux espaces suivants :\n- **Espace adhérent**\n- **Espace élu**\n\nTravaux réalisés :\n- Développement d’**interfaces graphiques**.\n- Création de **services web REST** (micro-services).\n- **Correction de bugs**.\n- **Conception de la base de données** et rédaction de **requêtes SQL**.\n\n#### Environnement technique\n- **Frontend** : Angular, RxJS, React, Redux, Jest\n- **Backend** : Java/Spring, NodeJS/Express, Scala/Play\n- **Bases de données** : PostgreSQL, MongoDB, SQL Server\n- **Autres** : SQL, procédures stockées, Kafka",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.181052470Z",
+    "quality" : "LOW"
+  }
+}

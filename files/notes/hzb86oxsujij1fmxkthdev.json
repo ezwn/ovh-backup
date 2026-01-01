@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "hzb86oxsujij1fmxkthdev",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 1 réseaux",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 1 réseaux\n\n## Repérage \"Networking Basics\" (vidéo b)\n\n00 30   Plan\n1 4   LAN : communication direct entre machines\n1 42   IP : identificateur unique des machines dans le réseau\n2 48   Switch : redirige les messages vers le bon destinataire selon l'IP dans le LAN \uD83E\uDDE0\n4 15   Routeur : à la sortie du LAN vers les WAN \uD83E\uDDE0\n5 05   Sous-réseau : défini par un masque qui défini la fourchette d'adresses internes \uD83E\uDDE0\n7 55   Chaque machine a besoin de : IP, sous-réseau, passerelle (adresse du routeur) \uD83E\uDDE0\n8 41   WAN\n8 50   Fonctions du routeur : Network Address Translation, DMZ, Firewall, Port Forwarding\n9 13   Network Address Translation\n10 40   Firewall : set of passing rules\n11 13   DMZ : le routeur redirige une requête vers la DMZ puis la communication directe est possible \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0\n12 40   Portforwarding\n\n## Repérage vidéo principale\n\nSystèmes autonomes : \uD83E\uDDE0\nensemble de routeurs qui gère les infrastructures de réseaux IP\n\nRegistre Internet Régional :\nOrganisme référençant les système autonomes d'une grande région (continent)\n\nInternet :\nRéseau de réseaux qui utilisent les protocoles TCP/IP\n\n[Eléments basiques et principes généraux des réseaux](video::utc505-r01;00:01:05)\n[La complexité explique l'apparition des modèles à 7 couches (OSI) puis 5 couches (TCP/IP) \uD83E\uDDE0](video::utc505-r01;00:02:57)\n[Périphérique > Commutateur > Routeur > Routeur > Router > Destination](video::utc505-r01;00:04:45)\n[Généralités sur les réseaux](video::utc505-r01;00:05:40)\n[LAN : petit réseau local](video::utc505-r01;00:07:10)\n[Réseau de réseaux (exemples services)](video::utc505-r01;00:07:57)\n[Il existe des réseaux régionaux (reliant par exemple les centres de recherche)](video::utc505-r01;00:08:55)\n[Systèmes autonomes, ensemble de routeurs, gèrent infra de réseaux IP publiques, reliés pour former Internet \uD83D\uDD0D](video::utc505-r01;00:11:30)\n[Registre Internet Régional : organisme gérant les système autonomes d'une grande région (continental) \uD83D\uDD0D](video::utc505-r01;00:14:02)\n[Historique puis rôle des RIR \uD83D\uDD0D](video::utc505-r01;00:14:57)\n[Internet réseau de réseaux qui utilisent les protocoles TCP/IP](video::utc505-r01;00:17:32)\n[De la Request For Comment au Strandard \uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0](video::utc505-r01;00:18:35)\n[PAN, LAN, MAN et WAN](video::utc505-r01;00:19:59)\n[Mode de transfert : circuit, commuté, virtuel, ...](video::utc505-r01;00:22:05)\n[Nature du médium : filaire, sans fil...](video::utc505-r01;00:24:00)\n[Schéma PAN, LAN, ...](video::utc505-r01;00:24:38)\n[Serveur dédié et peer to peer \uD83E\uDDE0](video::utc505-r01;00:25:29)\n[MAN](video::utc505-r01;00:26:30)\n[WAN](video::utc505-r01;00:27:07)\n[Histoire des réseaux et communications](video::utc505-r01;00:27:40)\n[Commutation et routage : trouver un chemin](video::utc505-r01;00:29:50)\n[Circuit virtuel : un packet ouvre la voie les autres suivent](video::utc505-r01;00:32:39)\n33 23   Organisation de standardisation\n33 35   Internet Engineering Task Force (IETF) : auteurs des RFC\n35 00   ISO et International Electrotechnical Commission\n38 00   ETSI\n28 30   3GPP : les mobiles\n40 00",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-r01" : ""
+      }
+    } ],
+    "modificationDate" : "2025-11-01T16:39:09.917904564Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU1000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cloud computing",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Cloud Computing\n\n## [Could: généralités et notion clés](note::COSARCXXXXXXU1010)\n\n## [Types de cloud](note::COSARCXXXXXXU1020)\n\n## Migration vers Cloud\n\nCandidats :\n- serveur web\n- messagerie\n- serveur d'applications\n- tests logiciels\n- SOA\n\nPoints de vigilance :\n- **confidentialité** et **réglementation données** (CNIL et pays d'hébergement)\n- faisabilité\n\nEtapes projet de migration :\n- planification\n- choix des outils\n- préparation\n- tests\n- **déploiement** et **contrôle**\n\nRegroupements possibles :\n- DMZ\n- zones de sécurité\n- selon **sensibilité des données**\n- par **environnement** (production, pré-poduction)\n\nQuestions de gouvernance :\n- qui gère chaque VM ?\n- qui décide des ressource assignées ?\n\nQuestion de la réversibilité :\n- peut-on quitter le mode cloud ?\n- peut-on changer de fournisseur ?",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.061137997Z",
+    "quality" : "LOW"
+  }
+}

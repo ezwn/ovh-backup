@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "LAWXXXXXXXXXU0200",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Organisation des pouvoirs et juridictions",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Organisation des pouvoirs et juridictions\n\n## Séparation des pouvoirs publics\n\n~? **Pouvoirs publics** et **fonction** :\n- **législatif**, le **Parlement**, qui vote la loi\n- **exécutif**, le **gouvernement**, qui **applique la loi** et **gère les affaires de l'État**\n- **judiciaire**, les **juges** et **tribunaux**, qui **tranchent les litiges** en **appliquant le droit**\n\n## Organisation juridictionnelle\n\n~? **Institutions** de l'**organisation juridictionnelle** :\n- L'**Ordre judiciaire** compétent pour les **litiges de droit privé**\n- L'**Ordre administratif** compétent pour les **litiges de droit public**\n- Le **Conseil constitutionnel** qui vérifie la **conformité des lois à la Constitution**\n- Le **tribunal des conflits** qui tranche les **questions de compétence entre les deux ordres**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-05T18:04:06.022312115Z"
+  }
+}

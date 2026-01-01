@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0001",
+  "content" : {
+    "domain" : "LOGIC_IN_MATHEMATICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Implication en logique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Implication en logique\n\n?~Quelle expression pratique est équivalente à $$P$$ implique $$Q$$ ?\nnon $$P$$ ou $$Q$$.\n\n?~Quel est le seul cas où $$P$$ implique $$Q$$ est fausse ?\n$$P$$ est vraie et $$Q$$ est fausse.\n\n?~Quelle est la contraposée de $$P$$ implique $$Q$$, qui lui est équivalente ?\nNon $$Q$$ implique non $$P$$.\n\n@## Exercices\n\n€?### Quelle est la négation de $$\\neg (P \\Rightarrow Q)$$ ? // {\"id\":\"123456789\"}\nRéponse : $$P \\wedge \\neg Q$$",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Implication",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Implication in Logic\n\n?~Which practical expression is equivalent to $$P$$ implies $$Q$$?\nnot $$P$$ or $$Q$$.\n\n?~What is the only case where $$P$$ implies $$Q$$ is false?\n$$P$$ is true and $$Q$$ is false.\n\n?~What is the contrapositive of $$P$$ implies $$Q$$, which is equivalent to it?\nNot $$Q$$ implies not $$P$$.\n\n@## Exercises\n\n€?### What is the negation of $$\\neg (P \\Rightarrow Q)$$? // {\"id\":\"123456789\"}\nAnswer: $$P \\wedge \\neg Q$$",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.109803749Z",
+    "quality" : "LOW"
+  }
+}

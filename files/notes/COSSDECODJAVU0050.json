@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0050",
+  "content" : {
+    "domain" : "JAVA_PROGRAMMING_LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Covariance et contra-variance en java",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "En java,\nune méthode qui en redéfini une autre,\npeut retourner un sous-type du type retourné par la méthode parente.\nC'est la covariance.\n\nPour les arguments,\nc'est le contraire,\net ceux de la méthode fille devraient être des super-types de ceux de la méthode parente.\nC'est la contra-variance,\nqui n'est pas supportée en Java.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Covariance et contra-variance [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "In Java,\nan overridden method\ncan return a subtype of the type returned by the parent class method.\nThis is covariance.\n\nFor the arguments,\nit's the opposite,\nand those of the overridden method should be supertypes of those of the parent method.\nThis is contravariance,\nwhich is not supported in Java.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Covariance et contra-variance [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "In Java,\neine umdefinierte Methode\nkann einen Untertyp des von der Methode der Elternklasse zurückgegebenen Typs zurückgeben.\nDas ist die Kovarianz.\n\nBei den Argumenten\nist es das Gegenteil,\nund die der umdefinierten Methode sollten Supertypen derer der Elternmethode sein.\nDas ist die Kontravarianz,\ndie in Java nicht unterstützt wird.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Covariance et contra-variance [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在java中，\n一个重定义的方法，\n可以返回一个父类方法返回类型的子类型。\n这是协变。\n\n对于参数，\n情况正好相反，\n重定义方法的参数应该是父类方法参数的超类型。\n这是逆变，\n但Java不支持。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.557335244Z",
+    "quality" : "LOW"
+  }
+}

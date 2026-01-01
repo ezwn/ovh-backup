@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0004",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Résolution système linéaire à partir de matrice échelonnée réduite [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Résolution de système linéaire grâce à l'algorithme de Gauss-Jordan\n\nLa matrice échelonnée réduite obtenue à partir de la matrice augmentée d'un système linéaire nous indique :\nque le système n'admet pas de solution,\nsi le dernier pivot est dans la colonne de droite.\nOu sinon, que le système admet une ou plusieurs solutions.\nDans ce cas :\ns'il y a autant de pivots que d'inconnues,\nle système a une seule solution.\ns'il y a moins de pivots que d'inconnues,\nle système a une infinité de solutions.\n\nSi le système n'admet pas de solution,\nl'ensemble des solutions est vide.\nSi le système admet une solution,\nl'ensemble des solutions est le singleton contenant cette solution.\nEnfin, si le système admet une infinité de solutions :\non transcrit la matrice échelonnée réduite en un nouveau système.\non isole les variables des pivots à gauche.\nl'ensemble des solutions est caractérisé par les membres à droite des pivots\net les inconnus restantes.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Résolution système linéaire à partir de matrice échelonnée réduite [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Solving a Linear System with the Gauss-Jordan Algorithm\n\nThe reduced row echelon form obtained from the augmented matrix of a linear system indicates:\nthat the system has no solution,\nif the last pivot is in the rightmost column.\nOtherwise, that the system has one or more solutions.\nIn this case:\nif there are as many pivots as unknowns,\nthe system has a single solution.\nif there are fewer pivots than unknowns,\nthe system has an infinite number of solutions.\n\nIf the system has no solution,\nthe set of solutions is empty.\nIf the system has a solution,\nthe set of solutions is the singleton containing this solution.\nFinally, if the system has an infinite number of solutions:\nthe reduced row echelon form is transcribed into a new system.\nthe pivot variables are isolated on the left.\nthe set of solutions is characterized by the terms on the right of the pivots\nand the remaining unknowns.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Résolution système linéaire à partir de matrice échelonnée réduite [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Lösen eines linearen Gleichungssystems mit dem Gauss-Jordan-Algorithmus\n\nDie reduzierte Stufenformmatrix, die aus der erweiterten Matrix eines linearen Systems erhalten wird, zeigt uns:\ndass das System keine Lösung hat,\nwenn der letzte Pivot in der rechten Spalte ist.\nAndernfalls, dass das System eine oder mehrere Lösungen hat.\nIn diesem Fall:\nwenn es genauso viele Pivots wie Unbekannte gibt,\nhat das System eine eindeutige Lösung.\nwenn es weniger Pivots als Unbekannte gibt,\nhat das System unendlich viele Lösungen.\n\nWenn das System keine Lösung hat,\nist die Lösungsmenge leer.\nWenn das System eine Lösung hat,\nist die Lösungsmenge das Singleton, das diese Lösung enthält.\nSchließlich, wenn das System unendlich viele Lösungen hat:\nman transkribiert die reduzierte Stufenformmatrix in ein neues System.\nman isoliert die Pivots-Variablen auf der linken Seite.\ndie Lösungsmenge wird durch die Elemente auf der rechten Seite der Pivots\nund die verbleibenden Unbekannten charakterisiert.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Résolution système linéaire à partir de matrice échelonnée réduite [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "利用高斯-喬丹消去法解線性方程組\n\n從線性方程組的增廣矩陣得到的簡化階梯形矩陣告訴我們：\n系統沒有解，\n如果最後一個主元在最右邊的列中。\n否則，系統有一個或多個解。\n在這種情況下：\n如果主元的數量等於未知數的數量，\n系統只有一個解。\n如果主元的數量少於未知數的數量，\n系統有無限多個解。\n\n如果系統沒有解，\n解集是空集。\n如果系統有一個解，\n解集是包含這個解的單元素集。\n最後，如果系統有無限多個解：\n我們將簡化階梯形矩陣轉換為新的方程組。\n我們將主元變量隔離在左邊。\n解集由主元右側的項\n和剩餘的未知數來表徵。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.508154994Z",
+    "quality" : "LOW"
+  }
+}

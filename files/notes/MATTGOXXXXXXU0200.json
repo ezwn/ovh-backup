@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATTGOXXXXXXU0200",
+  "content" : {
+    "domain" : "TRIGONOMETRY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cosinus et sinus, l'essentiel",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "~?sinus carré α plus cosinus carré α égal\nun.\n\n~?cosinus α plus θ égal\ncosinus α cosinus θ moins sinus α sinus θ.\n\n~?sinus α plus θ égal\ncosinus α sinus θ plus sinus α cosinus θ.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Cosinus et sinus, l'essentiel",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "~?sine squared α plus cosine squared α equals\none.\n\n~?cosine α plus θ equals\ncosine α cosine θ minus sine α sine θ.\n\n~?sine α plus θ equals\ncosine α sine θ plus sine α cosine θ.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.489665502Z",
+    "quality" : "LOW"
+  }
+}

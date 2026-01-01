@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "2lgkhk54nxmjuveaoj0364",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Aspects financiers d'un projet, définitions",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Aspects financiers d'un projet, définitions\n\n~?Coûts fixes :\n**coûts** **indépendants** du **niveau d'activité**\n\n~?Coûts variables :\n**coûts** **variant** **avec** le **niveau d'activité**\n\n~?Résultat net :\n**différence** entre **revenus** et **coût total**\n\n~?**Seuil de rentabilité** ou **point mort** :\n**niveau d'activité** **pour lequel** le **résultat d'exploitation** est **égal** à **zéro**\n\n~?**Coût** **sur** la **durée de vie** d'un **équipement** :\n**investissement** **plus** **années de vie** **fois** **coût** **annuel** d'**exploitation**\n\n~?**Retour sur investissement** du **projet** :\n**à date**, ou sur la **durée de vie du projet**,\n**gains moins** **coûts**, **le tout divisé par** les **coûts**\n\n~?Flux de trésorerie :\n**encaissements moins** **décaissements** sur une **période donnée**\n\n~?Délai de récupération :\n**temps** nécessaire **pour** que les **flux de trésorerie cumulés** générés par un **investissement** **égalent** son **coût initial**\n\n~?Capex :\ndépenses en capital\n\n~?Opex :\ndépenses en opérations",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-10T13:57:35.563717618Z",
+    "quality" : "LOW"
+  }
+}

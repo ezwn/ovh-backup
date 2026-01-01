@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "tc3whobuxwr7i0t9twcw7a",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "vidéo 4c",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# vidéo 4c\n\n[Cryptographie historique : substitution et transposition](video::utc505-04b;00:00:43)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-04b" : "",
+        " utc505-04c" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-16T17:54:56.502370577Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "64t85rynwykwwgbh1fnqi5",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 3 : Méthodologie de gestion de projet",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 3 : Méthodologie de gestion de projet\n\n~? PM² :\nméthodologie développée par la Commission européenne pour gérer les projets insitutionnels\n\n~? Project Management Institute :\norganisation professionnelle internationale dédiée à la gestion de projet, basée aux États-Unis.\n\n## Fiches\n\n- [Méthodes agiles populaires](note::2mde80y3di7qe2mn9jecmv)\n\n##Repérage\n\n### PM²\n\n### Valeurs et principes agiles\n\n[Valeurs agiles en rapport avec les valeurs traditionnelles ](video::nsy115-4;00:00:47)\n[Privilégier l'équipe soudée qui communique bien](video::nsy115-4;00:03:49)\n[Se concentrer sur la livraison de fonctionnalités plus que la documentation](video::nsy115-4;00:05:32)\n[Inclure le client dans la réalisation plutôt que de contractualiser](video::nsy115-4;00:08:04)\n[Accepter le changement en étant flexible dans la planification](video::nsy115-4;00:10:26)\nPrincipes\n[1 satisfaire le client rapidement avec des fonctionnalités utiles](video::nsy115-4;00:12:48)\n[2 Le changement est bienvenu](video::nsy115-4;00:14:36)\n[3 livraisons fréquentes](video::nsy115-4;00:14:58)\n[4 les développeurs collaborent quotidiennement](video::nsy115-4;00:14:40)\n[5 Motivation, environnement de qualité et confiance](video::nsy115-4;00:16:23)\n[6 Privillégier le face à face (1-1) comme mode d'interaction](video::nsy115-4;00:16:49)\n[7 Un logiciel fonctionnel est la meilleure unité de mesure de la progression](video::nsy115-4;00:18:00)\n[8 Un rythme de production soutenable sur le long terme](video::nsy115-4;00:19:11)\n[9 Amélioration continue, en part technique et qualité de conception](video::nsy115-4;00:19:44)\n[10 Simplicité c'est à dire supprimer le superflu](video::nsy115-4;00:20:49)\n[11 Les meilleures architectures et spécifications sont issues d'équipes qui s'autoorganisent](video::nsy115-4;00:22:23)\n[12 Faire des rétrospectives](video::nsy115-4;00:23:50)\n[Caractéristiques des méthodes agiles et résultat ★★](video::nsy115-4;00:24:12)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "nsy115-4" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-14T11:24:25.891653675Z"
+  }
+}

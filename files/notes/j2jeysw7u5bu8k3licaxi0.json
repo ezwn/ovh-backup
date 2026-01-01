@@ -1,0 +1,81 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "j2jeysw7u5bu8k3licaxi0",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Chaîne d'Attaque Unifiée",
+      "description" : "Notions de base sur la chaîne d'attaque unifiée (méthode de modélisation des attaques)",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Chaîne d'Attaque Unifiée\n\n~? **Phase** dans le modèle de la **Chaîne d'Attaque Unifiée** :\n- étape d'une attaque,\n- destinée à **atteindre** un **objectif** **fondamental**,\n- en **utilisant** une ou plusieurs **techniques**.\n- correspond à une **tactique** dans **ATT&CK**.\n\n~? **Cycle** dans le modèle de la **Chaîne d'Attaque Unifiée** :\n- **enchaînement** cohérent **de phases**\n- permettant à l'attaquant d'**atteindre** un **objectif** **stratégique**\n\n~? Les **3 cycles** dans le modèle de la **Chaîne d'Attaque Unifiée** et leur **but** :\n- **intrusion** : **entrer**, **consolider sa position**, puis **enclencher** le cycle d'**expansion**\n- **expansion** : **accéder** aux **ressources**, obtenir les **privilèges** puis **enclencher** le cycle d'**exploitation**\n- **exploitation** : **accomplir la mission** finale",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ATT&CK" : "attaque"
+      },
+      "sttMapping" : {
+        "attaque" : "ATT&CK"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Unified Kill Chain",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Unified Kill Chain\n\n~?**Phase** in the **Unified Kill Chain** model:\n- a step of an attack,\n- intended to **achieve** a **fundamental** **objective**,\n- by **using** one or more **techniques**.\n- corresponds to a **tactic** in **ATT&CK**.\n\n~?**Cycle** in the **Unified Kill Chain** model:\n- coherent **sequence** **of phases**\n- enabling the attacker to **achieve** a **strategic** **objective**\n\n~?The **3 cycles** in the **Unified Kill Chain** model and their **purpose**:\n- **Initial Foothold**: **gain initial access**, **establish persistence**, then **trigger** the **propagation** cycle\n- **Network Propagation**: **access** **resources**, **escalate privileges**, then **trigger** the **Action on Objectives** cycle\n- **Action on Objectives**: **accomplish the final mission**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ATT&CK" : "attack",
+        "attack" : "ATT&CK"
+      },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Vereinheitlichte Angriffskette",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Vereinheitlichte Angriffskette\n\n~?**Phase** im Modell der **Vereinheitlichten Angriffskette** :\n- Schritt eines Angriffs,\n- dazu bestimmt, ein **grundlegendes** **Ziel** zu **erreichen**,\n- unter **Verwendung** einer oder mehrerer **Techniken**.\n- entspricht einer **Taktik** in **ATT&CK**.\n\n~?**Zyklus** im Modell der **Vereinheitlichten Angriffskette** :\n- kohärente **Abfolge** **von Phasen**\n- die es dem Angreifer ermöglicht, ein **strategisches** **Ziel** zu **erreichen**\n\n~?Die **3 Zyklen** im Modell der **Vereinheitlichten Angriffskette** und ihr **Zweck** :\n- **Eindringen** : **eindringen**, **seine Position festigen**, dann den Zyklus der **Ausbreitung** **einleiten**\n- **Ausbreitung** : auf **Ressourcen** **zugreifen**, die **Privilegien** erlangen, dann den Zyklus der **Ausnutzung** **einleiten**\n- **Ausnutzung** : den abschließenden **Auftrag erfüllen**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ATT&CK" : "attack"
+      },
+      "sttMapping" : {
+        "attack" : "ATT&CK"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "统一攻击链",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 统一攻击链\n\n~?**阶段** 在 **统一攻击链** 模型中：\n- 一次攻击的一个**步骤**，\n- 旨在**达成**一个**基本**的**目标**，\n- **使用**一种或多种**技术**。\n- 在 **ATT&CK** 中对应一项**战术**。\n\n~?**循环** 在 **统一攻击链** 模型中：\n- **阶段**的连贯**串联**\n- 使攻击者能够**达成**一个**战略** **目标**\n\n~?在 **统一攻击链** 模型中的**3 个循环**及其**目的**：\n- **入侵**：**进入**，**巩固立足点**，然后**启动**“**扩展**”循环\n- **扩展**：**访问** **资源**，获得**权限**，然后**启动**“**利用**”循环\n- **利用**：最终**完成使命**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ATT&CK" : "attack"
+      },
+      "sttMapping" : {
+        "attack" : "ATT&CK"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-01T17:36:34.528152452Z",
+    "quality" : "MEDIUM"
+  }
+}

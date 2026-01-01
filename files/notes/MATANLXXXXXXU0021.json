@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATANLXXXXXXU0021",
+  "content" : {
+    "domain" : "SETS_IN_MATHEMATICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ensembles image et antécédent",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "~?L'ensemble image de $$A$$ par $$f$$ est l'ensemble\ndes images des éléments de $$A$$.\n\n~?L'ensemble antécédent de $$B$$ est l'ensemble\ndes éléments de $$A$$ dont l'image est dans $$B$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Ensembles image et antécédent [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "~?The image set of $$A$$ by $$f$$ is the set\nof images of the elements of $$A$$.\n\n~?The preimage set of $$B$$ is the set\nof elements of $$A$$ whose image is in $$B$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.196305218Z",
+    "quality" : "LOW"
+  }
+}

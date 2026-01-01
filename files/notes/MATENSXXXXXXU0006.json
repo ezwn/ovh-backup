@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATENSXXXXXXU0006",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Union, intersection et différence d'ensembles",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "~?L'union de deux ensembles $$A$$ et $$B$$, $$A$$ union $$B$$, c'est\nl'ensemble des éléments qui appartiennent à l'un ou à l'autre.\n\n~?L’intersection de deux ensembles $$A$$ et $$B$$, $$A$$ inter $$B$$, c'est\nl'ensemble des éléments qui appartiennent aux deux.\n\n~?La différence d'un ensemble $$A$$ et d'un ensemble $$B$$, $$A$$ moins $$B$$, c'est\nl'ensemble des éléments de $$A$$ qui ne sont pas dans $$B$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Union, intersection et différence d'ensembles",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "~?The union of two sets $$A$$ and $$B$$, $$A$$ union $$B$$, is\nthe set of elements that belong to either one or the other.\n\n~?The intersection of two sets $$A$$ and $$B$$, $$A$$ inter $$B$$, is\nthe set of elements that belong to both.\n\n~?The difference of a set $$A$$ and a set $$B$$, $$A$$ minus $$B$$, is\nthe set of elements of $$A$$ that are not in $$B$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.165094649Z",
+    "quality" : "LOW"
+  }
+}

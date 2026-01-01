@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFARCXXXU0705",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Méthode Arrington (Introduction)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Introduction à la méthode Arrington\n\n## Aperçu de Unified Process\n\nUne vue des Use Cases aux centre, et autour :\n- vue logique (classes)\n- vue d'implémentation (modules)\n- vue processus (performances)\n- vue déploiement (installation)\n\nLourde et rigide\n\n## Arrington : variante simplifiée de RUP\n\n### Cycle en V.\n\nBesoins : étude\nBesoins : analyse\nConception préliminaire\nConception détaillée\n\nCodage (pointe du V)\n\nTests unitaires\nTests d'intégration\nTests fonctionnels\nExploitation\n\n### Phases\n\nEn amont on rédige :\nle cahier des charges\n\n#### évaluation des besoins\n\nIl s'agit de décrire du point de vue client :\nles scénarios, appelés use cases.\n\n#### analyse des besoins\n\nElle contient des diagrammes :\n- de classes\n- de séquence\n- et de collaboration\n\n#### sélection des technologies\n\n#### architecture :\n\nConsiste à définir :\nles systèmes et sous-systèmes de haut niveau.\n\nElle doit être :\nexplicable et partageable\n\nElle repose sur\ndiagrammes de packages, et de déploiement\n\n#### design et organisation",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.112485588Z",
+    "quality" : "LOW"
+  }
+}

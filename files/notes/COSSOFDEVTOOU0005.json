@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVTOOU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "PlantUML",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# PlantUML via VSCode\n\nTélécharger le jar de plantuml\n\n## Dans du markdown dans VSCode\n\n* Markdown all in one, de Yu Zhang\n* Markdown Preview Enhanced, de Yiyi Wang\n\nRenseigner le chemin du JAR dans File > Pref > Settings.\n\n## Générer des images\n\nLe plugin plantUML de jebbs permet, depuis fichier .puml de :\n\n- prévisualisation\n- export image (dont SVG)\n\n## Serveur\n\njava -jar /opt/plantuml/plantuml.jar -picoweb:9010\n\nhttp://localhost:9010",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.151968111Z",
+    "quality" : "LOW"
+  }
+}

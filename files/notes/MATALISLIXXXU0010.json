@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Inverse d'une matrice grâce à algo Gauss-Jordan [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Calcul de l'inverse d'une matrice grâce à l'algorithme de Gauss-Jordan.\n\nOn part de la matrice augmentée par la matrice identité de même taille.\nOn applique l'algorithme de Gauss-Jordan.\nSi on obtient la matrice identité à gauche,\nla matrice inverse se trouver à droite.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Inverse d'une matrice grâce à algo Gauss-Jordan [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Calculating the inverse of a matrix using the Gauss-Jordan algorithm.\n\nWe start with the matrix augmented by the identity matrix of the same size.\nWe apply the Gauss-Jordan algorithm.\nIf we obtain the identity matrix on the left,\nthe inverse matrix will be on the right.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Inverse d'une matrice grâce à algo Gauss-Jordan [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Berechnung der Inversen einer Matrix mit dem Gauss-Jordan-Algorithmus.\n\nMan beginnt mit der durch die Einheitsmatrix gleicher Größe erweiterten Matrix.\nMan wendet den Gauss-Jordan-Algorithmus an.\nWenn man die Einheitsmatrix links erhält,\nbefindet sich die Inverse Matrix rechts.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Inverse d'une matrice grâce à algo Gauss-Jordan [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "利用高斯-若尔当算法计算矩阵的逆矩阵。\n\n从原矩阵和相同大小的单位矩阵开始。\n应用高斯-若尔当算法。\n如果在左边得到单位矩阵，\n那么右边的矩阵就是逆矩阵。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.329848317Z",
+    "quality" : "LOW"
+  }
+}

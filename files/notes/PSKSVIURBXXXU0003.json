@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PSKSVIURBXXXU0003",
+  "content" : {
+    "domain" : "SURVIVAL",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Décrire une personne",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Décrire une personne\n\n?~Que faut-il observer pour pouvoir décrire une personne ?\nSa taille, sa corpulence, sa couleur de peau, la couleur de ses yeux et la forme des son visage.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Décrire une personne",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Describing a person\n\n?~What should be observed to be able to describe a person?\nTheir height, build, skin colour, eye colour, and the shape of their face.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Décrire une personne",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Eine Person beschreiben\n\n?~Was muss man beobachten, um eine Person beschreiben zu können?\nIhre Größe, ihre Statur, ihre Hautfarbe, die Farbe ihrer Augen und die Form ihres Gesichts.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Décrire une personne",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 描述一个人\n\n?~为了能够描述一个人，需要观察什么？\n他们的身高、体型、肤色、眼睛的颜色以及脸型。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.050019500Z",
+    "quality" : "LOW"
+  }
+}

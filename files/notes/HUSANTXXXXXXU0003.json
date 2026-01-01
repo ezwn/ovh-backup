@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSANTXXXXXXU0003",
+  "content" : {
+    "domain" : "ANTHROPOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Anthropologie (aperçu)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Anthropologie (aperçu)\n\n~?Que cherche à comprendre l'anthropologie ?\nLes **cultures**, les **sociétés** et l'**humanité**.\n\n~?Quelle méthode utilise l'anthropologie ?\nL'**étude** **détaillée** et **comparative** de la **vie locale**.\n\n~?Quels sont les pères fondateurs de l'anthropologie ?\n- Franz Boas\n- Bronisław Malinowski\n- Alfred Radcliffe-Brown\n-  Marcel Mauss",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Anthropologie (Überblick)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Anthropologie (Überblick)\n\n~?Was versucht die Anthropologie zu verstehen?\nDie **Kulturen**, die **Gesellschaften** und die **Menschheit**.\n\n~?Welche Methode verwendet die Anthropologie?\nDie **detaillierte** und **vergleichende** **Untersuchung** des **lokalen Lebens**.\n\n~?Wer sind die Gründerväter der Anthropologie?\n- Franz Boas\n- Bronisław Malinowski\n- Alfred Radcliffe-Brown\n- Marcel Mauss",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Anthropology (overview)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Anthropology (overview)\n\n~?What does anthropology seek to understand?\n**Cultures**, **societies**, and **humanity**.\n\n~?What method does anthropology use?\nThe **detailed** and **comparative** study of **local life**.\n\n~?Who are the founding fathers of anthropology?\n- Franz Boas\n- Bronisław Malinowski\n- Alfred Radcliffe-Brown\n- Marcel Mauss",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.107704770Z",
+    "quality" : "LOW"
+  }
+}

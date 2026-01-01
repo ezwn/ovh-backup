@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "p937wic2rl7cj8jk7w2mt9",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Me présenter à l'ISO",
+      "description" : "Domaine : entretien d'embauche pour poste d'architecte logiciel\nSujet : parcours, valeurs et évolution récente",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^ faire\n^ présentation de soi-même\n# Me présenter à l'ISO\n\n^ emploi\n^ fonction\n~? Mes fonctions durant mes précédents emplois :\n^ avoir déjà\n^ exercer en tant que\n^ lead-technique\nJ'ai exercé en tant que lead-technique,\n^ architecte logiciel\n^ développeur logiciel\narchitecte et développeur logiciel,\n^ parfois\n^ aussi\n^ occuper le poste de\n^ analyste métier\net parfois analyste métier.\n\n^ travailler\n^ secteur\n~? Les secteurs dans lesquels j'ai travaillé :\n^ principalement\n^ solution\n^ logiciel\n^ domaine de l'édition\n^ travailler\nJ'ai essentiellement travaillé dans l'édition de solutions IT,\n^ ainsi que\n^ financier\n^ secteur\n^ travail\net dans le secteur financier.\n\n^ attirer\n^  endroit\n~? Ce qui m'attire à l'ISO :\n^ proposer\n^ équilibre\n^ défi\n^ attirer\nJe suis attiré par le défi équilibré que me propose l'ISO, entre\n^ complexe\n^ environnement métier\n^ domaine technique\n^ exigeant\n^ exigeant\n^ entre\n^ trouver\nun environnement métier complexe et un domaine technique exigeant.\n\n^ un peu\n^ personnel\n^ caractéristique\n~? Petite touche personnelle ?\n^ systémique\n^ technologique\n^ sociétal\n^ enjeux\n^ marqué\n^ curiosité\nJ'ai une curiosité marquée pour les enjeux systémiques, technologiques et sociétaux.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "向 ISO 做自我介绍",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^ 做 // {\"pinyin\":\"zuò\"}\n^ 一次自我介绍 // {\"pinyin\":\"zìwǒ jièshào\"}\n# 向 ISO 做自我介绍\n\n^ 一个工作 // {\"pinyin\":\"gōngzuò\"}\n^ 一个职责 // {\"pinyin\":\"zhízé\"}\n~? 我在之前工作中的职责：\n^ 曾 // {\"pinyin\":\"céng\"}\n^ 担任 // {\"pinyin\":\"dānrèn\"}\n^ 一个技术负责人 // {\"pinyin\":\"jìshùfùzérén\"}\n我曾担任技术负责人，\n^ 一个软件架构师 // {\"pinyin\":\"ruǎnjiànjiàgòushī\"}\n^ 一个软件开发工程师 // {\"pinyin\":\"ruǎnjiankāifāgōngshī\"}\n软件架构师和软件开发工程师，\n^ 有时 // {\"pinyin\":\"yǒushí\"}\n^ 也 // {\"pinyin\":\"yě\"}\n^ 担任 // {\"pinyin\":\"dānrèn\"}\n^ 一个业务分析师 // {\"pinyin\":\"yèwùfēnxīshī\"}\n有时也担任业务分析师。\n\n^ 工作 // {\"pinyin\":\"gōngzuò\"}\n^ 一个行业 // {\"pinyin\":\"hángyè\"}\n~? 我曾工作的行业：\n^ 主要 // {\"pinyin\":\"zhǔyào\"}\n^ 一个解决方案 // {\"pinyin\":\"jiějuéfāng'àn\"}\n^ 一个软件 // {\"pinyin\":\"ruǎnjiàn\"}\n^ 一个出版领域 // {\"pinyin\":\"chūbǎnlǐngyù\"}\n^ 工作 // {\"pinyin\":\"gōngzuò\"}\n我主要在 IT 解决方案软件出版领域工作，\n^ 以及 // {\"pinyin\":\"yǐjí\"}\n^ 金融 // {\"pinyin\":\"jīnróng\"}\n^ 行业 // {\"pinyin\":\"hángyè\"}\n^ 工作 // {\"pinyin\":\"gōngzuò\"}\n以及在金融行业工作。\n\n^ 吸引 // {\"pinyin\":\"xīyǐn\"}\n^ 一个地方 // {\"pinyin\":\"dìfāng\"}\n~? ISO 吸引我的地方：\n^ 提供 // {\"pinyin\":\"tígōng\"}\n^ 一种平衡 // {\"pinyin\":\"pínghéng\"}\n^ 一个挑战 // {\"pinyin\":\"tiǎozhàn\"}\n^ 吸引 // {\"pinyin\":\"xīyǐn\"}\n我被 ISO 提供的这种平衡的挑战所吸引，即在\n^ 复杂 // {\"pinyin\":\"fùzá\"}\n^ 一个业务环境 // {\"pinyin\":\"yèwù huánjìng\"}\n^ 一个技术领域 // {\"pinyin\":\"jìshù lǐngyù\"}\n^ 严苛 // {\"pinyin\":\"yánkē\"}\n^ 要求 // {\"pinyin\":\"yāoqiú\"}\n^ 之间 // {\"pinyin\":\"zhījiān\"}\n^ 取得 // {\"pinyin\":\"qǔdé\"}\n复杂的业务环境与要求严苛的技术领域之间取得平衡。\n\n^ 一点 // {\"pinyin\":\"yīdiǎn\"}\n^ 个人 // {\"pinyin\":\"gèrén\"}\n^ 特色 // {\"pinyin\":\"tèsè\"}\n~? 一点个人特色？\n^ 系统性\n^ 技术性\n^ 社会性\n^ 一个议题 // {\"pinyin\":\"yìtí\"}\n^ 强 // {\"pinyin\":\"qiáng\"}\n^ 一种好奇心 // {\"pinyin\":\"hàoqíxīn\"}\n我对系统性、技术性和社会性的议题有很强的好奇心。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-30T18:56:31.136147569Z",
+    "quality" : "LOW"
+  }
+}

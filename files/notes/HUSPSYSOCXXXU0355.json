@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0355",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "L'engagement",
+      "description" : "L'engagement",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^une théorie // {\"headword\":\"théorie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n# Théorie de l'engagement\n\n^un chercheur // {\"headword\":\"chercheur\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^un engagement // {\"headword\":\"engagement\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n%?~Quels chercheurs ont mis en évidence la rationalisation dans la théorie de l'engagement ?\nJoule et Beauvois.\n\n^un mécanisme // {\"headword\":\"mécanisme\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\nQuel est le mécanisme central de la théorie de l'engagement ?\n^une attitude // {\"headword\":\"attitude\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^un comportement // {\"headword\":\"comportement\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^modifier // {\"headword\":\"modifier\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^justifier // {\"headword\":\"justifier\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\nLa rationalisation : modifier nos attitudes pour justifier nos comportements.\n\n^un facteur // {\"headword\":\"facteur\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^favoriser // {\"headword\":\"favoriser\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\nQuels sont les cinq facteurs qui favorisent la rationalisation ?\n^une croyance // {\"headword\":\"croyance\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^agir // {\"headword\":\"agir\",\"category\":\"verb\",\"cefrLevel\":\"A2\"}\n^libre // {\"headword\":\"libre\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n- Croyance d'agir librement\n^un acte // {\"headword\":\"acte\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n^public // {\"headword\":\"public\",\"category\":\"other\",\"cefrLevel\":\"A1\"}\n- Caractère public des actes\n^un coût // {\"headword\":\"coût\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n- Coût des actes\n^une répétition // {\"headword\":\"répétition\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n- Répétition des actes\n- Irréversibilité des actes",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "L'engagement",
+      "description" : "L'engagement",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^die Theorie // {\"headword\":\"Theorie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"C1\"}\n# Theorie des Engagements\n\n^der Forscher // {\"headword\":\"Forscher\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^das Engagement // {\"headword\":\"Engagement\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"B2\"}\n%?~Welche Forscher haben die Rationalisierung in der Theorie des Engagements hervorgehoben?\nJoule und Beauvois.\n\n^der Mechanismus // {\"headword\":\"Mechanismus\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\nWas ist der zentrale Mechanismus der Theorie des Engagements?\n^die Einstellung // {\"headword\":\"Einstellung\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^das Verhalten // {\"headword\":\"Verhalten\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"B1\"}\n^ändern // {\"headword\":\"ändern\",\"category\":\"verb\",\"cefrLevel\":\"A2\"}\n^rechtfertigen // {\"headword\":\"rechtfertigen\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\nDie Rationalisierung: unsere Einstellungen ändern, um unser Verhalten zu rechtfertigen.\n\n^der Faktor // {\"headword\":\"Faktor\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^begünstigen // {\"headword\":\"begünstigen\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\nWelche fünf Faktoren begünstigen die Rationalisierung?\n^der Glaube // {\"headword\":\"Glaube\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A2\"}\n^handeln // {\"headword\":\"handeln\",\"category\":\"verb\",\"cefrLevel\":\"A2\"}\n^frei // {\"headword\":\"frei\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n- Glaube, frei zu handeln\n^die Handlung // {\"headword\":\"Handlung\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^öffentlich // {\"headword\":\"öffentlich\",\"category\":\"other\",\"cefrLevel\":\"B1\"}\n- Öffentlicher Charakter der Handlungen\n^die Kosten // {\"headword\":\"Kosten\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n- Kosten der Handlungen\n^die Wiederholung // {\"headword\":\"Wiederholung\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n- Wiederholung der Handlungen\n- Unumkehrbarkeit der Handlungen",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "L'engagement",
+      "description" : "L'engagement",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^一个理论 // {\"headword\":\"理论\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"lǐ lùn\",\"cefrLevel\":\"B2\"}\n# 承诺理论\n\n^一名研究人员 // {\"headword\":\"研究人员\",\"category\":\"noun\",\"classifier\":\"名\",\"pinyin\":\"yán jiū rén yuán\",\"cefrLevel\":\"B2\"}\n^一个承诺 // {\"headword\":\"承诺\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"chéng nuò\",\"cefrLevel\":\"B2\"}\n%?~哪些研究人员在承诺理论中突出了合理化？\nJoule 和 Beauvois。\n\n^一个机制 // {\"headword\":\"机制\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"jī zhì\",\"cefrLevel\":\"B2\"}\n承诺理论的核心机制是什么？\n^一种态度 // {\"headword\":\"态度\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"tài du\",\"cefrLevel\":\"B1\"}\n^一种行为 // {\"headword\":\"行为\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"xíng wéi\",\"cefrLevel\":\"B1\"}\n^修改 // {\"headword\":\"修改\",\"category\":\"verb\",\"pinyin\":\"xiū gǎi\",\"cefrLevel\":\"B1\"}\n^证明 // {\"headword\":\"证明\",\"category\":\"verb\",\"pinyin\":\"zhèng míng\",\"cefrLevel\":\"B1\"}\n合理化：修改我们的态度以证明我们的行为是合理的。\n\n^一个因素 // {\"headword\":\"因素\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"yīn sù\",\"cefrLevel\":\"B2\"}\n^促进 // {\"headword\":\"促进\",\"category\":\"verb\",\"pinyin\":\"cù jìn\",\"cefrLevel\":\"B2\"}\n有哪些促进合理化的五个因素？\n^一个相信 // {\"headword\":\"相信\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"xiāng xìn\",\"cefrLevel\":\"B2\"}\n^行动 // {\"headword\":\"行动\",\"category\":\"verb\",\"pinyin\":\"xíng dòng\",\"cefrLevel\":\"B1\"}\n^自由 // {\"headword\":\"自由\",\"category\":\"adjective\",\"pinyin\":\"zì yóu\",\"cefrLevel\":\"B1\"}\n- 相信自己是自由行动的\n^一种行为 // {\"headword\":\"行为\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"xíng wéi\",\"cefrLevel\":\"B1\"}\n^公开 // {\"headword\":\"公开\",\"category\":\"other\",\"cefrLevel\":\"B1\",\"pinyin\":\"gōng kāi\"}\n- 行为的公开性\n^一种成本 // {\"headword\":\"成本\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"chéng běn\",\"cefrLevel\":\"B2\"}\n- 行为的成本\n^一个重复 // {\"headword\":\"重复\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"chóng fù\",\"cefrLevel\":\"B1\"}\n- 行为的重复\n- 行为的不可逆性",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.966343702Z",
+    "quality" : "LOW"
+  }
+}

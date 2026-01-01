@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSHISXXXXXXU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Palestine et d'Israël",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Quel est le statut de la Palestine au début du vingtième siècle ?\nRégion administrée par le Royaume-Uni.\n\nQuel phénomène démographique est en cours ?\nL'immigration croissante de juifs.\n\nQuelles sont les conséquences ?\nDes émeutes entre arabes et juifs éclatent.\n\n?En 1947, pour rétablir la paix, les Nations Unis proposent et adoptent\nle \"Plan de partage de la Palestine\" en un État juif et un État arabe.\n\n?En mai 1948, le retrait britannique permet à Israël de\ndéclarer son indépendance.\n\n?Israël est immédiatement\nattaquée par les pays arabes voisins\net profite de ses victoires militaires pour\nétendre son territoire au delà du plan de 1947.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Palestine et d'Israël",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?At the beginning of the twentieth century, Palestine is\na region administered by the United Kingdom.\n\n?Following the growing immigration of Jews,\nriots between Arabs and Jews erupt.\n\n?In 1947, to restore peace, the United Nations propose and adopt\nthe \"Palestine Partition Plan\" into a Jewish State and an Arab State.\n\n?In May 1948, the British withdrawal allows Israel to\ndeclare its independence.\n\n?Israel is immediately\nattacked by neighbouring Arab countries\nand takes advantage of its military victories to\nexpand its territory beyond the 1947 plan.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Palestine et d'Israël",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "?在二十世纪初期，巴勒斯坦是\n由英国管理的地区。\n\n?由于犹太人日益增加的移民，\n阿拉伯人和犹太人之间的暴动爆发了。\n\n?1947年，为了恢复和平，联合国提出并通过了\n\"巴勒斯坦分治方案\"，建立一个犹太国家和一个阿拉伯国家。\n\n?1948年5月，英国的撤退使得以色列\n宣布独立。\n\n?以色列立即\n受到邻国阿拉伯国家的攻击，\n并利用其军事胜利来\n将领土扩展到1947年方案之外。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.986419034Z",
+    "quality" : "LOW"
+  }
+}

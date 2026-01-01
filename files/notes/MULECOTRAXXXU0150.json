@@ -1,0 +1,46 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MULECOTRAXXXU0150",
+  "content" : {
+    "domain" : "ECOLOGICAL_TRANSITIONS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Production mondiale de gaz à effet de serre",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Production mondiale de gaz à effet de serre\n\n~?Sources primaires de gaz à effet de serre (par ordre décroissant) :\n- les **combustibles fossiles**\n- la **déforestation**\n- l'**agriculture** et l'**élevage**\n\n~?Activités responsables de la production de gaz à effet de serre (par ordre décroissant) :\n- la **production de chaleur**\n- l'**industrie**\n- le **transport**\n- l'**agriculture** et l'**élevage**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Global Greenhouse Gas Production",
+      "description" : "...",
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Global Greenhouse Gas Production\n\n~?Most important primary sources of greenhouse gases worldwide:\n- **fossil fuels**,\n- **deforestation**,\n- **agriculture** and **livestock**.\n\n~?Activities mainly responsible for greenhouse gases worldwide:\n- **heat production**,\n- **industry**,\n- **transport**,\n- and **agriculture** and **livestock**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Weltweite Treibhausgasproduktion",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Weltweite Treibhausgasproduktion\n\n~?Wichtigste Primärquellen von Treibhausgasen weltweit:\n- **fossile Brennstoffe**,\n- **Abholzung**,\n- **Landwirtschaft** und **Viehzucht**.\n\n~?Hauptsächlich für Treibhausgase weltweit verantwortliche Aktivitäten:\n- **Wärmeerzeugung**,\n- **Industrie**,\n- **Verkehr**,\n- und **Landwirtschaft** und **Viehzucht**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-11T17:45:07.439948823Z"
+  }
+}

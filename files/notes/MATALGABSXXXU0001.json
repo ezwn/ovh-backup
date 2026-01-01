@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALGABSXXXU0001",
+  "content" : {
+    "domain" : "ABSTRACT_ALGEBRA",
+    "privateComment" : "Source: https://www.youtube.com/watch?v=baLCGbGHHhw",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Algèbre abstraite",
+      "description" : "Algèbre abstraite",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Algèbre abstraite : définitions\n\n?~Qu'est-ce qu'une loi de composition interne ?\nUne application de $$E$$ fois $$E$$ dans $$E$$.\n\n?~Quels éléments forment un groupe ?\nUn ensemble et une loi de composition interne.\n\n?~Quelles sont les propriétés de la loi de composition d'un groupe ?\nAssociative, possède un élément neutre et permet à chaque élément d'avoir un inverse.\n\n?~Qu'est-ce qu'un groupe abélien ?\nUn groupe dont la loi de composition est commutative.\n\n?~Qu'est-ce qu'un anneau ?\nUn groupe abélien avec une seconde loi de composition interne.\n\n?~Quelles sont les propriétés de la seconde loi de composition d'un anneau ?\nDistributive sur la première loi, associative et admet un élément neutre.\n\n?~Qu'est-ce qui n'est pas nécessaire pour la seconde loi un anneau ?\nQue les éléments aient un inverse.\n\n?~Quand un anneau est-il commutatif ?\nQuand sa seconde loi est commutative.\n\n?~Qu'est-ce qu'un corps ?\nUn anneau dont tous les éléments sont inversibles pour la multiplication.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Algèbre abstraite",
+      "description" : "Algèbre abstraite",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Abstrakte Algebra: Definitionen\n\n?~Was ist ein inneres Verknüpfungsgesetz?\nEine Abbildung von $$E$$ mal $$E$$ in $$E$$.\n\n?~Welche Elemente bilden eine Gruppe?\nEine Menge und ein inneres Verknüpfungsgesetz.\n\n?~Welche Eigenschaften hat das Verknüpfungsgesetz einer Gruppe?\nAssoziativ, besitzt ein neutrales Element und erlaubt jedem Element, ein Inverses zu haben.\n\n?~Was ist eine abelsche Gruppe?\nEine Gruppe, deren Verknüpfungsgesetz kommutativ ist.\n\n?~Was ist ein Ring?\nEine abelsche Gruppe mit einem zweiten inneren Verknüpfungsgesetz.\n\n?~Welche Eigenschaften hat das zweite Verknüpfungsgesetz eines Rings?\nDistributiv über das erste Gesetz, assoziativ und besitzt ein neutrales Element.\n\n?~Was ist nicht nötig für das zweite Gesetz eines Rings?\nDass die Elemente ein Inverses haben.\n\n?~Wann ist ein Ring kommutativ?\nWenn sein zweites Gesetz kommutativ ist.\n\n?~Was ist ein Körper?\nEin Ring, dessen alle Elemente für die Multiplikation invertierbar sind.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.250102424Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIRSAXXXU0030",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "RSA, Chiffrement",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Pour chiffrer un nombre par RSA, celui-ci doit être\ncompris entre 0 et $$N$$ moins 1.\n\n?Le chiffrement consiste à\nl'élever à la puissance $$e$$ et appliquer modulo $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "RSA, Chiffrement",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?To encrypt a number using RSA, it must be\nbetween 0 and $$N$$ minus 1.\n\n?The encryption consists of\nraising it to the power of $$e$$ and applying modulo $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.153977926Z",
+    "quality" : "LOW"
+  }
+}

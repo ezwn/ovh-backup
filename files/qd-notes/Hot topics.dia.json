@@ -13,8 +13,8 @@
           "bounds": [
             513,
             135,
-            48,
-            37
+            51,
+            36
           ],
           "content": "[BBC](https://www.bbc.com/news)",
           "zIndex": 3,
@@ -32,8 +32,8 @@
           "bounds": [
             605,
             78,
-            105,
-            51
+            113,
+            50
           ],
           "content": "ACTUS",
           "zIndex": 3,
@@ -70,8 +70,8 @@
           "bounds": [
             172,
             29,
-            82,
-            46
+            129,
+            32
           ],
           "content": "LOGIBOOST\nGMAIL",
           "zIndex": 3,
@@ -90,7 +90,7 @@
             28,
             41,
             113,
-            51
+            50
           ],
           "content": "check PAYER TT FACTUR",
           "zIndex": 3,
@@ -109,7 +109,7 @@
             151,
             101,
             116,
-            65
+            64
           ],
           "content": "TACH. REGUL",
           "zIndex": 3,
@@ -127,7 +127,7 @@
             728,
             93,
             59,
-            41
+            40
           ],
           "content": "[MONDE INFO](https://www.lemondeinformatique.fr/)",
           "zIndex": 3,
@@ -158,18 +158,18 @@
           "userBounds": [
             788,
             357,
-            112.765625,
-            null
+            124.765625,
+            92
           ],
           "bounds": [
             788,
             357,
-            113,
-            80
+            125,
+            92
           ],
           "content": "# Echinococcus \n---\n- Échographie abdominale\n- Echinococcus IgG ELISA",
           "zIndex": 3,
-          "fontSize": 8,
+          "fontSize": 10,
           "noteStyle": "ORANGE"
         },
         {
@@ -202,7 +202,7 @@
           "bounds": [
             795,
             50,
-            76,
+            75,
             32
           ],
           "content": "[netzwoche](https://www.netzwoche.ch/)",
@@ -231,16 +231,16 @@
         {
           "id": "NOTE-8kQNVGBo",
           "userBounds": [
-            217,
-            183,
-            null,
-            null
+            218,
+            229,
+            125.625,
+            48
           ],
           "bounds": [
-            217,
-            183,
-            104,
-            56
+            218,
+            229,
+            126,
+            48
           ],
           "content": "check\nboursorama",
           "zIndex": 3,
@@ -277,8 +277,8 @@
           "bounds": [
             583,
             360,
-            66,
-            56
+            115,
+            36
           ],
           "content": "courrir\nmuscu",
           "zIndex": 3,
@@ -315,7 +315,7 @@
             562,
             672,
             78,
-            75
+            72
           ],
           "content": "musique\njeux\nconfort",
           "zIndex": 3,
@@ -350,7 +350,7 @@
           "bounds": [
             241,
             753,
-            104,
+            105,
             34
           ],
           "content": "BN : pleinthes",
@@ -368,8 +368,8 @@
           "bounds": [
             56,
             124,
-            76,
-            37
+            78,
+            36
           ],
           "content": "Se raser",
           "zIndex": 3,
@@ -406,8 +406,8 @@
           "bounds": [
             452,
             678,
-            101,
-            56
+            153,
+            36
           ],
           "content": "santé :\nlister, traiter",
           "zIndex": 3,
@@ -424,7 +424,7 @@
           "bounds": [
             463,
             508,
-            89,
+            94,
             42
           ],
           "content": "emploi\n# notes papier",
@@ -444,7 +444,7 @@
             395,
             310,
             53,
-            37
+            36
           ],
           "content": "Logs",
           "zIndex": 3,
@@ -461,7 +461,7 @@
           "bounds": [
             24,
             778,
-            78,
+            83,
             34
           ],
           "content": "[MUSIQUE](https://www.youtube.com/watch?v=SIJ89TwGbVQ&ab_channel=RazNitzanMusic)",
@@ -481,7 +481,7 @@
             481,
             311,
             90,
-            51
+            50
           ],
           "content": "CONSTANT FOCUS",
           "zIndex": 3,
@@ -499,8 +499,8 @@
           "bounds": [
             518,
             253,
-            126,
-            46
+            244,
+            32
           ],
           "content": "SE CONCENTRER\nSUR LES ÉMOTIONS",
           "zIndex": 3,
@@ -518,8 +518,8 @@
           "bounds": [
             117,
             186,
-            70,
-            56
+            115,
+            36
           ],
           "content": "check\nsanitas",
           "zIndex": 3,
@@ -529,16 +529,16 @@
         {
           "id": "NOTE-VDo5i9yS",
           "userBounds": [
-            790,
-            238,
+            779,
+            214,
             159.4375,
-            null
+            114
           ],
           "bounds": [
-            790,
-            238,
+            779,
+            214,
             159,
-            102
+            114
           ],
           "content": "Parasites indonésie\n---\nGiardia intestinalis, Entamoeba histolytica, helminthes (Ascaris, Trichuris, Strongyloides…)",
           "zIndex": 3,
@@ -556,7 +556,7 @@
             559,
             561,
             85,
-            51
+            50
           ],
           "content": "Recyclage des unités",
           "zIndex": 3,
@@ -574,7 +574,7 @@
           "bounds": [
             404,
             754,
-            92,
+            91,
             39
           ],
           "content": "echo foie",
@@ -592,7 +592,7 @@
           "bounds": [
             424,
             381,
-            134,
+            137,
             39
           ],
           "content": "A qui je parle ?",
@@ -611,7 +611,7 @@
             413,
             619,
             115,
-            51
+            50
           ],
           "content": "SAUVAGARDE DONNEES",
           "zIndex": 3,
@@ -630,7 +630,7 @@
             437,
             23,
             59,
-            51
+            50
           ],
           "content": "[Journal officiel](https://www.legifrance.gouv.fr/)",
           "zIndex": 3,
@@ -665,7 +665,7 @@
           "bounds": [
             463,
             564,
-            78,
+            81,
             42
           ],
           "content": "emploi\n# vêtements",
@@ -685,7 +685,7 @@
             314,
             616,
             89,
-            51
+            66
           ],
           "content": "Certifs CV : mots clés?",
           "zIndex": 3,
@@ -703,7 +703,7 @@
           "bounds": [
             702,
             577,
-            184,
+            183,
             81
           ],
           "content": "Lister sujets d'intérêt\n- transition eco\n- automatisation",
@@ -721,8 +721,8 @@
           "bounds": [
             77,
             372,
-            152,
-            42
+            155,
+            41
           ],
           "content": "Benjamin Code",
           "zIndex": 3,
@@ -740,7 +740,7 @@
             75,
             425,
             145,
-            89
+            87
           ],
           "content": "[Coursera - être à l'avant garde de l'IA](https://www.coursera.org/learn/google-stay-ahead-of-the-ai-curve?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_desktop&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=20854471652&gbraid=0AAAAADdKX6a-DXHaOBZ12vJRuiq7ngi6k&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3CMGCO7gpH7feUHMu_lohT6bLvLwcc31UUSLaKw5fP4rzagzW3SO9oaAqIGEALw_wcB)",
           "zIndex": 3

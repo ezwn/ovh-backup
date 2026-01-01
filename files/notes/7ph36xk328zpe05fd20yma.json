@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "7ph36xk328zpe05fd20yma",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Collectivités territoriales : définition et diversité",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Collectivités territoriales : définition et diversité\n\n~? **Nature juridique** des **collectivités territoriales** :\n**personnes morales** de **droit public** (constitutionnel pour certaines)\n\n~? **Gouvernance** des **collectivités territoriales** :\nElles sont dirigées par une **assemblée délibérante** **élue** au **suffrage universel direct**,\net par un **exécutif élu** par l'organe délibérant.\n\n~? **Mission** et **moyens** des **collectivités territoriales** :\nElles sont dotées de **compétences administratives**,\ndans le **cadre** de leur **ressort territorial** (leur territoire),\net disposent de **ressources** et **moyens** **propres**.\n\n## Définitions\n\n?~ Bloc communal :\n**ensemble** formé par une **commune** et son **intercommunalité à fiscalité propre**\n**caractérisé par** une **répartition** des **compétences**, des **ressources fiscales**\net par une **coopération** institutionnelle.\n\n?~ Intercommunalité :\n**regroupement de communes**, à **fiscalité propre** ou **sans fiscalité propre**\n\n## Acteurs (44 500 environ)\n\n~? Types de \"**collectivités territoriales**\" et nombre :\n- **18** **régions**\n- **101** **départements**\n- **35 000** **communes**\n\n~? **Groupements de collectivités** :\n- **1 250** **groupements** **à fiscalité propre**\n- **8 300** groupements **sans fiscalité propre**\n\n~? **Ordre** de **taille** des **communes** et **intercommunalités** :\n- **80 %** des **communes** ont **moins de** **1 000 habitants**\n- les **intercommunalités** regroupent **en moyenne** **25 communes**\n\n~? Évolution des communes :\n- **fusion volontaire** en **commune nouvelles** (1 300 en 2010)\n- **intégration** dans des **métropoles** (exemple : Lyon en 2015)\n- **regroupement** **obligatoire** en **intercommunalités** (effet de la loi NOTRe)\n\n## Collectivités territoriales à statut particulier\n\n~? **Collectivité territoriale** à **statut particulier** (définition et cas) :\n- ce sont des **exceptions** au **modèle** **Région** / **Département** / **Commune**\n- collectivités d'outre-mer régies par l'**article 73** de la **Constitution**\n- collectivités d'outre-mer régies par l'**article 74** de la Constitution\n- Nouvelle-Calédonie\n- collectivités à **statut particulier en métropole**\n\n~? Collectivité territoriale unique :\n-**structure** administrative qui **exerce** les **compétences** d'une **région** et d'un **département**\n-exemples : **Corse**, **Guyane**, **Mayotte**, La **Martinique**\n\n~? Autre **cas particulier** :\n-**Ville de Paris** : **Commune** et **Département**\n\n~? **Article 73** de la **constitution** et territoires concernés :\n- les **lois nationales s'appliquent automatiquement** (**identité législative**)\n- sont concernées : **Guadeloupe**, **Guyane**, **Martinique**, **La Réunion**, **Mayotte**\n\n~? **Article 74** de la **constitution** et territoires concernés :\n- les **lois nationales** s'appliquent si elles le prévoient **expressément** (**spécificité législative**)\n- sont concernées : **Polynésie française**, **Saint-Barthélemy**, **Saint-Martin**, **Saint-Pierre-et-Miquelon**, **Wallis-et-Futuna**\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-25T10:28:33.533720233Z",
+    "quality" : "LOW"
+  }
+}

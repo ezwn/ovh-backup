@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "EPFL",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Ingénieur de développement\n\nExemples de application\n- hotcrap : recrutement des doctorants (1000 candidature). Export, middle management, traitement.\n\nActivité\nTransfert technologique\nFormation des ingénieurs\nService info de l'info\nSupport CDH\nMise à dispo cluster\nInfras\nDéveloppement / sélection d'applications PHP / Django (raisonnable)\n\nUtilisateurs\nAssistante\nDoctorants\nProfesseur\nApprentis\n\nSupport de 700 personnes.\n\nStruct :\nsupport\ninfra\ndev\n\n## Présentation stratégique\n\nIntroduction :\n20 ans de développement full-stack / 13 ans fonctions bout à bout / plusieurs projets complets\n\nUne fonctionnalité chez Nexthink (Plan, Develop, Test, Deploy) :\n-analyse (écosystème, documentation), collaboration\n- conception technique\n-rédaction de tâches (SM)\n-participation au développement avec tests automatiques\n-livraison compilation, PR de release\n\nCredit Suisse (Maintain) :\n-support L3 : partenaire du support L2 dépassé\n-fiabilisation du code : refactoring, amélioration gestion erreurs, bug fixing\n\nAutres tâches\n-configuration terraform\n-amélioration de scripts Jenkins\n-rédaction de test manuels dans TestRail\n\n## Tâches\n\n### Développement\n\nDe la planification au développement\nEcosystème existant\n\nInfrastructure as code\n- Ansible, blueprint, playbooks\n\nAnsible lit des fichiers YAML appelés playbooks, qu’il exécute via SSH pour configurer les serveurs distants.\n\nDocumentation production services et processus\n\nLiens partenaires\n\nSupporter IC-IT et labos pour la partie application\n\nGitLab/GitHub, CI/CD\n\n### Veille technique\n\n^proposer améliorations, automatiser si nécessaire, développer ses compétences, former\n\n## Profil\n\nAgilité\nOrganisation, proactivité\nPHP / Python\nLinux, Bash, Kubernates, Docker\nCybersécurité\nEquipe, écoute, communication",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.560534026Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "CNAMXXGLG204U0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "GLG204",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# GLG204\n\n## Kubernetes\n\nOrchestrer les containers pour production.\n\nContainer docker ou autre ?\n- linux tous processus peuvent utiliser toutes ressources\n- namespaces du kernel linux : isolation\n- processus auquel on a assigné les 8 namespaces\n- groupes de contrôle : limitent comptabilise isole l'utilisation des ressources\n\nLes containers sont isolés grâce aux fonctionnalités du noyau et non de l'émulation : espaces de noms et groupes de contrôle.\n\nLes images sont présentés comme une unique image. Elle sont read-only, mais dernière couche est éditable.\n\n### Kubernetes\n\nPlateforme pour l'exploitation de conteneurs\n\nConcepts fondamentaux :\n- API pour définir les applications\n- cluster qui exécute les applications\n\nL'application est définie dans des fichiers YAML envoyés à l'API = ces fichiers sont des manifestes\n\n- kbt = base de données distribuée\n\nkbt syncrhonise l'état avec la configuration, redémarre des containers\n\napplication auto-réparatrice\n\nla BDD de kubernate = BDD distribuée (cf. configmap)\n\nkubernate fournit un stockage\n\ngère le trafic entrant dans le cluster et le réparti\n\ncontainer > dans > pod\n\ncontrôlleur composant de kubernate qui gère les pods\n\npod:\n- un image\n- un seul nœud du cluster (IP virtuelle)\n- réseau virtuel pour communiquer avec autres pods\n\nchaque nœud un runtime = contrôleur = containerd (CRI container runtime interface)\n\nNoeuds:\nmaster / worker\nworker : héberge les pods / kublet gère les pods sur un noeud\nmaster: API server / scheduler (choisi le noeud des containers), ETCD : base de données répartie (infos des pods, utilisable par pods)\n\nDeployment = contrôleur qui maintient le nombre de pods d'après l'état\n\nReplicatSet (entre deployment et pod)\n\nService :\najoute la résolution de l'IP\nCluster Kubernetes fournit un serveur DNS\nservice : IP statique / a nom de domaine\n\nTypes de services\n- CulterIP: à l'échelle du cluster (mais interne)\n- LoadBalancer : traffic entrant dans le cluster, vers pod\n\nNamespace kubernate\npartitionne logiquement le cluster\n\"default\"\n\nInjection de configuration (configmap)\nConfigMap peut être monté comme un répertoire???\n\nKbt fournit pour le stockage (abstraction) :\nPeristentVolumes, PeristentVolumesClaims : sont de type \"classe de stockage\" qui détermine leur caractéristiques et leur prix !\n\n## Projet\n\n### [Questionnaire KIAOO](note::COSSOFARCXXXU0711)\n\n### [Feedback EB](note::COSSOFARCXXXU0800)\n\n## Unités\n\n### [Méthode Arrington](note::COSSOFARCXXXU0700)\n\n### [UML](note::COSSOFARCXXXU1000)\n\n### [Architecture hexagonale](note::COSARCXXXXXXU0030)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.471635582Z",
+    "quality" : "LOW"
+  }
+}

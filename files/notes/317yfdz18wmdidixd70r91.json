@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "317yfdz18wmdidixd70r91",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Structure des dépenses des APU",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Structure des dépenses des APU\n\n~? Structure dépenses de fonctionnement des CT :\n- frais personnels : rémunérations et charges sociales\n- dépenses d'intervention : subventions versées\n- achat et charges externes\n- charges financières : intérêts des dettes\n- autres\n\n~? Structure des dépenses d'investissement:\n- équipement brut : investissement de patrimoine\n- subvention d'équipement : financement d'un tiers qui investi\n- autre",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-26T14:02:34.086165156Z",
+    "quality" : "LOW"
+  }
+}

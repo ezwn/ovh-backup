@@ -1,0 +1,50 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTLEAXXXU0010",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Principes fondamentaux du Lean IT",
+      "description" : "Quelques notions fondamentales du Lean appliqué à l'IT",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Principes fondamentaux du Lean IT\n\n~? **But** principal du **Lean** :\n**maximiser** la **valeur** pour le **client** **en éliminant** les **gaspillages**\n\n~? 5 **principes-clés** du **Lean** :\n- **définition claire de** la **valeur** **pour** les **utilisateurs**\n- **cartographie** et **optimisation** du **flux de travail** (goulots, doublons)\n- **élimination** des **gaspillages** (attente, redondance, complexité, ...)\n- **amélioration continue** par **cycles** d'optimisation\n- **agilité** et **autonomie** des **équipes**\n\n~? 2 **bonnes pratiques** selon le **Lean** :\n- **traiter** les **anomalies** **immédiatement** (qualité)\n- **livrer** **au** **fur et à mesure** (efficacité)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Fundamental Principles of Lean IT",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Fundamental Principles of Lean IT\n\n~?Main goal of Lean:\n**maximize value for the customer** **by eliminating waste**\n\n~?5 key principles of Lean:\n- **clear definition of value** **for users****clear definition of value** **for users**\n- **mapping** and **optimization** **of workflow** (bottlenecks, duplication)\n- **elimination of waste** (waiting, redundancy, complexity, ...)\n- **continuous improvement** through optimization cycles\n- **agility** and **team autonomy**\n\n~?2 good practices of Lean:\n- **immediately address anomalies** (quality)\n- **deliver progressively** (efficiency)",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Grundprinzipien des Lean IT",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Grundprinzipien des Lean IT\n\n~?Hauptziel von Lean:\n**Maximierung des Kundennutzens** **durch Beseitigung von Verschwendung**\n\n~?5 Schlüsselprinzipien des Lean:\n- **klare Definition des Werts** **für die Nutzer****klare Definition des Werts** **für die Nutzer**\n- **Abbildung** und **Optimierung** **des Arbeitsflusses** (Engpässe, Doppelarbeit)\n- **Beseitigung von Verschwendung** (Wartezeiten, Redundanz, Komplexität, ...)\n- **kontinuierliche Verbesserung** durch Optimierungszyklen\n- **Agilität** und **Eigenverantwortung der Teams**\n\n~?2 bewährte Lean-Praktiken:\n- **sofortige Behandlung von Abweichungen** (Qualität)\n- **schrittweise Lieferung** (Effizienz)",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T17:56:41.885901067Z",
+    "quality" : "MEDIUM"
+  }
+}

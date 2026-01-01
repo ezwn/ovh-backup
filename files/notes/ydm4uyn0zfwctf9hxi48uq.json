@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ydm4uyn0zfwctf9hxi48uq",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Techniques d'attaque diverses",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Techniques d'attaque diverses\n\n~? Détection de vulnérabilités :\n- **scan réseau** à la recherche de **ports ouverts** ou de **services**\n- exploitation de **failles de protocole** connues\n- **examen du code source** pour exploiter les **failles logicielles non corrigées**\n- utilisation de **sniffers** pour **écouter les communication** réseau **non chiffrées**\n- détection de **services et de MOM ouverts** ou **mal sécurisés**\n- hameçonnage pour manipuler les utilisateurs mal informés ou naïfs\n\n~? Déni de service :\nPrincipe : mettre hors service par saturation.\nNiveaux : haut (utilisation du service) ou bas (protocole).\nDistribué : infection de PC (zombie), puis utilisation par un maître pour envoyer les requêtes\n\n~? Usurpation d'identité\nPrincipe : vol d'identifiant et de mot de passe.\nMéthodes : vol de base de données, recherche de mot de passe (dictionnaire, force brute)\nParades : le gestionnaire de mot de passes bien utilisé, le générateur physique de mots de passe.\n\n~? Hameçonnage\nIncite à la visite de site frauduleux\nSchéma : lien > demande d'information confidentielle\nParade : taper le lien à la main\n\n~? Autres :\n- Attaques distribuées\n- Falsification d'IP\n- Vol d'ordinateur\n- Examen des sources\n\n~? Social engineering\nparade : sensibiliser",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-16T19:07:51.560389167Z",
+    "quality" : "LOW"
+  }
+}

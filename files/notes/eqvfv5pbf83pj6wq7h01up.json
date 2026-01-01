@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "eqvfv5pbf83pj6wq7h01up",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Europe",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Europe\n\n697  La période suivant la guerre froide (1990) est propice aux valeurs européennes (interdépendance, multilatéralisme, standardisation)\n697  Depuis 2010, les grandes puissance s'orientent version le souverainisme : les intérêts particuliers d'abord\n697  L'Europe défendait l'interdépendance et s'opposait aux rapports de force\n699  Le moment des valeurs européennes : recul des régimes autoritaires, avancée de l'état de droit, renforcement du multilatéralisme\n700 L'élargissement de l'Europe : volontaire, inclusif, qui fonctionne après des siècles de rivalités et conquêtes\n702 Depuis 2010 : absence de vision globale du monde, focalisation Chine / États Unis\n\nSituation du monde après la guerre froide (années 90) :\n-recul des régimes autoritaires\n-avancée de l'état de droit\n-croissance de l'interdépendance, du multilatéralisme\n-élargissement de l'Europe\n\nSituation du monde depuis 2010 :\n-montée du souverainisme : intérêts particuliers d'abords\n-moins de vision globale du monde\n-focalisation sur la rivalité Chine / États-Unis\n\n702, bas\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-09T19:21:13.504695824Z",
+    "quality" : "LOW"
+  }
+}

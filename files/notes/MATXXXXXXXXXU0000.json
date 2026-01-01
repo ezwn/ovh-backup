@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATXXXXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mathématiques",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Mathématiques\n\n## [Analyse](note::MATANLXXXXXXU0000)\n\n## [Arithmétique](note::MATARIXXXXXXU0000)\n\n## [Algèbre abstraite](note::MATALGABSXXXU0000)\n\n## [Algèbre linéaire](note::MATALIXXXXXXU0000)\n\n## [Graphes](note::MATGRAXXXXXXU0000)\n\n## [Relations binaires](note::MATLOGRELXXXU0000)\n\n## [Coefficient binomiaux](note::MATCMBXXXXXXU0200)\n\n## [Logique](note::MATLOGXXXXXXU0000)\n\n## [RSA](note::MATARIXXXXXXU0160)\n\n## [Ensembles](note::MATENSXXXXXXU0000)\n\n## [Algèbre matricielle](note::MATALGMATXXXU0000)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.666538666Z",
+    "quality" : "LOW"
+  }
+}

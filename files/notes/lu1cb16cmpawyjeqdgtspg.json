@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "lu1cb16cmpawyjeqdgtspg",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Génération Augmentée par Recherche 2",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Génération Augmentée par Recherche 2\n\nStrategies to optimize context enhancement / noise tradeoff :\n- Reranking - Use a second model to filter retrieved chunks for actual relevance\n- Chunk size optimization - Smaller chunks = more precision, larger chunks = more context\n- Hybrid retrieval - Combine dense and sparse retrieval to improve precision\n- Query decomposition - Break complex queries into sub-queries with targeted retrieval\n- LLM-based filtering - Have the LLM itself identify which chunks are relevant before answering\n- Adaptive retrieval - Retrieve more only when the initial set seems insufficient",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-07T15:19:48.623143309Z",
+    "quality" : "LOW"
+  }
+}

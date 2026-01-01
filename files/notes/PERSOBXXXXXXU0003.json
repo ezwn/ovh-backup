@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOBXXXXXXU0003",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Diagnostic n°3",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Diagnostic 3\n\n## injonctions\n\n- je ressens de plus en plus de détente et de sérénité quand j’interagis avec des inconnus\n- je cultive de plus en plus une vision équilibrée, qui honore à la fois la prudence et la sérénité\n- je suis de plus en plus patient avec moi-même et les autres\n\n## constats\n\n- évitement du contact social\n- contact social associé à anxiété\n- envisager le pire : à corriger par probabilité\n\n## idées\n\n- créer un mode diagnostic par auto-hypnose\n- prendre conscience de micro-procédures de traitement : attribution de resp., interprétation. Corriger / rendre flexible",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.958337539Z",
+    "quality" : "LOW"
+  }
+}

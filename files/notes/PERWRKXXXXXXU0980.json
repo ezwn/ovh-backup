@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0980",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Nexthink : journal",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Log et notes\n\n## Soft skills\nIntégration en équipe agile\nCollaboration avec développeurs et product owners\nAlignement technique\nFeedbacks techniques : retours pertinents et constructifs\nCommunication claire sur la capacité et la performance de l’équipe\nAmélioration des pratiques SCRUM\nCommunication & gestion des conflits\n\"Promotion constante de pratiques de clean code et de reusability à travers les revues de code.\"\nFormation continue :\n\"Participation active à des formations internes et externes, valorisant la montée en compétences même durant les périodes de forte charge.\"\n\n## Vision globale et initiative\nPromotion de composants techniques réutilisables\nAnticipation des besoins à l’échelle de l’entreprise\nContribution à des outils partagés entre équipes\nPrise d’initiative sur des sujets transverses\nSensibilité à l’architecture globale et aux briques partagées\nCapacité à remettre en question les pratiques établies\nRéflexion critique sur l’impact et la portée des livrables\n\n## Documentation & spécifications techniques :\n\"Rédaction de spécifications techniques complètes (tech specs) pour des modules tels qu’Audit Logs et Communicate More.\"\n\"Précurseur dans la formalisation et documentation des processus de production.\"\n\n## Notes\n\n* 2024-12-03 : at the handover to the next team, the tech debt was defined by the engineer manager without consulting the source code or the tech lead. He mentioned missing tests and a service to decommission. No mention of the fact that the main service of ours is using halve a deprecated RPC API half a REST API to access the data. No mention of the tests failing constantly. No mention of the console polluted by unrelevant message, the absence of logs, etc.\n* 2024-11-11 : depuis plusieurs semaines les autres membres ne participent quasiment plus à notre projet (déportés dans d'autres équipes, ne produisant ni story points ni documentation, ..., le taux de participation au cérémonies est très faible)\n* 2024-10-14 : Un service, trigger-api, retourne un code 200 en cas d'erreur de validation et attends 5 minutes que toutes les assertions d'un test soient vérifiées, au lieu d'attendre l'arrivée d'un message.\n* 2024-06-24 : pour la seconde fois, Daniel ne répondra jamais à une question concernant ma formation sur AWS.\n* 2024-06-15 : ai reçu des compliments sur ma méthode de SCUM Mastering, qui serait la raison de la meilleurs planification\n* 2024-06-15 : subissons les conséquences de la migration ratée vers java 21, qui rend les librairies migrées incompatible avec leur clients.\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.078803122Z",
+    "quality" : "LOW"
+  }
+}

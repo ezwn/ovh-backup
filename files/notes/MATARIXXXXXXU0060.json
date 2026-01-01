@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0060",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Congruence",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Congruence\n\n## Définitions\n\nSoient $$n$$ un entier supérieur ou égal à 2, ainsi que $$a$$ et $$b$$ deux entiers relatifs.\n\n~?$$a$$ est congru à $$b$$ modulo $$n$$ si et seulement si :\n- $$n | b-a$$\n- $$∃k∈ℤ : a=b+k \\times n$$\n- $$a$$ et $$b$$ ont le même reste de division euclidienne par leur module.\n\n~?Le plus petit entier positif congru à un entier relatif est :\nson reste par la division euclidienne.\n\n~?La congruence, en tant que relation est :\nune relation d'équivalence.\n\n### $$ℤ$$ sur $$nℤ$$\n\n~?En appliquant la congruence modulo $$n$$ à $$ℤ$$, on obtient :\nun ensemble de $$n$$ classes d'équivalences appelé $$ℤ$$ sur $$nℤ$$.\n\n~?Par rapport à $$ℤ$$, cet ensemble est :\nune partition.\n\n~?Du point de vue de son type algébrique $$ℤ$$ sur $$nℤ$$ est :\nun anneau.\n\n## Propriétés\n\nOn considère $$ℤ$$ sur $$nℤ$$.\n\n~?Si $$a ≡ b$$ et $$c ≡ d$$ alors :\n- $$a + c ≡ b + d$$.\n- $$a \\times c ≡ b \\times d$$.\n- $$a ^ k ≡ b ^ k$$, où $$k$$ est un entier naturel.\n\n@## Exercices\n\n€### Reste de la division euclidienne de $$100^{1000}$$ par 13 // {\"id\": \"5355bf42-6c0b-488b-b28d-9f727d71f533\"}\n\n?En utilisant les propriétés de la congruence, quel est le reste de la division euclidienne de $$100^{1000}$$ par 13 ?\n\n$$100≡9 [13]$$<br>\n$$100^2≡9^2≡81≡3 [13]$$<br>\n$$100^3≡9^2\\times9≡27≡1 [13]$$<br>\n$$100^{999}≡(100^3)^{333}≡1^{333}≡1 [13]$$<br>\n$$100^{1000}≡100^{999}\\times100≡1\\times9≡9 [13]$$<br>\n\nDonc $$100^{1000}=13\\times n + 9$$<br>\nEt $$9$$ est le reste de la division euclidienne de $$100^{1000}$$ par 13.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Définitions (congruence)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Congruence\n\n## Definitions\n\nLet $$n$$ be an integer greater than or equal to 2, and $$a$$ and $$b$$ two integers.\n\n~?$$a$$ is congruent to $$b$$ modulo $$n$$ if and only if:\n- $$n | b-a$$\n- $$∃k∈ℤ : a=b+k \\times n$$\n- $$a$$ and $$b$$ have the same remainder in their Euclidean division by their modulus.\n\n~?The smallest positive integer congruent to an integer is:\nits remainder in the Euclidean division.\n\n~?Congruence, as a relation, is:\nan equivalence relation.\n\n### $$ℤ$$ over $$nℤ$$\n\n~?By applying congruence modulo $$n$$ to $$ℤ$$, we obtain:\na set of $$n$$ equivalence classes called $$ℤ$$ over $$nℤ$$.\n\n~?With respect to $$ℤ$$, this set is:\na partition.\n\n~?From the standpoint of its algebraic type, $$ℤ$$ over $$nℤ$$ is:\na ring.\n\n## Properties\n\nConsider $$ℤ$$ over $$nℤ$$.\n\n~?If $$a ≡ b$$ and $$c ≡ d$$ then:\n- $$a + c ≡ b + d$$.\n- $$a \\times c ≡ b \\times d$$.\n- $$a ^ k ≡ b ^ k$$, where $$k$$ is a natural integer.\n\n@## Exercises\n\n€### Remainder of the Euclidean division of $$100^{1000}$$ by 13 // {\"id\": \"5355bf42-6c0b-488b-b28d-9f727d71f533\"}\n\n?Using the properties of congruence, what is the remainder of the Euclidean division of $$100^{1000}$$ by 13?\n\n$$100≡9 [13]$$<br>\n$$100^2≡9^2≡81≡3 [13]$$<br>\n$$100^3≡9^2\\times9≡27≡1 [13]$$<br>\n$$100^{999}≡(100^3)^{333}≡1^{333}≡1 [13]$$<br>\n$$100^{1000}≡100^{999}\\times100≡1\\times9≡9 [13]$$<br>\n\nThus, $$100^{1000}=13\\times n + 9$$<br>\nAnd $$9$$ is the remainder of the Euclidean division of $$100^{1000}$$ by 13.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.942400988Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFARCXXXU0711",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Questionnaire KIAOO",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Questionnaire KIAOO\n\nLe format mobile permet une planification fine et adaptative de l'apprentissage, au plus proche de l'apprenant.\n\n## Apprentissage des langues\n\n### Comment une application mobile peut elle t'aider à améliorer ton français ?\n\n### Quels types de contenus voudrais tu avoir ?\n\n### Comment voudrais-tu pouvoir obtenir de nouveaux contenus ?\n\nD'habitude quand j'apprends le français, je note des phrases, j'en extrais le vocabulaire et pour chaque mot, j'ajoute un exemple.\n\nJe cherche des exercices de répétitions à voix haute car je me suis aperçue lors d'une présentation professionnelle que j'avais des difficultés spécifiques à l'orale et concernant le vocabulaire de mon domaine professionnel (infirmier).\n\nJe voudrais par exemple pouvoir saisir des phrases issues de mes lectures. Il s'agirait de copier/coller depuis le livre.\n\nL'application me les ferait alors travailler.\n\nSi je devais utiliser des notes produites par quelqu'un d'autre, je m'inquiéterais de leur qualité. Cependant le crédit de la source ou une note données à la personne pourrait me rassurer.\n\nAuteur est très important.\n\n## Enseignant\n\n### Comment une application mobile pourrait-elle compléter votre activité d'enseignement ?\n\n### Qu'attendriez-vous en terme de création et diffusion de contenus ?\n\n### Qu'attendriez-vous en terme d'interactions avec vos élèves ?\n\n## Etudiant\n\n### Quels services aimerais-tu qu'une application mobile t'offre dans ta stratégie d'apprentissage et de révisions ?\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.293998509Z",
+    "quality" : "LOW"
+  }
+}

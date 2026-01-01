@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDEXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dévelopement logiciel",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Dévelopement logiciel\n\n## [Conception du code](note::COSSDECODDESU0000)\n\n## [Python](note::COSSDECODPYTU0000)\n\n## [Java](note::COSSDECODJAVU0000)\n\n## [Spring](note::COSSDECODJSPU0000)\n\n## [Kafka](note::COSSOFDEVKAFU0000)\n\n## [PlantUML](note::COSSOFDEVTOOU0005)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.233421543Z",
+    "quality" : "LOW"
+  }
+}

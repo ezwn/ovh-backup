@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "6ayza8x57bcjn2ygibpk8j",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèle du château fort",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modèle du château fort\n\n[Description de la sécurité d'un château fort](video::4;00:28:56)\n[Le risque le plus dur à gérer : attaquant à l'intérieur](video::4;00:31:15)\n[Actuellement les SI sont fragmentés (cloud)](video::4;00:32:14)\n[Solutions à la fragmentation du SI et attaques internes](video::4;00:33:23)\n\n~? Solutions à la fragmentation du SI et attaques internes :\n- micro-segmentation réseau\n-authentification mutuelle systématique\n-principe du moindre privilège\n\n[Il faut se mettre à la place de l'attaquant](video::4;00:34:54)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "4" : "https://www.youtube.com/watch?v=09hTeHOeQuY"
+      }
+    } ],
+    "modificationDate" : "2025-10-12T17:10:12.235664965Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0050",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mes centres d'intérêt",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Je développe des outils logiciels parfaitement adaptés à mon usage personnel, par exemple :\nPour prendre des notes rapides sous forme de texte, de schémas et de cartes mentales.\nOu une application de génération d'enregistrements audio pour apprendre les langues en marchant.\n\nJ’aime :\ndécouvrir des espèces animales, végétales ou de champignons que je ne connais pas encore,\nles paysages exotiques,\net parfois, déconnecter en bivouaquant loin de toute civilisation.\nJ’ai un intérêt marqué pour la culture chinoise.\n\nEt enfin, un peu de tout un ensemble d’intérêts très variés, comme :\nla psychologie cognitive,\nla nutrition et la santé,\nles mathématiques, ...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Mes centres d'intérêt",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "I develop software tools perfectly tailored to my personal use, for example:\nTo take quick notes in the form of text, diagrams, and mind maps.\nOr an application for generating audio recordings to learn languages while walking.\n\nI enjoy:\ndiscovering animal, plant, or fungi species that I don't yet know,\nexotic landscapes,\nand sometimes, disconnecting by camping far from any civilization.\nI have a keen interest in Chinese culture.\n\nAnd finally, a bit of everything from a wide range of interests, such as:\ncognitive psychology,\nnutrition and health,\nmathematics, ...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Mes centres d'intérêt",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Ich entwickle Software-Tools, die perfekt auf meine persönlichen Bedürfnisse abgestimmt sind, zum Beispiel:\nUm schnelle Notizen in Form von Texten, Diagrammen und Mindmaps zu machen.\nOder eine Anwendung zur Generierung von Audioaufnahmen, um beim Spazierengehen Sprachen zu lernen.\n\nIch mag es:\nTier-, Pflanzen- oder Pilzarten zu entdecken, die ich noch nicht kenne,\nexotische Landschaften,\nund manchmal abzuschalten, indem ich weit weg von jeglicher Zivilisation zelte.\nIch habe ein ausgeprägtes Interesse an der chinesischen Kultur.\n\nUnd schließlich, ein wenig von allem aus einem sehr vielfältigen Interessenspektrum, wie:\nkognitive Psychologie,\nErnährung und Gesundheit,\nMathematik, ...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Mes centres d'intérêt",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "我开发了一些完全适合我个人使用的软件工具，例如：\n用于快速记录文本、图表和思维导图的工具。\n或者一个生成音频记录的应用程序，用于在步行时学习语言。\n\n我喜欢：\n发现我还不知道的动物、植物或真菌物种，\n异国风景，\n以及有时远离文明的露营。\n我对中国文化有浓厚的兴趣。\n\n最后，我对各种各样的兴趣也略知一二，比如：\n认知心理学，\n营养与健康，\n数学，...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.344921939Z",
+    "quality" : "LOW"
+  }
+}

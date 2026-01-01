@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Credit Suisse",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## Credit Suisse – Lausanne, Suisse\n**Technical Lead – Développeur full-stack senior**\n**Septembre 2021 – Novembre 2022**\n\nResponsable technique d'une application de gestion des processus métier liés à l’évaluation de la conformité des clients (onboarding, revues périodiques, évaluations déclenchées par événements). Pilotage d’une équipe de développement full-stack, conception logicielle, encadrement méthodologique.\n\n### Réalisations techniques\n- Refonte de l'architecture logicielle : séparation des responsabilités, découplage, factorisation, réutilisation.\n- Développement de composants critiques (Java/Spring, React) selon les principes Clean Code et SOLID.\n- Mise en place d’un modèle de données historisé avec migration.\n- Création de bibliothèques de composants partagés (frontend et backend), dont une librairie de comparaison visuelle de fichiers.\n- Génération d’événements, audit trail métier, couverture de logs pour maintenance L3.\n- Optimisation de la résilience du système : tolérance aux pannes, supervision, modèle de données dynamique.\n\n### Encadrement et transmission\n- Coaching technique, revue de code, documentation des bonnes pratiques, formation continue.\n- Amélioration des processus de livraison (CI/CD, releases, supervision).\n- Rédaction de documentation d’architecture.\n- Accompagnement du Product Owner à la mise en œuvre de Scrum (sprint planning, revues).\n\n### Leadership & management\n- Conduite d’entretiens de recrutement, sélection de prestataires.\n- Suivi de la performance et gestion du temps des ressources.\n- Facilitation du travail d’équipe, collaboration inter-équipes selon un modèle client/service.\n- Garantie de la qualité des livrables dans le respect des exigences globales.\n\n### Stack technologique\nJava/Spring, JUnit, Mockito\nTypeScript/React, Testing Library, Jest\nOracle, Liquibase\nJenkins, Saltstack\nScrum, JIRA\n\n### Appréciation officielle\nConsidéré comme un membre clé du middle management, proactif, fiable et compétent, avec un esprit analytique, une communication efficace et un excellent relationnel. Flexible, rigoureux et innovant, il a dépassé les attentes en matière de qualité et de productivité.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.149442327Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0030",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : "Sources:\n[Hexagonal Architektur - Was ist das überhaupt?](https://www.youtube.com/watch?v=PTZzljxijYQ)\n[Architecture hexagonale pour les nuls](https://www.youtube.com/watch?v=Hi5aDfRe-aE) 9:07",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architecture hexagonale",
+      "description" : "Voici une synthèse très condensée des éléments clés de l'architecture hexagonale. Cette architecture peut s'appliquer à diverses échelles dans un Système d'Informations.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Architecture hexagonale\n\n~?**Organisation** prônée par l'**architecture hexagonale** :\nUn **cœur** applicatif entouré de **ports** sur lesquels des **adaptateurs** peuvent être branchés.\n\n~?**Contenu** du **cœur** applicatif dans l'architecture hexagonale :\nLa **logique métier** **pure**, et la **définition** des **ports** sous la forme d'interfaces.\n\n~?**Fonction** des **adaptateurs** dans l'architecture hexagonale :\n**Connecter** le **cœur** aux **systèmes externes** à l'application.\n\n~?**Propriétés** des **adaptateurs** :\nils sont **modulaires** et **interchangeables**.\n\n~?Ce qui **rend** les **adaptateurs** **compatibles** **avec** le **cœur** :\nIls **implémentent** les **ports**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-11T17:33:24.030424321Z",
+    "quality" : "MEDIUM"
+  }
+}

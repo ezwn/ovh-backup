@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "SHUFEMXXXXXXU0001",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Feminologie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Domaines préférés :\nRessources humaines\nCommunication et relations publiques\nHôtellerie-restauration (variation selon les postes)\nFonction publique administrative\n\nFacteurs déterminants :\n\nHoraires de travail flexibles\nEnvironnements mixtes\nOpportunités de voyage ou d'événements\nTaille et diversité du réseau professionnel",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.243309231Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "mkqxcxkle79v1s5yc2lxdl",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Gestion des risques (UTC505)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Gestion des risques](video::3;00:28:58)\n\n## Fiches\n\n- [Gestion des risques](note::ei3uhjlxavovhl9ale65l4)\n\n## Cours\n\n[Gestion des risques ISO](video::3;00:24:00)\n[Gestion des risques NIST](video::3;00:24:50)\n[Méthode harmonisée d'analyse des risques](video::3;00:27:20)\n[Étapes de la gestion des risques communes à toutes les méthodes](video::3;00:28:10)\n\nÉtapes de la gestion des risques de sécurité :\n- expression des besoins de sécurité\n- recensement des vulnérabilités, menaces et impacts\n- identifier : mesures permettant d'atténuer le risque, coût associés, tolérance au risque\n\n[Traitement du risque](video::3;00:29:36)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "3" : "https://www.youtube.com/watch?v=4tkdkNhzHw4"
+      }
+    } ],
+    "modificationDate" : "2025-10-11T08:37:44.162159441Z"
+  }
+}

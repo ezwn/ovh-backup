@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0019",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Déterminer les coefficients de Bézout [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Obtenir des coefficients de Bézout après avoir utilisé l'algorithme d'Euclide\n\nOn part de l'expression principale obtenue :\nen exprimant le PGCD en fonction des autres termes de la division dont il est le reste.\n\nPuis, on remonte les lignes de l'algorithme d'Euclide,\net pour chacune d'entre elles :\nOn isole le reste à gauche.\nOn le substitue dans l'expression principale par les termes à droite.\nOn développe l'expression principale,\nen conservant les termes qui apparaissent plus haut dans les lignes de l'algorithme.\n\nQuand on a atteint la ligne en haut, des coefficients de Bézout apparaissent.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Déterminer les coefficients de Bézout [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Obtaining Bézout coefficients after using Euclid's algorithm\n\nWe start from the main expression obtained:\nby expressing the GCD in terms of the other terms of the division where it is the remainder.\n\nThen, we trace back the lines of Euclid's algorithm,\nand for each of them:\nWe isolate the remainder on the left.\nWe substitute it in the main expression with the terms on the right.\nWe expand the main expression,\nkeeping the terms that appear higher up in the lines of the algorithm.\n\nWhen we reach the top line, Bézout coefficients emerge.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.264065346Z",
+    "quality" : "LOW"
+  }
+}

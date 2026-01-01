@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "95uf3dqm2pigu270sxz6rq",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèle TCP/IP",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modèle TCP/IP\n\n?~ **Couches** du modèle **TCP/IP** :\n- **1**, **accès réseau**\n- **2**, **internet**\n- **3**, **hôte à hôte**\n- **4**, **application**\n\n?~ **Correspondance** entre **TCP/IP** et **OSI** :\n- **1**, **accès réseau** : couches **physique** et **liaison de données**\n- **2**, **internet** : couche **réseau**\n- **3**, **hôte à hôte** : couche **transport**\n- **4**, **application** : couches **session**, **présentation** et **application**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-25T18:52:37.367987224Z",
+    "quality" : "LOW"
+  }
+}

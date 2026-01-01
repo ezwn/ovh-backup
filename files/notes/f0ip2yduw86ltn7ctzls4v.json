@@ -1,0 +1,33 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "f0ip2yduw86ltn7ctzls4v",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Analyse du budget des administrations publiques",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Analyse du budget des administrations publiques\n\n~? Axes :\n- **dépenses** / **recettes**\n- **fonctionnement** / **investissement**\n\n~? Structure des **dépenses** de **fonctionnement** des **CT** :\n-**frais personnels** : rémunérations et charges sociales\n-**dépenses d'intervention** : subventions versées\n-**achat** et **charges externes**\n-**charges financières** : intérêts des dettes\n-autres\n\n~? Structure des **dépenses** d'**investissement** des **CT** :\n-**équipement** brut : investissement de patrimoine\n-**subvention d'équipement** : financement d'un tiers qui investi\n-autre\n\n~? **Recettes** de **fonctionnement** :\n-**Impôts** et **taxes** : **63 %**\n-**Concours** de l'**État** : **14 %**\n-**Vente** de **biens** et **services** : **10 %**\n-**subventions reçues** : **8 %**\n\n~? **Recettes** d'**investissement** :\n-**subventions** d'**investissement** reçues\n-emprunts\n-**cessions** d'**actifs**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "CT" : "collectivités territoriales"
+      },
+      "sttMapping" : {
+        "collectivités territoriales" : "CT"
+      },
+      "tooltips" : {
+        "CT" : "Collectivités Territoriales"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-10T16:38:39.436050365Z",
+    "quality" : "LOW"
+  }
+}

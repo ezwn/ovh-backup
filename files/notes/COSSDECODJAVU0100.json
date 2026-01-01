@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sealed classes [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Sealed classes\n\nDepuis Java 17,\non peut restreindre les enfants d'une classe ou d'une interface.\nCela se fait grâce aux mots-clés \"sealed\" et \"permits\".\nLes classes autorisées doivent préciser l'un des modificateurs :\n\"final\",\n\"sealed\",\nou \"non-sealed\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Sealed classes [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Sealed classes\n\nSince Java 17,\nyou can restrict the children of a class or interface.\nThis is done using the keywords \"sealed\" and \"permits\".\nAuthorized classes must specify one of the modifiers:\n\"final\",\n\"sealed\",\nor \"non-sealed\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Sealed classes [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Versiegelte Klassen\n\nSeit Java 17,\nkann man die Kinder einer Klasse oder einer Schnittstelle einschränken.\nDies geschieht durch die Schlüsselwörter \"sealed\" und \"permits\".\nDie zugelassenen Klassen müssen einen der Modifikatoren angeben:\n\"final\",\n\"sealed\",\noder \"non-sealed\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Sealed classes [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "密封类\n\n自从 Java 17 以来，\n我们可以限制类或接口的子类。\n这通过关键字 \"sealed\" 和 \"permits\" 来实现。\n被允许的类必须指定一个修饰符：\n\"final\"，\n\"sealed\"，\n或 \"non-sealed\"。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.082946151Z",
+    "quality" : "LOW"
+  }
+}

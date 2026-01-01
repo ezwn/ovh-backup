@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "v8um1kelqwlpgrw5cvv9aq",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Organisation de la sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Organisation de la sécurité](video::3;00:32:25)\n\n[Vocabulaire](video::3;00:32:25)\n[Politique](video::3;00:32:25)\n\nPolitique de sécurité :\ngrands principes de sécurité\n\nMécanismes de sécurité :\nimplémentation de la politique\n\nContrôle :\nvérification de la conformité des mécanismes à la politique\n\n[Mécanismes : implémentation](video::3;00:33:00)\n[Contrôle (Assurance): conformité](video::3;00:33:00)\n[Niveaux d'organisation de la sécurité](video::3;00:33:50)\n\nNiveaux d'organisation de la sécurité :\n- stratégique : pilotage, définition des objectifs, définition des choix et principes\n- organisationnel : prévention des incidents, normes, uniformisation des méthodes\n- exploitation : mise en place des protections, outils, administration système et réseau\n- gestion des incidents et analyse\n\n[Stratégique](video::3;00:33:50)\n[Security Operation Center (service dans l'entreprise)](video::3;00:35:45)\n[OWASP Top 10 : journalisation insuffisante pour détecter les menace](video::3;00:36:35)\n[Security Event Monitoring](video::3;00:38:46)\n[Exemples d'événements à enregistrer](video::3;00:40:05)\n[Format des enregistrements](video::3;00:43:38)\n[Niveaux de sévérité](video::3;00:44:28)\n\nNiveaux de sévérité :\n- urgence\n- alerte\n- critique\n- erreur\n- avertissement\n- note\n- information\n- debug\n\n[Où enregister?](video::3;00:45:15)\n[Limites à la journalisation](video::3;00:46:15)\n[Propriétés recherchées dans un System de Monitoring des Evenements](video::3;00:47:00)\n\nPropriétés recherchées dans un System de Monitoring des Evenements :\n-mettre les événements en relation avec des scénarios d'attaque\n-ne pas impacter les peformances\n-corréler les événements de diverses sources\n-être réactif\n\n[Références](video::3;00:47:58)\n[SEM et TSCM](video::3;00:48:58)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-11T08:39:04.856388493Z"
+  }
+}

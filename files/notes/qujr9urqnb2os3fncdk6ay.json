@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "qujr9urqnb2os3fncdk6ay",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Conception créative",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Conception créative (design thinking)\n\n~? **Intérêts** **de** la **conception créative** :\n- approche **intuitive**, **analytique** et **collaborative**\n\n~? **Cinq** **étapes** de la **conception créative** en 5 étapes  :\n- **empathie** : **comprendre** les **besoins** des **utilisateurs**\n- **définition** : **formuler** le **problème** du **point de vue** des **utilisateurs**\n- **idéation** : **générer** un **grand nombre** d'**idées** créatives\n- prototype\n- test",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-02T09:10:57.423664421Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "da2c2eiys073h3fiel2r48",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Regroup. S5 ★★",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Regroup. S5 ★★\n\n[Calcul score CVSS (Common Vuln Scoring Sys)](video::utc505-05b;00:26:05)\n-répondre à des critères (ex: faut-il des privilèges de super util? mouvement latéral possible?)\n-un calculateur donne une note\n\n[Question évidente sur le chiffrage](video::utc505-05b;00:44:55)\n[Mathématiques de RSA](video::utc505-05b;00:59:26)\n[Communication SSL/TLS à deux sens?](video::utc505-05b;01:15:00)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-05b" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-25T08:50:42.228742623Z"
+  }
+}

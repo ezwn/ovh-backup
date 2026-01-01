@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU0035",
+  "content" : {
+    "domain" : "POLITICAL_SCIENCE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Les régimes électoraux",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Les régimes électoraux\n\n##% Définitions\n\n~? Régime électoral :\n-**règles d'organisation** des **élections**.\n\n~? Suffrage :\n**acte** par lequel **on choisi**.\n\n##% En détail\n\n~?  **Éléments** **déterminés** par le **régime électoral** :\n- le **suffrage**\n-le **mode de scrutin**\n-le **découpage des circonscriptions**\n-les **conditions d'éligibilité**\n\n~? **Caractéristiques** des **suffrages** :\n-**universel** ou **restreint**\n-**direct** ou **indirect**\n\n~? **Modes** de **scrutin** :\n- **majoritaire** : **le plus de voix l'emporte**\n- **proportionnel** : **répartition de sièges proportionnelle** **aux voix**\n- mixte",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-25T17:42:15.530791491Z",
+    "quality" : "LOW"
+  }
+}

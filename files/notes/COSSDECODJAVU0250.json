@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0250",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Pattern matching java 17+ [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Depuis la version 17 de java,\n# on peut utiliser le **pattern matching**.\n\n## Il **se compose**...\n### D'un **prédicat** implicite ou explicite,\n#### qui évalue **si l'objet est d'un type donné**.\n### Et d'un **ensemble de variables** pour\ncorrespondre\n#### le **stocker** ou le **déconstruire** si son type correspond.\n\n## Cela **fonctionne avec** :\n### **instanceof**,\n### et la nouvelle syntaxe pour **switch**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Pattern matching java 17+ [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Since Java 17,\n# we can use **pattern matching**.\n\n## It **consists of**...\n### An implicit or explicit **predicate**,\n#### which evaluates **if the object is of a given type**.\n### And a **set of variables** to\nmatch\n#### **store** or **deconstruct** it if its type matches.\n\n## This **works with**:\n### **instanceof**,\n### and the new **switch** syntax.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Pattern matching java 17+ [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Seit der Version 17 von Java,\n# kann man das **Pattern-Matching** verwenden.\n\n## Es **besteht aus**...\n### Einem **impliziten oder expliziten Prädikat**,\n#### das **bewertet**, ob das **Objekt von einem gegebenen Typ ist**.\n### Und einer **Menge von Variablen**, um\n^übereinstimmen\n#### es zu **speichern** oder **zu dekonstruieren**, wenn sein Typ übereinstimmt.\n\n## Das **funktioniert mit**:\n### **instanceof**,\n### und der neuen Syntax für **switch**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Pattern matching java 17+ [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 自 Java 17 版本起，\n# 可以使用 **模式匹配**。\n\n## 它**由以下部分组成**...\n### 隐式或显式的**谓词**，\n#### 用来评估**对象是否为特定类型**。\n### 以及一组**变量**，\n^!匹配\n#### 如果其类型匹配，则用于**存储**或**解构**。\n\n## 这可以**用于**：\n### **instanceof**，\n### 以及新语法的 **switch**。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.438209315Z",
+    "quality" : "LOW"
+  }
+}

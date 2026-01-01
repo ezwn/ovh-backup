@@ -1,0 +1,32 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU1020",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Types et offres de cloud",
+      "description" : "\uD83E\uDDEA Cette fiche n'est pas encore prête.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Types et offres de cloud\n\n~? 3 **types** de **cloud** :\n**public** : **mutualisé** pour un **grand nombre de clients**\n**privé** : **interne** à une **entreprise**\n**grand public** : pour les **particuliers**\n\n~?% 4 **offres** **cloud** :\n- **IaaS** : **machines** virtuelles, **stockage**, **réseau**. A **gérer soi-même**.\n- **PaaS** : **plateforme** **gérée** par le fournisseur (exemple : LAMP)\n- **CaaS** : **orchestrateur** de **conteneurs** **géré** par le fournisseur\n- **SaaS** : **logiciel** **prêt à l'emploi** et **configurable**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "IaaS" : "infrastructure as a service",
+        "PaaS" : "platform as a service",
+        "SaaS" : "software as a service",
+        "CaaS" : "containers as a service",
+        "LAMP" : "Linux, Apache, MySQL, Php"
+      },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-08T15:02:11.648936300Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU2050",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Spring security",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Spring security\n\n## Authentification\n\n?Pour l'authentification, une application spring security doit fournir\n^le mot de passe\nun bean PasswordEncoder pour gérer les mots de passe\n^retrouver\n^le service\n^l'utilisateur\net un service qui implante UserDetailsService pour retrouver des utilisateurs.\n\n?UserDetailsService retourne un objet UserDetails pour\nun nom d'utilisateur donné.\n\n?La création de UserDetails est simplifiée par\nUserBuilder.\n\n^le rôle\nDans UserDetails, les rôles et privilèges sont stockés dans\n^la liste\nune liste appelée \"authorities\".\n\n## Autorisation\n\n^le niveau\n?L'autorisation spring security peut se faire à deux niveau,\n^la requête\n^la classe\nau niveau des requêtes entrantes et au niveau des classes et méthodes.\n\n~?Concernant les requêtes, on défini\nun bean de type WebSecurityCustomizer,\n?dont la méthode\n^modifier\nmodifie un object de type WebSecurity.\n\n~?Il faut penser\n^la page\n^l'erreur\n^l'accès\n^permettre\nà permettre l'accès aux URL de ressources statiques et de pages d'erreurs.\n\n~?C'est une bonne pratique\n^bloquer\nde bloquer l'accès à toutes les URL qu'on ne connait pas.\n\n~?L'autorisation spring security des classes et méthodes se fait à l'aide\ndes annotations \"Secured\" et \"PreAuthorize\".\n\n## Outils\n\n^utile\n?Spring security fournit deux beans utiles\n\"Principal\" et \"Authentication\"\n^le test\n?ainsi que des annotations pour les tests comme par exemple\n\"WithAnonymousUser\" et \"WithMockUser\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.097547014Z",
+    "quality" : "LOW"
+  }
+}

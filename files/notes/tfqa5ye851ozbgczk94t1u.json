@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "tfqa5ye851ozbgczk94t1u",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Définitions d'administration publique",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Définitions d'administration publique\n\n~?  Navette parlementaire :\nconcernant un **projet de loi**,\n**transmissions** entre l'**Assemblée Nationale** et le **Sénat**,\net **examens** par ces deux chambres **conduisant à** leur **alignement**.\n\n~? Déconcentration :\n**organisation locale** du **pouvoir** de l'**État**\n\n~? Décentralisation :\n**transfert** de **compétences** de l'**État** **vers** des **autorités autonomes**,\nvoulue par l'**article 1** de la **constitution**,\net qui **peut être** **technique** (université, hôpital) ou **territoriale** (collectivité).\n\n~? Péréquation :\n**mécanisme** de **redistribution** **financière** visant à **réduire** les **inégalités** entre différentes entités\n\n~? Bassin de vie :\n**territoire** où les **habitants** **accèdent** à l'**essentiel** de leurs **services quotidiens** **sans déplacement excessif**\n\n~? PLF :\nProjet de Loi de Finances\n\n~? PLU :\nPlan Local d'Urbanisme\n\n~? Déficit public :\n**différence** **entre** les **recettes** **et** les **dépenses** publiques d'un État **sur une année**\n\n~? **Dépenses** **publiques** en France par **acteurs** et **contribution**  :\n- Organismes de **sécurité sociale**, 50%\n- **État**, 35%\n- **Collectivités locales**, 15%\n\n~? Principe de **subsidiarité** :\n**Décider** **au plus proche des citoyens**,\n**sauf** si le **niveau supérieur** peut **agir plus efficacement**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-18T18:51:18.209736841Z",
+    "quality" : "LOW"
+  }
+}

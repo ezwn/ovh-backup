@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "3l7dk71hj78vt7xl1qa0s6",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Besoins humains et accomplissement selon Maslow",
+      "description" : "Cette unité permet d'apprendre le modèle de la pyranide de Maslow.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Besoins humains et accomplissement selon Maslow\n\n?~**Structure** des **besoins humains** selon Maslow :\nune **hiérarchie**, dont **chaque niveau** **soutien** le **suivant**.\n\n?~**Niveaux de besoins** selon Maslow :\n**physiologique**, **sécurité**, **affection**, **estime de soi** et **accomplissement**.\n\n?~**Caractéristiques** des **personnes accomplies** selon Maslow :\n- **conscience** et **acceptation** **de soi**\n- solidité de convictions\n- orientation vers l'action\n- **ouverture** aux **expériences** **nouvelles**\n- dévouement à une **mission**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Human Needs and Self-Actualization according to Maslow",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "#% Human Needs and Self-Actualization according to Maslow\n\n?~The **structure** of **human needs** according to Maslow:\na **hierarchy**, where **each level** **supports** the **next**.\n\n?~**Levels of needs** according to Maslow:\n**physiological**, **safety**, **love/belonging**, **self-esteem** and **self-actualization**.\n\n?~**Characteristics** of **self-actualizing people** according to Maslow:\n- **self-awareness** and **self-acceptance**\n- strength of convictions\n- orientation toward action\n- **openness** to **new** **experiences**\n- dedication to a **mission**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Menschliche Bedürfnisse und Selbstverwirklichung nach Maslow",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "#% Menschliche Bedürfnisse und Selbstverwirklichung nach Maslow\n\n?~**Struktur** der **menschlichen Bedürfnisse** nach Maslow:\neine **Hierarchie**, bei der **jede Ebene** die **nächste** **unterstützt**.\n\n?~**Bedürfnisebenen** nach Maslow:\n**physiologisch**, **Sicherheit**, **Liebe und Zugehörigkeit**, **Selbstachtung** und **Selbstverwirklichung**.\n\n?~**Merkmale** **selbstverwirklichter Personen** nach Maslow:\n- **Selbstbewusstsein** und **Selbstakzeptanz**\n- Festigkeit der Überzeugungen\n- Handlungsorientierung\n- **Offenheit** für **neue** **Erfahrungen**\n- Hingabe an eine **Berufung**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "马斯洛视角下的人类需要与自我实现",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "#% 马斯洛视角下的人类需要与自我实现\n\n?~根据马斯洛，**人类需要**的**结构**：\n一个**层级**，其中**每一层****支撑****下一层**。\n\n?~根据马斯洛的**需要层次**：\n**生理**、**安全**、**情感**、**自尊**以及**自我实现**。\n\n?~根据马斯洛：**自我实现者**的**特征**：\n- 对**自我**的**觉察**与**接纳**\n- 坚定的信念\n- 行动取向\n- 对**新** **经验**持**开放**态度\n- 对一项**使命**的奉献",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-24T17:29:47.304891436Z",
+    "quality" : "MEDIUM"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSECOXXXXXXU0100",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : "D'après https://fr.wikipedia.org/wiki/Keyn%C3%A9sianisme",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Keynésianisme",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Keynésianisme\n\n##% Définitions\n\n~? Demande agrégée :\n**demande totale** de biens et services **dans** une **économie**\npour une **période** et un **niveau de prix** **donnés**\n\n~? Inflation :\n**perte de pouvoir d'achat** de la **monnaie** **menant à** une **augmentation des prix**\n\n~? **Courbe** de **Phillips** :\n**relation inverse** entre le **taux de chômage** et l'**inflation**,\n**due à** la **capacité** des **salariés** à **négocier** leur **salaire**.\n\n##% Thèses principales\n\n~? **Principes** fondamentaux de l'**économie** selon John Maynard **Keynes** :\n- la **demande agrégée** **détermine** la **croissance**, **mais** est **instable**\n- la **demande** **influence** **plus** la **production** et l'**emploi** **qu'elle n'influence** les **prix**\n- l'**ajustement** des **prix** à l'**offre** et à la **demande** est **lent**\n\n~? **Conséquences** des **principes** **keynésiens** sur les **politiques économiques** :\n-**en temps normal**, on atteint **rarement** le **plein emploi**\n-le **système économique** est **instable** et il faut **intervenir** pour le **stabiliser**\n-il **vaut mieux** **soutenir** l'**emploi** **que** **combattre** l'**inflation**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-03T17:18:27.257876816Z"
+  }
+}

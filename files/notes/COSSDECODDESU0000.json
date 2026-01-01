@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODDESU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Conception du code",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Code design\n\n## [Paradigmes et concurrence](note::COSSDECODDESU0010)\n\n## [Dépendances logicielles : inversion, contrôle et injection](note::COSSDECODDESU0020)\n\n## Domain specific language (ex: Mockito)\n\n## [Design patterns](note::COSSDECODDESU2000)\n\n### [Mandataire (cas d'usage)](note::COSSDECODDESU2010)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.635127584Z",
+    "quality" : "LOW"
+  }
+}

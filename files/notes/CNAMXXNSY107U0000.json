@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "CNAMXXNSY107U0000",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "NSY107",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# NSY107\n\n### [11 - Déploiement sur le Cloud](note::0mlno1i37p45ynhfbhoy65)\n\n## Révisions\n\n1 00:00:00 MOM\n1 00:00:00 COBRA | 00:00:00 COM/DCOM\n1 00:49:52 Comparaison J2EE et .NET\n1 00:53:53 WSDL\n1 00:54:54 BDD réparties et transactions. Distribution\n1 01:00:37 BDD réparties et transactions. Fédération\n\n## Todo\n- Cloud computing & Virtualisation des infrastructures\n- Sécurité des systèmes d’information\n- Middleware orienté messages (MOM)\n\n## [Architecture logicielle](note::COSARCXXXXXXU0000)\n\n## [Virtualisation des infrastructures](note::COSXXXXXXXXXU0005)\n\n## [Sécurité informatique](note::COSSECXXXXXXU0000)\n\n## [Conception logicielle](note::COSSDECODDESU0000)\n\n## [Données](note::COSDATXXXXXXU0000)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-14T11:35:52.857894772Z",
+    "quality" : "LOW"
+  }
+}

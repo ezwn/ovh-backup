@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGRELXXXU0045",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ordre total et partiel [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "L'ordre d'un ensemble ordonné par une relation d'ordre est dit\n\"total\" si quels que soient deux de ses éléments,\nils sont en relation dans un sens ou dans l'autre.\nSinon on pourra dire que l'ensemble est partiellement ordonné.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Ordre total et partiel [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "The order of a set ordered by a relation of order is said to be\n\"total\" if any two of its elements are related\nin one way or another.\nOtherwise, we can say that the set is partially ordered.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Ordre total et partiel [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Die Ordnung einer durch eine Ordnungsrelation geordneten Menge wird\n\"total\" genannt, wenn zwei beliebige Elemente davon\nin irgendeiner Richtung zueinander in Beziehung stehen.\nAndernfalls kann man sagen, dass die Menge teilweise geordnet ist.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.184938623Z",
+    "quality" : "LOW"
+  }
+}

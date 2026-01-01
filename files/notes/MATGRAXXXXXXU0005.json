@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATGRAXXXXXXU0005",
+  "content" : {
+    "domain" : "MATHEMATICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Graphes",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Graphes\n\n## Définir un graphe\n\n~?Quels sont les deux ensembles définissant un graphe ?\nEnsemble des sommets, et ensemble des arrêtes.\n\n%## Propriétés des graphes\n\n~?Comment qualifier un graphe, dont tous les sommets sont reliés directement ou indirectement ?\nConnexe.\n\n~?Comment qualifier un graphe, dont tous les sommets sont reliés directement ?\nComplet.\n\n%## Chemin, circuit et cycle\n\n?~Qu'est-ce qu'un chemin dans un graphe ?\nUne suite d'arêtes consécutives sans répétition d'arêtes.\n\n~?Qu'est-ce qu'un chemin simple dans un graphe ?\nUn chemin qui ne passe jamais deux fois par le même sommet.\n\n~?Qu'est-ce qu'un circuit dans un graphe ?\nUn chemin commençant et finissant au même sommet.\n\n~?Qu'est-ce qu'un cycle dans un graphe ?\nUn chemin simple qui commence et finit au même sommet.\n\n~?Que signifie \"eulérien\" ?\nQui passe exactement une fois par chaque arrête du graphe.\n\n%## Arbre\n\n~?Quelles sont des deux caractéristiques du graphe d'un arbre ?\nConnexe et acyclique.\n\n~?Si un arbre possède $$s$$ sommets, combien a-t-il d'arêtes ?\n$$s$$ mois 1.\n\n%## Degré\n\n~?Qu'est-ce que le degré d'un sommet dans graphe non orienté ?\nNombre d'arêtes reliées à ce sommet.\n\n~?Qu'est-ce que le degré d'un sommet dans graphe orienté ?\nSomme du nombre d'arêtes entrantes et sortantes.\n\n~?A quoi est égale la somme des degrés d'un graphe orienté ?\nAu double du nombre des arêtes.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Graphs\n\n## Defining a graph\n\n~?What are the two sets defining a graph?\nSet of vertices, and set of edges.\n\n%## Properties of graphs\n\n~?How do you describe a graph where all vertices are connected directly or indirectly?\nConnected.\n\n~?How do you describe a graph where all vertices are connected directly?\nComplete.\n\n%## Path, circuit and cycle\n\n?~What is a path in a graph?\nA sequence of consecutive edges without repetition of edges.\n\n~?What is a simple path in a graph?\nA path that never passes through the same vertex twice.\n\n~?What is a circuit in a graph?\nA path beginning and ending at the same vertex.\n\n~?What is a cycle in a graph?\nA simple path that starts and ends at the same vertex.\n\n~?What does \"Eulerian\" mean?\nWhich passes exactly once through each edge of the graph.\n\n%## Tree\n\n~?What are the two characteristics of a tree graph?\nConnected and acyclic.\n\n~?If a tree has $$s$$ vertices, how many edges does it have?\n$$s$$ minus 1.\n\n%## Degree\n\n~?What is the degree of a vertex in an undirected graph?\nNumber of edges connected to that vertex.\n\n~?What is the degree of a vertex in a directed graph?\nSum of the number of incoming and outgoing edges.\n\n~?To what is the sum of the degrees of a directed graph equal?\nTwice the number of edges.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Graphen\n\n## Einen Graphen definieren\n\n~?Welche sind die zwei Mengen, die einen Graphen definieren?\nMenge der Knoten und Menge der Kanten.\n\n%## Eigenschaften von Graphen\n\n~?Wie bezeichnet man einen Graphen, bei dem alle Knoten direkt oder indirekt verbunden sind?\nZusammenhängend.\n\n~?Wie bezeichnet man einen Graphen, bei dem alle Knoten direkt verbunden sind?\nVollständig.\n\n%## Pfad, Kreis und Zyklus\n\n?~Was ist ein Pfad in einem Graphen?\nEine Folge aufeinanderfolgender Kanten ohne Wiederholung von Kanten.\n\n~?Was ist ein einfacher Pfad in einem Graphen?\nEin Pfad, der nie zweimal den gleichen Knoten passiert.\n\n~?Was ist ein Kreis in einem Graphen?\nEin Pfad, der am gleichen Knoten beginnt und endet.\n\n~?Was ist ein Zyklus in einem Graphen?\nEin einfacher Pfad, der am gleichen Knoten beginnt und endet.\n\n~?Was bedeutet \"eulerscher\"?\nDer genau einmal über jede Kante des Graphen führt.\n\n%## Baum\n\n~?Was sind die zwei Eigenschaften des Graphen eines Baumes?\nZusammenhängend und azyklisch.\n\n~?Wenn ein Baum $$s$$ Knoten hat, wie viele Kanten hat er?\n$$s$$ minus 1.\n\n%## Grad\n\n~?Was ist der Grad eines Knotens in einem ungerichteten Graphen?\nAnzahl der Kanten, die mit diesem Knoten verbunden sind.\n\n~?Was ist der Grad eines Knotens in einem gerichteten Graphen?\nDie Summe der Anzahl der eingehenden und ausgehenden Kanten.\n\n~?Womit ist die Summe der Grade in einem gerichteten Graphen gleichzusetzen?\nDem Doppelten der Anzahl der Kanten.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 图\n\n## 定义一个图\n\n~?定义一个图的两个集合是什么？\n顶点集合和边集合。\n\n%## 图的性质\n\n~?如何描述一个图，其所有顶点直接或间接相连？\n连通。\n\n~?如何描述一个图，其所有顶点直接相连？\n完全。\n\n%## 路径，回路和圈\n\n?~图中的路径是什么？\n一系列不重复的连续边。\n\n~?图中的简单路径是什么？\n不经过同一顶点两次的路径。\n\n~?图中的回路是什么？\n以同一顶点开始和结束的路径。\n\n~?图中的圈是什么？\n以同一顶点开始和结束的简单路径。\n\n~?“欧拉”是什么意思？\n通过图中的每条边恰好一次。\n\n%## 树\n\n~?树图的两个特点是什么？\n连通和无环。\n\n~?如果一棵树有$$s$$个顶点，它有多少条边？\n$$s$$减1。\n\n%## 度\n\n~?无向图中一个顶点的度是什么？\n连接到该顶点的边的数量。\n\n~?有向图中一个顶点的度是什么？\n入边和出边数量的总和。\n\n~?有向图的度数总和等于什么？\n边数量的两倍。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.713325773Z",
+    "quality" : "LOW"
+  }
+}

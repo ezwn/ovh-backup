@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0025",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : "Ajouter des questions",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Propositions concernant le PPCM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Soient deux entiers.\n\n?D'une part, leur PGCD multiplié par leur PPCM est égal à\nla valeur absolue de leur produit.\n\n?Et d'autre part, leur PPCM divise\ntous leurs multiples communs.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Propositions concernant le PPCM",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Seien zwei ganze Zahlen.\n\n?Einerseits ist das Produkt ihres GGT und ihres KGV gleich\ndem Absolutbetrag ihres Produkts.\n\n?Andererseits teilt ihr KGV\nalle ihre gemeinsamen Vielfachen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.499512541Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "wmm95q14bduyj5413kqydg",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Choix d'une méthode de gestion de projet",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Choix d'une méthode de gestion de projet\n\n~? **Critère** de **choix** d'une **méthode de gestion de projet** important :\n**connaissance** et **maîtrise** du contexte\n\n## Méthodes prédictives\n\n~? **Phases** de la **méthode** **cascade** :\n- **Initialisation** : **jusqu**'à l'**acceptation du devis**\n- **Lancement** : **jusqu**'à la **signature du cahier des charges**\n- Conception\n- Production\n- Exploitation\n\n~? **Caractéristiques** du **cycle** en **v** :\n- Une branche d'**étapes de production** suivie d'une branche de **validations**.\n- Chaque **étape de production** est **associée à** une **étape de validation**.\n\n~? **Avantages** des **méthodes prédictives** :\n- les **échéances** sont **précises**\n- l'**avancement** est **facile à suivre**\n- la **budgétisation** est **simplifiée**\n\n~? **Inconvénients** des **méthodes prédictives** :\n- détection tardive des risques\n- **faible** **marge d'erreur**\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-22T12:04:18.772751512Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU2010",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Urbanisation IT : aperçu",
+      "description" : "Éléments de base pour comprendre l'urbanisation en IT.",
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "#% Urbanisation IT : aperçu\n\n## Généralités\n\n~? **Buts** de l'**urbanisation** :\n- rendre flexible\n- **favoriser** l'**interopérabilité** et l'**intégration**\n- faire le **bilan** des **meilleures pratiques**\n- **rationaliser**, **documenter**\n- **permettre** le **contrôle par** la **gouvernance**\n\n~? **Moyens** de l'**urbanisation** :\n- **dégager** la **cohérence globale**\n- **définir** des **référentiels** et des **règles communes**\n- **délimiter** des **sous-systèmes** **autonomes**\n- **rendre** les **applications** hétérogènes **inter-opérables**\n- **orchestrer**\n\n~? **Étapes** de la **démarche** d'**urbanisation** :\n- inventaire\n- zonage\n- **analyse** des **flux**, c'est à dire des échanges entre zones\n- **diagnostic** : identification des **problèmes** et **opportunités**\n- définition de l'**architecture cible**\n- **prioriser**\n- **définir** les **étapes** et les **moyens** de la **réalisation**\n\n~? **Nature** de la **démarche** d'**urbanisation** :\n- itérative\n- incrémentale\n\n~? Quatre **niveaux** de l'**architecture** :\n**métier**, **fonctionnel**, **applicatif** et **technique**\n\n~? **Dépendances entre niveaux** d'architecture :\n- l'**architecture fonctionnelle** **se justifie par** les **besoins métier**\n- l'**architecture applicative** **se justifie par**  les **besoins fonctionnels**\n- l'**architecture technique** **se justifie par** les **besoins applicatifs**\n\n~? **Ordre d'analyse** des niveaux :\ndu niveau **métier** **vers** le niveau **technique**\n\n## Zonage\n\n~? **Zonage** :\n**division** **en domaines** cohérents\n\n~? **Règles** concernant les zones :\n- **chaque zone** a **une prise**\n- l'**accès** à la **zone** se fait **uniquement** **par** sa **prise**\n- une **donnée** est sous la **responsabilité** d'**une seule zone**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-06T14:52:51.180354967Z",
+    "quality" : "MEDIUM"
+  }
+}

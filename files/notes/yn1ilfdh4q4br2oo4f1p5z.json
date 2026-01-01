@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "yn1ilfdh4q4br2oo4f1p5z",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "DClics",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# DClics\n\n## Planning\n\n-Exercices recommandés S manquant\n-Rendre le sous-thèmes optionnels\n\n- question de DavidE\n\n- formaliser les rapports de bug pour les rendre plus utilisables\n- reproduire les bugs quand ils arrivent\n\n## 14 oct 25\n\n- demander aux développeurs de dire s'ils ont l'intention de travailler sur des tâches hors workflow pour les mettre dans le workflow",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-13T08:51:56.157328163Z"
+  }
+}

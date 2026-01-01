@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATGRAXXXXXXU0020",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Matrice d'adjacence",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Dans la matrice d'adjacence d'un graphe, les lignes et les colonnes correspondent\naux sommets du graphe.\n\n~?Chaque coefficient vaut, soit\n1 si les sommets sont liés par une arête, soit 0.\n\n~?Dans le cas d'un graphe non orienté, cette matrice est\nsymétrique.\n\n~?En élevant cette matrice à la puissance $$n$$, on obtient\nle nombre de marches de taille $$n$$ permettant d'aller d'un sommet à un autre.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Matrice d'adjacence",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?In the adjacency matrix of a graph, the rows and columns correspond\nto the vertices of the graph.\n\n~?Each coefficient is either\n1 if the vertices are connected by an edge, or 0.\n\n~?In the case of an undirected graph, this matrix is\nsymmetric.\n\n~?By raising this matrix to the power of $$n$$, one obtains\nthe number of walks of length $$n$$ allowing travel from one vertex to another.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.225864953Z",
+    "quality" : "LOW"
+  }
+}

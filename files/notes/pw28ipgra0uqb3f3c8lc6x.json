@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "pw28ipgra0uqb3f3c8lc6x",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèles de communication réseau en couches",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modèles de communication réseau en couches\n\n~? **Communication** dans le MCRC :\nPour chaque couche,\nles **entités** **réparties** sur des **systèmes** **différents**\n**communiquent** **par** le biais de **protocoles**.\n\n~? **Protocole** :\ndéfinit les **règles d’échange** (**sémantique**, **syntaxe**)\nentre couches homologues.\n\n~? Réalisation de la **communication** :\nA l'**exception** de la **couche physique**,\nau **niveau d'une couche**, la **communication** est **virtuelle**,\net **repose** **sur** des **services** fournis par la **couche inférieure**.\n\n~? **Réalisation du service** pour une couche :\nelle **fragmente** ou **assemble** les **données** reçues de la **couche supérieure**,\nelle **ajoute** des **informations** de **routage**, **vérification** et **contrôle** aux blocs,\nelle **réalise** l'**opération inverse** pour l'**information remontante**.\n\n~? **Nombre** de **relais** :\n**plus on descend dans** les **couches**, plus il y a de **relais**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "MCRC" : "modèle de communication réseau en couches"
+      },
+      "sttMapping" : {
+        "modèle de communication réseau en couches" : "MCRC"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-15T13:38:23.511260562Z",
+    "quality" : "LOW"
+  }
+}

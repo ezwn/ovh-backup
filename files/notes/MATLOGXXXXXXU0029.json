@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0029",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Raisonnement par l'absurde [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour démontrer une implication en raisonnant par l'absurde,\n!on suppose qu'elle est fausse,\n~c'est à dire\nc'est à dire que son antécédent est vrai et que son conséquent est faux.\n~puis\n~supposition\n~conduire à\n~manifest\n~contradiction\nPuis, on montre que cette supposition conduit une contradiction manifeste.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Raisonnement par l'absurde [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "To demonstrate an implication by reasoning absurdly,\none assumes it is false,\n~that is to say\nthat is to say, its antecedent is true and its consequent is false.\n~Then\n~assumption\n~lead to, led to, led to\nmanifest\ncontradiction\nThen, one shows that this assumption leads to a manifest contradiction.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Raisonnement par l'absurde [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Um eine Implikation durch einen indirekten Beweis zu demonstrieren,\nnimmt man an, dass sie falsch ist,\n~das heißt\ndas heißt, dass ihr Antezedens wahr und ihr Konsequens falsch ist.\n~Dann\n^die Annahme\nführen zu\n^offensichtlich\n^der Widerspruch, die Widersprüche\nDann zeigt man, dass diese Annahme zu einem offensichtlichen Widerspruch führt.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Raisonnement par l'absurde [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "为了通过反证法证明一个命题，\n我们假设它是假的，\n^!也就是说\n也就是说它的前件为真而它的后件为假。\n^!然后\n^!一个假设\n^!导致\n^!明显的\n^!一个矛盾\n然后，我们证明这种假设会导致明显的矛盾。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.312609782Z",
+    "quality" : "LOW"
+  }
+}

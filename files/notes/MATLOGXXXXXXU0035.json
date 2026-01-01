@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0035",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Raisonnement par récurrence",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Lorsque l'on doit démontrer une proposition P pour une infinité de rangs successifs,\nil est parfois utile d'utiliser le raisonnement par récurrence.\nCelui-ci consiste en trois étapes :\nTout d'abord, on montre que P est vraie pour le premier rang.\nPuis, que si P est vraie pour un rang donné,\ncela implique qu'elle l'est également pour le rang suivant.\nEnfin, on conclut en affirmant que\npar application du le principe de récurrence, la proposition est vraie pour tous les rangs.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Raisonnement par récurrence [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "When one must demonstrate a proposition P for an infinity of successive ranks,\nit is sometimes useful to use reasoning by induction.\nThis consists of three steps:\nFirst, we show that P is true for the first rank.\nThen, that if P is true for a given rank,\nit implies that it is also true for the next rank.\nFinally, we conclude by stating that\nby applying the principle of induction, the proposition is true for all ranks.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Raisonnement par récurrence [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Wenn man eine Aussage P für eine unendliche Anzahl aufeinanderfolgender Ränge beweisen muss,\nist es manchmal nützlich, das mathematische Induktionsverfahren zu verwenden.\nDieses besteht aus drei Schritten:\nZuerst zeigt man, dass P für den ersten Rang wahr ist.\nDann, dass wenn P für einen gegebenen Rang wahr ist,\ndies impliziert, dass es auch für den nächsten Rang der Fall ist.\nSchließlich kommt man zu dem Schluss, dass\ndurch Anwendung des Induktionsprinzips die Aussage für alle Ränge wahr ist.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Raisonnement par récurrence [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "当需要证明一个命题P对无限多个连续阶段成立时，\n有时使用归纳推理会很有用。\n这种推理包括三个步骤：\n首先，证明P对第一个阶段成立。\n然后，证明如果P对某个给定阶段成立，\n那么它对下一个阶段也成立。\n最后，我们得出结论，\n根据归纳原理，该命题对所有阶段都成立。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.580951452Z",
+    "quality" : "LOW"
+  }
+}

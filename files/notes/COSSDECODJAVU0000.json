@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Java",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Java\n\n## Language\n\n### [Covariance et contra-variance](note::COSSDECODJAVU0050)\n\n### [Sealed classes](note::COSSDECODJAVU0100)\n\n### [Contraintes de Liskov et généricité java](note::COSSDECODJAVU0150)\n\n### [Java records (value objects)](note::COSSDECODJAVU0200)\n\n### [Pattern matching java 17+](note::COSSDECODJAVU0250)\n\n## Librairies\n\n### [Sérialisation JSON](note::COSSDECODJAVU4050)\n\n### [Techniques de génération dynamique de classes](note::COSSDECODJAVU4100)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.218096873Z",
+    "quality" : "LOW"
+  }
+}

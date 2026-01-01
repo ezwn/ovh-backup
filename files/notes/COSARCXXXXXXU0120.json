@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0120",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Objets distribués",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Objets distribués\n\n## Principe\n\nQuelle manipulation peut on faire sur des objets distribués ?\nInstancier, exécuter leurs méthodes et ainsi modifier leur état.\n\nQuels éléments les objets distribués doivent posséder ?\nID, état et interface publique.\n\nQuelles sont les caractéristiques de l'interaction avec les objets distribués ?\nTransparence, encapsulation et gestion de concurrence.\n\nQuel composant joue un rôle majeur ?\nL'annuaire pointant vers le serveur et l'objet.\n\n## Avantages des objets distribués\n\nQuels sont les avantages de l'approche objets distribués ?\n- pouvoir distribuer une application orientée objets\n- scalabilité par ajout de serveurs\n- accès concurrent\n- prise en charge des transactions\n\n## L'approche objets distribués\n\nComment l'approche objets distribués conçoit-elle une application ?\ngrappe d'objets interconnectés, connectée à l'IHM et aux données.\n\n## [CORBA](note::COSARCXXXXXXU0121)\n\n## DCOM\n\nProxy = Stub server de Corba\nStub = Stub client\n\nPuis COM+\n\nMSMQ = MOM\n\nCOM+ Events (PubSub)\n\n## [Java RMI](note::COSARCXXXXXXU0122)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.416546948Z",
+    "quality" : "LOW"
+  }
+}

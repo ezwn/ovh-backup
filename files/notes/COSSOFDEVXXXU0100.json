@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVXXXU0100",
+  "content" : {
+    "domain" : "SOFTWARE_DEVELOPMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Contrainte de Liskov",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "On considère une classe B qui étend une classe A.\nUne méthode de A est redéfinie dans B.\nIl découle du principe de Liskov...\nD'une part, que les pré-conditions dans B ne doivent pas être plus restrictives que dans A.\nEt d'autre part, que les post-conditions dans B doivent au moins vérifier celles dans A.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "contrainte de Liskov [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "One considers a class B that extends a class A.\nA method from A is overridden in B.\nIt follows from the Liskov principle...\nOn one hand, that the preconditions in B must not be more restrictive than in A.\nAnd on the other hand, that the postconditions in B must at least fulfil those in A.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "contrainte de Liskov [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Man betrachtet eine Klasse B, die eine Klasse A erweitert.\nEine Methode von A wird in B neu definiert.\nEs folgt aus dem Liskov-Prinzip...\nEinerseits, dass die Vorbedingungen in B nicht restriktiver sein dürfen als in A.\nAndererseits, dass die Nachbedingungen in B mindestens jene in A erfüllen müssen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "contrainte de Liskov [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "我们考虑一个扩展类A的类B。\n类A中的一个方法在类B中被重定义。\n这源于里氏替换原则...\n一方面，类B中的预条件不应比类A中的更严格。\n另一方面，类B中的后置条件至少应满足类A中的条件。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.288422955Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTTECNEGU0010",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : "# Théorie des jeux et négociation rationnelle (Nash, 1950)\n# Spieltheorie\n\n- Fondée sur la modélisation mathématique des interactions stratégiques.\n- Introduit la notion d’**équilibre de Nash**, où aucun joueur n’a intérêt à changer unilatéralement sa stratégie.\n- Appliquée dans la négociation en définissant une **zone d’accord possible (ZOPA)** et en cherchant un **point d’accord optimal** pour les parties.",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorie des jeux",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Théorie des jeux\n\n## Caractéristiques\n\nCaractéristiques :\nThéorie de la décision, plusieurs joueurs, considère l'humain rationnel.\n\n## Définitions\n\n### Stratégie\n\nLa stratégie n'est pas :\nUne méthode pour être le plus intelligent.\n\nLa stratégie est :\nun plan de comportement couvrant tous les cas.\n\n### Jeu à somme nulle\n\nType de situation :\ngain total est fixé, ce qu'un joueur gagne, l'autre le perd.\n\nMinimax :\nstratégie visant à minimiser sa perte maximale possible en supposant que l'adversaire joue de façon optimale.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.914037260Z",
+    "quality" : "LOW"
+  }
+}

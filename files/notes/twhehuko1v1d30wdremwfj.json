@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "twhehuko1v1d30wdremwfj",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Me présenter à l'ISO",
+      "description" : "Domaine : entretien d'embauche pour poste d'architecte logiciel\nSujet : parcours, valeurs et évolution récente",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^ se présenter à ...\n^ ISO\n# Me présenter à l'ISO\n\n^ fonction\n^ durant\n^ précédent\n^ emploi\n~? Mes fonctions durant mes précédents emplois :\n^ exercer en tant que ...\n^ technique\n^ lead-technique\nJ'ai exercé en tant que lead-technique,\n^ architecte logiciel\n^ développeur logiciel\narchitecte et développeur logiciel,\n^ métier\n^ analyste\net parfois analyste métier.\n\n^ secteur\n^ travailler dans ...\n~? Les secteurs dans lesquels j'ai travaillé :\n^ essentiellement\n^ solution IT\n^ édition\nJ'ai essentiellement travaillé dans l'édition de solutions IT,\n^ financier\n^ le secteur\net dans le secteur financier.\n\n^ attirer ... à ...\n~? Ce qui m'attire à l'ISO :\n^ être attiré par ...\n^ équilibré\n^ défi\n^ proposer ... à ...\nJe suis attiré par le défi équilibré que me propose l'ISO, entre\n^ complexe\n^ environnement\n^ exigeant\n^ technique\n^ domaine\nun environnement métier complexe et un domaine technique exigeant.\n\n^ petit\n^ personnel\n^ touche\n~? Petite touche personnelle ?\n^ avoir ...\n^ marqué\n^ curiosité\n^ systémique\n^ technologique\n^ sociétal\n^ enjeux\nJ'ai une curiosité marquée pour les enjeux systémiques, technologiques et sociétaux.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Introducing myself to ISO",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "^ to introduce oneself to ...\n^ the ISO\n# Introducing myself to ISO\n\n^ the role\n^ during\n^ previous\n^ the job\n~? My roles during my previous jobs:\n^ to work as ...\n^ technical\n^ the technical lead\nI worked as a technical lead,\n^ the software architect\n^ the software developer\nsoftware architect and software developer,\n^ the business\n^ the analyst\nand sometimes a business analyst.\n\n^ the industry\n^ to work in ...\n~? The industries I have worked in:\n^ mainly\n^ the IT solution\n^ the publishing\nI mainly worked in IT solutions publishing,\n^ financial\n^ the sector\nand in the financial sector.\n\n^ to attract ... to ...\n~? What attracts me to ISO:\n^ to be drawn to ...\n^ balanced\n^ the challenge\n^ to offer ... to ...\nI am drawn to the balanced challenge ISO offers me, between\n^ complex\n^ the environment\n^ demanding\n^ technical\n^ the field\na complex business environment and a demanding technical field.\n\n^ small\n^ personal\n^ the touch\n~? A small personal touch?\n^ to have ...\n^ strong\n^ curiosity\n^ systemic\n^ technological\n^ societal\n^ the issue\nI have a strong curiosity about systemic,technological, and societal issues.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-25T05:40:33.230951451Z",
+    "quality" : "LOW"
+  }
+}

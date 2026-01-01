@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Performance matérielle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Limité par le \"maillon faible\"\n\n### Processeur\n\nLa loi de Moore s'est heurtée aux limites de l'électronique.\nOn a alors parallélisé.\n\n### Mémoire\n\nLa mémoire est plus lente que le processeur.\nOn utilise donc des mémoires caches plus proche de lui.\n\n### Entrées-Sorties\n\nGoulets d’étranglement :\nBUS, périphérique\n\n### Réseau\n\nPerformance des communications",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.948770059Z",
+    "quality" : "LOW"
+  }
+}

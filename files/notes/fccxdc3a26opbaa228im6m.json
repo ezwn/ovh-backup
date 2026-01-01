@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "fccxdc3a26opbaa228im6m",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Stéganographie",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Stéganographie\n\n~? Stéganographie :\n**cacher** un **message** **dans** un **bloc** d'**informations** **anodin** (encre invisible, image)\n\n~? **Applications** **de** la **stéganographie** :\n- **canaux cachés** (exemple : contournement de blocage)\n-**filigrane** : signature, marqueur pour savoir qui a causé une fuite\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-23T19:00:41.501895257Z"
+  }
+}

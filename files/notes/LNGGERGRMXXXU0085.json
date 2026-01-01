@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "LNGGERGRMXXXU0085",
+  "content" : {
+    "domain" : "LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "DE",
+      "title" : "Richtige Form des Pronomens",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Geben Sie die richtige Form des Pronomens an\n\n?~ \"ich\" im Nominativ:\n- **ich**. Ich gehe nach Hause.\n\n?~ \"ich\" im Genitiv:\n- **meiner**. Sie erinnert sich meiner.\n\n?~ \"ich\" im Dativ:\n- **mir**. Er gibt mir das Buch.\n\n?~ \"ich\" im Akkusativ:\n- **mich**. Sie sieht mich im Spiegel.\n\n?~ \"du\" im Nominativ:\n- **du**. Du kommst heute spät.\n\n?~ \"du\" im Genitiv:\n- **deiner**. Ich gedenke deiner oft.\n\n?~ \"du\" im Dativ:\n- **dir**. Ich helfe dir gerne.\n\n?~ \"du\" im Akkusativ:\n- **dich**. Ich rufe dich morgen an.\n\n?~ \"er\" im Nominativ:\n- **er**. Er arbeitet im Büro.\n\n?~ \"er\" im Genitiv:\n- **seiner**. Wir gedenken seiner.\n\n?~ \"er\" im Dativ:\n- **ihm**. Ich schenke ihm ein Buch.\n\n?~ \"er\" im Akkusativ:\n- **ihn**. Wir besuchen ihn heute.\n\n?~ \"sie\" weiblich im Nominativ:\n- **sie**. Sie liest ein Buch.\n\n?~ \"sie\" weiblich im Genitiv:\n- **ihrer**. Er erinnert sich ihrer.\n\n?~ \"sie\" weiblich im Dativ:\n- **ihr**. Wir gratulieren ihr zum Geburtstag.\n\n?~ \"sie\" weiblich im Akkusativ:\n- **sie**. Ich kenne sie sehr gut.\n\n?~ \"es\" im Nominativ:\n- **es**. Es regnet heute.\n\n?~ \"es\" im Genitiv:\n- **seiner**. Wir sind seiner müde.\n\n?~ \"es\" im Dativ:\n- **ihm**. Das Kind gibt ihm einen Namen.\n\n?~ \"es\" im Akkusativ:\n- **es**. Ich sehe es auf dem Tisch.\n\n?~ \"wir\" im Nominativ:\n- **wir**. Wir fahren in den Urlaub.\n\n?~ \"wir\" im Genitiv:\n- **unser**. Sie gedenken unser.\n\n?~ \"wir\" im Dativ:\n- **uns**. Er erklärt uns die Aufgabe.\n\n?~ \"wir\" im Akkusativ:\n- **uns**. Sie laden uns zum Essen ein.\n\n?~ \"ihr\" im Nominativ:\n- **ihr**. Ihr seid sehr freundlich.\n\n?~ \"ihr\" im Genitiv:\n- **euer**. Wir gedenken euer.\n\n?~ \"ihr\" im Dativ:\n- **euch**. Ich wünsche euch viel Glück.\n\n?~ \"ihr\" im Akkusativ:\n- **euch**. Wir besuchen euch am Wochenende.\n\n?~ \"sie\" Plural im Nominativ:\n- **sie**. Sie kommen aus Deutschland.\n\n?~ \"sie\" Plural im Genitiv:\n- **ihrer**. Wir erinnern uns ihrer.\n\n?~ \"sie\" Plural im Dativ:\n- **ihnen**. Ich gebe ihnen die Schlüssel.\n\n?~ \"sie\" Plural im Akkusativ:\n- **sie**. Wir treffen sie im Park.\n\n?~ \"Sie\" Höflichkeitsform im Nominativ:\n- **Sie**. Sie sprechen sehr gut Deutsch.\n\n?~ \"Sie\" Höflichkeitsform im Genitiv:\n- **Ihrer**. Wir gedenken Ihrer.\n\n?~ \"Sie\" Höflichkeitsform im Dativ:\n- **Ihnen**. Ich danke Ihnen herzlich.\n\n?~ \"Sie\" Höflichkeitsform im Akkusativ:\n- **Sie**. Ich kenne Sie bereits.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T17:30:44.026523373Z",
+    "quality" : "LOW"
+  }
+}

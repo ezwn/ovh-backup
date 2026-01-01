@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architecture des SI",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecture des SI\n\n## [Headless architecture](note::8xbyi5ygvrids1kn92ewxr)\n\n## [Synthèse pour les Architectes d’Entreprise et Cloud ITIL4](note::COSARCITIL4XU0010)\n\n## [Méthode de développement d'architecture](note::COSARCTOGAFXU0010)\n\nSpeed up : plus vite (temps de réponse)\nScale up : plus d'utilisateurs\n\n## Load balancer\n\n## [Architectures logicielles à n couches](note::COSARCXXXXXXU0010)\n\n## [REST et WebSockets](note::COSARCXXXXXXU0020)\n\n## [Architecture hexagonale](note::COSARCXXXXXXU0030)\n\n## [Systèmes répartis](note::COSARCXXXXXXU0050)\n\n## [Intergiciels](note::COSARCXXXXXXU0060)\n\n## [Middleware orienté messages](note::COSARCXXXXXXU0070)\n\n## [Architecture orientée événements](note::COSARCXXXXXXU0090)\n\n## [Standard JMS](note::COSARCXXXXXXU0100)\n\n## [Appels distants](note::COSARCXXXXXXU0110)\n\n## [Services WEB](note::COSARCXXXXXXU0130)\n\n### [Services WEB : l'essentiel](note::COSARCXXXXXXU0132)\n\n## [Transactionnel / décisionnel](note::COSARCXXXXXXU0140)\n\nUrbanisation : arriver à\nun bus de services distribués\nuniversel dans l'entreprise\ndonc\nlangage commun\net\nles connecteurs adaptent\n\n# Client / service\n\nDes requêtes / résponses réparties sur un réseau\n\n## 5 composants logiques d'une application\n\nIls sont:\n- présentation\n- applicative : ce qu'on fait\n- règles d'entreprise : réprésentation, éléments métier\n- accès aux données\n- gestion des données\n\nMais où couper ? Du terminal passif au client lourd de BDD\n\nMiddleware pour masquer\nles problèmes de répartition\nl'hétérogénéité\n\nQu'est ce qui peut jouer le rôle d'intergiciel?\n- un système de fichier\n- une base de données\n\n## [Cloud Computing](note::COSARCXXXXXXU1000)\n\n## [Urbanisation](note::COSARCXXXXXXU2000)\n\n## [Urbanisation : aperçu](note::COSARCXXXXXXU2010)\n\n## [Urbanisation : architecture métier](note::COSARCXXXXXXU2020)\n\n## [Urbanisation : architecture fonctionnelle](note::COSARCXXXXXXU2030)\n\n## Obsolète\n\n### [Objets distribués](note::COSARCXXXXXXU0120)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-09T18:30:28.556563323Z",
+    "quality" : "LOW"
+  }
+}

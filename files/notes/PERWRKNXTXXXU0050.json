@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKNXTXXXU0050",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Nexthink: technique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Compétences techniques\n\n- Cloud / AWS\n- DevOps\n\n# Outils de développement internes\n\nLes outils maison sont rares.\n\nOn notera :\n\n* les tests et builds. Ils ont accumulé une importante dette technique et leur échec est rarement synonyme d'un problème de qualité du logiciel. Certains tests échoueront une fois sur deux. Il arrive par exemple, que pour déterminer si une correction du code est nécessaire, on soit obligé de comparer la liste de tests échouant avant et après l'introduction d'une modification.\n\n* absence de logs (à priori)\n\n* des migrations techniques à un rythme exceptionnel\n\nPar exemple BITBUCKET/GIT, UMBRELLA/ARGOCD, NEW RELIC/DATADOG.\n\n# Composants réutilisables\n\n- Apollo : une librairie de widgets et de composants web\n- NQL : un langage de requêtage propriété de Nexthink\n- BCS : un service de stockages de données no-sql\n- Content-Admin smart list\n- Product Shell\n\nRatés:\n\n- BCS-LIB\n- Audit logs\n\nIdéterminé:\n\n- WAAS?\n\n# Information technique\n\n* les détails techniques et les procédures sont très mal décrits. Par manque de temps peut-être, mais aussi parce qu'on ne partage pas pro-activement les informations dont on dispose. Plusieurs procédures semblent tout d'abord correctes, mais, obsolètes, induisent finalement en erreur, faisant perdre un temps considérable. Les nombreux problèmes techniques (builds et tests qui échouent, configurations non-standard) nécessitent la connaissance de \"trucs\" qui ne sont pas documentés ou partagés à priori.\n\nConfiguration/démarrage des projets, release\n\n* certaines précisions manquent quant aux fonctionnalités de l'application et ne sont décrites ni par du texte ni par des tests automatiques.\n\n* les passages de relais techniques sont souvent négligés\n\n* post-documentation bâclée\n\n* le champs miné : build qui échouent, secrets non partagé nécessaire pour les faire fonctionner...\n\n* problème auxquels certains se sont habitués mais ne partagent pas l'information (exemple : le décompte des campagnes différents à plusieurs endroits)\n\n* faible standardisation, non respect des standards de l'industrie\n\n## Absence de proactivité technique\n\n* dette technique mal gérée (sécurité, validation, ...).\n\n* absence d'outils internes (bibliothèques, outils d'administration).\n\n* gestion et le maintien des procédures.\n\n### Exemples\n\n* absence de validation des données. Corrigée suite à des incidents.\n\n* absence de résolution des vulnérabilités de sécurité. Résolution en cours afin de pouvoir cible des organisations gouvernementales aux US.\n\n* présence de code mort\n\n* tests échouants, très longs, ...",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Nexthink: technique",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Nexthink: technique",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.946839641Z",
+    "quality" : "LOW"
+  }
+}

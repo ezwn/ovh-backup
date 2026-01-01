@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "se1575cr95tblrob0odiyc",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sensibilisation des utilisateurs",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Sensibilisation des utilisateurs](video::4;00:10:09)\n\n## Repérage\n\n[Sensibilisation des utilisateurs à la sécu](video::4;00:10:09)\n[Pourquoi c'est important](video::4;00:10:09)\n[Affiches de sensibilisation](video::4;00:10:42)\n[Limites de la sensibilisation : essoufflement, manque de suivi, ...](video::4;00:14:49)\n[Comportement = connaissance x motivation x outils](video::4;00:13:49)\n[Sécurité = personnes, processus, technologie](video::4;00:14:46)\n[Le manque de compétences IT du personnel diminue sa capacité agir correctement](video::4;00:15:20)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "4" : "https://www.youtube.com/watch?v=09hTeHOeQuY"
+      }
+    } ],
+    "modificationDate" : "2025-10-12T09:50:51.113365527Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0121",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "CORBA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# CORBA\n\nQu'est ce que COBRA défini concernant les objets distribués ?\nune norme\n\n## Composants\n\nFournit\nun BUS multi-sites (Object Request Broken)\n\nGère\nobjets applications, utilitaires, ...\n\n### Interface Description Language\n\nDécrire les interfaces des objets\nRessemble à du C\n\nGénère dans tous langages :\n- stub (adaptateur client)\n- skeleton (adaptateur côté serveur/objet)\n\nDécouverte dynamique des objets et de leurs caractéristiques\n\nMarche aussi en statique (compile time)\n\nInterface repository (côté client)\n- peut déterminer les opération disponibles dynamiquement\n- requêtable y compris depuis l'ORB\n\nImplementation repository (côté serveur)\n- localiser serveur des implémentations\n- gère la sécurité\n\nObject \"Adaptateur\" :\ncrée les instances\ndéchargement\n\n### Services COBRA\n\n- recherche par nom, caractéristiques, métadonnées, version.\n- interfaces de création / copie / déplacement\n- persistance\n- sécurité : authentifier, chiffrer, certifier, ...\n- transaction\n- concurrence\n- asynchrone et événements\n- horloge universelle\n\n### Utilitaires\n\n- IHM sur objet\n- Gestion de l'information\n- Tâche : flix d'activitésd (workflows)\n- Administration système",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.071035023Z",
+    "quality" : "LOW"
+  }
+}

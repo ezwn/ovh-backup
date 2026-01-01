@@ -1,0 +1,25 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Management (sommaire)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Management\n\n## Cours\n\n### [NSY115 - Conduite d'un projet informatique](note::vjaqnepig60ynkcy1tpq05)\n\n## Notes\n\n### [Principes fondamentaux du Lean IT](note::HUSMGTLEAXXXU0010)\n### [Outils et méthodes Lean en IT](note::HUSMGTLEAXXXU0020)\n### [Négociation](note::HUSMGTTECNEGU0005)\n### [Théorie de Mintzberg](note::HUSMGTORGMINU0020)\n### [Les systèmes de flux](note::HUSMGTORGMINU0025)\n### [L'acteur stratégique](note::HUSMGTTECPRSU0100)\n\n## Fichiers\n\n* [TET102](file::/Human/Management/TET102)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-06T09:56:57.955286892Z"
+  }
+}

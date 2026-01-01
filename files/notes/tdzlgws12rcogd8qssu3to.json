@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "tdzlgws12rcogd8qssu3to",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 1",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 1\n\n## [Phases typiques des projets](note::htejz04r3n2bz9kzbkkief)\n[▶️](https://mediaserver.lecnam.net/permalink/v12640d1db8ba44d2eys/iframe/)\n\n- 0-9 min : trop facile\n\nModèle en Y\n\n## Besoins / Cadrage / Planifier\n\nSuccès = faisable\n\n### [Initialisation : analyse des besoins](note::p4jhwtjvfliivxwib7buvd)\n\n### [Initialisation : cadrage](note::1qpqc10vehs5114uvgr2gi)\n\n## Rien à voir !",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-01T15:43:36.001357545Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "jreo7k0hvyyycdptvc96uz",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Rôles du chef de projet",
+      "description" : "Comprendre le rôle du chef de projet.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Rôles du chef de projet\n\n~? **Risque** en **gestion de projet** :\n**événement** **incertain** ayant un **impact** positif ou négatif **sur** les **objectifs**.\n\n~? En **gestion de projet**, **événement incertain** ayant un **impact** **positif** ou **négatif** **sur** les **objectifs**.\nRisque\n\n~? **Types de risques** en **gestion de projet** :\n**positif** : **opportunité**\n**négatif** : **menace**\n\n~? **Dimensions** **gérées** par le **chef de projet** :\n- l'**information**\n- le **budget**\n- le **temps**\n- le **travail**\n- la **motivation**\n- le **matériel**\n- les **risques**\n\n~? **Rôles** du **chef de projet** :\n- **Définir** les **objectifs du projet**\n- **Planifier** les **étapes** et **définir** les **livrables**\n- Établir le **budget** et suivre les **coûts**\n- **Identifier** et **gérer** les **risques**\n- **Documenter** et **formaliser** le projet\n- **Coordonner** l’**équipe** et **répartir** les **tâches**\n- Prendre des **décisions** **pour** **résoudre** les **blocages**\n- Assurer la **communication** **entre** les **parties prenantes**\n- **Suivre** l’**avancement** et **ajuster** si nécessaire\n- **Gérer** les **délais** et **respecter** le **planning**\n- Garantir la **qualité des livrables**\n- Assurer la **livraison** et la **clôture** du projet",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-03T18:00:26.072117378Z",
+    "quality" : "LOW"
+  }
+}

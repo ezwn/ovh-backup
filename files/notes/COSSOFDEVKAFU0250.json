@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVKAFU0250",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Ajouts après génération",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "KTable ou GlobalKTable",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Les tables sont des instantanés de la dernière valeur associée à chaque clé dans un flux.\n\nLa KTable contient uniquement les enregistrements des partitions de son instance.\nCeci qui la rend plus économique en ressources.\n\nLa GlobalKTable au contraire, réplique les valeurs de toutes les instances localement.\nElle donne donc un accès global aux données.\n\nA KTable is partitioned the same way as the source topic it is derived from. Each Kafka Streams instance works on a subset of the partitions.\n\nJoins using a KTable require the key of the table and the key of the stream (or other KTable) to align, as they must be co-partitioned.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "KTable ou GlobalKTable",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Tables are snapshots of the latest value associated with each key in a stream.\n\nThe KTable contains only the records of the partitions of its instance.\nThis makes it more resource-efficient.\n\nThe GlobalKTable, on the other hand, replicates the values of all instances locally.\nIt thus provides global access to the data.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "KTable ou GlobalKTable",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Die Tabellen sind Momentaufnahmen des letzten Wertes, der jedem Schlüssel in einem Strom zugeordnet ist.\n\nDie KTable enthält nur die Datensätze der Partitionen ihrer Instanz.\nDies macht sie ressourcensparender.\n\nDie GlobalKTable hingegen repliziert die Werte aller Instanzen lokal.\nSie bietet daher einen globalen Zugang zu den Daten.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.017965177Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Table des matières",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Table des matières\n\n## Brouillons\n\n### [Keycloak](note::COSXXXXXXXXXU9681)\n### [Auto-hypnose](note::HUSPSYHYPXXXU0010)\n\n## Environnements\n\n### [Fairphone](note::XXXXXXXXXXXXU1002)\n### [ExpML](note::XXXXXXXXXXXXU1004)\n### [PROD](note::PRODXXXXXXXXXXXXXU0000)\n### [DEV](note::DEVXXXXXXXXXXXXXXU0000)\n\n## [Stratégie](note::j1x5penxpffvgxizn176g8)\n\n## [Orientation](note::ORIXXXXXXXXXU0000)\n\n## [Droit](note::LAWXXXXXXXXXU0000)\n\n## Sciences et techniques\n\n### [Sciences humaines](note::HSCI)\n### [Informatique](note::COSXXXXXXXXXU0000)\n### [Santé humaine](note::HHEXXXXXXXXXU0000)\n### [Mathématiques](note::MATXXXXXXXXXU0000)\n### [Survie](note::PSKSVIXXXXXXU0000)\n### [Comptabilité](note::4dz1199yubaqhoxaqvxh4k)\n\n## Personnel\n\n### [Emploi Lausanne](note::nics4chs97k69esl82hmaj)\n### [ISO](note::hk1zxybn4awuecyzcyme7i)\n### [Recherche d'emploi](note::PERWRKXXXXXXU0000)\n### [Observation de soi](note::PERSOBXXXXXXU0000)\n\n---\n\n## Principe\n\nSe constituer une base d'outils théoriques et méthodologiques pour interpréter et analyser le monde\n\n## Sujets\n\n- pédagogie : technique de cloze, spacing effect\n- écoute active\n- décrire un véhicule\n- l'entreprise parfaite\n- psycho ergo : maintenir la correspondance naturelle entre action et effet en ergonomie\n- utiliser ordinateur en 4 langues\n- en face dans la rue !\n- analyse stratégique: extraire des propriétés, modéliser le monde, définir des situations (patterns)\n- l'Europe\n- la survie\n- conservation des aliments\n- le design logiciel\n- SCRUM\n- transitions écologiques\n- management\n- les maladies qui nous guettent\n- sommeil: sieste, caféine\n- planification santé\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-04T05:15:53.060489862Z",
+    "quality" : "LOW"
+  }
+}

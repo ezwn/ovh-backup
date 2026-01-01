@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "vpqwtz1gtseq3i8fibmkt6",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Synthèse et assimilation de corpus d'informations",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Synthèse et assimilation de corpus d'informations\n\n~? Repérage procéder par blocs d'information (sujets) :\n- référencer le début\n-  passer rapidement sur le corps en se concentrant\n-  mettre en pause\n-  rédiger une synthèse (titre, courte description)\n-  faut-il analyser le bloc en profondeur ? \uD83D\uDD0D\n-  faut-il mémoriser ce bloc activement ? \uD83E\uDDE0\n\n~? Sélection, approfondissement, formalisation :\n- évaluer chaque référence\n-réévaluer l'intérêt\n-approfondir si nécessaire\n-transformer en exercice si nécessaire\n\n---\n\nConsigne pour la prise de notes ciblée :\n- choisir le mode de parcours le plus complet\n- repérer ce qui est trop complexe pour être compris et s'y préparer\n- se concentrer sur ce qui est pertinent\n- tenter de décrypter ce qui est trop complexe\n- prendre des notes\n\nConsigne pour l'optimisation des notes :\n- parcourir, clarifier et améliorer les notes\n- vérifier leur cohérence\n- repérer ce qui doit être appris\n\nConsignes pour la création d'exercices :\n- se concentrant sur ce qui doit être appris\n- le transformer en exercices de révision",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-01T15:45:46.402190965Z",
+    "quality" : "LOW"
+  }
+}

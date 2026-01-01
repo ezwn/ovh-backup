@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "shjs4tu9hmio3yisdxewia",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 2 : OSI, TCP/IP, couches, protocoles, primitives",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 2 : OSI, TCP/IP, couches, protocoles, primitives\n\n## Fiches :\n\n### [Modèles de communication réseau en couches](note::pw28ipgra0uqb3f3c8lc6x)\n\n## Repérage :\n\nIntroduction\n00:03:51   Modèle : des entités communicantes réparties sur des systèmes\n00:05:53   Protocole : langage commun fait de conventions \uD83D\uDD0D\uD83D\uDD0D\n00:06:48   Syntaxe, sémantique et timing  \uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0\n\nSémantique :\n- interprétation des valeurs\n-actions à effectuer\n- signification des code d'erreurs\n\nTiming :\n-convention pour la synchronisation\n\n00:09:08   Types de communication : direct, indirecte (via relais) \uD83E\uDDE0\n10 15   Logiques nécessaires à un protocole : de morcellement, de circulation, de coordination\n11 42   Symétrique (entités toutes égales) / asymétrique (rôles différents) \uD83E\uDDE0\n12 54   Réseau non standardisé sur le plan protocolaire\n13 45   Standarisé (règles communes) : 1 seul protocole implémenté dans plusieurs équipements : interopérabilité\n15 08   La coopération entre machines nécessite l'exécution parallèle de plusieurs protocoles\n17 25   Ces protocoles remplissent des classes fonctions : ex : traitment et interaction utilisateur, communication, ...\n17 34   Modèle OSI en 7 couches\n19 00   Des couches avec des dialogues entre elles !\n19 49   Normalisé par ISO dans les années 80\n\n4 couches inférieures : communication\n3 couches supérieures : application\n\n20 50   Couches : liaison, réseau et transport\n22 50   On observe une liaison virtuelle (je reçois mon courrier), mais la liaison réelle implique des réacheminements\n23 53   Circuit virtuel : les paquets se suivent. Datagram : chaque paquet sont chemin\n25 00   TCP/IP : couches application, Transmission Control Protocol, Internet Protocol, Network access protocol, Physical\n26 35   Les protocoles de haut niveau relient source et destinatiares. Plus le niveau descend, plus il s'agit de relier des intermédaires\n27 32   Plan de gestion, plan de contrôle et plan de données\n29 34   Chaque couche sert le niveau supérieur (notion de service)\n30 38   Les entités d'une même couches communiquent par protocole\n31 42   Etablir le lien, envoyer les données entre même niveaux\n33 04   Entités, protocole et services\nLe service est demandé par la couche sup à la couche inf\n34 16   Bloc transmis (Protocol Data Unit) = Données de la couche supérieure (Service Data Unit) + vérification (Protocol Control Unit)\n36 24   Le service offert par la couche inférieur contient le transport distant\n37 15   Résumé des définitions \uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0\n\n- **Couche** : sous-ensemble fonctionnel permettant de définir les conditions d’échange de données entre couches adjacentes et entre couches homologues.\n\n- **Protocole** : définit les règles d’échange (sémantique, syntaxe) entre couches homologues.\n\n- **Entité** : sous-ensemble fonctionnel implémentant un protocole spécifique.\n\n- **Service** : les (N) Entités implémentent le protocole (N) et échangent des données via les (N-1) Services.\nLa définition de la couche dépend entièrement du type de service.\n\n38 25   Entres couches de niveau différent : Service Port Access avec identifiant \uD83E\uDDE0\uD83E\uDDE0\n39 39   Invocation de service entre couches : requête et réponse \uD83E\uDDE0\n41 16   Exemple d'échange mal illustré\n42 41   Primitive : action fondamentales\n43 25   Illustration de mauvaise qualité\n44 10   Illustration non cohérente avec le discours\n44 57   Gestion de connexion : configuration, transfert, libération (primitive à chaque niveau)\n47 30   Multiplexage : combinaison de requêtes sur une même sortie / Demultiplexage",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-12T13:57:17.933020787Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0005",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Éléments de présentation à la demande",
+      "description" : "Domaine : présentation professionnels\nSujet : éléments à évoquer s'ils sont demandés",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Éléments de présentation à la demande\n\n?~Dans quels domaines ais-je travaillé ?\n- assurance\n- finance\n- administration publique\n- processus métier",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Elements of presentation on request",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Elements of presentation on request\n\n?~In which fields have I worked?\n- insurance\n- finance\n- public administration\n- business processes",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Präsentationselemente auf Anfrage",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Präsentationselemente auf Anfrage\n\n?~In welchen Bereichen habe ich gearbeitet?\n- Versicherung\n- Finanzen\n- öffentliche Verwaltung\n- Geschäftsprozesse",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.625310415Z",
+    "quality" : "LOW"
+  }
+}

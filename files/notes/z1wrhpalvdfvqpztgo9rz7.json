@@ -1,0 +1,25 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "z1wrhpalvdfvqpztgo9rz7",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 4 : Génie logiciel",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 4 : Génie logiciel\n\n## Repérage \"PDF\"\n\np2   Historique\np7   Réponses aux crises de délai : méthodes structurées, définir processus et outils\np8   Essoufflement méthodes structurées, début de l'agilité\np10   Etudes des échecs des projet dans les années 80 et 90\np12   Résultat du rapport CHAOS \uD83D\uDD0D\uD83D\uDD0D\n\n3 niveaux de réussite des projets\n\np13   De nos jours... \uD83D\uDD0D\uD83D\uDD0D\n\np14   Plus un projet est gros, plus il risque d'échouer \uD83E\uDDE0\np15   Délais non respectés en France\np17   Définitions\np18   Définitions de Ingénieurie Logicielle \uD83D\uDD0D\np19   Synthèse définitions de l'Ingénieurie Logicielle \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np20   Conclusions définitions IL \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np21   Elements nécessaires : bon sens, méthodes et principes \uD83E\uDDE0\np22   Principes : dont construction incémentale \uD83D\uDD0D\uD83E\uDDE0\np23   SWEBOK : référentiel de connaissances \uD83D\uDD0D\np26   AFIS\np27   Spécifier, qualité et projet\np28   Activités principales dont suivi\np31   Qualité du logiciel selon ISO 9126 \uD83E\uDDE0\uD83E\uDDE0\n\n~? Dimensions de la qualité logicielle selon la norme ISO/IEC 25010 :\n- adéquation fonctionnelle\n-efficacité des performances\n-compatibilité : cohabiter et échanger avec d'autres produits\n-capacité d'interaction (avec les utilisateurs)\n-fiabilité : fonctionner correctement dans la durée\n-sécurité (des données et de l'accès)\n-maintenabilité\n-flexibilité : pouvoir être adapté à différent environnements\n-sûreté : ne pas être dangereux\n\np33   Atelier de génie logiciel : outils pour le génie logiciel\np35   Naissance des projets\np36   Problèmes du chef de projet : inventorier, coordonner/planifier, allouer/contrôler, synchroniser \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np37   Problèmes du chef de projet :abritrer, anticiper, acquérir, garantir, communiquer \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np38   Profil et rôle du chef de projet \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np39   Styles de management selon les axes participatif et directif\np41   Facteurs humains dont attribution de responsabilités \uD83E\uDDE0\np42   Facteurs de réussite 1 \uD83D\uDD0D\uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np43   Facteurs de réussite 2 \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np44   Equipe\np45   Bonne communication dans l'équipe\np46   Degré de rationalité \uD83D\uDD0D\np47   Bonnes pratiques de circulation d'info, dont normes \uD83D\uDD0D\uD83E\uDDE0\uD83E\uDDE0\np48   Implication des parties prenantes \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np49   Evaluation des projets\np50   Coût Qualité Fonctionnalités Délai \uD83D\uDD0D\uD83D\uDD0D\uD83E\uDDE0\np51   CMMI\np56   Règle 40% (concevoir) - 20 (programmer) - 40 (tester) \uD83E\uDDE0\uD83E\uDDE0\np57   Métiers d'avenir (2024) : Ingé cloud, DevOps et Pentester\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-03T15:46:10.918139571Z"
+  }
+}

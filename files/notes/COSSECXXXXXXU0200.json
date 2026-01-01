@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSECXXXXXXU0200",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cloisonnement des réseaux",
+      "description" : "Domaine : Cybersécurité et sécurité informatique\nSujet : Architecture et segmentation des réseaux informatiques",
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "### Cloisonnement des réseaux\n\n~? Principe :\n- isoler des réseaux par des pare-feux\n- filtrer les échanges par des règles\n- journaliser et analyser les échanges\n\n~? Niveaux de relais fournis :\n- transport (filtrage par IP, port, protocole)\n- applicatif (proxy HTTP, SMTP, FTP)\n\n~? Zone démilitarisée :\n- réseau tampon qui isole le réseau interne d'internet\n- peut contenir : serveurs web, mail, DNS publics",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "### Network Segmentation\n\n~?Principle:\n- isolate networks with firewalls\n- filter exchanges with rules\n- log and analyze exchanges\n\n~?Provided relay levels:\n- transport (filtering by IP, port, protocol)\n- application (HTTP, SMTP, FTP proxy)\n\n~?Demilitarized Zone:\n- buffer network that isolates the internal network from the internet\n- may contain: web servers, mail, public DNS",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "### Netzwerktrennung\n\n~?Prinzip:\n- Netzwerke durch Firewalls isolieren\n- Austausch durch Regeln filtern\n- Austausch protokollieren und analysieren\n\n~?Bereitgestellte Vermittlungsebenen:\n- Transport (Filterung nach IP, Port, Protokoll)\n- Anwendung (HTTP-, SMTP-, FTP-Proxy)\n\n~?Demilitarisierte Zone:\n- Puffer-Netzwerk, das das interne Netzwerk vom Internet isoliert\n- kann enthalten: Web-, Mail-, öffentliche DNS-Server",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.311014478Z",
+    "quality" : "LOW"
+  }
+}

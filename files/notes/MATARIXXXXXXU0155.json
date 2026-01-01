@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0155",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Inversibilité et diviseurs de zéro",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Mutliplication dans $$Z$$ sur $$k$$ $$Z$$\n\n~?L'élément neutre est :\n1\n\n~?Concernant l'inversibilité, un élément est :\nsoit inversible, soit un diviseur de zéro.\n\n~?Quand un élément est inversible :\nson $$PGCD$$ avec $$k$$ égal 1\nil existe un autre élément tel que leur produit égal 1\n\n~?Quand un élément est un diviseur de zéro :\nson $$PGCD$$ avec $$k$$ est différent de 1\nil existe un autre élément tel que leur produit égal 0",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : null,
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Multiplication dans $$Z$$ sur $$k$$ $$Z$$\n\n~?Quel est l'élément neutre de la multiplication ?\n1\n\n~?Concernant l'inversibilité, quels sont les deux status possibles d'un élément ?\nSoit inversible, soit un diviseur de zéro.\n\n~?Quand un élément est-il inversible?\nSon $$PGCD$$ avec $$k$$ égal à un.\nIl existe un autre élément tel que leur produit égal à un.\n\n~?Quand un élément est-il un diviseur de zéro ?\nSon $$PGCD$$ avec $$k$$ est différent de un.\nIl existe un autre élément tel que leur produit égal à zéro.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Inversibilité et diviseurs de zéro",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Multiplikation in $$Z$$ über $$k$$ $$Z$$\n\n~?Was ist das neutrale Element der Multiplikation?\n1\n\n~?Bezüglich der Invertierbarkeit, welche beiden Zustände sind für ein Element möglich?\nEntweder invertierbar oder ein Nullteiler.\n\n~?Wann ist ein Element invertierbar?\nSein $$ggT$$ mit $$k$$ ist eins.\nEs existiert ein anderes Element, sodass ihr Produkt eins ist.\n\n~?Wann ist ein Element ein Nullteiler?\nSein $$ggT$$ mit $$k$$ ist ungleich eins.\nEs existiert ein anderes Element, sodass ihr Produkt null ist.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.615738421Z",
+    "quality" : "LOW"
+  }
+}

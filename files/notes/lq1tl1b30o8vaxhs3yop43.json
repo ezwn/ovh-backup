@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "lq1tl1b30o8vaxhs3yop43",
+  "content" : {
+    "domain" : "GEOPOLITICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Constitution française",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Constitution française\n\n?~ **Fonctionnement** de l'**alinéa 3** de l'**article 49** de la Constitution française :\n- **délibération** du **Conseil des ministres**\n- **engager** la **responsabilité du gouvernement**\n- si **pas de motion de censure** dans les **24 heures**, le **texte** est **adopté**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-26T16:48:42.197319470Z"
+  }
+}

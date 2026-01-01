@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Spring avec spring boot",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Spring\n\n## [Injection de dépendances avec Spring](note::COSSDECODJSPU0050)\n\n## [Recherche de composants et configuration](note::COSSDECODJSPU0060)\n\n## [Spring MVC](note::COSSDECODJSPU2000)\n\n## [JPA](note::COSSDECODJSPU3000)\n\n## [Tests](note::COSSDECODJSPU6000)\n\n## [Spring security](note::COSSDECODJSPU2050)\n\nSpring contient aussi un bus d'événements à usage interne du service.\n\n## AOP\n\nAjouter des traitements avant et après les méthodes.\n\nUtilise la génération de bytecode cf:\n### [Techniques de génération dynamique de classes](note::COSSDECODJAVU4100)\n\n## Gestion des transations\n\nLa propagation des transactions désigne la façon dont spring\nréutilise ou crée des transactions en particulier imbriquées.\n\nLes transactions peuvent être distribuées sur plusieurs bases de données.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Spring et spring boot",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Spring et spring boot",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Spring et spring boot",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.996491004Z",
+    "quality" : "LOW"
+  }
+}

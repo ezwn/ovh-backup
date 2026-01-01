@@ -1,0 +1,62 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCTOGAFXU0010",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Méthode de développement d'architecture (TOGAF)",
+      "description" : "Voici une description schématique du dispositif de la méthode de développement d'architecture du TOGAF.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Méthode de développement d'architecture (TOGAF)\n\n~? **Dispositif** de la **MDA** :\n- une **phase préliminaire**\n- un **processus continu** de **gestion** des **exigences**\n- un **cycle** **itératif** de **8 phases**\n\n~? **But** de la **phase** **préliminaire** de la **MDA** :\n-Préparer le **cadre d'architecture** et les **principes**\n\n~? **Phases** du **cycle** **itératif** de la **MDA** :\n- **Vision** de l'architecture : portée, parties prenantes, vision de haut niveau\n- **Architecture métier** (actuelle et cible)\n- **Architecture** des **SI** : données et applications (actuelle et cible)\n- **Architecture technique** (actuelle et cible)\n- **Opportunités** et **solutions**\n- **Plan** de **migration**\n- **Gouvernance** de l'**implémentation**\n- **Gestion** des **changements** d'**architecture**\n\n~? Objectif du processus de **gestion des exigences** de la **MDA** :\n-**mettre à jour** les **exigences** **métier**, **fonctionnelles** et **techniques**\n-pour que l'**architecture** **reste en adéquation** **avec** les **besoins**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "MDA" : "Méthode de Développement d'Architecture",
+        "SI" : "Systèmes d'Informations"
+      },
+      "sttMapping" : {
+        "méthode de développement d'architecture" : "MDA",
+        "systèmes d'informations" : "SI"
+      },
+      "tooltips" : {
+        "MDA" : "Méthode de Développement d'Architecture",
+        "SI" : "Systèmes d'Informations"
+      },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Architecture Development Method (TOGAF)",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Architecture Development Method (TOGAF)\n\n~?Approach recommended by the architecture development method:\n- a **preliminary phase**\n- a continuous **requirements management process**\n- an iterative **cycle of 8 phases**\n\n~?Role of the preliminary phase of the architecture development method:\n-**Prepare** the **architecture framework** and the **principles**\n\n~?Phases of the iterative cycle of the architecture development method:\n- Vision\n- **Business architecture** (current and target)\n- **Information Systems Architecture** (current and target)\n- **Technology Architecture** (current and target)\n- Opportunities and Solutions\n- Migration Planning\n- Implementation Governance\n- Architecture Change Management\n\n~?Role of the requirements management process of the architecture development method:\n-**update** business, functional and technical **requirements**\n-so that the **architecture remains aligned with the needs**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Architekturentwicklungs-Methode (TOGAF)",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Architekturentwicklungs-Methode (TOGAF)\n\n~?Vorgehensweise, die von der Architekturentwicklungsmethode empfohlen wird:\n- eine **Vorbereitungsphase**\n- ein kontinuierlicher **Anforderungsmanagement-Prozess**\n- ein iterativer **Zyklus aus 8 Phasen**\n\n~?Rolle der Vorbereitungsphase der Architekturentwicklungsmethode:\n-**Vorbereitung** des **Architekturrahmens** und der **Grundsätze**\n\n~?Phasen des iterativen Zyklus der Architekturentwicklungsmethode:\n- Vision\n- **Geschäftsarchitektur** (aktuelle und Zielarchitektur)\n- **Informationssystemarchitektur** (aktuelle und Zielarchitektur)\n- **Technische Architektur** (aktuelle und Zielarchitektur)\n- Chancen und Lösungen\n- Migrationsplanung\n- Implementierungsgovernance\n- Architekturänderungsmanagement\n\n~?Rolle des Anforderungsmanagement-Prozesses der Architekturentwicklungsmethode:\n-die Geschäfts-, funktionalen und technischen **Anforderungen aktualisieren**\n-damit die **Architektur weiterhin den Bedürfnissen entspricht**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T17:54:40.282915584Z",
+    "quality" : "MEDIUM"
+  }
+}

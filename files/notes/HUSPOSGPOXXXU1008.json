@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU1008",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Territoire de l'UE : géopolitique inclusive volontaire [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Le traité de Rome de 1957 a fondé la Communauté Européenne.\nElle comprenait alors 6 pays :\nla Belgique,\nles Pays-Bas,\nle Luxembourg,\nl'Allemagne de l'Ouest,\nla France,\net l'Italie.\n\nProgressivement, d'autres pays y ont adhéré :\nLe Danemark, le Royaume-Uni et l'Irlande, en 1973.\nLa Grèce, le Portugal et l'Espagne entre 1980 et 1986.\n\nLa vague suivante, en 2004 et 2007 a compris :\nla Pologne,\nla République tchèque,\nla Slovaquie,\nla Hongrie,\nla Roumanie,\net la Bulgarie.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Territoire de l'UE : géopolitique inclusive volontaire [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "The Treaty of Rome of 1957 established the European Community.\nIt initially comprised 6 countries:\nBelgium,\nthe Netherlands,\nLuxembourg,\nWest Germany,\nFrance,\nand Italy.\n\nGradually, other countries joined:\nDenmark, the United Kingdom, and Ireland, in 1973.\nGreece, Portugal, and Spain between 1980 and 1986.\n\nThe next wave, in 2004 and 2007, included:\nPoland,\nthe Czech Republic,\nSlovakia,\nHungary,\nRomania,\nand Bulgaria.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Territoire de l'UE : géopolitique inclusive volontaire [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Der Vertrag von Rom von 1957 gründete die Europäische Gemeinschaft.\nDiese umfasste damals 6 Länder:\nBelgien,\ndie Niederlande,\nLuxemburg,\nWestdeutschland,\nFrankreich,\nund Italien.\n\nAllmählich traten weitere Länder bei:\nDänemark, das Vereinigte Königreich und Irland, 1973.\nGriechenland, Portugal und Spanien zwischen 1980 und 1986.\n\nDie nächste Erweiterungswelle in den Jahren 2004 und 2007 umfasste:\nPolen,\ndie Tschechische Republik,\ndie Slowakei,\nUngarn,\nRumänien,\nund Bulgarien.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Territoire de l'UE : géopolitique inclusive volontaire [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "1957年《罗马条约》建立了欧洲共同体。\n当时包括6个国家：\n比利时，\n荷兰，\n卢森堡，\n西德，\n法国，\n和意大利。\n\n逐渐地，其他国家加入了：\n丹麦、英国和爱尔兰在1973年加入。\n希腊、葡萄牙和西班牙在1980到1986年之间加入。\n\n下一波加入的国家是在2004和2007年：\n波兰，\n捷克共和国，\n斯洛伐克，\n匈牙利，\n罗马尼亚，\n和保加利亚。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.045021645Z",
+    "quality" : "LOW"
+  }
+}

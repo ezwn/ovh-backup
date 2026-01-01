@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOBXXXXXXU1501",
+  "content" : {
+    "domain" : "HEALTH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Symptômes",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Tableau\n\n## Symptômes\n\nSymptômes anciens (depuis 25 ans)\n- point de pression au milieu du front (quotidien)\n\nSymptômes récents (depuis 4 ans)\n- croûtes dans le nez (quotidien)\n- intense sécheresse buccale la nuit (par périodes)\n- léger vertiges\n- sentiment de gonflement du visage (quotidien)\n- importante diarrhées (quotidien)\n- douleur dans le haut du dos en fin de nuit, entraînant un réveil (quotidien)\n- gêne visuelle (quotidien)\n\nSymptômes très récents (depuis 1 ans)\n- écoulements transparents du nez\n- quelques éternuements\n- mal de tête\n- légère douleur aux gencives\n\n## Déclenchement\n\n- pas d'effet saisonnier.\n- la fatigue semble avoir un effet aggravant.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.599960848Z",
+    "quality" : "LOW"
+  }
+}

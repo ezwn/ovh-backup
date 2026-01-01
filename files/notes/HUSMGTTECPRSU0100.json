@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTTECPRSU0100",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Acteur stratégique",
+      "description" : "Sujet: théorie de l'acteur stratégique de Crozier et Friedberg.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Théorie de l'acteur stratégique\n\n?~Auteur et année de la théorie de l'acteur stratégique :\n**Crozier** et **Friedberg**, en **1977**\n\n?~Stratégies dont traite la théorie de l'acteur stratégique :\n**stratégies individuelles** des acteurs\n\n?~Moyens d'action des acteurs d'après d'après la théorie de l'acteur stratégique :\n**Se soutenir** ou **se gêner**\n\n?~Dans la théorie de l'acteur stratégique, limites du cadre formel exploitées par les acteurs :\nL'**imprévu**, l'**interprétation** des **rôles** et des **résultats**\n\n?~Phénomènes découlant des stratégies individuelles :\n**Négociation** et les **alliances**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Strategic Actor Theory",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Strategic Actor Theory\n\n?~Author and year of the strategic actor theory:\n**Crozier** and **Friedberg**, in **1977**\n\n?~Strategies dealt with by the strategic actor theory:\n**individual strategies** of actors\n\n?~Means of action of actors according to the strategic actor theory:\n**Supporting each other** or **hindering each other**\n\n?~In the strategic actor theory, limits of the formal framework exploited by actors:\nThe **unexpected**, the **interpretation** of **roles** and **results**\n\n?~Phenomena resulting from individual strategies:\n**Negotiation** and **alliances**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Theorie des strategischen Akteurs",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Theorie des strategischen Akteurs\n\n?~Autor und Jahr der Theorie des strategischen Akteurs:\n**Crozier** und **Friedberg**, im **1977**\n\n?~Strategien, die in der Theorie des strategischen Akteurs behandelt werden:\n**individuelle Strategien** der Akteure\n\n?~Handlungsmöglichkeiten der Akteure laut der Theorie des strategischen Akteurs:\n**Sich unterstützen** oder **sich behindern**\n\n?~In der Theorie des strategischen Akteurs, Grenzen des formellen Rahmens, die von den Akteuren ausgenutzt werden:\nDas **Unerwartete**, die **Interpretation** von **Rollen** und **Ergebnissen**\n\n?~Phänomene, die sich aus individuellen Strategien ergeben:\n**Verhandlung** und **Allianzen**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-06T14:51:28.123598098Z",
+    "quality" : "LOW"
+  }
+}

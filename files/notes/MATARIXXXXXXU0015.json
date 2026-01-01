@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0015",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Nombres premiers entre eux",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Deux nombres sont premiers entre eux si leur PGCD vaut 1.\n\nPlusieurs nombres sont premiers dans leur ensemble si leur PGCD vaut 1.\n\nPlusieurs nombres peuvent être premiers dans leur ensemble sans être premiers deux à deux.\n\nPlusieurs premiers deux à deux sont aussi premiers dans leur ensemble.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Nombres premiers entre eux",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Two numbers are coprime if their GCD equals 1.\n\nSeveral numbers are coprime as a group if their GCD equals 1.\n\nSeveral numbers can be coprime as a group without being pairwise coprime.\n\nSeveral numbers that are pairwise coprime are also coprime as a group.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.576325722Z",
+    "quality" : "LOW"
+  }
+}

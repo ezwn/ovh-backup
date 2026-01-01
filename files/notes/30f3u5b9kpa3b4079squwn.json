@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "30f3u5b9kpa3b4079squwn",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Gestion de la continuité",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Gestion de la continuité\n\n~? PCA :\nPlan de Continuité d'Activité\n\n~? **Objectifs** du **Plan** de **Continuité** d'**Activité**  :\n- **maintenir** un **mode dégradé** essentiel\n- **planifier** la **reprise**\n\n~? PRA :\nplan de reprise d'activité\n\n?~ **Différences** entre **PCA** et **PRA** :\nle **PCA** est **préventif**, le **PRA** est **réactif**\n\n?~ PUPA :\n**fusion** à la **française** du **PCA** et **PRA**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-11T09:38:12.435719591Z",
+    "quality" : "LOW"
+  }
+}

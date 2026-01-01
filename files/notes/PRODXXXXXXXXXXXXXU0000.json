@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PRODXXXXXXXXXXXXXU0000",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Exploitation",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Exploitation\n\n---\n### [Phases typiques des projets](note::htejz04r3n2bz9kzbkkief)\n### [Supervision des événements de sécurité](note::eu7ospzyb8sp6d4legqpmo)\n### [Agrégats de production](note::HUSECOXXXXXXU1015)\n---\n\n### [Génération Augmentée par Recherche](note::18upy3u9ghln3jz12y4yex)\n### [Besoins humains et accomplissement selon Maslow](note::3l7dk71hj78vt7xl1qa0s6)\n### [Chaîne d'Attaque Unifiée](note::j2jeysw7u5bu8k3licaxi0)\n### [RSE](note::HUSMGTTECNEGU0030)\n### [TOGAF : méthode de développement d'architecture](note::COSARCTOGAFXU0010)\n### [Rudiments d'urbanisme](note::URBXXXXXXXXXU0005)\n### [Théorie de la décision et valeur espérée](note::7fa4ngn6xmiaxd3hx78jix)\n### [Modèle de la personnalité \"océan\"](note::HUSPSYPERXXXU0005)\n### [Architecture hexagonale](note::COSARCXXXXXXU0030)\n### [Tactiques MITRE ATT&CK®](note::ws0sjlvhyhlkuvxi8c1clk)\n### [Intelligence émotionnelle](note::HUSPSYEMOXXXU1005)\n### [La puissance](note::9eou5dbirjjbki1utulcgo)\n### [Introduction à l'économie](note::9pk622500xi17nryyvufj6)\n### [Circuit économique (Insee)](note::HUSECOXXXXXXU1005)\n### [Urbanisation : aperçu](note::COSARCXXXXXXU2010)\n### [Principes fondamentaux du Lean IT](note::HUSMGTLEAXXXU0010)\n### [Théories des relations internationales](note::HUSPOSGPOXXXU1110)\n### [Modèle fondamental de la sécurité opérationnelle des SI](note::dino8vdpqnvzc8n6m5025p)\n### [Types de cloud et offres](note::COSARCXXXXXXU1020)\n### [Notions de prospective](note::HUSMGTTECPRSU0001)\n### [Régimes politiques](note::HUSPOSGPOXXXU0015)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-19T15:43:53.870645481Z",
+    "quality" : "LOW"
+  }
+}

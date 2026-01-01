@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0015",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mémoires sensorielles",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Mémoire sensorielle\n\n## Expérience fondatrice\n\n~?L'expérience à connaître est celle de :\n**George Sperling** en **1960**.\n\n~?Le dispositif consiste à :\n- **présenter brièvement 3 lignes de lettres** aux sujets\n- indiquer par un signal quelle ligne doit être mémorisé\n- demander **quelles lettres contenait la ligne**\n\n~?La variable est :\nle **délai entre la disparition des lettres et le signal**.\n\n~?On constate que :\n**quand le délai excède quelques dizaines de millisecondes**, **la performance chute**.\n\n~?On en conclu que :\n- une **grande quantité d'information visuelle** **persiste un court temps**\n- **en dirigeant notre attention**, nous **favorisons le traitement d'une partie** de celle-ci\n\n%## Exemples de mémoires sensorielles\n\n~?La mémoire iconique persiste pendant\nquelques dixièmes de secondes.\n\n~?La mémoire échoïque persiste pendant\ntrois à quatre secondes.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Sensory Memory",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Sensory Memory\n\n## Foundational Experiment\n\n~?The experiment to know is that of:\n**George Sperling** in **1960**.\n\n~?The setup consists of:\n- **briefly presenting 3 lines of letters** to the subjects\n- indicating by a signal which line must be memorised\n- asking **which letters the line contained**\n\n~?The variable is:\nthe **delay between the disappearance of the letters and the signal**.\n\n~?It is observed that:\n**when the delay exceeds a few tens of milliseconds**, **performance drops**.\n\n~?It is concluded that:\n- a **large amount of visual information** **persists for a short time**\n- by **directing our attention**, we **enhance the processing of a part** of it\n\n%## Examples of Sensory Memories\n\n~?Iconic memory persists for\na few tenths of a second.\n\n~?Echoic memory persists for\nthree to four seconds.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Sensorisches Gedächtnis",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Sensorisches Gedächtnis\n\n## Gründungserfahrung\n\n~?Die entscheidende Erfahrung ist die von:\n**George Sperling** im Jahr **1960**.\n\n~?Der Aufbau besteht darin:\n- den Probanden **kurz 3 Zeilen mit Buchstaben zu zeigen**\n- durch ein Signal anzugeben, welche Zeile gemerkt werden soll\n- zu fragen, **welche Buchstaben die Zeile enthielt**\n\n~?Die Variable ist:\ndie **Verzögerung zwischen dem Verschwinden der Buchstaben und dem Signal**.\n\n~?Man stellt fest, dass:\n**wenn die Verzögerung einige Dutzend Millisekunden überschreitet**, **die Leistung abnimmt**.\n\n~?Man schließt daraus, dass:\n- eine **große Menge visueller Informationen** **kurze Zeit bestehen bleibt**\n- indem wir **unsere Aufmerksamkeit lenken**, **begünstigen wir die Verarbeitung eines Teils** davon\n\n%## Beispiele sensorischer Gedächtnisse\n\n~?Das ikonische Gedächtnis bleibt\neinige Zehntelsekunden bestehen.\n\n~?Das echoische Gedächtnis bleibt\n**drei bis vier Sekunden** bestehen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.189788865Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "57ek6jcb6xcrn8rj4oyop8",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 2 ✔️",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 2 ✔️\n\n## Repérage\n\n[Qui sont les CT ?](video::avt208-2-1;00:05:00)\n[Elles sont dans la constitution](video::avt208-2-1;00:06:30)\n[Caractéristiques des CT : perso morales, de droit publique, compétences admin](video::avt208-2-1;00:10:25)\n[Un très grand nombre d'acteurs](video::avt208-2-1;00:18:50)\n[Bloc local ou bloc communal](video::avt208-2-1;00:24:50)\n[Diversité des collectivités : taille de population des communes et intercommunalités](video::avt208-2-1;00:25:55)\n[Les CT se transforment constamment : leur nombre diminue](video::avt208-2-1;00:32:10)\n[Apparition de CT à statut particulier](video::avt208-2-1;00:35:05)\n[Pourquoi le nombre de certaines CT baisse ?](video::avt208-2-1;00:36:20)\n[Avantages et inconvénient de nombreuses petites communes](video::avt208-2-1;00:38:00)\n[Réponses : communes nouvelles, groupements de communes](video::avt208-2-1;00:44:30)\n\n~? Avantages grosse taille :\n- économie d'échelle\n- mutualisation des compétences (dont rares)\n\n[Cadrage légal commune nouvelle (plusieurs lois depuis la révolution)](video::avt208-2-1;00:46:16)\n[Graphique du nombre de communes nouvelles par année](video::avt208-2-1;00:48:00)\n[Phénomène limité](video::avt208-2-1;00:49:00)\n[Regroupement intercommunal : depuis fin 19ème, mais accélération](video::avt208-2-1;00:49:55)\n[Question de comment les communes se regroupent](video::avt208-2-1;00:53:35)\n[CT à statut particulier : exceptions au modèle Région > Département > Commune](video::avt208-2-1;00:57:20)\n[Collectivités d'outre-mer selon article de constitution 73 ou 74](video::avt208-2-1;01:07:37)\n\n~? sui generis :\nstatut propre\n\n[Déconcentration et décentralisation](video::avt208-2-1;01:14:37)\n[Déconcentration](video::avt208-2-1;01:18:00)\n\n~? Représentants locaux de l'État :\n- au niveau de la région, la préfecture dirigée par le préfet\n- au niveau des arrondissement, la sous-préfecture, dirigée par le sous-préfet\n-dans le système éducatif, l'académie dirigée par le recteur\n\n[Déconcentration et décentralisation sont interconnectés, vont ensemble](video::avt208-2-1;01:21:19)\n[Histoire de la décentralisation](video::avt208-2-1;01:22:15)\n\n1789 : création des communes et département depuis paroisses et autre\n1830 : première élections des conseils municipaux\n1871 : suffrage universel\n1884 : élection du maire par le conseil, compétence générale des communes\n1972 : création des établissment public régionaux (régions)\n\nAnnées 80 : lois de décentralisation\n-contrôle à posteriori\n-transfert bloc compétences. Exemple : lycées, formation professionnelle\n\n[Acte II de la décentralisation : constitutionnalisation et transfert de compétences supplémentaires](video::avt208-2-2;00:04:26)\n[Depuis 2010 les lois vise plus l'optimisation de l'efficacité que la décentralisation](video::avt208-2-2;00:06:55)\n\n[Le rôle des CT va encore évoluer (rapports, annonces)](video::avt208-2-2;00:11:10)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "avt208-2-1" : "",
+        "avt208-2-2" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-24T16:09:44.266885825Z",
+    "quality" : "LOW"
+  }
+}

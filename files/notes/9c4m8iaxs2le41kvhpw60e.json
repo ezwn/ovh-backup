@@ -1,0 +1,25 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "9c4m8iaxs2le41kvhpw60e",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Quai 14 satisfaction",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Quai 14 satisfaction\n\n### Parties prenantes\n\n-Valérie\n-Stéphane\n-Mickael\n\n### Questions lors de la réunion\n\nscope des questionnaires\nrapports attendus (modalités d'envoi)\n\n### Questions du questionnaire\n\nQualité des plâts du jour (3 questions)\nVariété et choix (2 questions)\n...\nService\nRapport Q/P\n\n- campagnes de questionnaires : plusieurs par an de durée limitée\n-réponses partielles, prendre ou jeter, demander confirmation ou pas ? Limesurvey ? vérifié : possible\n\nA la pause de 9h et 12h\n\nsécurité : on peu répondre un grand nombre de fois : téléphone mobile\n\nIdéal : tableau de bord, par question, IA\n\nNombre de personnes ayant donné une certaine réponse à une certaine question\nPouvoir mettre en relation des réponses aux questions\n\nObjectif court terme : sur quoi se concentrer pour améliorer",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-28T07:38:12.615212727Z"
+  }
+}

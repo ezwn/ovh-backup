@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "lu9gaonvaz2iqrtlcpa6jf",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "vidéo 4d",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# vidéo 4d\n\nMasque à usage unique :\ncaractères à usage unique\n\n[Projet Venona : déchiffrer les messages russe dans les années 40](video::utc505-04d;00:17:23)\n[Conclusions sur les propriétés des clés](video::utc505-04d;00:24:55)\n\n~? Facteurs de perte d'efficacité : \uD83E\uDDE0\uD83E\uDDE0\n- plus on utilise une clé, plus elle devient facile à trouver\n-avoir des informations sur l'émetteur (langue, ...)\n-non respect des consignes\n\n[Exemples de compromissions typiques](video::utc505-04d;00:26:30)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-04d" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-16T18:12:06.469423367Z"
+  }
+}

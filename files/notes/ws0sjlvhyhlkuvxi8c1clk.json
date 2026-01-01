@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ws0sjlvhyhlkuvxi8c1clk",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : "Sources :\n- https://attack.mitre.org/tactics/TA0042/",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Tactiques des attaquants",
+      "description" : "Pour comprendre les tactiques des attaquants, MITRE propose un modèle appelé ATT&CK. Par ailleurs, la \"Chaîne d'Attaque Unifiée\" prolonge celui-ci par une analyse globale. Cette unité s'inspire de ces deux modèles et permet de mémoriser les tactiques des attaquants et certaines contre-mesures associées.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Tactiques des attaquants\n\n? Objectifs **tactiques** des **attaquants** recensés par le modèle **ATT&CK®** :\n- Reconnaissance\n- Développement de ressources\n- Accès initial\n- Exécution\n- Maintien\n- Élévation de privilèges\n- Contournement des défenses\n- Accès aux identifiants\n- Découverte\n- Mouvement latéral\n- Collecte\n- Commandement et contrôle\n- Exfiltration\n- Impact\n\n%## Définitions et contre-mesures\n\n?~ Reconnaissance :\nL'attaquant veut **recueillir** des **informations** **avant l'attaque**.\nContre-mesures :\n-**contrôler** la **publication** d'**information**\n-**masquer** les **indices** sur les **logiciels** utilisés\n-**désactiver** les **ports** et les **services**\n-utiliser un **parre-feu**\n-**prévenir** et **détecter** les **intrusions**\n-**bloquer** les **IP**, **Tor** et les **VPN**\n\n?~ **Développement** de **ressources** (ou armement) :\nL'attaquant veut **se procurer** ou **fabriquer** les **ressources** nécessaires à l'attaque.\nContre-mesure :\n-**Suivre** les **marchés** **underground**\n\n?~ Accès initial :\nL'attaquant veut **pénétrer dans** le **système**.\n\n?~ **Exécution** (ou exploitation) :\nL'attaquant veut **exécuter du code** malveillant dans le système compromis.\nContre-mesures :\n-**empêcher** la **livraison** : **filtrage**, **blocage**, **sensibilisation**\n-**limiter** les **droits**\n-**restaurer** un **système** **propre**\n\n?~ **Maintien** (ou persistance) :\nL'attaquant veut **conserver** un **accès** au système,\nmême **après** **redémarrage** ou **changement** des **identifiants**.\n\n?~ **Élévation** de **privilèges** :\nL'attaquant veut **obtenir** des **droits plus élevés** que ceux déjà compromis.\n\n?~ **Contournement** des **défenses** (ou furtivité) :\nL'attaquant veut **se dissimuler**, en **masquant ses traces** ou en **désactivant** les **mécanismes de sécurité**.\nContre-mesures :\n-pare-feu\n-**détection** et **prévention** d'**intrusion**\n-**analyse** avancée des **journaux** en **temps réel**\n-**micro-segmentation** **réseau**\n\n?~ **Accès** aux **identifiants** :\nL'attaquant veut **voler** des **identifiants**,\npar exemple des **noms d'utilisateurs** ou des **mots de passe**.\n\n?~ Découverte :\nL'attaquant veut **comprendre** l'**environnement compromis** pour mieux **cibler l’attaque**.\n\n?~ Mouvement latéral :\nL'attaquant veut **se déplacer** **vers** d’**autres** **machines** ou **services** du système compromis.\nContre-mesures :\n-**micro-segmentation** **réseau**\n-zero trust : **authentification** **mutuelle** **généralisée**\n\n?~ Collecte :\nL'attaquant veut **rassembler des données** **sensibles** ou pertinentes **pour ses objectifs**.\n\n?~ Commandement et contrôle :\nL'attaquant veut **communiquer discrètement** **avec** les **systèmes compromis** pour les **contrôler**.\nContre-mesures :\n-**inspecter** les **paquets** réseau **en profondeur**\n-isoler\n-**bloquer** les **IP**\n\n?~ Exfiltration :\nL'attaquant veut **transférer des données** **vers** un **système externe**.\n\n?~ Impact :\nL'attaquant veut **perturber**, **détruire** ou **altérer** des **données** ou un **système**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ATT&CK®" : "attaque"
+      },
+      "sttMapping" : {
+        "ATT&CK®" : "attaque"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-24T15:41:17.154425882Z",
+    "quality" : "MEDIUM"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU0017",
+  "content" : {
+    "domain" : "HEALTH",
+    "privateComment" : "Difficile niveau idées\nSource: https://cancer.ca/fr/cancer-information/cancer-types/neuroblastoma/what-is-neuroblastoma/the-nervous-system",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Système nerveux",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Système nerveux\n\n%?~Comment se subdivise le système nerveux ?\nSystème nerveux central et système nerveux périphérique.\n\n%?~Quelles fonctions gère le système nerveux central ?\nPerception, pensée, parole et mémoire.\n\n%?~Comment se subdivise le système nerveux périphérique ?\nSystème nerveux somatique et système nerveux autonome.\n\n%?~Quelle fonction gère le système nerveux somatique ?\nContrôle des mouvements volontaires.\n\n%?~Comment se subdivise le système nerveux autonome ?\nSystème nerveux sympathique et système nerveux parasympathique.\n\n%?~Quelle fonction gère le système nerveux sympathique ?\nPréparation à l’action.\n\n%?~Quelle fonction gère le système nerveux parasympathique ?\nStimulation du métabolisme.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Système nerveux",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Nervensystem\n\n%?~Wie unterteilt sich das Nervensystem?\nZentrales Nervensystem und peripheres Nervensystem.\n\n%?~Vom zentralen Nervensystem gesteuerte Funktionen:\n**Wahrnehmung**, **Denken**, **Sprache** und **Gedächtnis**.\n\n%?~Wie unterteilt sich das periphere Nervensystem?\nSomatisches Nervensystem und autonomes Nervensystem.\n\n%?~Welche Funktion steuert das somatische Nervensystem?\nKontrolle der freiwilligen Bewegungen.\n\n%?~Wie unterteilt sich das autonome Nervensystem?\nSympathisches Nervensystem und parasympathisches Nervensystem.\n\n%?~Welche Funktion steuert das sympathische Nervensystem?\nVorbereitung auf die Handlung.\n\n%?~Welche Funktion steuert das parasympathische Nervensystem?\nAnregung des Stoffwechsels.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-31T11:25:33.136847033Z",
+    "quality" : "LOW"
+  }
+}

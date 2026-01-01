@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0050",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Bénéfices et risques de la virtualisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Bénéfices et risques de la virtualisation\n\n## Bénéfices\n\n### Optimisation des ressources\n- mutualisation des ressources, allocation dynamique, équilibrage\n- faire cohabiter de nombreuses configs sur une même machine\nEn moyenne un serveur est utilisé à 30-60% de ses capacités\n\nBénéfices :\n- déploiement (clonage, etc)\n- administration centralisée\n\nIdem virtualisation des postes utilisateurs (mutualisation des ressources)\n- clients légers\n- sessions dans le cloud\n\nOptimisation des charges\n\nMontée en charge (élastique)\n-  on peut cloner le serveur de façon transparente\n\nDécouplage logique (serveurs logiques) et physique (serveurs dans le cluster)\n\nDécouplage stockage des données / machine virtuelle\n\nServeur virtualisés :\n- coût de maintenance plus faibles (divisé par deux?)\n\nIntérêt des snapshots et comme il est facile de les sauvegarder\n\nDéplacement de VM entre serveurs virtuels entre sites\n\nVirtualisation avantage :\n- coût d'exploition\n- vit déploiement accru\n- restauration plus facile\n- cloisonnement systèmes / applications : étanchéité / sécurité\n- favorise l'isolation des architectures logicielle car tout peut tourner en local\n\nRisques :\n- performances (machines physique à capacité limité)\n- indisponibilité : 1 machine physique tombe en panne : plusieurs machines virtuelles KO. Déni de service : impact sur plusieurs machines virtuelles?\n- proliférations de machine inactives. les repérer, les tuer\n- attaques d'hyperviseur\n- attaque réseau (souvent partagée). sniffage du réseau par une VM?",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.162444793Z",
+    "quality" : "LOW"
+  }
+}

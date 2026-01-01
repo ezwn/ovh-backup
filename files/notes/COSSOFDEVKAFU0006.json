@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVKAFU0006",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Kafka topics [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Dans Kafka,\nles topics sont des ensembles d'événements.\n\nPour chaque topic.\ndurée de rétention\nUne durée de rétention configurable détermine quand les événements sont effacés.\nPlusieurs producers peuvent écrire des événements.\nPlusieurs consumers peuvent lire des événements.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Kafka topics [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "In Kafka,\ntopics are collections of events.\n\nFor each topic.\nretention period\nA configurable retention period determines when events are deleted.\nMultiple producers can write events.\nMultiple consumers can read events.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Kafka topics [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Bei Kafka\nsind Topics Sammlungen von Ereignissen.\n\nFür jedes Topic.\n^die Aufbewahrungsdauer, die Aufbewahrungsdauern\nEine konfigurierbare Aufbewahrungsdauer bestimmt, wann die Ereignisse gelöscht werden.\nMehrere Producer können Ereignisse schreiben.\nMehrere Consumer können Ereignisse lesen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Kafka topics [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在 Kafka 中，\ntopic 是一组事件的集合。\n\n对于每个 topic，\n一个保留时间\n可配置的保留时间决定了事件何时被删除。\n多个 producer 可以写入事件。\n多个 consumer 可以读取事件。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.446652985Z",
+    "quality" : "LOW"
+  }
+}

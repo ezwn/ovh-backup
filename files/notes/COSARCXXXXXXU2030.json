@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU2030",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Urbanisation : architecture fonctionnelle",
+      "description" : "Domaine : urbanisation des systèmes d'information\nSujet : architecture fonctionnelle et modélisation des blocs fonctionnels",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecture fonctionnelle (urbanisation)\n\n## A partir de l'architecture métier\n\n~? Faire correspondre :\nun ou des blocs fonctionnels à une activité métier\n\n~? Zones pour l'architecture fonctionnelle cible :\n- zone échange\n- **zone référentiel** (**formats** et **règles**)\n- zone pilotage unique\n- zone gisement de données\n- une zone opération par métier\n- zone ressources\n\n~? Déterminer :\n- quels blocs servent chaque activité\n- si des blocs ne servent aucune activité\n\n## Modélisation fonctionnelle\n\n~? Règles :\n- pas de chevauchement\n- un block possède une prise unique\n- les communications passent par la prise\n- une donnée est sous la responsabilité d'un seul bloc\n\n~? Exemple de blocks par zone :\n- Un bloc **marketing opérationnel** dans la zone **échange**\n- Un bloc **facture** dans la zone **gisement de données**\n- Un bloc **statistiques**  voyages dans la zone **décisionnel**\n- Un bloc **logistique** dans la zone **ressources**\n- Un bloc **règles** dans la zone **référentiel**\n- Un bloc **gestion des réservations** dans la zone **opération**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Functional architecture (urbanization)\n\n## From the business architecture\n\n~? Match:\none or several functional blocks to a business activity\n\n~? Zones for the target functional architecture:\n- exchange zone\n- **reference zone** (**formats** and **rules**)\n- unique steering zone\n- data warehouse zone\n- one operation zone per business\n- resources zone\n\n~? Determine:\n- which blocks serve each activity\n- if blocks serve no activity\n\n## Functional modeling\n\n~? Rules:\n- no overlapping\n- a block has a single port\n- communications go through the port\n- a data is under the responsibility of only one block\n\n~? Example of blocks per zone:\n- An **operational marketing** block in the **exchange** zone\n- An **invoice** block in the **data warehouse** zone\n- A **travel statistics** block in the **decision-making** zone\n- A **logistics** block in the **resources** zone\n- A **rules** block in the **reference** zone\n- A **reservation management** block in the **operation** zone",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Funktionale Architektur (Urbanisierung)\n\n## Ausgehend von der Geschäftsarchitektur\n\n~? Zuordnen:\nein oder mehrere Funktionsblöcke zu einer Geschäftsaktivität\n\n~? Zonen für die Ziel-Funktionsarchitektur:\n- Austauschzone\n- **Referenzzone** (**Formate** und **Regeln**)\n- eindeutige Steuerungszone\n- Datenressourcen-Zone\n- eine operative Zone pro Geschäft\n- Ressourcen-Zone\n\n~? Bestimmen:\n- welche Blöcke zu welcher Aktivität gehören\n- ob Blöcke keiner Aktivität zugeordnet sind\n\n## Funktionale Modellierung\n\n~? Regeln:\n- keine Überschneidung\n- ein Block hat einen einzigen Anschluss\n- die Kommunikation erfolgt über den Anschluss\n- eine Datenverantwortung liegt nur bei einem Block\n\n~? Beispiel für Blöcke pro Zone:\n- Ein Block **Operatives Marketing** in der Zone **Austausch**\n- Ein Block **Rechnung** in der Zone **Datenressourcen**\n- Ein Block **Statistiken**  Reisen in der Zone **Entscheidungsunterstützung**\n- Ein Block **Logistik** in der Zone **Ressourcen**\n- Ein Block **Regeln** in der Zone **Referenz**\n- Ein Block **Reservierungsverwaltung** in der Zone **Operation**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.688781219Z",
+    "quality" : "LOW"
+  }
+}

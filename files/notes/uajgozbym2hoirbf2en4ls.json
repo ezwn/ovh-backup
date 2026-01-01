@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "uajgozbym2hoirbf2en4ls",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Offres Cloud",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Offres Cloud\n\n00:01:45  Caractériser les offres Cloud Computing\n-SaaS PaaS IaaS\n00:03:45  Plan\n00:04:52  Motivations passage au Cloud\n-se décharger de la gestion du parc informatique\n-ressources virtualisés et extensibles à l'infini\n-économie d'échelle ?\n00:06:40  Exemples d'obstacles\n-dépendance externe via lien : continuité et disponibilité\n-confidentialité\n-goulots de transfert vers/depuis le Cloud\n09 50   Critères d'évaluation\n- ressources offertes\n-niveau de virtualisation / abstraction\n-généricité / flexibilité\n- prise en main\n-faciliter de la migration vers le cloud\n-scaling\n-intégration\n-standardisation\n-réversibilité (passage entre clouds, retour on-premise)\n-interopérabilité\n-SLA (Service Level Agreement)\n-redondance\n-sécurité\n-facturation\n00:13:10  Modèles de déploiement\n00:15:19  Caractéristiques de AWS \uD83E\uDDE0\n-Initialement IaaS (serveurs virtuels et stockage)\n-Progressivement PaaS : service managés\n-bon outils de monitoring\n-enrichissement constant\n00:16:44  Aperçu des composants de AWS \uD83E\uDDE0\n-allocation de serveurs virtuels à la demande\n-stockage de données\n- bus de messages\n-etc.\n00:18:00  S3 : stockage à haute disponibilité, très flexible\n00:18:35  Synthèse des concepts AWS \uD83E\uDDE0\uD83E\uDDE0\n00:20:01  Google Cloud Platform : propose beaucoup d'API \uD83E\uDDE0\uD83E\uDDE0\n00:21:50  Google App Engine : PaaS de très haut niveau, très managé, mais dépendant de Google \uD83E\uDDE0\uD83E\uDDE0\n00:25:19  Azure : IaaS et PaaS. Spécialité : conformité juridique \uD83E\uDDE0\uD83E\uDDE0\n00:27:20  Comparaison \uD83E\uDDE0\uD83E\uDDE0\n00:29:24  OVH : Europe, Opensource, compatible OpenStack\n00:29:24  OVH : le moins cher également\n00:34:00  Logiciel Cloud (on-premise)\n00:34:30  Apache CloudStack \uD83E\uDDE0\uD83E\uDDE0\n-IaaS basé sur plusieurs hyperviseurs ou conteneurs\n-orchestrateur, gestion de comptes, de ressources, ...\n00:35:10  Capture de l'interface d'administration\n00:36:22  OpenStack comme CloudStack, modulaire et libre avec écosystème varié\n00:37:44  Composants d'Openstack \uD83E\uDDE0\uD83E\uDDE0\nService Cloud : fourni les ressources Cloud, ne pas confondre avec un microservice! \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\nVM au centre, mais nombreux services orchestrés autour \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\n00:42:37  Comparaison services Cloud OpenStack/AWS \uD83E\uDDE0\uD83E\uDDE0\n00:43:40  Eucalyptus, Logiciel Cloud intégré à Ubuntu \uD83E\uDDE0\uD83E\uDDE0\n00:46:25  Plateforme de gestion de Cloud (SMP) : gestion unifiée de services cloud",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-14T15:41:15.232399847Z",
+    "quality" : "LOW"
+  }
+}

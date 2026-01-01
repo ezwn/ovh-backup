@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU0400",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architectes",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Principaux types d’architectes IT :\n* **Architecte logiciel** : conçoit la structure interne d’une application logicielle.\n* **Architecte de solution** : orchestre l’ensemble des composants techniques et fonctionnels d’une solution pour répondre à un besoin métier.\n* **Architecte cloud** : conçoit et met en œuvre des infrastructures cloud scalables, sécurisées et résilientes.\n* **Architecte data** : définit l’organisation, la circulation et la gouvernance des données au sein du système d’information.\n* **Architecte sécurité** : élabore les architectures sécurisées en intégrant les principes de confidentialité, intégrité et disponibilité.\n* **Architecte d’entreprise** : aligne la stratégie métier avec les capacités du système d’information à travers une vision globale et cohérente.\n* **Architecte métier** : modélise les objectifs et processus métier pour garantir leur cohérence et leur transformation efficace.\n* **Architecte fonctionnel** : conçoit les fonctionnalités des systèmes en s’assurant qu’elles répondent aux besoins métier, sans entrer dans la technique.\n* **Architecte applicatif** : structure les différentes applications du système d’information et définit leurs interactions.\n* **Architecte technique** : définit l’architecture des couches techniques (réseaux, serveurs, conteneurs, middleware) assurant le bon fonctionnement des solutions.\n\nStep 1 :\n* **Architecte logiciel** : conçoit la structure interne d’une application logicielle.\n* **Architecte de solution** : orchestre l’ensemble des composants techniques et fonctionnels d’une solution pour répondre à un besoin métier.\n* **Architecte applicatif** : structure les différentes applications du système d’information et définit leurs interactions.\n* **Architecte technique** : définit l’architecture des couches techniques (réseaux, serveurs, conteneurs, middleware) assurant le bon fonctionnement des solutions.\n\n* **Architecte cloud** : conçoit et met en œuvre des infrastructures cloud scalables, sécurisées et résilientes.\n* **Architecte data** : définit l’organisation, la circulation et la gouvernance des données au sein du système d’information.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.994798434Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "5k97c5yw3n0ghywimndvtv",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Actifs à sécuriser",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Actifs à sécuriser\n\n~? Classes d'actifs à sécuriser :\n- **données** (chiffrement, sauvegarde)\n- application\n- système d'exploitation\n- **réseau interne** (cloisonnement)\n- périmètre\n- **matériel**, **locaux**\n- personnes\n- le **facteur humain** (**stratégies**, **sensibilisation**, **procédures**)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-20T05:14:38.744449289Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "2qnb5xts6x4vm8sr33w640",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Compétences et budget collectivités territoriales",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Compétences et budget collectivités territoriales\n\n~? **Compétences** des **communes** :\nelles sont **diverses** :\nle conseil **règle** les **affaires** de la **commune** (CGCT)\n\n~? **Postes budgétaires** des **blocs communaux** :\n- **culture**, **vie sociale**, **sport**, **jeunesse** 13 %\n- **transports**, **routes**, **voirie** 12 %\n- **aménagement** des territoire et **habitat** 10 %\n- **enseignement**, **formation** 10 %\n- **propreté** urbaine 9 %\n- **santé** et **action sociale** 8 %\n- gestion des **eaux**\n\n~? **Compétences** des **départements** :\nelles sont **attribuées** **par** la **loi** :\n- **prévention** fragilité et **autonomie** des personnes\n- développement social\n- accès au droit\n- **accès** aux **soins** de proximité\n\n~? **Postes budgétaires** des **départements** :\n- **action sociale**, dont **RSA** 60 %\n- **route** et **voirie**\n- collèges\n- **incendies** et **secours**\n\n~? **Compétences** des **régions** :\nelles sont **attribuées** **par** le **CGCT** :\n- développement\n- logement\n- rénovation\n- éducation\n\n~? Postes **budgétaires** des **régions** :\n- **transport** (investissement et fonctionnement) : 35 %\n- **lycées** : 18 %\n- **formation professionnelle**, **sociale** et **sanitaire** : 11 %\n- gestion des **fonds européens** 7 %\n- **autres** : 29 %\n\n~? **Variable** d'**ajustement** **budgétaire** des CT :\n- investissement local",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "CGCT" : "Code Général des Collectivités Territoriales",
+        "CT" : "Collectivités Territoriales"
+      },
+      "sttMapping" : {
+        "Code Général des Collectivités Territoriales" : "CGCT",
+        "collectivités territoriales" : "CT"
+      },
+      "tooltips" : {
+        "CGCT" : "Code Général des Collectivités Territoriales",
+        "CT" : "Collectivités Territoriales"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-24T18:59:05.414166026Z",
+    "quality" : "LOW"
+  }
+}

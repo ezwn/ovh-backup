@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "hf57rzlmyi3ppj49z347q0",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Facteurs de la croissance",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Facteurs de la croissance\n\n~? **Facteurs** de la **croissance** économique à **court terme** :\n- la **variation de** la **consommation** (**accélérateur d'investissement**)\n- l'**investissement** (**multiplicateur du revenu**)\n- les **exportations**\n- la **politique économique** (budgétaire et monétaire)\n\n~? Principe des **rendements factoriels décroissants** en économie :\nl'**accumulation** de **capital** et de **travail** **augmente de moins en moins** la **production**\n\n~? **Facteur** déterminant la **croissance** à **long terme** en économie :\n- **augmentation** de la **productivité** des facteurs, c'est à dire **progrès techniques**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-07T18:47:23.423183074Z"
+  }
+}

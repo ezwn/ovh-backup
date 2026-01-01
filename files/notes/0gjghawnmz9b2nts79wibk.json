@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "0gjghawnmz9b2nts79wibk",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 4 : Internet",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 4 : Internet\n\n00:00:57  Histoire\n00:10:42  Concepts de base \uD83D\uDD0D\n00:11:54  Réseau des réseaux, LANs, WANs, types de circuits \uD83D\uDD0D\n13 50",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-25T06:01:50.694707361Z",
+    "quality" : "LOW"
+  }
+}

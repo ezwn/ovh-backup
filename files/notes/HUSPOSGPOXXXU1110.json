@@ -1,0 +1,50 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU1110",
+  "content" : {
+    "domain" : "GEOPOLITICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théories des relations internationales",
+      "description" : "Pour garder durablement à l'esprit les trois principales approches des relations internationales.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Théories des relations internationales\n\n~? 3 **principales théories** des **relations internationales** :\n**réalisme**, **libéralisme** et **constructivisme**\n\n##% Nature des relations internationales\n\n~? **Nature des relations** internationales selon le **réalisme** :\n- **rapports de puissance** **entre États**\n- **garder le pouvoir**, **augmenter le pouvoir**, **afficher le pouvoir**\n\n~? **Nature des relations** internationales selon le **libéralisme** :\n- **coopération** et **échanges** **entre États**, **guerre en ultime recours**\n- les **institutions internationales** sont là **pour défendre les intérêts communs**\n\n~? **Nature des relations** internationales selon le **constructivisme** :\n- rapports **dictés par** l'**identité** et les **représentations** des états\n- exemple : **choix** des **alliés**, **rivaux** et **ennemis**\n\n##% Fondements de la paix et de la stabilité\n\n~? **Fondements de** la **paix** et de la **stabilité** pour le **réalisme** :\n- **équilibre des puissances** ou **hégémonie**\n\n~? **Fondements de** la **paix** et de la **stabilité** pour le **libéralisme** :\n- **interdépendance** et **intégration**\n\n~? **Fondements de** la **paix** et de la **stabilité** pour le **constructivisme** :\n- **équilibre des puissances**, **intégration**, **coopération culturelle**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Theories of International Relations",
+      "description" : "",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "#Theories of International Relations\n\n~?Three main theories of international relations:\n**realism**, **liberalism** and **constructivism**\n\n##% Nature of International Relations\n\n~?Nature of international relations according to realism:\n- **power relations** **between states**\n- **keep power**, **increase power**, **demonstrate power**\n\n~?Nature of international relations according to liberalism:\n- **cooperation** and **exchanges** **between states**, **war as a last resort**\n- **international institutions** are there **to defend common interests**\n\n~?Nature of international relations according to constructivism:\n- relations **dictated by** the **identity** and **representations** of states\n- example: **choice** of **allies**, **rivals** and **enemies**\n\n##% Foundations of Peace and Stability\n\n~?Foundations of peace and stability for realism:\n- **balance of power** or **hegemony**\n\n~?Foundations of peace and stability for liberalism:\n- **interdependence** and **integration**\n\n~?Foundations of peace and stability for constructivism:\n- **balance of power**, **integration**, **cultural cooperation**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Theorien der internationalen Beziehungen",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "#Theorien der internationalen Beziehungen\n\n~?Drei Haupttheorien der internationalen Beziehungen:\n**Realismus**, **Liberalismus** und **Konstruktivismus**\n\n##% Natur der internationalen Beziehungen\n\n~?Natur der internationalen Beziehungen nach dem Realismus:\n- **Machtverhältnisse** **zwischen Staaten**\n- **Macht erhalten**, **Macht vergrößern**, **Macht demonstrieren**\n\n~?Natur der internationalen Beziehungen nach dem Liberalismus:\n- **Zusammenarbeit** und **Austausch** **zwischen Staaten**, **Krieg als letztes Mittel**\n- die **internationalen Institutionen** existieren **zum Schutz gemeinsamer Interessen**\n\n~?Natur der internationalen Beziehungen nach dem Konstruktivismus:\n- Beziehungen **bestimmt durch** die **Identität** und die **Vorstellungen** der Staaten\n- Beispiel: **Wahl** der **Verbündeten**, **Rivalen** und **Feinde**\n\n##% Grundlagen von Frieden und Stabilität\n\n~?Grundlagen von Frieden und Stabilität für den Realismus:\n- **Machtgleichgewicht** oder **Vormachtstellung**\n\n~?Grundlagen von Frieden und Stabilität für den Liberalismus:\n- **Wechselbeziehungen** und **Integration**\n\n~?Grundlagen von Frieden und Stabilität für den Konstruktivismus:\n- **Machtgleichgewicht**, **Integration**, **kulturelle Zusammenarbeit**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T11:19:36.355692674Z",
+    "quality" : "MEDIUM"
+  }
+}

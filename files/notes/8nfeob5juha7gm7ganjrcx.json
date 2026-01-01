@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "8nfeob5juha7gm7ganjrcx",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Monopole",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Monopole\n\n~? **Conditions** définissant la situation de **monopole** :\n- il n'y a qu'**une seule entreprise sur un marché**\n- il n'y a **pas de substitut** **parfait** **au produit**\n\n~? **Pouvoir** et **limites du pouvoir** de l'entreprise en **situation de monopole** :\n- elle est **faiseuse de prix**, **en choisissant** la **quantité produite**\n- mais elle **doit baisser** le **prix** **pour** **vendre plus**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-25T17:38:31.224361096Z"
+  }
+}

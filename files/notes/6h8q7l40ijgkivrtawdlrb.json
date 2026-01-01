@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "6h8q7l40ijgkivrtawdlrb",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Évaluations des LLM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Évaluations des LLM\n\nCritères d'évaluation des réponses :\n- diversité\n- cohérence\n- véracité\n- sécurité\n- biais\n\nDéfaut des réponses :\n- hallucinations\n- biais\n- manque de sens\n- génération incohérente\n\nPrincipes d'évaluation :\n- utiliser plusieurs types d’évaluations\n- contextualiser au domaine d’usage\n- LLM-as-Judge : calibrer (prompts diversifiés, vérification manuelle, analyses d’incertitude, etc.)\n- prendre en compte tous les critères pas seulement la similarité avec un texte de référence\n- être conscient de l’indétermination des tâches\n\nTechniques :\n- LLM-as-Judge (calibré)\n- Évaluation humaine structurée\n- Benchmarks variés et non saturés\n- Évaluations spécifiques au domaine\n- Robustesse / adversarial testing\n- Tests de factualité / hallucination\n- Évaluations continues basées sur l’usage réel\n- Prise en compte de l’incertitude / multiplicité des bonnes réponses",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-07T14:09:50.078899931Z",
+    "quality" : "LOW"
+  }
+}

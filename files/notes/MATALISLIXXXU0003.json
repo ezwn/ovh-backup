@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0003",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Couvert par des quiz.",
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Opérateurs de l'algorithme de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour obtenir une matrice échelonnée réduite par l'algorithme de Gauss-Jordan, on peut :\npermuter des lignes,\nmultiplier une ligne par un scalaire non nul,\net ajouter un multiple d'une ligne à une autre.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Opérateurs de l'algorithme de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "To obtain a reduced row echelon matrix using the Gauss-Jordan algorithm, one can:\nswap rows,\nmultiply a row by a non-zero scalar,\nand add a multiple of one row to another.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Opérateurs de l'algorithme de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Um eine reduzierte Stufenmatrix durch den Gauss-Jordan-Algorithmus zu erhalten, kann man:\nZeilen vertauschen,\neine Zeile mit einem von Null verschiedenen Skalar multiplizieren,\nund ein Vielfaches einer Zeile zu einer anderen hinzufügen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Opérateurs de l'algorithme de Gauss-Jordan [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "為了通過高斯-喬丹算法得到一個簡約的階梯矩陣，我們可以：\n對行進行互換，\n將一行乘以一個非零標量，\n並將一行的倍數加到另一行。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.223374264Z",
+    "quality" : "LOW"
+  }
+}

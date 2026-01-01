@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATCMBXXXXXXU0200",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Coefficient binomiaux [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Le coefficient binomial $$n \\choose k$$ représente le nombre\nde sous-ensembles de taille $$k$$ que l'on peut former à partir d'un ensemble de $$n$$ éléments.\n\nIl est égal à :\n$$n$$ factorielle sur $$k$$ factorielle fois $$n-k$$ factorielle.\n~$$\\frac{n!}{k!(n - k)!}$$",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Coefficient binomiaux [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Der Binomialkoeffizient „N über K“ repräsentiert\ndie Anzahl der ungeordneten Mengen der Größe K,\ndie aus einer Menge von N Elementen gebildet werden können.\n\nEr ist gleich\nN Fakultät geteilt durch, in Klammern, K Fakultät mal N minus K Fakultät.\n~n!/(k!*(n-k)!)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.944687163Z",
+    "quality" : "LOW"
+  }
+}

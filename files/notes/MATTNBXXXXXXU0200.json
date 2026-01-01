@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATTNBXXXXXXU0200",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Source: https://www.youtube.com/watch?v=hPTUq6b7YWA",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Équation diophantienne",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Les équations diophantiennes sont de la forme :\nA fois X plus B fois Y égal C,\n~$$a*x + b*y = c$$,\noù A, B et C sont des entiers.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Équation diophantienne",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Diophantine equations are of the form:\nA times X plus B times Y equals C,\n~$$a*x + b*y = c$$,\nwhere A, B, and C are integers.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Équation diophantienne",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Diophantische Gleichungen sind von der Form:\nA mal X plus B mal Y gleich C,\n~$$a*x + b*y = c$$,\nwobei A, B und C ganze Zahlen sind.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.132519891Z",
+    "quality" : "LOW"
+  }
+}

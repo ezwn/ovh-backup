@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOFDEVXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Réflexions sur le développement logiciel",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Réflexions sur le développement logiciel\n\n### Spécialisation des membres de l'équipe\n\n- entre tout le monde doit tout faire et chacun est expert de son domaine.\n\nune procédure au moins définir son but ou il doit être déductible de son contenu (cf. release duties for AW)\n\nanalyser les poste, lister les actions, créer des prodécures. Exemple: autoriser un service à accéder à un stream kafka. Comment ça marche dans mon entreprise. Maintenir ces procédure. Définir leurs dépendance pour détecter quand elles sont obsolètes\n\n## [Information sources](note::PERSOFDEVXXXU0305)\n\n## Tests d'environnement\n\nDes tests avant les tests qui vérifient que l'environnement est configuré de façon compatible :\n\n- version des dépendances\n- configmaps\n- disponibilité des services\n\n## [Paradigmes et concurrence](note::COSSDECODDESU0010)\n\n## [Valeurs d'un système de production logicielle](note::PERSOFDEVXXXU0100)\n\n## [Release et livraison](note::PERSOFDEVXXXU0300)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Réflexions sur le développement logiciel",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Réflexions sur le développement logiciel",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.091839487Z",
+    "quality" : "LOW"
+  }
+}

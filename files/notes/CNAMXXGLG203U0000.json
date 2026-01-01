@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "CNAMXXGLG203U0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "GLG203 (sommaire)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# GLG203\n\n## [Spring](note::COSSDECODJSPU0000)\n\n## [Conception logicielle](note::COSSDECODDESU0000)\n\n## [Java](note::COSSDECODJAVU0000)\n\n# Point actuel\n\n- Récupérer et analyser les exemples ici : https://gitlab2.cnam.fr/glg203_204_demos/\n\n- Récupérer les powerpoints et les analyser",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.406560633Z",
+    "quality" : "LOW"
+  }
+}

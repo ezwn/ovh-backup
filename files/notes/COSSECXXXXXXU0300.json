@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSECXXXXXXU0300",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Détection des intrusions et surveillance",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Détection des intrusions et surveillance\n\n## Antivirus de messagerie\n\n~? Fonctionnements possibles des antivirus de messagerie :\n- détection de signature\n- bac à sable (ouvrir la pièce jointe dans un bac à sable)\n- analyse de comportement de la machine\n\n## Détecteur d'intrusion\n\n~? Fonctionnements possibles des détecteurs d'intrusion (IDS) :\nDétection de motifs anormaux dans les transmissions réseau :\n- grâce à des règles\n- grâce à des statistiques\n- grâce à du machine learning\n\nNetwork IDS\n\nHost IDS = sur un poste, ex: base de données\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-26T14:22:36.316114239Z",
+    "quality" : "LOW"
+  }
+}

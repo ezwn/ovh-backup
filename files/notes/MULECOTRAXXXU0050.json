@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MULECOTRAXXXU0050",
+  "content" : {
+    "domain" : "ECOLOGICAL_TRANSITIONS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Équation de Kaya",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Qui a proposé une équation pour représenter les facteurs d'émission de CO2 ?\nL'économiste japonais Kaya.\n\n~?En quelle année ?\nEn 1993.\n\n?Selon cette équation, les émissions de CO2 correspondent au produit de...\nla population,\nl'activité économique,\nl'intensité énergétique de l'économie,\net l'intensité en CO2 de l'énergie.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Équation de Kaya",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?Who proposed an equation to represent the factors of CO2 emissions?\nThe Japanese economist Kaya.\n\n~?In which year?\nIn 1993.\n\n?According to this equation, CO2 emissions correspond to the product of...\nthe population,\nthe economic activity,\nthe energy intensity of the economy,\nand the carbon intensity of the energy.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Équation de Kaya",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "?Wer hat eine Gleichung vorgeschlagen, um die Faktoren der CO2-Emissionen darzustellen ?\nDer japanische Ökonom Kaya.\n\n~?In welchem Jahr ?\nIm Jahr 1993.\n\n?Laut dieser Gleichung entsprechen die CO2-Emissionen dem Produkt aus...\nder Bevölkerung,\nder wirtschaftlichen Aktivität,\nder Energieintensität der Wirtschaft,\nund der CO2-Intensität der Energie.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Équation de Kaya",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "?谁提出了一个方程来表示CO2排放因素？\n日本经济学家茅野。\n\n~?是哪一年？\n1993年。\n\n?根据这个方程，CO2的排放相当于以下因素的乘积：\n人口、\n经济活动、\n经济的能源强度、\n以及能源的CO2强度。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.516649824Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ORIXXXXXXXXXU5000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modélisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "\n# Modélisation\n\nVoici un programme de formation en modélisation :\n\n### \uD83C\uDFAF **Phase 1 : Fondations cognitives (4 à 6 semaines)**\nObjectif : poser les bases formelles, variées mais interconnectées.\n\n#### Semaine 1 : Logique & Systèmes\n- Logique propositionnelle (opérateurs, tableaux de vérité)\n- Introduction aux systèmes : notion de **système**, **frontière**, **entrée/sortie**\n- Lecture active sur rétroaction et causalité (diagrammes simples)\n\n#### Semaine 2 : Mathématiques & Méthodologie\n- Algèbre linéaire : vecteurs, combinaisons linéaires\n- Méthodologie : qu’est-ce qu’un **modèle**, différence entre **explication** et **prédiction**\n- Étude de cas : modèle linéaire simple en économie ou écologie\n\n#### Semaine 3 : Probabilités & Validation\n- Probabilités de base (événements, indépendance, loi de probabilité)\n- Falsifiabilité, robustesse des modèles\n- Atelier : critique d’un modèle existant (ex. : modèle épidémique)\n\n#### Semaine 4 : Systèmes dynamiques & Équations différentielles\n- Boucles de rétroaction + stabilité\n- Équations différentielles simples (ex : croissance exponentielle)\n- Mini-simulation sous Python ou Scilab\n\n---\n\n### \uD83E\uDDEA **Phase 2 : Premiers modèles en pratique (4 à 6 semaines)**\nObjectif : manipuler concrètement des modèles, avec diversité disciplinaire.\n\n#### Semaine 5 : Modèles de population\n- Lotka-Volterra, Malthus, logistique\n- Mise en équation + simulation Python\n- Lecture parallèle sur les systèmes socio-écologiques\n\n#### Semaine 6 : Multi-agents 1\n- Concepts de base (agents, règles locales, émergence)\n- Prise en main de NetLogo : modèle de fourmis ou de marché\n\n#### Semaine 7 : Multi-agents 2 + Sciences sociales\n- ABM appliqué à un modèle social simple (ex. : Schelling)\n- Initiation aux **cartes causales** et **boucles de rétroaction sociales**\n\n#### Semaine 8 : Modélisation économique\n- Micro-économie : offre/demande, équilibre\n- Théorie des jeux : dilemme du prisonnier\n- Petit modèle interactif avec payoff matrix ou Nash en Python\n\n---\n\n### \uD83D\uDD2C **Phase 3 : Approfondissements & intégration (4 à 6 semaines)**\nObjectif : croiser les outils, explorer la modélisation avancée.\n\n#### Semaine 9 : Simulation numérique continue/discrète\n- Introduction à SciPy/Simulink pour modéliser un réservoir ou un stock\n- Comparaison avec ABM pour un même phénomène\n\n#### Semaine 10 : Réduction & complexité\n- Modèles simples vs complexes\n- Atelier : réduire un modèle à l’essentiel\n\n#### Semaine 11 : Apprentissage machine\n- Modélisation inductive vs déductive\n- Cas pratique : régression ou classification sur données environnementales\n\n#### Semaine 12 : Systèmes complexes & interdisciplinarité\n- Panarchy, résilience, tipping points\n- Intégration : concevoir un petit modèle hybride (ABM + règles globales)\n\n---\n\n### \uD83D\uDD01 **Cycle long : consolidation et diversification**\n- **1 jour/semaine** : retour sur un concept fondamental ou lecture critique\n- **1 micro-projet toutes les 3 semaines** : simuler un phénomène réel, le documenter, l'expliquer\n\n## Contenu\n\n### \uD83E\uDDF1 **Fondations transversales à toutes les disciplines**\n1. **Logique et mathématiques**\n- Logique propositionnelle et du premier ordre\n- Algèbre linéaire (vecteurs, matrices, espaces)\n- Probabilités et statistiques\n- Équations différentielles (modèles dynamiques)\n\n2. **Théorie des systèmes**\n- Systèmes dynamiques\n- Boucles de rétroaction, causalité, stabilité\n- Modélisation qualitative vs quantitative\n\n3. **Méthodologie scientifique**\n- Construction d’hypothèses\n- Validation de modèles (falsifiabilité, robustesse)\n- Réduction et complexité des modèles\n\n---\n\n### \uD83E\uDDE0 **Modélisation computationnelle et simulation**\n1. **Modélisation multi-agents (ABM)**\n- Très utilisée en socio-économie, écologie, épidémiologie\n- Librairies : NetLogo, Mesa (Python), Repast\n\n2. **Systèmes dynamiques et simulation numérique**\n- Outils : MATLAB/Simulink, Scilab, Julia, Python (SciPy)\n- Modèles en temps continu ou discret\n\n3. **Apprentissage machine comme modélisation inductive**\n- Réseaux de neurones, arbres de décision, SVM\n- Utile pour la modélisation de phénomènes complexes sans équation explicite\n\n---\n\n### \uD83C\uDF0D **Modélisation dans les sciences économiques, écologiques et humaines**\n1. **Économie**\n- Modèles micro/macros, optimisation, théorie des jeux\n- Outils : R, Python, Dynare, GAMS\n\n2. **Écologie & systèmes complexes**\n- Modèles de population (Lotka-Volterra, etc.)\n- Systèmes socio-écologiques (panarchy, résilience)\n\n3. **Sciences sociales**\n- Modélisation qualitative (cartes conceptuelles, causal loop diagrams)\n- Simulation sociale, ethnométhodologie augmentée\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.429260952Z",
+    "quality" : "LOW"
+  }
+}

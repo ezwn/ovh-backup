@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYHYPXXXU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Auto-hypnose",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Auto-hypnose\n\nNiveau 3 :\n- je m'arrête\n- j'observe mon état extérieur, et intérieur\n- je prend conscience de ma respiration\n\nNiveau 2 :\n- je me concentre sur ma voix intérieure\n- le reste n'a plus d'importance\n- je relâche mon emprise\n- et je laisse le monde partir, loin, toujours plus loin\n- et il ne reste que la tiédeur et la détente\n- et ma voix qui me parle\n\nNiveau 1 :\n- même ce monde intérieur se détend\n- mes pensée coulent librement\n\nNiveau 0 :\n- détente complète\n- attention totalement focalisée sur ma voix\n- sérénité et bien-être\n\nNiveau -1a : diagnostic\n- accès aux connaissances inconscientes\n- accès aux traitements inconscients\n\nNiveau -1b : reprogrammation\n- suggestibilité accrue\n\nNiveau -1c : auto-réparation\n- réduction du stress\n- rééquilibrage chimique\n- amélioration de la réponse immunitaire\n\nNiveau -1d : performance\n- concentration extrême sur la tâche\n- optimisation de la vitesse de traitement",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T18:04:55.005378736Z"
+  }
+}

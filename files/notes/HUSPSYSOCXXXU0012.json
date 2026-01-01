@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0012",
+  "content" : {
+    "domain" : "SOCIAL_PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Soi social",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Soi social\n\n~?Aspects du soi social :\n**représentation de soi**, **estime de soi** et **soi processus**\n\n~?Soi en tant que représentation mentale :\nconnaissance de nos propres caractéristiques\n\n~?Estime de soi :\nvaleur qu'on s'accorde à soi-même\n\n~?Mécanismes qui construisent le soi social :\n- perception de ce que les autres pensent de nous\n- auto-observation\n- comparaison à autrui\n\n~?Type de personnes auxquelles nous nous comparons et motivation associée :\n- **similaires à nous**, pour **savoir ce que nous valons**\n- **meilleures**, pour **nous améliorer**\n- **inférieures**, pour **augmenter notre estime de nous-même**\n\n~?Objectifs du soi en tant processus :\n- préserver une vision positive de soi\n- s'évaluer\n- rester cohérent\n- s'améliorer",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Social Self",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Social Self\n\n~?Aspects of the social self:\n**self-representation**, **self-esteem** and **self as process**\n\n~?Self as mental representation:\nknowledge of our own characteristics\n\n~?Self-esteem:\nvalue we accord to ourselves\n\n~?Mechanisms that build the social self:\n- perception of what others think of us\n- self-observation\n- comparison to others\n\n~?Type of people to whom we compare ourselves and associated motivation:\n- **similar to us**, to **know what we are worth**\n- **better**, to **improve ourselves**\n- **inferior**, to **increase our self-esteem**\n\n~?Objectives of the self as process:\n- preserve a positive vision of self\n- evaluate oneself\n- remain consistent\n- improve oneself",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Soziales Selbst",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Soziales Selbst\n\n~?Aspekte des sozialen Selbst:\n**Selbstdarstellung**, **Selbstwertgefühl** und **Selbst als Prozess**\n\n~?Selbst als mentale Repräsentation:\nKenntnis unserer eigenen Merkmale\n\n~?Selbstwertgefühl:\nWert, den man sich selbst zuschreibt\n\n~?Mechanismen, die das soziale Selbst formen:\n- Wahrnehmung dessen, was andere über uns denken\n- Selbstbeobachtung\n- Vergleich mit anderen\n\n~?Art der Personen, mit denen wir uns vergleichen, und damit verbundene Motivation:\n- **ähnlich wie wir**, um **zu wissen, was wir wert sind**\n- **besser**, um **uns zu verbessern**\n- **unterlegen**, um **unser Selbstwertgefühl zu steigern**\n\n~?Ziele des Selbst als Prozess:\n- ein positives Selbstbild bewahren\n- sich selbst bewerten\n- Kohärenz wahren\n- sich verbessern",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T17:47:11.238409152Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGRELXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Relations binaires",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Relations binaires\n\n## FOCUS\n\n### Cours NA : 1:10:00 (minorant)\n\n### Exercices NA : exercice 2\n\n## Unités\n\n### [Relation binaire](note::MATLOGRELXXXU0001)\n\n### [Relation d'équivalence](note::MATLOGRELXXXU0015)\n\n### [Classe d'équivalence](note::MATLOGRELXXXU0018)\n\n### [Relation anti-symétrique](note::MATLOGRELXXXU0030)\n\n### [Relation d'ordre](note::MATLOGRELXXXU0035)\n\n### [Diagramme de Hasse](note::MATLOGRELXXXU0040)\n\n### [Ordre total et partiel](note::MATLOGRELXXXU0045)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Relations binaires",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Relations binaires",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.119591261Z",
+    "quality" : "LOW"
+  }
+}

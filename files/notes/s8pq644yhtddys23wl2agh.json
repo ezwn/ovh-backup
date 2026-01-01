@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "s8pq644yhtddys23wl2agh",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "vidéo 4b",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# vidéo 4b\n\n[niveau de sécurité = logarithme en base 2 du nombre de tentatives à effectuer](video:: utc505-04b;00:00:03)\n[La probabilité en une tentative et la moyenne pour 50% de chances sont intéressantes](video:: utc505-04b;00:01:21)\n[ce que représente le niveau de sécurité](video:: utc505-04b;00:01:41)\n[Depuis 1997, le niveau de sécurité augmente. Au début il était craqué](video:: utc505-04b;00:03:16)\n[Clé de 72 bits depuis 2002, invaincues par le grand public](video:: utc505-04b;00:07:50)\n[En 2015, la NSA recommande AES 256](video:: utc505-04b;00:09:00)\n[Capacipté de crypanalyse en 2020 : 80 bits +/- 8](video:: utc505-04b;00:10:16)\n[Chiffrages historiques](video:: utc505-04b;00:10:59)\n[Chiffre de Jules César](video:: utc505-04b;00:11:55)\n[Chiffre de Jules César paramétrique et clé faible, semi-faible ★](video:: utc505-04b;00:15:16)\n[Monoalphabétique : substitution des lettres selon une clé](video:: utc505-04b;00:20:32)\n[Analyse des fréquences (dans la langue et dans le cryptogramme)](video:: utc505-04b;00:25:04)\n[Indice de coïncidence (probabilité de tirer deux lettres identiques au hasard)](video:: utc505-04b;00:31:00)\nIl caractéristique d'une langue\n[Recherche de répétitions](video:: utc505-04b;00:39:00)\n[Conclusion sur la monoalphabétique](video:: utc505-04b;00:59:49)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        " utc505-04b" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-15T17:39:43.267109008Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6025",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Wiz-Team SA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "### \uD83E\uDDE0 Technologies utilisées\nLe produit phare de Wiz-Team est **Event-Works**, une plateforme SaaS modulaire et configurable conçue pour les professionnels de l'événementielCette solution couvre l'ensemble du cycle de vie d'un événement, incluant \n\n-L'accréditation et le contrôle d'accè\n-La gestion des inscriptions, des hébergements et des transport\n-La coordination des bénévoles et du personne\n-L'analyse des données et la génération de rapport\nBien que les détails techniques spécifiques ne soient pas publiquement disponibles, les compétences en **Java**, **React**, **Kafka**, **Docker** et **Kubernetes** semblent pertinentes pour leur environnement technologiqueUne expérience avec les architectures cloud et les systèmes distribués serait également un atout\n\n---\n\n### \uD83E\uDDED Culture d'entreprise et valeurs\nFondée en 2012, Wiz-Team est une entreprise indépendante qui valorise l'innovation, la flexibilité et l'efficacit. Elle collabore avec des organisations internationales majeures, notamment le Comité International Olympique, les Jeux du Commonwealth et les Jeux Paralympique. L'entreprise met l'accent sur:\n\nLa **sécurité des données** et la conformité au RGD\nL'**autonomisation des utilisateurs** grâce à des outils configurabls\nUne **approche centrée sur l'utilisateur** pour des solutions intuitivs\nAvec une équipe internationale et des bureaux en Suisse, Belgique, Italie, Ukraine et aux États-Unis, Wiz-Team offre un environnement multiculturel et dynamiqu.\n\n---\n\n### ✅ Conseils pour postuler\nVotre profil de développeur full-stack avec 20 ans d'expérience, notamment en Java, Spring, React, Kafka et Kubernetes, correspond bien aux besoins potentiels de Wiz-Tea. Votre expertise en architectures cloud, sécurité et gestion de projets techniques est également alignée avec leurs activité.\nPour postuler, vous pouvez:\n\nConsulter leur site officiel pour les opportunités actuelles : [wiz-team.com](https://wiz-team.com)\nEnvoyer une candidature spontanée à leur siège à Lausanne:\n\n**Wiz-Team SA**\nAv. de Rhodanie 58\n1007 Lausanne, Suisse\n+41 (0)21 311 77 37\n[info@wiz-team.com](mailto:info@wiz-team.co)\n\nSuivre leur page LinkedIn pour les mises à jour sur les postes disponibles : [Wiz-Team sur LinkedIn](https://ch.linkedin.com/company/wiz-tea)\nSi vous le souhaitez, je peux vous aider à rédiger un e-mail de candidature ou à adapter votre CV pour maximiser vos chance.\n\n---",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.158173185Z",
+    "quality" : "LOW"
+  }
+}

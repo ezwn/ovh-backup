@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0350",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dissonance cognitive",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# La **dissonance cognitive**.\n\n## C'**est**, selon Festinger en 1957,\n### un état de **tension désagréable**,\nressenti par une personne,\n### **quand** des **cognitions opposées** existent dans son esprit.\n\n## **Expérience** de **Festinger** en **1959**\nOn demande à des sujets de\n#### **convaincre** un complice **qu'une tâche ennuyeuse est intéressante**.\n#### On leur donne une **récompense**, soit de **1 dollar**, soit de **20 dollars**.\nA posteriori,\n#### les sujets qui **mentent pour peu** trouvent la **tâche plus intéressante**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Dissonance cognitive [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# **Cognitive dissonance**.\n\n## It **is**, according to Festinger in 1957,\n### a state of **unpleasant tension**,\nfelt by a person,\n### **when** **opposing cognitions** exist in their mind.\n\n## **Experiment** by **Festinger** in **1959**\nSubjects are asked to\n#### **convince** an accomplice that a **boring task is interesting**.\n#### They are given a **reward**, either **1 dollar** or **20 dollars**.\nIn hindsight,\n#### subjects who **lie for little** find the **task more interesting**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Dissonance cognitive [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Die **kognitive Dissonanz**.\n\n## **Das** ist, laut Festinger im Jahr 1957,\n### ein Zustand der **unangenehmen Spannung**,\nden eine Person verspürt,\n### **wenn** **widersprüchliche Kognitionen** in ihrem Geist existieren.\n\n## **Experiment** von **Festinger** im Jahre **1959**\nMan fordert die Probanden auf,\n#### **einen Komplizen zu überzeugen**, **dass eine langweilige Aufgabe interessant ist**.\n#### Man gibt ihnen eine **Belohnung**, entweder **einen Dollar** oder **20 Dollar**.\nIm Nachhinein,\n#### finden die Probanden, die **für wenig lügen**, die **Aufgabe interessanter**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Dissonance cognitive [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# **认知失调**\n\n## 根据Festinger在1957年的理论，\n### 这是一个**令人不快的紧张状态**，\n由一个人感受到，\n### **当** 在他的大脑中存在**相互矛盾的认知时**。\n\n## **Festinger**在**1959年**的**实验**\n实验要求一些被试者\n#### **说服** 配合者 **一项无聊的任务是有趣的**。\n#### 他们得到了一定的**奖励**，即**1美元**或**20美元**。\n事后，\n#### 说**少量谎言**的被试者认为**任务更有趣**。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.201748708Z",
+    "quality" : "LOW"
+  }
+}

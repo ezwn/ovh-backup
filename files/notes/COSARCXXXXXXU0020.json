@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0020",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "REST et WebSockets",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# REST et WebSockets\n\n%## REST\n\n?~Quatre niveaux du modèle de maturité de Richardson :\n- utiliser **HTTP**\n- **notion de resource** (et non d'opération)\n- utiliser les méthodes de manière cohérente\n- hypermedia controls\n\n?~RestFull veut dire :\nqui **respecte REST**\n\n?~Fondements :\n- protocole **HTTP** et ses **operations**\n- l'**URL permet d'accéder à une ressource**\n- un **langage de représentation**, comme XML ou JSON\n\n?~Cacheabilité grâce à :\n- absence d'état\n- **date d'expiration** du contenu\n\n?~Niveau de cache :\n- serveur\n- navigateur\n- FAI\n- duplication de serveurs\n\n%## Websockets\n\n?~Websockets sont :\n- protocole bidirectionnel standardisée\n- plus léger que periodic pooling",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : "REST et WebSockets",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# REST et WebSockets\n\n%## REST\n\n?~Quels sont les quatre niveaux du modèle de maturité de Richardson ?\n- utiliser **HTTP**\n- **notion de resource** (et non d'opération)\n- utiliser les méthodes de manière cohérente\n- hypermedia controls\n\n?~Que signifie RestFull ?\nQui **respecte REST**\n\n?~Quels sont les fondements de REST ?\n- protocole **HTTP** et ses **operations**\n- l'**URL permet d'accéder à une ressource**\n- un **langage de représentation**, comme XML ou JSON\n\n?~Comment REST permet-il la cacheabilité ?\n- absence d'état\n- **date d'expiration** du contenu\n\n?~Quels sont les niveaux de cache possibles dans REST ?\n- serveur\n- navigateur\n- FAI\n- duplication de serveurs\n\n%## Websockets\n\n?~Que sont les Websockets ?\n- protocole bidirectionnel standardisée\n- plus léger que periodic pooling",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "REST und WebSockets",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# REST und WebSockets\n\n%## REST\n\n?~Welche sind die vier Ebenen des Richardson-Reifegradmodells?\n- Verwendung von **HTTP**\n- **Ressourcenkonzept** (und nicht Operation)\n- kohärente Verwendung der Methoden\n- Hypermedia-Steuerelemente\n\n?~Was bedeutet RESTful?\nWas **REST respektiert**\n\n?~Was sind die Grundlagen von REST?\n- **HTTP**-Protokoll und seine **Operationen**\n- die **URL ermöglicht den Zugriff auf eine Ressource**\n- eine **Darstellungssprache** wie XML oder JSON\n\n?~Wie ermöglicht REST Cachebarkeit?\n- Zustandslosigkeit\n- **Ablaufdatum** des Inhalts\n\n?~Welche Cache-Ebenen sind bei REST möglich?\n- Server\n- Browser\n- Internetanbieter\n- Serverduplizierung\n\n%## WebSockets\n\n?~Was sind WebSockets?\n- standardisiertes bidirektionales Protokoll\n- leichtgewichtiger als periodisches Abfragen",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.998219882Z",
+    "quality" : "LOW"
+  }
+}

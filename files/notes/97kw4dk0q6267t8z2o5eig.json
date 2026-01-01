@@ -1,0 +1,33 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "97kw4dk0q6267t8z2o5eig",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Outils de sécurité offensifs",
+      "description" : "Une liste d'outils de sécurité utilisés pour attaquer.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Outils de sécurité offensifs\n\n~? Exploit :\n**Programme** ou **fragment de code** **tirant parti** d'une **vulnérabilité**\npour **exécuter** des **actions non prévues** par le système.\n\n~? Keylogger :\nProgramme qui **enregistre** discrètement les **saisies** au **clavier** ou l'**écran**\n\n~? Virus :\nProgramme qui **se réplique**, **se propage**, **se dissimule**,\npuis est **piloté à distance**,\npour **voler** des **informations**,\nparticiper à des **attaques** **distribuées**,\nou **exploiter** les **ressources** à des fins malveillantes.\n\n~? Ver :\nvirus qui utilise une vulnérabilité **réseau** pour se **propager**.\n\n~? RAT :\nlogiciel permettant de contrôler secrètement un ordinateur à distance",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "RAT" : "Remote Access Trojan"
+      },
+      "sttMapping" : {
+        "Remote Access Trojan" : "RAT"
+      },
+      "tooltips" : {
+        "RAT" : "Remote Access Trojan"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-15T09:52:30.236843923Z",
+    "quality" : "LOW"
+  }
+}

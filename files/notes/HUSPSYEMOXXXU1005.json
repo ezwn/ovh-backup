@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU1005",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Intelligence Émotionnelle",
+      "description" : "Définitions de l'intelligence émotionnelle et de l'empathie.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^une intelligence // {\"headword\":\"intelligence\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^émotionnel // {\"headword\":\"émotionnel\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n^une intelligence émotionnelle // {\"headword\":\"intelligence émotionnelle\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"C1\"}\n# Intelligence Émotionnelle\n\n^une définition // {\"headword\":\"définition\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n~? Définition de l'**intelligence émotionnelle** :\n^une capacité // {\"headword\":\"capacité\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n^percevoir // {\"headword\":\"percevoir\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^comprendre // {\"headword\":\"comprendre\",\"category\":\"verb\",\"cefrLevel\":\"A1\"}\n^gérer // {\"headword\":\"gérer\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^exprimer // {\"headword\":\"exprimer\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^une émotion // {\"headword\":\"émotion\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n-**capacité** à **percevoir**, **comprendre**, **gérer** et **exprimer** ses **émotions**,\n-ainsi que **celles des autres**\n^résoudre // {\"headword\":\"résoudre\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^un problème // {\"headword\":\"problème\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^réguler // {\"headword\":\"réguler\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^un comportement // {\"headword\":\"comportement\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n-pour **résoudre** les **problèmes** et **réguler** les **comportements**\n\n^une empathie // {\"headword\":\"empathie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n~? Définition de l'**empathie** :\n^adopter // {\"headword\":\"adopter\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^une perspective // {\"headword\":\"perspective\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n-**capacité** à **adopter** la **perspective** de l'**autre**\n^un ressenti // {\"headword\":\"ressenti\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n-pour **percevoir** et **comprendre** **son ressenti**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Emotional Intelligence",
+      "description" : "..",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "^the intelligence // {\"headword\":\"intelligence\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n^emotional // {\"headword\":\"emotional\",\"category\":\"adjective\",\"cefrLevel\":\"B1\"}\n^the emotional intelligence // {\"headword\":\"emotional intelligence\",\"category\":\"noun\",\"cefrLevel\":\"C1\"}\n# Emotional Intelligence\n\n^the definition // {\"headword\":\"definition\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n~?Definition of **emotional intelligence**:\n^the ability // {\"headword\":\"ability\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^perceive // {\"headword\":\"perceive\",\"category\":\"verb\",\"cefrLevel\":\"C1\"}\n^understand // {\"headword\":\"understand\",\"category\":\"verb\",\"cefrLevel\":\"A2\"}\n^manage // {\"headword\":\"manage\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^express // {\"headword\":\"express\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^the emotion // {\"headword\":\"emotion\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n-**ability** to **perceive**, **understand**, **manage** and **express** one's **emotions**,\n-as well as **those of others**\n^solve // {\"headword\":\"solve\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^the problem // {\"headword\":\"problem\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^regulate // {\"headword\":\"regulate\",\"category\":\"verb\",\"cefrLevel\":\"C1\"}\n^the behavior // {\"headword\":\"behavior\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n-to **solve problems** and **regulate behaviors**\n\n^the empathy // {\"headword\":\"empathy\",\"category\":\"noun\",\"cefrLevel\":\"C1\"}\n~?Definition of **empathy**:\n^adopt // {\"headword\":\"adopt\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^the perspective // {\"headword\":\"perspective\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n-**ability** to **adopt the other person's perspective**\n^the feelings // {\"headword\":\"feelings\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\n-to **perceive** and **understand** **their feelings**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Emotionale Intelligenz",
+      "description" : "..",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^die Intelligenz // {\"headword\":\"Intelligenz\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n^emotional // {\"headword\":\"emotional\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n^die emotionale Intelligenz // {\"headword\":\"emotionale Intelligenz\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"C1\"}\n# Emotionale Intelligenz\n\n^die Definition // {\"headword\":\"Definition\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n~?Definition der **emotionalen** **Intelligenz**:\n^die Fähigkeit // {\"headword\":\"Fähigkeit\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^wahrnehmen // {\"headword\":\"wahrnehmen\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^verstehen // {\"headword\":\"verstehen\",\"category\":\"verb\",\"cefrLevel\":\"A1\"}\n^handhaben // {\"headword\":\"handhaben\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^ausdrücken // {\"headword\":\"ausdrücken\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^die Emotion // {\"headword\":\"Emotion\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n-**Fähigkeit**, die eigenen **Emotionen** zu **wahrnehmen**, **verstehen**, **handhaben** und **ausdrücken**,\n-sowie **die der anderen**\n^lösen // {\"headword\":\"lösen\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^das Problem // {\"headword\":\"Problem\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"A2\"}\n^regulieren // {\"headword\":\"regulieren\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^die Verhaltensweise // {\"headword\":\"Verhaltensweise\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n-um **Probleme zu lösen** und **Verhaltensweisen zu regulieren**\n\n^die Empathie // {\"headword\":\"Empathie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n~?Definition der **Empathie**:\n^einnehmen // {\"headword\":\"einnehmen\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^die Perspektive // {\"headword\":\"Perspektive\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n-**Fähigkeit**, **die Perspektive des anderen einzunehmen**\n^das Empfinden // {\"headword\":\"Empfinden\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"C1\"}\n-um **sein Empfinden** zu **wahrnehmen** und **verstehen**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "情绪智力",
+      "description" : "..",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^智力 // {\"headword\":\"智力\",\"category\":\"noun\",\"pinyin\":\"zhì lì\",\"cefrLevel\":\"B2\"}\n^一种情绪 // {\"headword\":\"情绪\",\"category\":\"noun\",\"pinyin\":\"qíng xù\",\"cefrLevel\":\"B1\",\"classifier\":\"种\"}\n^一种情绪智力 // {\"headword\":\"情绪智力\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"qíng xù zhì lì\",\"cefrLevel\":\"C1\"}\n# 情绪智力\n\n^一个定义 // {\"headword\":\"定义\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"dìng yì\",\"cefrLevel\":\"B2\"}\n~?情绪智力的定义：\n^一种能力 // {\"headword\":\"能力\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"néng lì\",\"cefrLevel\":\"B1\"}\n^感知 // {\"headword\":\"感知\",\"category\":\"verb\",\"pinyin\":\"gǎn zhī\",\"cefrLevel\":\"C1\"}\n^理解 // {\"headword\":\"理解\",\"category\":\"verb\",\"pinyin\":\"lǐ jiě\",\"cefrLevel\":\"B1\"}\n^管理 // {\"headword\":\"管理\",\"category\":\"verb\",\"pinyin\":\"guǎn lǐ\",\"cefrLevel\":\"B1\"}\n^表达 // {\"headword\":\"表达\",\"category\":\"verb\",\"pinyin\":\"biǎo dá\",\"cefrLevel\":\"B1\"}\n^一种情绪 // {\"headword\":\"情绪\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"qíng xù\",\"cefrLevel\":\"B1\"}\n-**能力**去**感知**、**理解**、**管理**和**表达**自己的**情绪**，\n-以及**他人的情绪**\n^解决 // {\"headword\":\"解决\",\"category\":\"verb\",\"pinyin\":\"jiě jué\",\"cefrLevel\":\"B1\"}\n^一个问题 // {\"headword\":\"问题\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"wèn tí\",\"cefrLevel\":\"A2\"}\n^调节 // {\"headword\":\"调节\",\"category\":\"verb\",\"pinyin\":\"tiáo jié\",\"cefrLevel\":\"B2\"}\n^一种行为 // {\"headword\":\"行为\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"xíng wéi\",\"cefrLevel\":\"B2\"}\n-以便**解决问题**和**调节行为**\n\n^一种共情 // {\"headword\":\"共情\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"gòng qíng\",\"cefrLevel\":\"C1\"}\n~?共情的定义：\n^采纳 // {\"headword\":\"采纳\",\"category\":\"verb\",\"pinyin\":\"cǎi nà\",\"cefrLevel\":\"B2\"}\n^一个视角 // {\"headword\":\"视角\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"shì jiǎo\",\"cefrLevel\":\"B2\"}\n-**能力**去**采纳他人的视角**\n^一种感受 // {\"headword\":\"感受\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"gǎn shòu\",\"cefrLevel\":\"B1\"}\n-以便**感知**和**理解****他人的感受**。",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-31T16:51:12.674279653Z",
+    "quality" : "MEDIUM"
+  }
+}

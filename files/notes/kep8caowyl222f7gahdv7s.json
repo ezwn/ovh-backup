@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "kep8caowyl222f7gahdv7s",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modélisation des menaces",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modélisation des menaces\n\n~? **Modélisation** des **menaces** :\n**étude** systématique des **possibilités d'attaquer** une **application**\n\n~? **3 approches** de la **modélisation** des **menaces** :\n- **centrée** sur les **attaquants**\n- **centrée** sur les **actifs**\n-**centrée** sur les **applications**\n\n~? **Niveaux** d'**analyse** de l'**approche** de **modélisation** des **menaces** **centrée sur** les **attaquants** :\n- **motifs** des attaquants\n-**moyens** à leur disposition\n- **opportunités** d'attaque\n\n~? **Niveaux d'analyse** de l'**approche de modélisation des menaces** **centrée sur** les **actifs** :\n-les **actifs**\n-les **composants** des actifs\n-les **flux**\n\n~? PASTA :\nProcess for Attack Simulation and Threat Analysis\n\n~? **Étapes** de PASTA :\n-définir les **objectifs**\n-définir le **périmètre**\n-**décomposer** l'**application**\n-analyser les **menaces**\n-analyser les **vulnérabilités**\n-modéliser les **attaques**\n-analyser les **risques** (probabilités et impacts)\n\n~? **Avantage** des approches de **modélisation des menaces** **centrées sur** les **actifs** :\nelles **prennent en compte** les **probabilités** et les **impacts**\n\n~? **Étapes** des **approches centrées** sur les **applications** :\n- **modéliser** l'**application**\n- lister les **menaces par élément**\n- **ordonner** les **menaces** par **score**\n\n~? DFD :\ndiagramme de flux de données\n\n~? **Éléments** des **diagrammes** de **flux** de **données** :\n- traitement\n- entité externe\n- stockage de données\n- flux de données\n- frontière de confiance\n\n~? Menaces STRIDE :\nSpoofing\n**Tampering** (**falsification**)\nRepudiation\nInformation disclosure\nDenial of service\nEscalation of privilege\n\n~? Éléments **à documenter** **pour chaque menace** :\n-cible\n-technique d'attaque\n-contre-mesures\n\n~? Composantes **à noter sur 3** selon DREAD :\n-  **damage** (potential)\n- **reproductibility**\n- **expoitation**\n- affected users\n- discoverability\n\n~? CVSS\n- Common Vulnerability Scoring System\n- **code** une **valeur par critère** (par exemple, nécessité d'être super utilisateur)\n- un **calculateur** en **déduit** une **note**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-07T04:53:03.409499213Z",
+    "quality" : "LOW"
+  }
+}

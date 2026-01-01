@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU0045",
+  "content" : {
+    "domain" : "POLITICAL_SCIENCE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Le pouvoir exécutif : le Président",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Le pouvoir exécutif : le Président\n\n?~ **Rôles** du **Président** de la **République Française** :\n- Chef d'État\n- Garant de la Constitution\n- Chef des Armées\n- **Promulguer** les **lois**\n\n?~ **Pouvoirs** et **prérogatives** du **Président** de la **République Française** en **politique intérieure** :\n- **Dissoudre** l'**Assemblée nationale**\n- Organiser un **référendum**\n- **Nommer** le **Premier ministre**\n- **Saisir** le **Conseil constitutionnel** (au sujet d'une loi à promulguer)\n- **Demander** une **nouvelle délibération du Parlement** (au sujet d'une loi à promulguer)\n\n?~ **Pouvoirs** du **Président** de la **République Française** en **politique extérieure** :\n- **Négocier** et **ratifier** les **traités**\n- **Nommer** les **ambassadeurs français**\n- **Accréditer** les **ambassadeurs étrangers** en France\n\n?~ **Pouvoirs** du **Président de la République Française** sur le plan **militaire** :\n- **Présider** le **Conseil de défense et de sécurité nationale**\n- **Décider** de l'**emploi** des **forces**\n- **Déclencher** une **frappe nucléaire**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-08T17:47:29.801028908Z"
+  }
+}

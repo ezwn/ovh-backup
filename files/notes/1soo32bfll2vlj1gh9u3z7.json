@@ -1,0 +1,33 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "1soo32bfll2vlj1gh9u3z7",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Organisation d'une mairie",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Organisation d'une mairie\n\n~? **Division principale** du **personnel** de **mairie** :\n-**CM** dont les membres sont **élus** au **suffrage** **universel** **direct**\n-**personnel** **administratif** et **technique** **salarié**\n\n~? **Organisation** du **conseil municipal** (ou organe délibérant) :\n-le **CM** **élit** le **maire**\n-le **maire** **désigne** des **adjoints** par **domaine** et leur **délègue** des **pouvoirs**\n-les **pouvoirs** décisionnels sont **répartis** entre le **maire** et le **CM**\n-le **CM** **peut** **s'organiser** en **commissions**\n\n~? Personnel **salarié** :\n-des **services** **regroupés** en **pôles**\n-des **pôles** **dirigés** **par** des **directeurs**\n-un **directeur général** des services\n\n~? **Statut** du **Maire** :\n- **conseiller municipal**\n- **chef** de la **police** **municipale**\n\n~? **Modalités** **possibles** pour l'**action des communes** :\n- **mener** les **actions** **elles-mêmes**\n- **créer** des **structures** qui **gèrent** l'**action**\n- **déléguer** l'action **à** un **organisme privé**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "CM" : "conseil municipal"
+      },
+      "sttMapping" : {
+        "conseil municipal" : "CM"
+      },
+      "tooltips" : {
+        "CM" : "Conseil Municipal"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-25T19:07:07.550969696Z",
+    "quality" : "LOW"
+  }
+}

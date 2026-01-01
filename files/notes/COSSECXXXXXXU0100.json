@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSECXXXXXXU0100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cryptographie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Cryptographie\n\n## [Bases](note::COSSECXXXXXXU0103)\n\n## Applications\n\n### Virtual Private Network\n\n~? Virtual Private Network :\ntunnel chiffré entre deux routeurs.\n\n~? Protocole des Virtual Private Network :\nIPSec.\n\n### Web sécurité\n\n~? TLS:\n-**sécurise** les échanges aux niveaux **transport**, **session** et **présentation** (OSI 4 à 6).\n\n~? HTTPS:\n- Combine **HTTP avec TLS**\n- **Sécurise** la couche **OSI 7**\n\n~? SSL :\n**obsolète** et **vulnérable**\n\n#### SSH\n\n### Documents et messagerie signés\n\n~? Difficulté\ndistribution des clés aux employés\n\n#### Public Key Infrastructure\n\n~? Contient :\ntechnologies, procédures et rôles\n\n~? Mission essentielle :\n- Certifier le lien entre une identité et une clé publique\n\n~? Moyens :\n- Gérer le cycle de vie des certificats numérique\n- Offrir des services de validation et de révocation\n- Assurer la traçabilité, l’auditabilité et la conformité réglementaire\n\nCycle de vie d’un certificat numérique:\n- Le demandeur génère la paire de clés.\n- Il rédige une demande de certificat contenant sa clé publique et ses informations d’identité\n- Il transmet la demande à l’autorité d’enregistrement.\n- L’autorité d’enregistrement vérifie l’identité du demandeur.\n- Elle transmet la demande validée à l’autorité de certification.\n- L’autorité de certification délivre le certificat en le signant avec sa propre clé.\n- Elle remet le certificat au demandeur et le publier dans un annuaire.\n- Le demandeur utilise le certificat pour s’authentifier, chiffrer ou signer des données.\n- L’autorité de certification peut révoquer le certificat si nécessaire.\n- Le demandeur renouvelle sa demande avant expiration du certificat.\n\n#### Authentification des utilisateurs @00:40:20\n\n~? Force d'authentification :\n-faible : identifiant et mot de passe\n-forte : à deux facteurs\n\nAvantages de la messagerie sécurisé\n- confidentialité\n- non répudiation\n- filtrage mails indésirables",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.241259625Z",
+    "quality" : "LOW"
+  }
+}

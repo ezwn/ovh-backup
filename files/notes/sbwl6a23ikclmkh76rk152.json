@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "sbwl6a23ikclmkh76rk152",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 5 : outils de planification et de suivi",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 5 : outils de planification et de suivi\n\n## Fiches\n\n### [Budgetisation](note::cyvi6nwitjac188ylr2nze)\n\n## PDF\n\n# p13\n\n##~ Vidéo \"Gantt cout proposition\"\n\n00 39   Listez et détailler les tâches élémentaires (je peux leur affecter des ressources)\n03 00   Affecter chaque tâches à un \"profil\" donné\n04 17   Techniques pour estimer les tâches\n06 20   Formule d'estimation selon optimisme\n06 43   Présenter en tableau : tâche, intervenant, charge, TJM  \uD83E\uDDE0\uD83E\uDDE0\n07 42   GANTT avec notion.so\n09 37   Budgétiser \uD83E\uDDE0\n\nBudget interne :\n-ressources matérielles\n-ressources informatiques\n-ressources humaines\n\nBudget client :\nbudget interne + marge\n\n11 28   Prérequis à la proposition \uD83E\uDDE0\n\nCadrage :\npeut se faire avec l'équipe en réunion\n\n12 13   Structure de la proposition \uD83E\uDDE0\uD83E\uDDE0\n\npage de garde\nnote de synthèse: projet et besoin, solution, objectif daté et chiffré\ndevis : à formaliser dans les règles\n\n13 06   Note de synthèse\n13 20   Formaliser devis\n14 08   Défendre la proposition : attention, c'est une soutenance",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-15T08:09:19.067505158Z",
+    "quality" : "LOW"
+  }
+}

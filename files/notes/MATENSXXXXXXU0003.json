@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATENSXXXXXXU0003",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ensembles : cardinal et sous-ensembles",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^un élément\n?Le cardinal d'un ensemble, c'est\nson nombre d'éléments.\n\n?$$A$$ est un sous-ensemble de $$B$$ si\ntous les éléments de $$A$$ sont inclus dans $$B$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Ensembles : cardinal et sous-ensembles",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^das Element, die Elemente\n?Die Mächtigkeit einer Menge ist\ndie Anzahl ihrer Elemente.\n\n?$$A$$ ist eine Teilmenge von $$B$$, wenn\nalle Elemente von $$A$$ in $$B$$ enthalten sind.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.627745288Z",
+    "quality" : "LOW"
+  }
+}

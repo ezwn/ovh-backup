@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0062",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Biais d'attribution interne [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Le biais d'attribution interne consiste à\nsurestimer le rôle de la personnalité par rapport à celui de la situation.\n\nNapolitan et Goethals l'ont étudié en 1979.\nSelon les groupes :\n^adopter\nIls demandent, d'une part, à une complice d'adopter une attitude froide ou chaleureuse.\n^instruction\n^avoir reçu\nD'autre part, ils informent ou non les observateurs que cette personne a reçu des instructions.\n^constater\nIls constatent que les observateurs négligent cette information,\n^considérer que\net considèrent que la personnalité du complice explique le comportement.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Biais d'attribution interne [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Internal attribution bias involves\noverestimating the role of personality compared to that of the situation.\n\nNapolitan and Goethals studied it in 1979.\nAccording to the groups:\n^adopt\nThey ask, on one hand, an accomplice to adopt a cold or warm attitude.\n^instruction\n^receive\nOn the other hand, they inform or do not inform the observers that this person received instructions.\n^find\nThey find that the observers overlook this information,\n^consider\nand consider that the personality of the accomplice explains the behaviour.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Biais d'attribution interne [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Der Attributionsfehler der internen Attribution besteht darin,\ndie Rolle der Persönlichkeit im Verhältnis zu der Situation zu überschätzen.\n\nNapolitan und Goethals untersuchten ihn 1979.\nJe nach Gruppe:\n^einnehmen\nEinerseits baten sie eine Komplizin, eine kühle oder herzliche Haltung einzunehmen.\n^die Anweisung, die Anweisungen\n^erhalten, erhielt, erhalten\nAndererseits informierten sie oder informierten sie nicht die Beobachter darüber, ob diese Person Anweisungen erhalten hatte.\n^feststellen\nSie stellten fest, dass die Beobachter diese Information vernachlässigten\n^davon ausgehen\nund davon ausgingen, dass die Persönlichkeit der Komplizin das Verhalten erkläre.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Biais d'attribution interne [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "内部归因偏差倾向于\n高估个性的作用,而低估情境的作用。\n\nNapolitan 和 Goethals 在 1979 年对此进行了研究。\n根据不同组别:\n^表现\n一方面,他们要求一位女性同谋表现出冷漠或热情的态度。\n^一个指示\n^收到了\n另一方面,他们告知或不告知观察者,这个人已经收到了指示。\n^发现\n他们发现,观察者忽视了这一信息,\n^认为\n认为同谋的个性解释了这一行为。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.707678595Z",
+    "quality" : "LOW"
+  }
+}

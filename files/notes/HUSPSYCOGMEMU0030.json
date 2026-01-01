@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0030",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Stratégies d'apprentissage",
+      "description" : "Stratégies d'apprentissage",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Stratégies d'apprentissage\n\n%## Chunking\n\n?~Principe du chunking :\n**Regrouper des éléments** en **arrangements qui ont du sens** pour nous.\n\n?~Situation dans laquelle on observe les effets du chunking :\n**Mémorisation des lettres dans les mots**, ou **des traits dans les idéogrammes**.\n\n%## Mémotechniques\n\n?~Caractère qui favorisent la mémorisation :\n**Familier**, **concret**, **visuel** et **vif**.\n\n%## Hiérarchies\n\n?~Ce qu'ont montré Bower et ses collègues en 1969 concernant la mémoire :\nUne **organisation hiérarchique** **du général vers le particulier** **favorise la récupération** en mémoire.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : " Learning Strategies",
+      "description" : "Stratégies d'apprentissage",
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Learning Strategies\n\n%## Chunking\n\n?~Principle of chunking:\n**Grouping elements** into **arrangements that make sense** to us.\n\n?~Situation in which the effects of chunking are observed:\n**Memorization of letters in words**, or of **strokes in ideograms**.\n\n%## Mnemonics\n\n?~Characteristics that promote memorization:\n**Familiar**, **concrete**, **visual**, and **vivid**.\n\n%## Hierarchies\n\n?~What Bower and his colleagues showed in 1969 concerning memory:\nA **hierarchical organization** **from general to specific** **facilitates retrieval** from memory.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Lernstrategien",
+      "description" : "Stratégies d'apprentissage",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Lernstrategien\n\n%## Chunking\n\n?~Prinzip des Chunking:\n**Elemente gruppieren** in **Anordnungen, die für uns Sinn ergeben**.\n\n?~Situation, in der man die Wirkungen des Chunking beobachtet:\n**Einprägen der Buchstaben in den Wörtern** oder **der Striche in den Ideogrammen**.\n\n%## Gedächtnistechniken\n\n?~Eigenschaften, die das Einprägen fördern:\n**Vertraut**, **konkret**, **bildlich** und **lebendig**.\n\n%## Hierarchien\n\n?~Was Bower und seine Kollegen 1969 bezüglich des Gedächtnisses gezeigt haben:\nEine **hierarchische Organisation** **vom Allgemeinen zum Besonderen** **begünstigt das Abrufen** aus dem Gedächtnis.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-24T16:01:59.690941932Z",
+    "quality" : "LOW"
+  }
+}

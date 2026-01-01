@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "pwo3zqvqtx5tsl7xxs1mle",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Regroupement S4",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Regroupement S4\n\nSouveraineté numérique et cloud :\n-dépendance Microsoft : boîtes mails fermées par ordre de Trump\n-dépendance fournisseurs : Israël, Chine\n-Corée du Nord : s'approvisionner en devise par le crime numérique\n-Russie attaque et désinformation\n-Chine, Taïwan et espionnage industriel\n\nCorée du Nord : ransomware industriel, vol de crypto (1 milliard $)\nRussie : ransomware, sabotage d'infrastructures, désinformation\nChine : espionnage industriel ciblé, vol de propriété intellectuelle\nMotivations différentes = tactiques différentes = défenses différentes\n\nRejeu :\nRenvoi d'un message réseau sans nécessairement le modifier (exemple : virement bancaires)\n\nAnti-rejeu :\n- envoyer un défi\n- challenge-response\n- timestamps/estampilles temporelles, nécessitent une synchronisation horaire stricte (±5 min)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-04e" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-19T17:28:05.181234553Z"
+  }
+}

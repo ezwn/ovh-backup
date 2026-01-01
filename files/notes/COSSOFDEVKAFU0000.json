@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVKAFU0000",
+  "content" : {
+    "domain" : "SOFTWARE_DEVELOPMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Kafka",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Kafka\n\nSpécificités :\n- mode publication souscription uniquement.\n- curseur géré par le client consommateur\n\nIntérêts :\n- débits très importants (partitionnement des topics en cluster de brokers)\n- point central universel\n\n## Partitionnement de topics\n\n- répartitions (disques, brokers, ...)\n- répartition par clé de hashage : écriture alternative\n- clonage de partition\n\n## Groupes de consommateurs\n- assignés à une partition ou toutes ?\n\n## [Kafka topics](note::COSSOFDEVKAFU0006)\n\n## [Flux Kafka](note::COSSOFDEVKAFU0105)\n\n## [Topologie Kafka](note::COSSOFDEVKAFU0108)\n\n## [Processeurs de flux Kafka](note::COSSOFDEVKAFU0111)\n\n## [Types de processeurs de flux Kafka](note::COSSOFDEVKAFU0115)\n\n## [KTable ou GlobalKTable](note::COSSOFDEVKAFU0250)\n\n* when they build their topology, services create topic-like element that can be seen from kafka-tools",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.975566952Z",
+    "quality" : "LOW"
+  }
+}

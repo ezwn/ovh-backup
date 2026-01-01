@@ -13,8 +13,8 @@
           "bounds": [
             65,
             206,
-            55,
-            50
+            76,
+            34
           ],
           "content": "[Notes\n🔍](http://localhost:50303/notes/)",
           "zIndex": 3,
@@ -55,24 +55,6 @@
           "content": "[SOMMAIRE](http://localhost:50303/notes/XXXXXXXXXXXXU0000)",
           "zIndex": 3,
           "fontSize": 10
-        },
-        {
-          "id": "NOTE-ZhBRRTKZ",
-          "userBounds": [
-            127,
-            613,
-            null,
-            null
-          ],
-          "bounds": [
-            127,
-            613,
-            86,
-            34
-          ],
-          "content": "[Operations](http://localhost:3001/operations)",
-          "zIndex": 3,
-          "fontSize": 14
         },
         {
           "id": "NOTE-iFUPIPm3",
@@ -147,24 +129,6 @@
           "fontSize": 14
         },
         {
-          "id": "NOTE-832LDv6W",
-          "userBounds": [
-            125,
-            759,
-            null,
-            null
-          ],
-          "bounds": [
-            125,
-            759,
-            48,
-            34
-          ],
-          "content": "[Files](http://localhost:3001/files)",
-          "zIndex": 3,
-          "fontSize": 14
-        },
-        {
           "id": "NOTE-u5A5ZPDG",
           "userBounds": [
             159,
@@ -204,13 +168,13 @@
           "id": "NOTE-kyVDQ4gU",
           "userBounds": [
             10,
-            358,
+            364,
             null,
             null
           ],
           "bounds": [
             10,
-            358,
+            364,
             66,
             41
           ],
@@ -228,8 +192,8 @@
           "bounds": [
             497,
             149,
-            89,
-            40
+            140,
+            29
           ],
           "content": "CONSOLIDATE\nCONTENT",
           "zIndex": 3,
@@ -254,25 +218,6 @@
           "zIndex": 0,
           "noteStyle": "NOTE",
           "fontSize": 12
-        },
-        {
-          "id": "NOTE-qnYr1EAe",
-          "userBounds": [
-            236,
-            742,
-            68.484375,
-            null
-          ],
-          "bounds": [
-            236,
-            742,
-            68,
-            33
-          ],
-          "content": "# [Méthode](http://localhost:3001/files/Knowledge%20building/M%C3%A9thode.md)",
-          "zIndex": 0,
-          "fontSize": 8,
-          "noteStyle": "NOTE"
         },
         {
           "id": "NOTE-mnlHgJ29",
@@ -414,7 +359,7 @@
             42,
             34
           ],
-          "content": "[ISO](https://kiao-lp.app/quickcms/qd-notes/ISO)",
+          "content": "[ISO](https://kiao-lp.app/quickcms/qd-notes/ISO/Main.dia.json)",
           "zIndex": 3,
           "fontSize": 14
         },
@@ -457,14 +402,14 @@
         {
           "id": "NOTE-o2K8BNa3",
           "userBounds": [
-            143,
-            505,
+            157,
+            700,
             null,
             null
           ],
           "bounds": [
-            143,
-            505,
+            157,
+            700,
             65,
             41
           ],
@@ -554,48 +499,6 @@
             {
               "id": "END-EgxGFKKL",
               "target": "NOTE-g4dhbmQG"
-            }
-          ]
-        },
-        {
-          "id": "REL-VLuxYqrV",
-          "shape": "CENTROID",
-          "ends": [
-            {
-              "id": "END-wYIxFwgk",
-              "target": "NOTE-kyVDQ4gU"
-            },
-            {
-              "id": "END-dbXRK8a8",
-              "target": "NOTE-832LDv6W"
-            }
-          ]
-        },
-        {
-          "id": "REL-ms7FGC1l",
-          "shape": "CENTROID",
-          "ends": [
-            {
-              "id": "END-Z2xiYIma",
-              "target": "NOTE-kyVDQ4gU"
-            },
-            {
-              "id": "END-Nhv7LUcM",
-              "target": "NOTE-ZhBRRTKZ"
-            }
-          ]
-        },
-        {
-          "id": "REL-s4W9pay6",
-          "shape": "CENTROID",
-          "ends": [
-            {
-              "id": "END-bhmjxGVH",
-              "target": "NOTE-qnYr1EAe"
-            },
-            {
-              "id": "END-KtlgI8qN",
-              "target": "NOTE-832LDv6W"
             }
           ]
         },

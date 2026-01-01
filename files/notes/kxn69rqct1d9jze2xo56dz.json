@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "kxn69rqct1d9jze2xo56dz",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Authentification et autorisation",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Authentification et autorisation\n\n~? Les **trois types de preuves** d'**authentification** :\n- qui vous êtes\n- ce que vous connaissez\n- ce que vous possédez\n\n~? Authentification forte :\nrepose sur **au moins deux éléments** **indépendants** en termes de **compromission**\n\n~? Acteurs et **composants** de l'**authentification**/**autorisation** :\n- **sujet** : demande l'opération\n- **gardien** : authentifie le sujet et autorise l'opération\n- **journal** d'**événements**\n- ressource\n\n~? Propriétés attendues d'un gardien :\n- inviolable\n- incontournable\n- testable\n- à **faible surface d'attaque**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-13T05:02:40.410025446Z",
+    "quality" : "LOW"
+  }
+}

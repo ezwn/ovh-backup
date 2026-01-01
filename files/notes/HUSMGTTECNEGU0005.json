@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTTECNEGU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Négociation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Négociation\n\n## [Théorie des jeux- Notes](note::HUSMGTTECNEGU0010)\n## [Théorie des jeux - Exercices](note::HUSMGTTECNEGU0011)\n\n## [Théorie de la décision - Notes 1](note::HUSMGTTECNEGU0020)\n\n## [Théorie de la décision - Notes 2](note::HUSMGTTECNEGU0100)\n\n## Théorie de l’ancrage et de l’ajustement (Tversky & Kahneman, 1974)\n- Issue de la psychologie cognitive et de l’économie comportementale.\n- Montre que la première offre posée (ancre) influence fortement le résultat final.\n- Stratégie efficace : **poser un ancrage élevé (ou bas selon l’objectif)** pour influencer la négociation.\n\n## BATNA (Best Alternative to a Negotiated Agreement) – Théorie de l’alternative optimale (Fisher & Ury, 1981)\n- Issue de la **négociation raisonnée** du Harvard Negotiation Project.\n- Met l’accent sur la meilleure alternative en cas d’échec de la négociation (BATNA).\n- Encourage les parties à ne jamais accepter un accord moins avantageux que leur BATNA.\n- Très utile pour éviter de céder sous pression et renforcer sa position.\n\n\n## Théorie des concessions réciproques (Cialdini, 1984)\n- Principe de réciprocité : quand une partie fait une concession, l’autre est psychologiquement poussée à en faire aussi.\n- Stratégie : commencer avec une **demande élevée**, puis faire une concession visible pour encourager l’autre à faire de même.\n- Effet bien démontré dans des expériences sur la persuasion et la négociation.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.572646546Z",
+    "quality" : "LOW"
+  }
+}

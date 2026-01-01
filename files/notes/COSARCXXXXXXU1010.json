@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU1010",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Could: généralités et notion clés",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Cloud : généralités et notions clés\n\n## Généralités\n\n~?% Cloud Computing c'est :\n- Déporter les traitements habituellement locaux sur une plateforme virtuelle d'une infrastructure distante.\n\n~? Caractéristiques :\n- mutualisation\n- virtualisation\n- abstraction de localisation\n- élasticité\n- paiement à l’usage\n- **self-service** via portail d'administration\n- API d'administration\n\n## Notions clés\n\n### Performance\n\n~? Facteurs :\n- machines\n- couche réseau\n- **couche logicielle basse** (OS, drivers)\n- couche logicielle haute\n\n~? Quand l'étudier ?\n**spécification**, **conception**, **implémentation**, **exploitation**.\n\n~? Penser à :\n- variabilité périodique de charge\n- montée en nombre d'utilisateurs\n- autres applications\n\n~? Outils :\n- sondes\n- **tests de charge** (simuler forte activité)\n- rejouer la production depuis journaux\n\n~? A déterminer :\n- temps de réponse\n- point de saturation\n- point de rupture\n\n~? A éviter :\n- **développer avant** d'avoir défini des **objectifs de performance**\n- critères de performance mal définis\n\n### Élasticité\n\n~? Prérequis :\nmutualisation\n\n~? Elasticité c'est :\nOptimisation dynamique et adaptative des ressources virtuelles.\n\n### Parallélisme\n\n#### Exemple des SGBD\n\n~? Parallélisme de traitement :\nDécomposition en **sous requêtes parallèles**\n\n~? De données :\nExécution de la **même requête** sur des **sous-ensembles des données**.\n\n#### Limites\n\n~? Niveaux d'effet du parallélisme :\n- **Initialisation** (**état initial**)\n- **Interférence** (**montée en puissance**)\n- **Dispersion** (**plateau**)\n\n~? Saturations possibles :\n- CPU\n- Entrées/Sorties\n- Réseau",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : "Cloud : généralités et notions clés",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Cloud : généralités et notions clés\n\n## Généralités\n\n~?% Qu'est-ce que le Cloud Computing ?\n- **Déporter** les **traitements** habituellement **locaux** **sur** une **plateforme virtuelle** d'une **infrastructure distante**.\n\n~? Quelles sont les caractéristiques principales du Cloud ?\n- mutualisation\n- virtualisation\n- abstraction de localisation\n- élasticité\n- paiement à l'usage\n- **self-service** via portail d'administration\n- API d'administration\n\n## Notions clés\n\n### Performance\n\n~? Quels sont les facteurs influençant la performance ?\n- machines\n- couche **réseau**\n- **couche logicielle basse** (OS, drivers)\n- couche logicielle haute\n\n~? Quand faut-il étudier la performance ?\n**spécification**, **conception**, **implémentation**, **exploitation**.\n\n~? Que faut-il prendre en compte pour la performance ?\n- variabilité périodique de charge\n- montée en nombre d'utilisateurs\n- autres applications\n\n~? Quels outils utiliser pour analyser la performance ?\n- sondes\n- **tests de charge** (simuler forte activité)\n- rejouer la production depuis journaux\n\n~? Que faut-il déterminer en matière de performance ?\n- temps de réponse\n- point de saturation\n- point de rupture\n\n~? Que faut-il éviter concernant la performance ?\n- **développer avant** d'avoir défini des **objectifs de performance**\n- critères de performance mal définis\n\n### Élasticité\n\n~? Quel est le prérequis pour l'élasticité ?\n**mutualisation** des ressources.\n\n~? Qu'est-ce que l'élasticité ?\nOptimisation dynamique et adaptative des ressources virtuelles.\n\n### Parallélisme\n\n#### Exemple des SGBD\n\n~? Qu'est-ce que le parallélisme de traitement ?\nDécomposition en **sous requêtes parallèles**\n\n~? Qu'est-ce que le parallélisme de données ?\nExécution de la **même requête** sur des **sous-ensembles des données**.\n\n#### Limites\n\n~? Quels sont les niveaux d'effet du parallélisme ?\n- **Initialisation** (**état initial**)\n- **Interférence** (**montée en puissance**)\n- **Dispersion** (**plateau**)\n\n~? Quels types de saturation peuvent limiter le parallélisme ?\n- CPU\n- Entrées/Sorties\n- Réseau",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Cloud: Generalities and Key Concepts",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Cloud: Generalities and Key Concepts\n\n## Generalities\n\n~?% What is Cloud Computing?\n- **Offloading** **processing** usually **done locally** **onto* a **virtual platform** of a **remote infrastructure**.\n\n~? What are the main characteristics of the Cloud?\n- mutualisation\n- virtualisation\n- location abstraction\n- elasticity\n- pay-as-you-go\n- **self-service** via administration portal\n- administration API\n\n## Key Concepts\n\n### Performance\n\n~? What factors influence performance?\n- machines\n- **network** layer\n- **low software layer** (OS, drivers)\n- high software layer\n\n~? When should performance be studied?\n**specification**, **design**, **implementation**, **operation**.\n\n~? What should be taken into account for performance?\n- periodic variability of load\n- increase in the number of users\n- other applications\n\n~? What tools are used for performance analysis?\n- probes\n- **load testing** (simulating high activity)\n- replaying production from logs\n\n~? What needs to be determined in terms of performance?\n- response time\n- saturation point\n- breaking point\n\n~? What should be avoided regarding performance?\n- **developing before** defining **performance goals**\n- poorly defined performance criteria\n\n### Elasticity\n\n~? What is the prerequisite for elasticity?\n**mutualisation** of resources.\n\n~? What is elasticity?\nDynamic and adaptive optimisation of virtual resources.\n\n### Parallelism\n\n#### Example of DBMS\n\n~? What is processing parallelism?\nDecomposition into **parallel subqueries**\n\n~? What is data parallelism?\nExecution of the **same query** on **subsets of the data**.\n\n#### Limits\n\n~? What are the stages of the effect of parallelism?\n- **Initialisation** (**initial state**)\n- **Interference** (**ramp-up**)\n- **Dispersion** (**plateau**)\n\n~? What types of saturation can limit parallelism?\n- CPU\n- Input/Output\n- Network",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Cloud: Allgemeines und Schlüsselkonzepte",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Cloud: Allgemeines und Schlüsselkonzepte\n\n## Allgemeines\n\n~?% Was ist Cloud Computing?\n- Das **Auslagern** der normalerweise **lokalen Verarbeitung** **auf** eine **virtuelle Plattform** einer *entfernten Infrastruktur**.\n\n~? Was sind die Hauptmerkmale des Cloud?\n- Ressourcenbündelung\n- Virtualisierung\n- Lokalisierungsabstraktion\n- Elastizität\n- Bezahlung nach Nutzung\n- **Selbstbedienung** über Administrationsportal\n- Verwaltungs-API\n\n## Schlüsselkonzepte\n\n### Leistung\n\n~? Welche Faktoren beeinflussen die Leistung?\n- Maschinen\n- **Netzwerk** schicht\n- **Niedrige Softwareschicht** (Betriebssystem, Treiber)\n- Hohe Softwareschicht\n\n~? Wann sollte die Leistung untersucht werden?\n**Spezifikation**, **Entwurf**, **Implementierung**, **Betrieb**.\n\n~? Was sollte für die Leistung berücksichtigt werden?\n- Periodische Belastungsvariabilität\n- Steigerung der Benutzeranzahl\n- Andere Anwendungen\n\n~? Welche Werkzeuge zur Leistungsanalyse sind zu verwenden?\n- Sonden\n- **Belastungstests** (hohe Aktivität simulieren)\n- Produktionsnachspiel aus Protokollen\n\n~? Was ist in Bezug auf Leistung zu ermitteln?\n- Antwortzeit\n- Sättigungspunkt\n- Bruchpunkt\n\n~? Was sollte in Bezug auf Leistung vermieden werden?\n- **Entwicklung bevor** Leistungsziele **definiert** sind\n- schlecht definierte Leistungskriterien\n\n### Elastizität\n\n~? Was ist die Voraussetzung für Elastizität?\n**Ressourcenbündelung**.\n\n~? Was ist Elastizität?\nDynamische und adaptive Optimierung der virtuellen Ressourcen.\n\n### Parallelität\n\n#### Beispiel der DBMS\n\n~? Was ist Verarbeitungsparallelität?\nZerlegung in **parallele Unteranfragen**\n\n~? Was ist Datenparallelität?\nAusführung derselben **Anfrage auf Teilmengen der Daten**.\n\n#### Grenzen\n\n~? Welche Stufen der Wirkung hat die Parallelität?\n- **Initialisierung** (**Anfangszustand**)\n- **Interferenz** (**Leistungsanstieg**)\n- **Dispersion** (**Plateau**)\n\n~? Welche Sättigungsarten können die Parallelität begrenzen?\n- CPU\n- Ein-/Ausgabe\n- Netzwerk",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-04T14:27:07.159812549Z",
+    "quality" : "LOW"
+  }
+}

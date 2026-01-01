@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PSKSVIXXXXXXU0001",
+  "content" : {
+    "domain" : "SURVIVAL",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Bases de la survie (acronyme \"PLAN\")",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Bases de la survie (acronyme \"PLAN\")\n\n~?Le plus décisif pour la survie :\nla **volonté de survivre**.\n\n~?Points à considérer en situation de survie, selon PLAN :\n- protection\n- localisation\n- acquisition\n- navigation\n\n~?Option à privilégier pour la protection :\nRester sur place.\n\n~?Condition pour pouvoir rester sur place :\nQu'il n'y ait **pas de danger**.\n\n~?Protection de base en survie :\nAvoir un **abri** et un **feu**.\n\n~?Sens \"localisation\", dans PLAN :\nDonner sa localisation : **attirer l'attention des secours**, par exemple par des **signaux d'urgence**.\n\n~?Sens de \"acquisition\", selon PLAN :\nRechercher de l'**eau** et de la **nourriture**.\n\n~?\"Navigation\", d'après PLAN :\nTrouver un **chemin vers un lieu sûr**.\n\n~?Médecine de survie :\n**Être attentif** et **traiter les problèmes médicaux immédiatement**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "%# Fundamentals of Survival\n\n~?What is the most crucial factor for survival?\nthe **will to survive**.\n\n~?What are the points to consider in survival situations, in order?\n- **protection**\n- **location**\n- **acquisition**\n- **navigation**\n\n~?What option should be prioritised?\nStaying in place.\n\n~?Under what condition can we stay put?\nThat there is no danger.\n\n~?What does \"protection\" often mean?\nHaving **shelter** and a **fire**.\n\n~?What does \"location\" mean here?\n**Attracting the attention of rescuers**, for example through **emergency signals**.\n\n~?What is meant by acquisition?\nSearching for **water** and **food**.\n\n~?What is navigation?\nFinding a **path to a safe place**.\n\n~?What does it consist of?\n**Being attentive** and **dealing with medical issues immediately**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "%# Grundlagen des Überlebens\n\n~?Was ist am entscheidendsten für das Überleben?\nDer **Überlebenswille**.\n\n~?Welche Punkte sind in einer Überlebenssituation der Reihenfolge nach zu berücksichtigen?\n- **Schutz**\n- **Lokalisierung**\n- **Erwerbung**\n- **Navigation**\n\n~?Welche Option sollte man bevorzugen?\nAm Ort bleiben.\n\n~?Unter welcher Bedingung kann man vor Ort bleiben?\nDass keine Gefahr besteht.\n\n~?Was bedeutet oft \"Schutz\"?\nEine **Unterkunft** und ein **Feuer** zu haben.\n\n~?Was bedeutet hier \"Lokalisierung\"?\n**Die Aufmerksamkeit der Rettungsdienste zu erregen**, zum Beispiel durch **Notfallzeichen**.\n\n~?Was versteht man unter Erwerbung?\n**Wasser** und **Nahrung** suchen.\n\n~?Was ist die Navigation?\nEinen **Weg zu einem sicheren Ort** finden.\n\n~?Worin besteht sie?\n**Aufmerksam sein** und **medizinische Probleme sofort behandeln**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-13T12:18:19.726959973Z",
+    "quality" : "LOW"
+  }
+}

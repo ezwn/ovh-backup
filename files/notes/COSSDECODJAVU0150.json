@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0150",
+  "content" : {
+    "domain" : "JAVA_PROGRAMMING_LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Contraintes de Liskov et généricité java",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Si l'on prend une classe A typée,\ndans un cas par un type B et dans l'autre par un type C,\noù B et C sont tels que B étend C,\nla version de A typée par B n'étend pas la version de A typée par C.\nEn effet, pour respecter le principe de Liskov,\nà savoir pouvoir utiliser la sous-classe partout où l'on utilise la sur-classe,\nil faudrait que\nles paramètres des méthodes de la classe fille soient autant ou moins restrictifs que ceux de la classe mère.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Contraintes de Liskov et généricité java [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "If we take a class A typed,\nin one case by a type B and in the other by a type C,\nwhere B and C are such that B extends C,\nthe version of A typed by B does not extend the version of A typed by C.\nIndeed, to respect the Liskov principle,\nthat is to be able to use the subclass wherever the superclass is used,\nit would require that\nthe parameters of the subclass methods be as or less restrictive than those of the superclass.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Contraintes de Liskov et généricité java [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Falls man eine getypte Klasse A nimmt,\nin einem Fall mit einem Typ B und im anderen mit einem Typ C,\nwobei B und C so sind, dass B C erweitert,\ndann erweitert die Version von A mit dem Typ B nicht die Version von A mit dem Typ C.\nTatsächlich, um das Liskov'sche Substitutionsprinzip zu respektieren,\nnämlich die Fähigkeit, die Unterklasse überall dort zu verwenden, wo die Oberklasse verwendet wird,\nmüssten\ndie Parameter der Methoden der Tochterklasse ebenso oder weniger restriktiv sein wie die der Mutterklasse.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Contraintes de Liskov et généricité java [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "如果我们有一个类A，\n在一种情况下由类型B和另一种情况下由类型C\n进行类型化，其中B是C的扩展，\n那么由B类型化的A版本并不扩展由C类型化的A版本。\n事实上，为了遵守Liskov替换原则，\n即在任何使用超类的地方都可以使用子类，\n需要\n子类的方法参数和超类的方法参数一样或更少限制。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.952547827Z",
+    "quality" : "LOW"
+  }
+}

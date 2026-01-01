@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "BIOCELXXXXXXU0301",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Should be completed\n\nhttps://univ-scholarvox-com.proxybib-pp.cnam.fr/reader/docid/88911487/page/64",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cellule : membrane plasmique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "la cellule\nLa membrane plasmique délimite la cellule.\nElle est composée de deux couches lipidiques,\nêtre face à face\ndont les parties hydrophobes sont face à face,\nmilieu\nborder\ntandis que les pôles hydrophiles sont en contact avec les milieux qui bordent la membrane.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Cellule : membrane plasmique",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "the cell\nThe plasma membrane defines the boundary of the cell.\nIt is composed of two lipid layers,\nfacing each other\nwith the hydrophobic parts facing each other,\nenvironment\nborder\nwhile the hydrophilic poles are in contact with the environments that border the membrane.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Cellule : membrane plasmique",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^die Zelle\nDie Plasmamembran begrenzt die Zelle.\nSie besteht aus zwei Lipidschichten,\n^einander gegenüberliegen\nderen hydrophobe Teile einander gegenüberliegen,\n^die Umgebung\n^umgeben\nwährend die hydrophilen Pole in Kontakt mit den Umgebungen sind, die die Membran umgeben.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Cellule : membrane plasmique",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^!一个细胞\n细胞膜划定了细胞的界限。\n它由两层脂质组成，\n相对\n其中疏水部分相对，\n^!一个环境\n^!界限\n而亲水极与接触膜的环境接触。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.717166245Z",
+    "quality" : "LOW"
+  }
+}

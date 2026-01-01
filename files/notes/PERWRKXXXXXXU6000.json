@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# CLEO AG\n\n## Erste Kontakt mit Herr Merz Nicolas\n\n- Zwei Tage vor Ort\n\nEinfacher Entwickler\n\n- Java (Spring Boot) / Angular / Could / PostgreSQL\n\n- OpenShift\n- Prometheus\n- Splunk\n- Self-Sovereign Identity und skaliertes Scrum (SAFe)\n\nBeitrag zu Architektur und Technologieentscheidungen\n\nBundestunsfelt\nMicroservice ?\nZürich Bank und versiecherung\n\nMertz\n- wirtaschsinformatik\n\nSucheibung?\nMandaten > Bern / 2 mal die Woche in Bern\nKollegiale / externe + interne\nSpachen = Deutsch + Französisch\n\nProjekt :\n\nBürger\nAusweis\n\nWerte:\n- Vertauen\n- Passion : keine alternative zu diese Anwendung",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.569810207Z",
+    "quality" : "LOW"
+  }
+}

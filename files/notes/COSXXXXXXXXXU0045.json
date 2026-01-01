@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0045",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Docker et conteneurisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## Docker et conteneurisation\n\nIls permettent :\n- d’**extraire les applications de leur environnement d’exécution** (système d’exploitation, bibliothèques, configuration)\n- de **faciliter le déploiement** sur tout type d’environnement : datacenter, cloud, machine personnelle\n- d’offrir une alternative plus légère et performante aux **machines virtuelles systèmes**\n\nFonctionnement :\n- isolation par processus\n- OS partagé\n- **pile réseau dédiée** (adresse IP privée)\n- **système de fichiers temporaire** en lecture/écriture\n- **processus principal isolé**\n- À la fermeture : tout est supprimé\n\nAvantages par rapport aux machines virtuelles :\n- plus performants (pas d'émulation)\n- démarrage plus rapide\n- empreinte mémoire dynamique\n- espace disque requis plus faible\n\nComposants Docker :\n\n- **Image** : système de fichiers immuable avec le code, les dépendances, etc.\n- **Conteneur** : instance exécutable d’une image (isolée, mais légère).\n- **Dockerfile** : fichier script décrivant la recette de création d’une image.\n\n---\n\n## ☸️ Orchestration avec Kubernetes\n\n* Gère des grappes de machines (VM ou physiques)\n* Composants :\n\n* **Maître** : planifie, orchestre, met à l’échelle\n* **Nœuds** : machines exécutant les conteneurs via Kubelet\n* **Pods** : unités d’exécution (regroupant un ou plusieurs conteneurs)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.726109059Z",
+    "quality" : "LOW"
+  }
+}

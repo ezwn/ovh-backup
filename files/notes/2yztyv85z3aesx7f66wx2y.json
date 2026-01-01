@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "2yztyv85z3aesx7f66wx2y",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Aperçu des mesures de sécurité des SI",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Aperçu des mesures de sécurité des SI\n\n~? **5** grands **objectifs** des **mesures** de **sécurité** :\n- dissuader\n- prévenir\n- détecter\n- corriger\n- organiser\n\n## Prévenir\n\n~? **Mesures de sécurité** à l'**entrée** du Système d'Information :\n- contrôle des accès physiques\n- contrôle de l’utilisation des périphériques de stockage externes\n- **stratégies** pour les **mots de passe**\n- **authentification forte**\n- antivirus\n- **coupe-feu**, **zone démilitarisée**\n- sensibilisation du personnel\n\n~? **Mesures de sécurité** **structurelles** du Système d'Information :\n- **suppression** du **superflu**\n- **classification** de l’**information**\n- **habilitations** des personnes et des systèmes : **granulaires**, **minimales** et **limitées dans le temps**\n- **répartition** des **ressources** sur **plusieurs** **réseaux**, **machines** et **sites**\n- **isolation**\n- **filtrage** et **chiffrement** des communications\n- redondance\n- authentification mutuelle systématique\n\n~? **Autres mesures** de sécurité à l'intérieur du Système d'Information :\n- **mises à jour** de **sécurité**\n- conformité\n\n## Détecter\n\n~? **Mesures** de **surveillance** :\n- **détecteur** d'**intrusions**\n- **supervision** et **administration** des **réseaux**\n- **traçabilité** via **journaux** d'événements\n- **post-mortem** : analyse des **journaux** **archivés**\n\n## Corriger\n\n~? **Mesures** de **réaction** :\n- **procédure de réaction** en cas d'intrusion\n- restauration\n\n## Organiser\n\n~? **Mesures** d'organisation :\n- politique de sécurité\n- sécurité du personnel\n- conformité\n- **gestion de la continuité** (**maintien**, **reprise**, **analyse d'impact**, ...)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-28T11:32:20.652951991Z",
+    "quality" : "LOW"
+  }
+}

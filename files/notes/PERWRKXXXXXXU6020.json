@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6020",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Flyability",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "### \uD83D\uDD0D **À propos de Flyability**\n- **Mission :** rendre les inspections industrielles plus sûres, plus rapides et moins coûteuses, en remplaçant les humains dans les environnements dangereux par des drones.\n- **Produit phare :** *Elios 3*, drone sphérique conçu pour voler en intérieur malgré les obstacles, avec LIDAR, caméra thermique et intégration avec des solutions logicielles d’inspection.\n- **Culture tech :** fort accent sur l’innovation, la robotique embarquée, les environnements temps réel, les interfaces homme-machine, la computer vision, et l’intégration cloud de données.\n- **Stack probable côté logiciel :**\n- **Back :** C++, Python, ROS (robot operating system), parfois Java pour les services annexes ou intégration cloud.\n- **Front :** outils d’analyse 3D, dashboards en WebGL ou Electron.\n- **Data / Cloud :** traitement d’images, modélisation 3D, inspection augmentée, cloud storage (AWS/GCP), synchronisation des données, intégration avec outils métiers.\n\n---\n\n### \uD83C\uDFAF **Pourquoi ton profil colle bien**\n\n1. **Expérience Cloud / Microservices / Kafka / Spring / React :**\n- Très pertinent pour l’intégration de données drone vers une plateforme cloud d’analyse ou de reporting.\n\n2. **Culture DevOps / CI/CD / Docker / Kubernetes :**\n- Atout majeur pour un produit mêlant firmware, logiciel embarqué et services cloud.\n\n3. **Méthodes Agiles, leadership technique et coaching :**\n- Valorise ta capacité à structurer une équipe autour d’un produit innovant, ce qui colle à une startup technologique ambitieuse.\n\n4. **Projet KIAO :**\n- Montre ta capacité à livrer une solution complète avec IA, mobile, cloud et modularité – un gros plus dans un environnement start-up comme Flyability.\n\n5. **Expérience en environnement critique (bancaire, assurance) :**\n- Montre ton exigence en matière de fiabilité logicielle, transposable aux enjeux de sécurité et d’industrialisation des drones.\n\n---\n\n### \uD83D\uDCDE **Préparer un appel téléphonique avec Flyability**\n\n**Questions possibles :**\n- Pourquoi postuler chez Flyability ?\n- Comment vois-tu ton rôle dans une entreprise hardware/software ?\n- Quelle est ton expérience avec des systèmes distribués ou embarqués ?\n- As-tu déjà travaillé sur des produits intégrant du matériel ou des capteurs ?\n- Quelle est ta compréhension des enjeux d’un produit drone industriel ?\n- Quelle est ta disponibilité (tu es dispo à partir du 2 juin) ?\n- Es-tu à l’aise avec un environnement partiellement anglophone (Flyability est très international) ?\n\n**Réponses à préparer :**\n- Une réponse claire sur ce que tu cherches en 2025 (cf. [tes motivations](8)).\n- Comment ton savoir-faire fullstack/infra/DevOps peut fluidifier leur chaîne de valeur logicielle.\n- Ta curiosité technique (capteurs, vision par ordinateur, robotique, ROS).\n- Ton intérêt pour un produit à impact (sécurité humaine, maintenance, environnement).\n\n---\n\nDear Flyability team,\n\nI am writing to express my keen interest in contributing to your mission of making industrial inspections safer and more efficient through cutting-edge robotics. With 20 years of experience as a full-stack software engineer and recent hands-on involvement in cloud-native architectures and distributed systems, I believe I can bring valuable expertise to your team.\n\nMy background spans backend and frontend development, infrastructure, and agile leadership. I recently worked at Nexthink in Lausanne, where I contributed to a large-scale microservices architecture (Java, Kafka, Kubernetes, React) and led initiatives to improve CI/CD pipelines and engineering practices. I also acted as a technical mentor and contributed to cross-team collaboration and process design.\n\nIn parallel, I’ve been developing a personal learning platform combining Spring Boot, React, Kafka, and Android — showcasing my ability to deliver complex, modular software solutions integrating cloud services, mobile UX, and AI features. This reflects both my autonomy and my passion for innovation and knowledge-sharing.\n\nI am particularly excited by Flyability’s blend of hardware and software, and your focus on real-world impact. While I don’t yet have direct experience with robotics or ROS, I am eager to learn and contribute in an environment that values cross-disciplinary problem-solving and engineering excellence.\n\nAvailable from June 2, I would be thrilled to further discuss how my experience and aspirations align with your vision. Thank you for considering my application.\n\nBest regards,\nNicolas Enzweiler\nnicolas.enzweiler@gmail.com\nPrilly, Switzerland\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.173004373Z",
+    "quality" : "LOW"
+  }
+}

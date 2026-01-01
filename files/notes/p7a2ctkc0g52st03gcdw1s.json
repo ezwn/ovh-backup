@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "p7a2ctkc0g52st03gcdw1s",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "LLM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# LLM\n\n### [Test](note::25wpnz24a2jmua8i441tm6)\n### [Fine-tuning](note::ztq6f8w6v87urh3q3w1b2x)\n### [Techniques pour LLM (plan)](note::766uweulg0ncv7d7tw0g60)\n### [Évaluations des LLM](note::6h8q7l40ijgkivrtawdlrb)\n### [Génération Augmentée par Recherche](note::18upy3u9ghln3jz12y4yex)\n### [Génération Augmentée par Recherche 2](note::lu1cb16cmpawyjeqdgtspg)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-07T14:02:52.637820868Z",
+    "quality" : "LOW"
+  }
+}

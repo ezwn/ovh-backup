@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1800",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "CEGID : notes consolidée pour LLM",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Poste : Technical Designer & Développeur Frontend\nEntreprise : CEGID – Business Note \"Taxes\"\n\nParticipation au développement d’une application web de déclaration fiscale pour entreprises (en production), au sein de la BU \"Taxes\". Intervention sur le re-développement de deux modules clés, en raison de problèmes de performance :\n\nUn module de rendu et d’édition de documents tabulaires volumineux\n\nUn module de navigation et de gestion de documents\n\nResponsabilités et réalisations principales :\n\nConception d’une API REST avec pagination bidimensionnelle pour optimiser les performances lors de la manipulation de grands volumes de données tabulaires.\n\nPrésentation de la solution à l’équipe backend en vue de son implémentation.\n\nDéveloppement et tests de la gestion d’état côté frontend.\n\nDéveloppement et tests des composants frontend associés.\n\nEnvironnement technique :\nReactJS, Typescript, Redux, GraphQL, Jest, Enzyme, Java/Spring, REST, Méthodologie Scrum.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.087159563Z",
+    "quality" : "LOW"
+  }
+}

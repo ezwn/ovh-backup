@@ -31,8 +31,8 @@
           "bounds": [
             706,
             400,
-            93,
-            46
+            141,
+            32
           ],
           "content": "🎮🎭🎉\nSE DIVERTIR",
           "zIndex": 3,
@@ -50,7 +50,7 @@
             441,
             206,
             102,
-            74
+            60
           ],
           "content": "🇫🇷\nPREPARER\nRETOUR FRANCE",
           "zIndex": 3,
@@ -59,14 +59,14 @@
         {
           "id": "NOTE-6r1bjmUU",
           "userBounds": [
-            820,
-            366,
+            854,
+            349,
             null,
             null
           ],
           "bounds": [
-            820,
-            366,
+            854,
+            349,
             68,
             34
           ],
@@ -86,8 +86,8 @@
           "bounds": [
             260,
             201,
-            95,
-            46
+            159,
+            32
           ],
           "content": "ARCHITECTE\nSOLUTION",
           "zIndex": 3,
@@ -117,14 +117,14 @@
           "userBounds": [
             550,
             335,
-            null,
-            null
+            132.953125,
+            44
           ],
           "bounds": [
             550,
             335,
-            84,
-            60
+            133,
+            44
           ],
           "content": "🩺❤️🧘\nMAINTENIR\nLA SANTÉ",
           "zIndex": 3,
@@ -178,8 +178,8 @@
           "bounds": [
             146,
             515,
-            81,
-            46
+            125,
+            32
           ],
           "content": "ACQUÉRIR\nBASES",
           "zIndex": 3,
@@ -188,14 +188,14 @@
         {
           "id": "NOTE-h4XbQugT",
           "userBounds": [
-            736,
-            241,
+            746,
+            226,
             null,
             null
           ],
           "bounds": [
-            736,
-            241,
+            746,
+            226,
             61,
             29
           ],
@@ -232,8 +232,8 @@
           "bounds": [
             380,
             502,
-            89,
-            50
+            146,
+            34
           ],
           "content": "⚡⚡⚡\nIMPACTER",
           "zIndex": 3,
@@ -295,14 +295,14 @@
         {
           "id": "NOTE-iIH2vwpX",
           "userBounds": [
-            830,
-            410,
+            877,
+            448,
             null,
             null
           ],
           "bounds": [
-            830,
-            410,
+            877,
+            448,
             27,
             34
           ],
@@ -339,8 +339,8 @@
           "bounds": [
             1147,
             280,
-            118,
-            54
+            160,
+            36
           ],
           "content": "KIAO\nGO & NOTES",
           "zIndex": 3,
@@ -367,16 +367,16 @@
         {
           "id": "NOTE-zBmHiE8r",
           "userBounds": [
-            1039,
-            222,
+            955,
+            223,
             null,
             null
           ],
           "bounds": [
-            1039,
-            222,
-            93,
-            46
+            955,
+            223,
+            141,
+            32
           ],
           "content": "🎮🎭🎉\nSE DIVERTIR",
           "zIndex": 3,
@@ -385,16 +385,16 @@
         {
           "id": "NOTE-61rI8wQd",
           "userBounds": [
-            1034,
-            298,
-            null,
-            null
+            1047,
+            354,
+            121.59375,
+            46
           ],
           "bounds": [
-            1034,
-            298,
-            89,
-            50
+            1047,
+            354,
+            122,
+            46
           ],
           "content": "⚡⚡⚡\nIMPACTER",
           "zIndex": 3,
@@ -430,8 +430,8 @@
           "bounds": [
             590,
             436,
-            93,
-            46
+            171,
+            32
           ],
           "content": "RETROUVER\nVIE SOCIALE",
           "zIndex": 3,
@@ -440,14 +440,14 @@
         {
           "id": "NOTE-p5DvBqs2",
           "userBounds": [
-            660,
-            286,
+            647,
+            263,
             null,
             null
           ],
           "bounds": [
-            660,
-            286,
+            647,
+            263,
             90,
             34
           ],
@@ -458,16 +458,16 @@
         {
           "id": "NOTE-yIIxMSmB",
           "userBounds": [
-            260,
-            112,
+            306,
+            108,
             null,
             null
           ],
           "bounds": [
-            260,
-            112,
-            88,
-            50
+            306,
+            108,
+            116,
+            34
           ],
           "content": "Expérience\nISO",
           "zIndex": 3,
@@ -485,8 +485,8 @@
           "bounds": [
             129,
             121,
-            74,
-            50
+            130,
+            34
           ],
           "content": "UTC505\n103 CHF",
           "zIndex": 3,
@@ -503,8 +503,8 @@
           "bounds": [
             38,
             242,
-            74,
-            50
+            129,
+            34
           ],
           "content": "NSY115\n207 CHF",
           "zIndex": 3,
@@ -516,14 +516,14 @@
           "userBounds": [
             31,
             401,
-            null,
-            null
+            91.46875,
+            46
           ],
           "bounds": [
             31,
             401,
-            74,
-            50
+            91,
+            46
           ],
           "content": "AVT208\n140 CHF",
           "zIndex": 3,

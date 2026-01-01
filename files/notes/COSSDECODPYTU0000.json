@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODPYTU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Python",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "sudo apt update\nsudo apt install python3 python3-pip -y\nsudo apt install python3-venv\n\npython3 -m venv venv\nsource venv/bin/activate\n\nInstaller les dépendances localement :\n\nbash\nCopier\nModifier\npip install flask\nMaintenant Flask est installé juste dans ce projet. Pas ailleurs.\n\nDésactiver quand t’as fini (quitter la bulle) :\n\nbash\nCopier\nModifier\ndeactivate\nPartager ton projet ? Tu fais :\n\nbash\nCopier\nModifier\npip freeze > requirements.txt\nEt ton pote, ou toi dans 3 mois (après avoir tout oublié), pourra faire :\n\nbash\nCopier\nModifier\npip install -r requirements.txt",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.237003550Z",
+    "quality" : "LOW"
+  }
+}

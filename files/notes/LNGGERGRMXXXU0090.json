@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "LNGGERGRMXXXU0090",
+  "content" : {
+    "domain" : "LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "DE",
+      "title" : "Deutsche Fälle",
+      "description" : "Exercices concernant l'application des cas allemand.",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Deutsche Fälle\n\n## Geben Sie für jedes Wort den grammatischen Fall an.\n\n?~ Für „Wohnung“ in „Ich suche eine Wohnung in Zürich.“\n**Akkusativ**, da direktes Objekt von „suchen“.\n\n?~ Für „Nachbarin“ in „Ich gebe der Nachbarin die Schlüssel.“\n**Dativ**, da indirektes Objekt von „geben“.\n\n?~ Für „Schweiz“ in „Die Schweiz ist ein wunderschönes Land.“\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für „Migros“ in „Ich kaufe bei Migros Lebensmittel ein.“\n**Dativ**, wegen der Präposition „bei“.\n\n?~ Für „Bahnhof“ in „Ich gehe zum Bahnhof.“\n**Dativ**, wegen der Präposition „zu“.\n\n?~ Für „Berge“ in „Die Touristen bewundern die Berge.“\n**Akkusativ**, da direktes Objekt von „bewundern“.\n\n?~ Für „Käse“ in „Der Käse schmeckt mir gut.“\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für „Wochenende“ in „Am Wochenende fahren wir nach Lausanne.“\n**Dativ**, wegen der Präposition „an“.\n\n?~ Für \"Nachbar\" in \"Der Nachbar wohnt in Zürich\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Wohnung\" in \"Wir mieten eine Wohnung am Bodensee\"\n**Akkusativ**, da direktes Objekt von „mieten\".\n\n?~ Für \"Vermieter\" in \"Sie zahlt dem Vermieter die Miete\"\n**Dativ**, da indirektes Objekt von „zahlen\".\n\n?~ Für \"Miete\" in \"Sie zahlt dem Vermieter die Miete\"\n**Akkusativ**, da direktes Objekt von „zahlen\".\n\n?~ Für \"Familie\" in \"Die Familie lebt seit Jahren in Basel\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Freunden\" in \"Er hilft seinen Freunden beim Umzug\"\n**Dativ**, da indirektes Objekt von „helfen\".\n\n?~ Für \"Gemeinde\" in \"Das Rathaus der Gemeinde ist sehr modern\"\n**Genitiv**, da Genitivattribut zu „Rathaus\".\n\n?~ Für \"Bankkonto\" in \"Sie eröffnet ein Bankkonto in der Schweiz\"\n**Akkusativ**, da direktes Objekt von „eröffnen\".\n\n?~ Für \"Kollegin\" in \"Die Kollegin erzählt eine Geschichte.\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Kaffee\" in \"Möchtest du einen Kaffee?\"\n**Akkusativ**, da direktes Objekt von „möchten“.\n\n?~ Für \"Kollegen\" in \"Ich gebe dem Kollegen den Zucker.\"\n**Dativ**, da indirektes Objekt von „geben“.\n\n?~ Für \"Pause\" in \"Wir freuen uns auf die Pause.\"\n**Akkusativ**, da Objekt der Präposition „auf“.\n\n?~ Für \"Kollege\" in \"Der Kuchen schmeckt dem Kollegen sehr gut.\"\n**Dativ**, da Objekt von „schmecken“.\n\n?~ Für \"Freund\" in \"Mein Freund hat mich besucht\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Wochenende\" in \"Wie war dein Wochenende?\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Familie\" in \"Ich habe Zeit mit der Familie verbracht\"\n**Dativ**, da Objekt der Präposition „mit\".\n\n?~ Für \"Film\" in \"Wir haben einen tollen Film gesehen\"\n**Akkusativ**, da direktes Objekt von „sehen\".\n\n?~ Für \"Freunde\" in \"Ich bin mit Freunden ausgegangen\"\n**Dativ**, da Objekt der Präposition „mit\".\n\n?~ Für \"Restaurant\" in \"Das Restaurant war sehr gut\"\n**Nominativ**, da Subjekt des Satzes.\n\n?~ Für \"Schwester\" in \"Ich habe meiner Schwester geholfen\"\n**Dativ**, da indirektes Objekt von „helfen\".\n\n?~ Für \"Spaziergang\" in \"Wir haben einen langen Spaziergang gemacht\"\n**Akkusativ**, da direktes Objekt von „machen\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.382324400Z",
+    "quality" : "LOW"
+  }
+}

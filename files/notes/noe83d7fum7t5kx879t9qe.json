@@ -1,0 +1,28 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "noe83d7fum7t5kx879t9qe",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : "| Prélèvement | Montant 2024 | Source |\n|-------------|--------------|---------|\n| **Cotisations sociales** | 428 Mds€ | FIPECO |\n| **TVA nette** | 219,7 Mds€ | INSEE (PLF 2025) |\n| **CSG** | 153 Mds€ | FIPECO |\n| **Impôt sur le revenu** | 100 Mds€ (91 Mds€ net) | FIPECO |",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Prélèvements en France",
+      "description" : "Clarification du vocabulaire des prélèvements obligatoire et rendement budgétaire des plus importantes.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Prélèvements en France\n\n## Taxonomy\n\n~? Types de prélèvements :\n- les **impôts**, qui ne donnent pas lieu à des droits individualisés\n- les **cotisations** qui, en principe, **ouvrent des droits** à des **prestations sociales** liées à la contribution\n\n~? Taxes :\n**impôts** perçus en **rapport avec** un **service spécifique** ou un **comportement**\n\n~? Types de taxes :\n- **taxe** pour service : en **contrepartie d'un service**\n- **redevance** : proportionnelle à l'**usage du service**\n- **taxe comportementale** : en fonction d'un comportement\n\n## Analyses\n\n~? **Rendement budgétaire** en Mds €  des principaux **prélèvements obligatoires** pour **2024** :\n- **Cotisations sociales** : **428**\n- **TVA** : **219**\n- **CSG** : **153**\n- **Impôt sur le revenu**: **91**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "Mds" : "milliards"
+      }
+    } ],
+    "modificationDate" : "2025-11-09T10:53:30.056590235Z",
+    "quality" : "LOW"
+  }
+}

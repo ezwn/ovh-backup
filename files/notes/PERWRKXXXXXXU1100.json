@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU1100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Société générale : notes unifiées",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Expérience professionnelle à la Société Générale\n\nDépartement : Société Générale Corporate and Investment Banking (SG CIB), Risk & PnL Certification\n\n## Contexte métier\n\nLa direction Risk & PnL Certification a pour mission de superviser et de valider quotidiennement les résultats financiers (Profit & Loss) et les mesures de risque (sensitivités, VaR, stress tests, etc.) associés aux activités de marché. Ce travail est essentiel pour garantir la fiabilité des chiffres communiqués aux équipes de trading, aux contrôleurs de gestion, et aux régulateurs. Dans ce cadre, l’équipe développe des outils internes permettant de visualiser, automatiser et fiabiliser l’analyse des résultats produits par les moteurs de calcul de risque.\n\n## Rôle : Lead Full-Stack Developer, Technical Designer, Scrum Master\n\n### Environnement métier\n- Développement d’outils de supervision et d’automatisation dans le domaine du calcul et de la gestion des risques financiers.\n- Contribution à la visualisation et à la qualité des données critiques de PnL et de risque à travers des dashboards et services personnalisables.\n\n### Mise en place de l’environnement de développement\n- Analyse des outils et librairies internes à l'entreprise.\n- Conception d’un environnement de production logicielle pour l’équipe : documentation, exemples de code, bonnes pratiques.\n- Intégration progressive et micro-formation de 4 développeurs (Paris et Bangalore).\n\n### Suivi et animation de l’équipe\n- Mise en place et animation des rituels SCRUM.\n- Rédaction de tâches, planification, suivi de sprint.\n- Animation de réunions et revues de code.\n\n### Principes d’ingénierie appliqués\n- Clean Code\n- Principes SOLID\n\n### Développement front-end : widgets pour SG-Dashboard\n- Sélection ou création des API internes nécessaires à l'affichage des données.\n- Développement de la logique d’interaction et d’affichage, incluant des tests automatisés.\n- Référencement dans le catalogue de widgets de SG-Dashboard.\n- Création de dashboards templates contenant une sélection des nouveaux widgets, selon les rôles utilisateurs cibles.\n\n### Développement back-end : services d’extraction de données\n- Conception et développement de services exposant des API métier pour alimenter les widgets.\n- Extraction, adaptation et agrégation des données issues des moteurs de calcul ou des référentiels.\n- Rédaction de tests automatisés.\n- Référencement des services dans un catalogue d’API interne.\n\n### Environnement technique\n- Back-end : Java/Spring, Spring Boot, JUnit, Mockito\n- Front-end : TypeScript/React, Web Components, Testing Library",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.093771570Z",
+    "quality" : "LOW"
+  }
+}

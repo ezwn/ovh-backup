@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0050",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Systèmes répartis",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Système réparti\n\n~?Un système réparti est composé :\n- d'entités autonomes de traitement réparties sur différentes machines\n- qui peuvent communiquer entre elles\n- pour effectuer des tâches\n\n~?Un intergiciel est un logiciel qui :\n- permet l'échange d'informations entre logiciels.\n\n~?Un bus de communication est :\nune infrastructure qui permet à des composants logiciels d’échanger des messages,\nsans être directement couplés.\n\n~?Les avantages des systèmes répartis sont :\n- de permettre la construction des systèmes complexes à partir d'éléments simples\n- d'offrir un haut niveau de performance\n\n~?Les inconvénients de l'architecture répartie sont :\n- coût d'administration et de déploiement\n- complexité\n- hétérogénéité, par exemple des technologies\n- les problèmes de parallélisme et de concurrence",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "%# Distributed System\n\n~?A distributed system is composed of:\n- **autonomous processing entities** distributed **across different machines**\n- that **can communicate with each other**\n- to **perform tasks**\n\n~?A middleware is a software that:\n- **allows** the **exchange of information** **between softwares**.\n\n~?A communication bus is:\nan **infrastructure** that **enables software components to exchange messages**,\n**without being directly coupled**.\n\n~?The advantages of distributed systems are:\n- allowing the **construction of complex systems from simple elements**\n- providing a **high level of performance**\n\n~?The disadvantages of distributed architecture are:\n- cost of administration and deployment\n- complexity\n- **heterogeneity**, for example of technologies\n- issues of parallelism and concurrency",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.068295060Z",
+    "quality" : "LOW"
+  }
+}

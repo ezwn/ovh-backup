@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0100",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Standard JMS",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Le standard JMS\n\n~?Les acteurs sont :\nles consommateurs et les producteurs.\n?Quel est leur rôle par rapport à l'API ?\nce sont des clients.\n\n~?Que désigne le mot \"domaine\" en JMS ?\nle mode de communication.\n\n## Message JMS\n\n### Contenu\n\n~?Un message JMS contient :\n- un identifiant\n- un en-tête\n- et un corps\n\n~?Son en-tête contient :\n- un ID de destination\n- une date d'expiration\n- un ID de corrélation\n- des attributs\n\n~?A quoi servent généralement les attributs du message ?\nà l'aiguillage.\n\n~?Qu'est ce que l'ID de corrélation ?\nUne référence vers le message auquel on répond.\n\n### Manipulation du contenu\n\n~?Qu'est ce qui simplifie la manipulation du contenu des messages ?\nLes primitives de traitement.\n\n~?Quelques exemples de primitives :\n- text\n- map\n- stream\n- json\n\n@## Exemples de code\n\n* [Producteur](operation::operation-jmsProducer)\n* [Consommateur synchrone](operation::operation-jmsConsumer)\n* [Consommateur asynchrone](operation::operation-jmsProducer)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# The JMS Standard\n\n~?The actors are:\nthe consumers and the producers.\n?What is their role with respect to the API?\nthey are clients.\n\n~?What does the word \"domain\" mean in JMS?\nthe mode of communication.\n\n## JMS Message\n\n### Content\n\n~?A JMS message contains:\n- an identifier\n- a header\n- and a body\n\n~?Its header contains:\n- a destination ID\n- an expiration date\n- a correlation ID\n- attributes\n\n~?What are the attributes of the message generally used for?\nfor routing.\n\n~?What is the correlation ID?\nA reference to the message being responded to.\n\n### Content Manipulation\n\n~?What simplifies message content manipulation?\nThe processing primitives.\n\n~?Some examples of primitives:\n- text\n- map\n- stream\n- json\n\n## Code Examples\n\n* [Producer](operation::operation-jmsProducer)\n* [Synchronous Consumer](operation::operation-jmsConsumer)\n* [Asynchronous Consumer](operation::operation-jmsProducer)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Der JMS-Standard\n\n~?Die Akteure sind:\ndie Konsumenten und die Produzenten.\n?Was ist ihre Rolle in Bezug auf die API?\nsie sind Kunden.\n\n~?Was bezeichnet das Wort \"Domaine\" in JMS?\nden Kommunikationsmodus.\n\n## JMS-Nachricht\n\n### Inhalt\n\n~?Eine JMS-Nachricht enthält:\n- eine Kennung\n- einen Header\n- und einen Körper\n\n~?Ihr Header enthält:\n- eine Ziel-ID\n- ein Ablaufdatum\n- eine Korrelations-ID\n- Attribute\n\n~?Wozu dienen im Allgemeinen die Attribute der Nachricht?\nzum Routing.\n\n~?Was ist die Korrelations-ID?\nEin Verweis auf die Nachricht, auf die geantwortet wird.\n\n### Manipulation des Inhalts\n\n~?Was vereinfacht die Manipulation des Inhalts der Nachrichten?\nDie Verarbeitungsprimitiven.\n\n~?Einige Beispiele für Primitive:\n- text\n- map\n- stream\n- json\n\n@## Codebeispiele\n\n* [Produzent](operation::operation-jmsProducer)\n* [Synchroner Konsument](operation::operation-jmsConsumer)\n* [Asynchroner Konsument](operation::operation-jmsProducer)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# JMS标准\n\n~?参与者是：\n消费者和生产者。\n?他们在API中的角色是什么？\n他们是客户端。\n\n~?JMS中“领域”一词指的是什么？\n通信模式。\n\n## JMS消息\n\n### 内容\n\n~?一个JMS消息包含：\n- 一个标识符\n- 一个头部\n- 和一个主体\n\n~?其头部包含：\n- 一个目的地ID\n- 一个过期日期\n- 一个关联ID\n- 属性\n\n~?消息属性通常用于什么？\n路由。\n\n~?什么是关联ID？\n它是对所响应消息的引用。\n\n### 内容操作\n\n~?什么简化了消息内容的操作？\n处理原语。\n\n~?处理原语的一些例子：\n- 文本\n- 映射\n- 流\n- JSON\n\n@## 代码示例\n\n* [生产者](operation::operation-jmsProducer)\n* [同步消费者](operation::operation-jmsConsumer)\n* [异步消费者](operation::operation-jmsProducer)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.278942416Z",
+    "quality" : "LOW"
+  }
+}

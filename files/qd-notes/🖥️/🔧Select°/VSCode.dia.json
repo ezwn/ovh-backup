@@ -1,0 +1,125 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-xWwrDhR6",
+          "userBounds": [
+            821,
+            398,
+            176.625,
+            124
+          ],
+          "bounds": [
+            821,
+            398,
+            177,
+            124
+          ],
+          "content": "Visual Studio Code",
+          "zIndex": 3,
+          "fontSize": 30
+        },
+        {
+          "id": "NOTE-pu9Z4kKn",
+          "userBounds": [
+            519,
+            326,
+            null,
+            null
+          ],
+          "bounds": [
+            519,
+            326,
+            205,
+            96
+          ],
+          "content": "```text\nName: Markdown All in One\nPublisher: Yu Zhang\n```",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-Gp1FL36n",
+          "userBounds": [
+            822,
+            261,
+            null,
+            null
+          ],
+          "bounds": [
+            822,
+            261,
+            258,
+            96
+          ],
+          "content": "```text\nName: Markdown Preview Enhanced\nPublisher: Yiyi Wang\n```",
+          "zIndex": 3
+        },
+        {
+          "id": "NOTE-9ofw8ea4",
+          "userBounds": [
+            609,
+            544,
+            null,
+            null
+          ],
+          "bounds": [
+            609,
+            544,
+            160,
+            96
+          ],
+          "content": "```text\nName: Astro\nPublisher: Astro\n```",
+          "zIndex": 3
+        }
+      ],
+      "relations": [
+        {
+          "id": "REL-awsewCbW",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-1m1fE57K",
+              "target": "NOTE-xWwrDhR6"
+            },
+            {
+              "id": "END-WiF9Nj2b",
+              "target": "NOTE-pu9Z4kKn"
+            }
+          ]
+        },
+        {
+          "id": "REL-9dd8FkAP",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-MP8ex3Lv",
+              "target": "NOTE-xWwrDhR6"
+            },
+            {
+              "id": "END-xEnLhSKA",
+              "target": "NOTE-Gp1FL36n"
+            }
+          ]
+        },
+        {
+          "id": "REL-Nl76a1iv",
+          "shape": "CENTROID",
+          "ends": [
+            {
+              "id": "END-VbBTnrp8",
+              "target": "NOTE-xWwrDhR6"
+            },
+            {
+              "id": "END-ngLXxXGK",
+              "target": "NOTE-9ofw8ea4"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "358b4918-3223-4e9f-8005-3ea283ff4c46",
+  "docTypeVersion": 1
+}

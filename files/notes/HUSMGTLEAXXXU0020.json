@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTLEAXXXU0020",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Outils et méthodes Lean en IT",
+      "description" : "Outils et méthodes Lean en IT",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Outils et méthodes Lean en IT\n\n~? Outils du lean IT :\n- Cartographie de la chaîne de valeur\n- Tableaux Kanban\n- 5 pratiques de base\n- DevOps et automatisation\n- Plan-Do-Check-Act\n- Ateliers d'amélioration et rétrospectives (retour d'expérience)\n- Indicateurs de performance (KPI), par exemple le taux de défaut\n\n##% Plus précisément...\n\n~? Les 5 pratiques de base :\n- trier / débarrasser\n- ranger / organiser\n- nettoyer\n- standardiser (par des procédures et roles)\n- se conformer durablement (rigueur, contrôle)\n\n~? Étapes de la démarche Plan-Do-Check-Act :\n- Plan : définir un problème et imaginer une solution\n- Do : appliquer la solution à petite échelle\n- Check : vérifier que cela fonctionne comme prévu\n- Act : agir selon les résultats : déployer, ajuster, changer de stratégie\n\n##% DevOps\n\n~? Principes DevOps :\n- collaboration et communication\n- automatisation\n- intégration et déploiement continues\n- surveillance et retour d'information\n\n~? Pratiques DevOps :\n- Infrastructure as Code\n- conteneurisation\n- plateformes comme kubernetes",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Lean IT Tools and Methods",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Lean IT Tools and Methods\n\n~? Lean IT tools:\n- Value stream mapping\n- Kanban boards\n- 5 basic practices\n- DevOps and automation\n- Plan-Do-Check-Act\n- Improvement workshops and retrospectives (feedback)\n- Performance indicators (KPI), e.g. defect rate\n\n## More specifically...\n\n~?The 5 basic practices:\n- sort / clear\n- arrange / organize\n- clean\n- standardize (with procedures and roles)\n- stick to it (discipline, control)\n\n~? Steps of the Plan-Do-Check-Act approach:\n- Plan: define a problem and imagine a solution\n- Do: apply the solution on a small scale\n- Check: verify that it works as planned\n- Act: act according to results: deploy, adjust, change strategy\n\n## DevOps\n\n~? DevOps principles:\n- collaboration and communication\n- automation\n- continuous integration and deployment\n- monitoring and feedback\n\n~? DevOps practices:\n- Infrastructure as Code\n- containerization\n- platforms like kubernetes",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Lean IT-Werkzeuge und -Methoden",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Lean IT-Werkzeuge und -Methoden\n\n~? Lean IT-Werkzeuge:\n- Wertstromanalyse\n- Kanban-Boards\n- 5 Grundpraktiken\n- DevOps und Automatisierung\n- Plan-Do-Check-Act\n- Verbesserungsworkshops und Retrospektiven (Erfahrungsaustausch)\n- Leistungsindikatoren (KPI), z. B. Fehlerrate\n\n## Genauer gesagt...\n\n~?Die 5 Grundpraktiken:\n- sortieren / abräumen\n- ordnen / organisieren\n- säubern\n- standardisieren (durch Verfahren und Rollen)\n- einhalten (Disziplin, Kontrolle)\n\n~? Schritte des Plan-Do-Check-Act-Zyklus:\n- Plan: ein Problem definieren und eine Lösung überlegen\n- Do: die Lösung im kleinen Maßstab anwenden\n- Check: prüfen, ob es wie beabsichtigt funktioniert\n- Act: je nach Ergebnis handeln: einführen, anpassen, Strategie ändern\n\n## DevOps\n\n~? DevOps-Prinzipien:\n- Zusammenarbeit und Kommunikation\n- Automatisierung\n- kontinuierliche Integration und Bereitstellung\n- Überwachung und Feedback\n\n~? DevOps-Praktiken:\n- Infrastructure as Code\n- Containerisierung\n- Plattformen wie Kubernetes",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-07T17:57:35.699511835Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSECXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sécurité informatique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Sécurité informatique\n\n### [SSO avec OpenID Connect](note::jqb58ljqjfedv8uvucrbmj)\n\n\n---\n\n## [UTC505](note::k7ag0tieq6cp5b69i2wxfv)\n## [Définition de sécurité](note::31ft1zcd9gmkgwbmh3frkb)\n## [Législation de la sécurité numérique](note::jffssvk934wgmj4npbw1v3)\n## [Sécurité du développement applicatif ⚠️](note::pd3qzsjauxb3alywlt12l2)\n\n---\n\n## [Modèle fondamental de la sécurité des SI](note::dino8vdpqnvzc8n6m5025p)\n## [Moyens de sécurité](note::sti9jxuezsy9w3lvw77v07)\n## [Actifs en sécurité](note::5k97c5yw3n0ghywimndvtv)\n## [Vulnérabilités en sécurité](note::ayq39cjdmzqfbpb1vzi2va)\n## [Impacts de sécurité](note::5prgl9uccrh7uuxg0wyd96)\n## [Menaces de sécurité](note::d8q1j9pkk8wdi03knl3f6q)\n\n---\n\nSécurité opérationnelle des SI\n├── A. Ontologie fondamentale\n│   ├── Actif\n│   ├── Objectif de sécurité\n│   ├── Menace\n│   ├── Vulnérabilité\n│   ├── Incident\n│   ├── Impact\n│   ├── Risque\n│   └── Mesure de sécurité\n├── B. Acteurs et responsabilités\n│   ├── Acteur de sécurité\n│   └── Responsabilité\n├── C. Processus opérationnels\n│   ├── Surveillance\n│   ├── Détection\n│   ├── Réponse\n│   ├── Rétablissement\n│   └── Amélioration continue\n├── D. Environnements techniques\n│   ├── Périmètre technique\n│   └── Données\n├── E. Cadre de conformité et pilotage\n│   ├── Référentiel\n│   ├── Audit\n│   └── Indicateur\n└── F. Amélioration et continuité\n├── Résilience\n├── Plan de continuité\n└── Retour d’expérience",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-26T15:29:54.643123554Z",
+    "quality" : "LOW"
+  }
+}

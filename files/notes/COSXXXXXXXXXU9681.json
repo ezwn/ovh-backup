@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU9681",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Keycloak",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Keycloak\n\n## Concepts\n\n~? Realm :\nEspace d’authentification isolé (comme un \"domaine\" séparé).\n\n~? Client :\nApplication qui utilise Keycloak pour authentifier ses utilisateurs.\n\n~? User :\nCompte d’un utilisateur final (login/mot de passe ou fédéré).\n\n~? Role :\nDroit ou permission attribuable à un utilisateur ou client.\n\n~? Group :\nEnsemble d’utilisateurs partageant des rôles ou attributs.\n\n~? Identity Provider (IdP) :\nSource externe d’identité (Google, LDAP, SAML, etc.).\n\n~? User Federation :\nConnexion à une base externe d’utilisateurs (ex : LDAP, Active Directory).\n\n~? Authentication Flow :\nSuite d’étapes de login (mot de passe, 2FA, etc.).\n\n~? Token :\nJeton (souvent JWT) délivré après login, utilisé pour accéder aux ressources.\n\n~? Client Scope :\nEnsemble d’attributs/claims ou rôles attribués à un client.\n\n~? Session :\nConnexion active d’un utilisateur ou d’un client.\n\n## Avec Spring\n\n<dependency>\n<groupId>org.keycloak</groupId>\n<artifactId>keycloak-admin-client</artifactId>\n<version>26.0.0</version>\n</dependency>",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-18T12:11:19.621151219Z",
+    "quality" : "LOW"
+  }
+}

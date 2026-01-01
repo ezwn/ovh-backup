@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "58xb8bfc5pk0gp090bycev",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 5",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 5\n\n## Todo\n\n☐ Analyser les regroupements en hyper accéléré\n☐ Analyse du PDF\n\n## Repérage\n\n### Vidéo 1 (00:21:46)\n\n[Terminologie](video::utc505-05a;00:00:05)\n[Différence chiffrage symétrique ou à clé unique et asymétrique ou à clé publique](video::utc505-05a;00:01:10)\n[Taxinomie détaillée avec explications (chiffres, hashage)](video::utc505-05a;00:01:33)\n[Chiffres symétriques en continue et par bloc](video::utc505-05a;00:03:10)\n[Cryptographie à clé publique](video::utc505-05a;00:03:50)\n[Applications du chiffrement asymétrique : chiffrement et signature digitale](video::utc505-05a;00:05:05)\n[Problème du chiffrement symétrique : il faut échanger la clé par un canal sécurisé](video::utc505-05a;00:06:55)\n[Inconvénients de la crypto symétrique : maintenir la confidentialité de la clé, la changer souvent](video::utc505-05a;00:08:30)\n[nconvénients de la crypto symétrique : Il faut un très grand nombre de clé pour sécuriser tous les échanges entre personnes](video::utc505-05a;00:09:15)\n[Confidentialité grâce à une pair de clé](video::utc505-05a;00:11:27)\n[Avantages et inconvénients de la cryptographie à clé publique ★](video::utc505-05a;00:12:34)\n[Lenteur de l'asymétrique fait que systèmes hybrides (initialisation asymétrique, puis clé temporaire symétrique)](video::utc505-05a;00:13:08)\n[Attaque à intercepteur actif ★★](video::utc505-05a;00:17:10)\n[L'autorité de certification vérifie l'identité du propriétaire de la clé publique et la signe](video::utc505-05a;00:17:59)\n[RSX112](video::utc505-05a;00:20:09)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "utc505-05a" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-19T05:48:41.906118535Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0120",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Part 2",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Versionning\n- réversibilité des opérations\n\nEtats du versionning :\n- désactivé\n- activé\n- suspendu\n\nPrise en charge de cross-origin\n- document XML\n\nUsages de S3 :\n- source de données décisionnel\n- destination de données\n- backup (sauvegarde) haute fiabilité\n- possibilité de réplication auto entre régions à activer\n\nCohérence AWS S3 (avant 2020) :\n- Garantie pour read after write : GET LIST et PUT\n- Pas pour read after update (propagation)\n- Pas pour read after delete (propagation)\n\nCohérence AWS S3 (après 2020) :\ncohérence garantie dans tous les cas",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T12:44:05.886041099Z",
+    "quality" : "LOW"
+  }
+}

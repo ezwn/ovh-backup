@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mémoire",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Mémoire\n\n## [Manifestations de la mémoire](note::HUSPSYCOGMEMU0005)\n\n## [Modèles de la mémoire](note::HUSPSYCOGMEMU0010)\n\n## [Mémoires sensorielles](note::HUSPSYCOGMEMU0015)\n\n## [Encodage](note::HUSPSYCOGMEMU0020)\n\n## [Short-term memory](note::HUSPSYCOGMEMU0025)\n\n## [Stratégies d'apprentissage](note::HUSPSYCOGMEMU0030)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.186866732Z",
+    "quality" : "LOW"
+  }
+}

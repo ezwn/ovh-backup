@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATGRAXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Graphes",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Graphes\n\n## [Définition](note::MATGRAXXXXXXU0002)\n\nGraphe orienté, pondéré\nBoucles (ou pas)\n\n## [Graphes particuliers](note::MATGRAXXXXXXU0005)\n\nComposante de graphe (sous-graphe) connexe.\n\n## [Chemin](note::MATGRAXXXXXXU0006)\n\n## [Circuit](note::MATGRAXXXXXXU0007)\n\n## [Cycle](note::MATGRAXXXXXXU0008)\n\n## [Arbre](note::MATGRAXXXXXXU0011)\n\n## [Matrice d'adjacence](note::MATGRAXXXXXXU0020)\n\n## [Degré des sommets](note::MATGRAXXXXXXU0025)\n\n## [Eulérien](note::MATGRAXXXXXXU0050)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.856893808Z",
+    "quality" : "LOW"
+  }
+}

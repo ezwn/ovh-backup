@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "2ne5hpj0k3dw83toek1lks",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 2 : Volet financement",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 2 : Volet financement\n\n## Fiches\n\n### [Aspects financier d'un projet, définitions](note::2lgkhk54nxmjuveaoj0364)\n### [Méthodologie financière projet](note::8acgw0lbz8mdhczdg73wbq)\n\n## Repérage\n\n### Exemple financement et ROI.pdf\n\n### PDF RIO\n\np1   Paramètres\np2   Rentabilité\n\nFlux de trésorerie\n\n### PDF\n\np3   Aperçu\np4   3 processus de la gestion budgétaire\n\np5   Intérêt\np6   Estimation des coûts\n\np7   Etapes de l'estimation ★★\n\n- périmètre fonctionnel\n- caractéristiques non fonctionnelles\n- identifier les incertitudes dûes à l'innovation\n- identificer les incertitudes organisationnelles / humain, technoloqieus\n\np8   Estimation des charges : Techniques et facteurs à considérer ICI\np9   Budgétisation\np11   Planification financière\np11   Financement : source et stratégie\np12   Calcul du retour sur investissement\np13   Courbe d'investissement et retour sur investissement\np15   Gestion des Risques Financiers : identification, plan de gestion, suivi et contrôle\np16   Exemples de KPI : Ecqrts de Couts\np17   Outils et Méthodologies\np18   Bonnes pratiques\n\n### RIO, vidéo\n\n[Choix d'une imprimante en fonction du coût à l'aide d'une équation](video::1;00:00:000)\n[Flux de trésorerie](video::1;00:03:52)\n[Retour sur investissement dans le cycle du projet](video::1;00:05:45)\n[Coût de développement et coûts d'exploitation](video::1;00:12:30)\nFin de vie du logiciel = fin des gains\n[Difficulté destimation des gains difficiles (pertes évitées ?)](video::1;00:15:40)\n[Exemple de perte évitée](video::1;00:17:017)\n[CAPEX et OPEX](video::1;00:18:10)\n[Conclusion pour calculer le ROI](video::1;00:22:42)\n[Calcul des coûts](video::1;00:22:35)\n[Coûts humains](video::1;00:24:00)\n[Salaire et charges](video::1;00:25:00)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "1" : "nsy115-s2.mp4",
+        "2" : "nsy115-2.pdf"
+      }
+    } ],
+    "modificationDate" : "2025-10-06T10:00:38.348360632Z"
+  }
+}

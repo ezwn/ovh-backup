@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOFDEVXXXU0100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Valeurs d'un système de production logicielle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Optimisation de la valeur d'un système de production logicielle\n\nDes logiciels jetable? Quel niveau de qualité?\n\n## [Types de valeurs](note::PERSOFDEVXXXU0105)\n\n## Axes d'optimisation\n\n- Flux et disponibilité de l'information fonctionnelle (IF)\n- Fiabilité logicielle\n- Flexibilité logicielle\n\n- Agilité technique : capacité à capitaliser les outils, les composants et l'information technique afin de s'adapter rapidement à des contextes différents.\n\n## Outils\n\n### Information fonctionnelle (flux et disponibilité)\n\n- The quality of the handovers!\n- readme, procédures décrites ou automatisées\n- vidéos de procédures\n- page \"news from my team\": donne les release, impediments, ... présenté comme des \"news\"\n- description métier\n* guide utilisateur\n* description technico-fonctionnelles : détails du fonctionnement des composants d'UI\n- description des tests (test plans)\n\n### Flexibilité logicielle\n\n* catalogue logiciels, composants, outils\n* découplage logiciel\n* disponibilité des composants logiciels : qu'ils existent, les trouver, les intégrer\n\n### Autres\n\n- order\n- couverture de tests\n- test validation criteria, to make sure they won't fail constantly in the future. (see build failings at Nx)\n- meaningful test feedbacks\n- traçabilité des packets : responsabilité, auto-analyse README Jenkins?",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Valeurs d'un système de production logicielle",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Valeurs d'un système de production logicielle",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.160276096Z",
+    "quality" : "LOW"
+  }
+}

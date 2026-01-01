@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6015",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "SOPHiA Genetics",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "\n- **Poste** : Développeur Frontend chez SOPHiA GENETICS\n- **Localisation** : Bidart (France) ou Rolle (Suisse), hybride (3j sur site)\n- **Mission** : Développer des fonctionnalités frontend pour une plateforme SaaS d’analyse de données génomiques, cliniques et d’imagerie, dans un environnement cloud distribué.\n- **Stack** : React (essentiel), Azure, AKS, CI/CD, Terraform (atouts)\n- **Profil recherché** : 2+ ans d'expérience, anglais pro, bonnes pratiques de dev, esprit d'équipe\n- **Contexte** : Entreprise innovante dans le domaine de la santé, forte croissance, impact direct sur la vie des patients.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.129822986Z",
+    "quality" : "LOW"
+  }
+}

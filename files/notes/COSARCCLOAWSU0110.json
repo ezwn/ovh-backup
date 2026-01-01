@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0110",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Part 1",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Compartiment (Bucket):\nnom = ID\n\nContenu d'un objet S3 :\n- clé\n- ID de version\n- valeur\n- métadonnées\n-sous-ressources\n\nId :\n-clé\n- ID de version\n\nTaille max d'un objet :\n5 To\n\nNon éditable en place : ré-upload complet\n\nMetadata:\nkey / value\n\nAvantages :\n- durability\n-dispo\n-scalabililté\n-sécurité\n-performances\n\nAjouter de la cache\n\nFonctionnalité :\n-gestion d'accès\n-elasticité\n\nPrincipe du moindre privilège :\ntoujours donner les droits minimaux\n\nOption contrôle accès :\n-Blocage de l'accès public\n-Stratégie IAM\n-Droits par compartiment (bucket)\n-Liste de contrôle d'accès (legacy)\n-Point d'accès S3 : noms et autorisations spécifiques par app\n-URL présignées : temporaire\n-outil de vérification des autorisation\n\nTrois grandes méthodes de configuration de l'accès\n-privé (par défaut) : propriétaire seul\n- public : tout le monde à accès\n-contrôlé : accès apliqué aux paramètres de sécurité\n\nChiffrement:\n-serveur : automatique\n-client c'est à dire avant envoi vers AWS",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T12:10:07.797170615Z",
+    "quality" : "LOW"
+  }
+}

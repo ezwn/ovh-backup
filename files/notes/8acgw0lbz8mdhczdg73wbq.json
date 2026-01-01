@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "8acgw0lbz8mdhczdg73wbq",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Méthodologie financière projet",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Méthodologie financière projet\n\n~? 3 **processus** de la **gestion** **budgétaire** :\n- **établir** le **budget**\n- **suivre** le **budget**\n- **identifier** et **corriger** les **écarts**\n\n## Calcul des coûts\n\n~? **Coûts** **directs** et indirects :\n- directs : **managériaux**, **main d'oeuvre**, **équipement**\n- indirects : **administration**, **gestion**, **communication**\n\n~? **Coût** par **fréquence** :\n- initial\n- récurrent\n\n~? **Nature** des **coûts** :\n- **humains** **internes**\n- **humains** **externes**\n- **licences**\n- **matériel**\n\n~? Pour **estimer** les **coûts humains** :\n- **2 fois** le **salaire** **typique** brut, **ramené** au **temps consacré**\n\n## Calcul des gains\n\n~? **Si** **gains** **invisibles** :\n- **penser** **pertes** **évités**\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-27T05:59:55.133009886Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU1010",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Transactions",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "# Transactions\n\n%## Généralités\n\n~?Que garantit une transaction ?\n- transformer un état cohérent en un nouvel état cohérent\n\n~?Quelles propriétés sont attendues d'une transaction ?\n- atomicité\n- consistance\n- isolation\n- durabilité\n\n%## Propriétés\n\n~?Qu'est ce que l'atomicité des transactions ?\n- être **exécutées intégralement ou pas du tout**\n\n~?Qu'est ce que la consistance des transaction ?\n- appliquées **dans leur totalité**, elles **respectent les contraintes** de l'état global\n\n~?Qu'est ce que l'isolation des transaction ?\n- leur **résultat n'est visible qu'une fois validées**\n\n~?Qu'est ce que la durabilité des transaction ?\n- leur **résultat persiste définitivement**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Transactions",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "# Transactions\n\n%## General\n\n~?What does a transaction guarantee?\n- transform a consistent state into a new consistent state\n\n~?What properties are expected of a transaction?\n- atomicity\n- consistency\n- isolation\n- durability\n\n%## Properties\n\n~?What is the atomicity of transactions?\n- be **executed in full or not at all**\n\n~?What is the consistency of transactions?\n- applied **in their entirety**, they **respect the global state constraints**\n\n~?What is the isolation of transactions?\n- their **result is visible only once validated**\n\n~?What is the durability of transactions?\n- their **result persists permanently**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Transaktionen",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "# Transaktionen\n\n%## Allgemeines\n\n~?Was garantiert eine Transaktion?\n- einen konsistenten Zustand in einen neuen konsistenten Zustand transformieren\n\n~?Welche Eigenschaften werden von einer Transaktion erwartet?\n- Atomarität\n- Konsistenz\n- Isolation\n- Dauerhaftigkeit\n\n%## Eigenschaften\n\n~?Was ist die Atomarität der Transaktionen?\n- **entweder vollständig oder gar nicht** ausgeführt werden\n\n~?Was ist die Konsistenz der Transaktionen?\n- **vollständig angewendet**, sie **respektieren die Einschränkungen** des globalen Zustands\n\n~?Was ist die Isolation der Transaktionen?\n- ihr **Ergebnis ist erst sichtbar, wenn sie bestätigt sind**\n\n~?Was ist die Dauerhaftigkeit der Transaktionen?\n- ihr **Ergebnis bleibt dauerhaft bestehen**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.255211136Z",
+    "quality" : "LOW"
+  }
+}

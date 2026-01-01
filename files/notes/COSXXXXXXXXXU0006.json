@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0006",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Virtualisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Virtualisation\n\n##% Aperçu\n\n~?Caractéristiques des systèmes virtuels :\n**même comportement que les systèmes physiques**, **découplés du matériel**, **isolés**.\n\n~?Différence entre virtualisation et émulation :\n- la virtualisation permet un accès direct aux ressources\n- l'émulation est une simulation\n\n~?Exemples de virtualisation :\n**mémoire virtuelle**, **réseau local virtuel** (VLAN)\n\n##% Virtualisation du stockage des données\n\n~?2 techniques de virtualisation du stockage des données :\n- Redundant Array of Independent Disks\n- Storage Area Network\n\n~?Éléments d'un Storage Area Network :\n-baie de disques\n-connexion par **fibre optique**\n-système de système de fichiers virtuel\n\n##% Virtualisation des serveurs\n\n~?Rôle d'un hyperviseur :\n-instancier des machines virtuelles\n-les isoler\n-les démarrer\n-les arrêter\n\n~?Caractéristiques d'un hyperviseur de type 1 :\n**pas de système d'exploitation**, appelé \"bare metal\".\n\n~?Caractéristiques d'un hyperviseur de type 2 :\nhébergé par un système d'exploitation.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Virtualization",
+      "description" : "Virtualisation : l'essentiel",
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Virtualization\n\n##% Overview\n\n~?Characteristics of virtual systems:\n**same behavior as physical systems**, **decoupled from hardware**, **isolated**.\n\n~?Difference between virtualization and emulation:\n- virtualization allows direct access to resources\n- emulation is a simulation\n\n~?Examples of virtualization:\n**virtual memory**, **virtual local area network** (VLAN)\n\n##% Data Storage Virtualization\n\n~?2 techniques for data storage virtualization:\n- Redundant Array of Independent Disks\n- Storage Area Network\n\n~?Components of a Storage Area Network:\n-disk array\n-connection via **fiber optic**\n-virtual file system\n\n##% Server Virtualization\n\n~?Role of a hypervisor:\n-instantiates virtual machines\n-isolates them\n-starts them\n-stops them\n\n~?Characteristics of a type 1 hypervisor:\n**no operating system**, called \"bare metal\".\n\n~?Characteristics of a type 2 hypervisor:\nhosted by an operating system.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : " Virtualisierung",
+      "description" : "Virtualisation : l'essentiel",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Virtualisierung\n\n##% Überblick\n\n~?Merkmale von virtuellen Systemen:\n**gleiches Verhalten wie physische Systeme**, **vom Gerät entkoppelt**, **isoliert**.\n\n~?Unterschied zwischen Virtualisierung und Emulation:\n- Virtualisierung ermöglicht einen direkten Zugriff auf die Ressourcen.\n- Emulation ist eine Nachbildung.\n\n~?Beispiele für Virtualisierung:\n**virtueller Speicher**, **virtuelles lokales Netzwerk** (VLAN)\n\n##% Virtualisierung der Datenspeicherung\n\n~?2 Techniken der Virtualisierung der Datenspeicherung:\n- Redundante Anordnung unabhängiger Festplatten\n- **Speichernetzwerk** (Storage Area Network)\n\n~?Elemente eines Storage Area Network:\n-Festplattengehäuse\n-Verbindung über **Glasfaser**\n-virtuelles Dateisystem\n\n##% Virtualisierung von Servern\n\n~?Rolle eines Hypervisors :\n-virtuelle Maschinen instanziieren\n-sie isolieren\n-sie starten\n-sie stoppen\n\n~?Merkmale eines Hypervisors vom Typ 1:\n**kein Betriebssystem**, sogenannte \"Bare Metal\".\n\n~?Merkmale eines Hypervisors vom Typ 2:\nvon einem Betriebssystem gehostet.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-06T10:58:25.162227040Z",
+    "quality" : "LOW"
+  }
+}

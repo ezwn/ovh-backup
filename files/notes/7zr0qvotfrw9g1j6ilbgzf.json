@@ -1,0 +1,41 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "7zr0qvotfrw9g1j6ilbgzf",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dépenses des administrations publiques françaises",
+      "description" : "Comprendre les dépenses publiques.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Dépenses des administrations publiques françaises\n\n~? **Contribution** des différents **types d'APU** aux **dépenses** :\n- **ASSO**: **44 %**\n- **APUC** : **34 %**\n- **APUL** : **17 %**\n- **ODAC** : **4 %**\n- **ODAL** : **1 %**\n\n~? **Contribution** des différents **types d'APU** à l'**investissement** :\n- **APUL** : **48 %**\n- **ODAC** : **26 %**\n- **APUC** : **13 %**\n\n~? Principale **raison** de **l'augmentation** des **dépenses publiques** :\n- augmentation des dépenses des **assurances sociales**\n\n~? **Effet** de la **décentralisation** sur les **dépenses publiques** :\nElles sont **transférées** **de** l'**État** **vers** les **collectivités territoriales**\n\n~? **Limites** de **déficit** et d'**endettement** fixées pour les **États** par l'**Europe** :\n-**déficit** de **3 %** du PIB\n-**endettement** de **60 %** du PIB\n\n~? **Déficit** pour l'État, et **relation** **avec** la **dette** :\n-Le déficit, c'est la **différence** entre **dépenses** et **recettes**.\n-Il est **compensé par** des **emprunts**,\n-dont l'**accumulation** forme la **dette**.\n\n~? **Problèmes** de la **dette** :\n-elle **s'auto**-**alimente** **car** elle est **remboursée** **par** des **emprunts**\n-son **remboursement** est l'**une des charges les plus élevées** de l'État\n-son niveau **dépasse** les **limites européennes**\n\n~? **Règles** de **financement** des **collectivités locales** :\n- elles doivent **couvrir** leurs **dépenses courantes** **par** leurs **recettes**\n- elles **ne peuvent emprunter que** **pour investir**.\n\n~? **Poids budgétaire** des **transferts** de l'**État** vers les **autres APU** :\nVers les **APUL** : **18 %**\nVers les **ASSO** : **23 %**\n\n~? **Raisons** des **transferts** de l'**État** **vers** les **collectivités** :\n- **40 %** : **compensation de taxes** supprimées\n- **38 %** : compensation de **transferts de compétences**\n- **18 %** : **soutien** et **péréquation**\n- **4 %** : **subventions** d'**équipement**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "APUC" : "administrations publiques centrales",
+        "APUL" : "administrations publiques locales",
+        "ASSO" : "administrations de sécurité sociale",
+        "ODAC" : "organismes Divers d'Administration Centrale",
+        "ODAL" : "organismes Divers d'Administration Locale",
+        "APU" : "administrations publiques"
+      },
+      "sttMapping" : {
+        "administrations publiques centrales" : "APUC",
+        "administrations publiques locales" : "APUL",
+        "administrations de sécurité sociale" : "ASSO",
+        "organismes Divers d'Administration Centrale" : "ODAC",
+        "organismes Divers d'Administration Locale" : "ODAL",
+        "administrations publiques" : "APU"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-11T05:40:02.794050756Z",
+    "quality" : "LOW"
+  }
+}

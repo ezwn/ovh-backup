@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU2020",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Transactions réparties",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "%# Transactions réparties\n\n~?Quel problème soulèvent les transactions réparties ?\nMaintien de la **cohérence globale**.\n\n~?Comment commence l'exécution d'une transaction globale ?\nPar son **morcellement en transactions locales**.\n\n~?Quelle contrainte supplémentaire les transactions réparties respectent-elles ?\nTous les sites sont mis à jour ou aucun.\n\n~?Quel outil garantit la coordination des transactions ?\n- moniteur transactionnel",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Distributed Transactions",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "%# Distributed Transactions\n\n~?What problem do distributed transactions raise?\nMaintaining **global consistency**.\n\n~?How does the execution of a global transaction begin?\nBy its **fragmentation into local transactions**.\n\n~?What additional constraint do distributed transactions adhere to?\nAll sites are updated or none.\n\n~?What tool guarantees the coordination of transactions?\n- transaction monitor",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Verteilte Transaktionen",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Aoede",
+      "text" : "%# Verteilte Transaktionen\n\n~?Welches Problem werfen verteilte Transaktionen auf?\nAufrechterhaltung der **globalen Konsistenz**.\n\n~?Wie beginnt die Ausführung einer globalen Transaktion?\nDurch die **Zerlegung in lokale Transaktionen**.\n\n~?Welche zusätzliche Bedingung beachten verteilte Transaktionen?\nAlle Standorte werden aktualisiert oder keiner.\n\n~?Welches Werkzeug garantiert die Koordination der Transaktionen?\n- Transaktionsmonitor",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-29T14:57:07.500614180Z",
+    "quality" : "LOW"
+  }
+}

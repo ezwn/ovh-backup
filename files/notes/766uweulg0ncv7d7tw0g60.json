@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "766uweulg0ncv7d7tw0g60",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Techniques pour LLM (plan)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Techniques pour LLM (plan)\n\n**7** **techniques** pour **choisir** et **intégrer** des **LLM**\n- Les **évaluations**, pour **mesurer** la **performance**\n- La **Génération Augmentée par Recherche**, pour **ajouter** des **connaissances** externes et récentes\n- L'**affinage**, pour **améliorer** les **performances** sur des **tâches spécifiques**\n- La **mise en cache**, pour **réduire** la **latence** et les **coûts**\n- Les **garde-fous,** pour **garantir** la **qualité** des résultats\n- L'**Expérience Utilisateur Défensive**, pour **anticiper** et **gérer** les **erreurs**\n- La **collecte** des **retours utilisateurs**, pour **alimenter** la boucle d'**amélioration continue** des **données**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : {
+        "Génération Augmentée par Recherche" : "RAG"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-29T10:18:55.884736124Z",
+    "quality" : "LOW"
+  }
+}

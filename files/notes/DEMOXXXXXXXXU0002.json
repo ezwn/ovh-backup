@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "DEMOXXXXXXXXU0002",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Demo voix off",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "- Voici KIAO GO, l'application pour apprendre efficacement, en restant actif ou en se déplaçant.\n- Elle me propose l’exercice qu’il me faut, au moment optimal pour renforcer ma mémoire.\n- KIAO GO me parle, je réponds et l'exercice s'adapte immédiatement.\n- Ainsi, je ne pers pas de temps avec ce que je sais déjà, ou ce qui est trop facile.\n- Utilisable partout, même en marchant. KIAO GO, c’est l’apprentissage optimisé en mouvement.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.176260935Z",
+    "quality" : "LOW"
+  }
+}

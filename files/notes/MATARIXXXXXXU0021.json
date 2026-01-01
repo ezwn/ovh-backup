@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0021",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorème de Bézout et corollaires",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Théorème de Bézout et corollaires\n\n%## On se place dans l'ensemble des entiers relatifs.\n\n?~Que dit le théorème de Bézout ?\nPour tout entiers $$a$$ et $$b$$, Il existe $$u$$ et $$v$$ tels que $$a$$ $$u$$ plus $$b$$ $$v$$ égal PGCD $$a$$ $$b$$.\n\n?~Quelle est la conséquence du théorème de Bézout pour $$a$$ et $$b$$ premiers entre eux ?\nIl existe $$u$$ et $$v$$ tels que $$a$$ $$u$$ plus $$b$$ $$v$$ égal 1.\n\n?~Que peut on conclure si l'on peut trouver $$u$$ et $$v$$ tels que $$a$$ $$u$$ plus $$b$$ $$v$$ égal 1 ?\nPGCD $$a$$ $$b$$ égal 1.\n\n?~Que peut on conclure si $$d$$ divise à la fois $$a$$ et $$b$$ ?\n$$d$$ divise le PGCD de $$a$$ et $$b$$.\n\n?~Que peut on conclure si $$a$$ divise $$b$$ fois $$c$$, et le PGCD $$a$$ $$b$$ égal 1 ?\n$$a$$ divise $$c$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Théorème de Bézout et corollaires",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Bézout's Theorem and Corollaries\n\n%## We consider the set of integers.\n\n?~What does Bézout's theorem say?\nFor any integers $$a$$ and $$b$$, there exist $$u$$ and $$v$$ such that $$a$$ $$u$$ plus $$b$$ $$v$$ equals GCD $$a$$ $$b$$.\n\n?~What is the consequence of Bézout's theorem for $$a$$ and $$b$$ being coprime?\nThere exist $$u$$ and $$v$$ such that $$a$$ $$u$$ plus $$b$$ $$v$$ equals 1.\n\n?~What can we conclude if we can find $$u$$ and $$v$$ such that $$a$$ $$u$$ plus $$b$$ $$v$$ equals 1?\nGCD $$a$$ $$b$$ equals 1.\n\n?~What can we conclude if $$d$$ divides both $$a$$ and $$b$$?\n$$d$$ divides the GCD of $$a$$ and $$b$$.\n\n?~What can we conclude if $$a$$ divides $$b$$ times $$c$$, and GCD $$a$$ $$b$$ equals 1?\n$$a$$ divides $$c$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.720553999Z",
+    "quality" : "LOW"
+  }
+}

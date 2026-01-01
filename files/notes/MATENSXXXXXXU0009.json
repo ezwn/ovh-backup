@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATENSXXXXXXU0009",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Ensemble des parties d'un ensemble",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Soit E un ensemble.\n\n?L'ensemble des parties de $$E$$ est\n^inclus\nl'ensemble des ensembles inclus dans $$E$$.\n\n?Il contient en particulier\nl'ensemble vide.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Ensemble des parties d'un ensemble",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Sei $$E$$ eine Menge.\n\n?Die Potenzmenge von $$E$$ ist\n^enthaltenen\ndie Menge der in $$E$$ enthaltenen Mengen.\n\n?Sie enthält insbesondere\ndie leere Menge.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.453302489Z",
+    "quality" : "LOW"
+  }
+}

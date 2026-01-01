@@ -1,0 +1,37 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTTECNEGU0030",
+  "content" : {
+    "domain" : "MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Responsabilité Sociale des Entreprises",
+      "description" : "Cette unité permet d'apprendre ce qu'est la RSE par quelques notions fondamentales, notées en suivant le cours TET102 du CNAM, et enrichies en conformité avec à la norme ISO 26 000.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Responsabilité Sociale des Entreprises\n\n?~ RSE :\n**démarche** des entreprises\n**pour** intégrer des **enjeux sociétaux** dans leur activité.\n\n?~**Norme** directrice de la **RSE** :\nISO 26000\n\n?~**Enjeux** **pris en compte** par la **RSE** :\n- sociaux\n- environnementaux\n- éthiques\n- économiques\n\n?~7 **piliers** (ou thématiques) de la **RSE** :\n- **gouvernance** de l'**organisation**\n- **droits** de l'**homme**\n- **conditions** de **travail**\n- environnement\n- **loyauté** des **pratiques**\n- consommateurs\n- **communautés** et **développement local**\n\n?~7 **principes de conduite** de la **RSE** :\n- responsabilité\n- transparence\n- comportement éthique\n- **respect** des **intérêts** des **parties prenantes**\n- **respect** des **lois**\n- **respect** des **normes internationales** de **comportement**\n- **respect** des **droits** de l'**homme**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "RSE" : "Responsabilité Sociale des Entreprises",
+        "ISO" : "organisation internationale de normalisation"
+      },
+      "sttMapping" : {
+        "responsabilité sociale des entreprises" : "RSE",
+        "organisation internationale de normalisation" : "ISO",
+        "responsabilité sociétale des entreprises" : "RSE"
+      },
+      "tooltips" : {
+        "RSE" : "Responsabilité sociale (ou sociétale) des entreprises",
+        "ISO" : "organisation internationale de normalisation"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-30T10:19:24.345674604Z",
+    "quality" : "MEDIUM"
+  }
+}

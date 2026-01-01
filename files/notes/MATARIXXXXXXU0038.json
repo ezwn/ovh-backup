@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0038",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Crible d’Ératosthène",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour déterminer quels sont les premiers nombres premiers,\ncrible\nÉratosthène\non peut utiliser le crible d’Ératosthène.\n\nOn écrit les nombres que l'on souhaite tester.\nPuis on les parcours,\nà partir de 2,\net jusqu'à la racine carrée du plus grand nombre considéré.\nLe premier nombre non barré rencontré est premier.\nOn barre tous ses multiples (à sa droite),\npuis on continue le parcours.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Crible d’Ératosthène",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "To determine which numbers are prime,\n^sieve\n^Eratosthenes\none can use the Sieve of Eratosthenes.\n\nFirst, write down the numbers you wish to test.\nThen proceed through them,\nstarting from 2,\nup to the square root of the largest number considered.\nThe first unmarked number encountered is prime.\nCross out all its multiples (to its right),\nand then continue the process.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Crible d’Ératosthène",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Um die ersten Primzahlen zu bestimmen,\n^das Sieb, die Siebe\n^Eratosthenes\nkann man das Sieb des Eratosthenes verwenden.\n\nMan schreibt die Zahlen auf, die man testen möchte.\nDann durchläuft man sie,\nbeginnend bei 2,\nund bis zur Quadratwurzel der größten betrachteten Zahl.\nDie erste nicht gestrichene Zahl ist eine Primzahl.\nMan streicht alle ihre Vielfachen (rechts von ihr),\ndann setzt man den Durchlauf fort.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.466904750Z",
+    "quality" : "LOW"
+  }
+}

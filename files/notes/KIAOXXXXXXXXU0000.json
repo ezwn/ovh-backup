@@ -1,0 +1,79 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "KIAOXXXXXXXXU0000",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "KIAO",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# KIAO\n\n?~KIAO, c'est :\n\n\n\n\nplateforme d'apprentissage par répétition/rappel espacé.\n\n\n?~Elle contient :\n\n- une application android pour réviser partout, même en mouvement.\n\n\n\n- un outil prise de note assistée par IA.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : "KIAO",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# KIAO\n\n?~Qu'est-ce que KIAO ?\n^une plateforme // {\"headword\":\"plateforme\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n^un apprentissage // {\"headword\":\"apprentissage\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n^une répétition // {\"headword\":\"répétition\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n^un rappel // {\"headword\":\"rappel\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"C1\"}\nPlateforme d'apprentissage par répétition/rappel espacé.\n\n^contenir // {\"headword\":\"contenir\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n?~Que contient KIAO ?\n^une application // {\"headword\":\"application\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n- Une application Android pour réviser partout, même en mouvement.\n^un outil // {\"headword\":\"outil\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^une intelligence // {\"headword\":\"intelligence\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"C1\"}\n^artificielle // {\"headword\":\"artificielle\",\"category\":\"adjective\",\"cefrLevel\":\"C1\",\"gender\":\"feminine\"}\n- Un outil de prise de note assistée par intelligence artificielle.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "KIAO",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# KIAO\n\n?~What is KIAO?\n^the platform // {\"headword\":\"platform\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n^the learning // {\"headword\":\"learning\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n^the repetition // {\"headword\":\"repetition\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n^the recall // {\"headword\":\"recall\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\nA spaced repetition learning platform.\n\n^contain // {\"headword\":\"contain\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n?~What does KIAO contain?\n^the application // {\"headword\":\"application\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n- An Android application to review anywhere, even on the go.\n^the tool // {\"headword\":\"tool\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the intelligence // {\"headword\":\"intelligence\",\"category\":\"noun\",\"cefrLevel\":\"C1\"}\n^artificial // {\"headword\":\"artificial\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n- A note-taking tool assisted by artificial intelligence.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "KIAO",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# KIAO\n\n?~Was ist KIAO?\n^die Plattform // {\"headword\":\"Plattform\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^das Lernen // {\"headword\":\"Lernen\",\"category\":\"noun\",\"cefrLevel\":\"B1\",\"gender\":\"neuter\"}\n^die Wiederholung // {\"headword\":\"Wiederholung\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^der Rückruf // {\"headword\":\"Rückruf\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\nPlattform für Lernen durch Wiederholung/erweiterten Rückruf.\n\n^enthalten // {\"headword\":\"enthalten\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n?~Was enthält KIAO?\n^die App // {\"headword\":\"App\",\"category\":\"noun\",\"cefrLevel\":\"A1\",\"gender\":\"feminine\"}\n- Eine Android-App, um überall zu wiederholen, sogar unterwegs.\n^das Werkzeug // {\"headword\":\"Werkzeug\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"A2\"}\n^die Intelligenz // {\"headword\":\"Intelligenz\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\n^künstlich // {\"headword\":\"künstlich\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n- Ein Notizwerkzeug unterstützt durch künstliche Intelligenz.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "KIAO",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "%# KIAO\n\n?~KIAO 是什么？\n^一个平台 // {\"headword\":\"平台\",\"category\":\"noun\",\"cefrLevel\":\"B2\",\"pinyin\":\"píng tái\",\"classifier\":\"个\"}\n^学习 // {\"headword\":\"学习\",\"category\":\"noun\",\"cefrLevel\":\"A1\",\"pinyin\":\"xué xí\"}\n^一个重复 // {\"headword\":\"重复\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"chóng fù\",\"cefrLevel\":\"B1\"}\n^一段回忆 // {\"headword\":\"回忆\",\"category\":\"noun\",\"classifier\":\"段\",\"pinyin\":\"huí yì\",\"cefrLevel\":\"B1\"}\n通过间隔重复/回忆进行学习的平台。\n\n^包含 // {\"headword\":\"包含\",\"category\":\"verb\",\"pinyin\":\"bāo hán\",\"cefrLevel\":\"B1\"}\n?~KIAO 包含什么？\n^一个应用 // {\"headword\":\"应用\",\"category\":\"noun\",\"cefrLevel\":\"B1\",\"pinyin\":\"yìng yòng\",\"classifier\":\"个\"}\n- 一款可以随时随地复习的安卓应用，即便在运动中也可以。\n^一个工具 // {\"headword\":\"工具\",\"category\":\"noun\",\"cefrLevel\":\"B1\",\"pinyin\":\"gōng jù\",\"classifier\":\"个\"}\n^一智能 // {\"headword\":\"智能\",\"category\":\"noun\",\"classifier\":\"一\",\"pinyin\":\"zhì néng\",\"cefrLevel\":\"B2\"}\n^人工 // {\"headword\":\"人工\",\"category\":\"other\",\"cefrLevel\":\"C1\",\"pinyin\":\"rén gōng\"}\n- 一个由人工智能辅助的笔记工具。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.297002023Z",
+    "quality" : "LOW"
+  }
+}

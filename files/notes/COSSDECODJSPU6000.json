@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU6000",
+  "content" : {
+    "domain" : "SPRING_FRAMEWORK",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Spring tests",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Parlons de tests d'une application Spring Boot.\n\n~?Une application Spring peut être testée aux niveaux suivants :\nunitaire, intégration et intégration ciblée.\n\n~?Comment annoter la classe d'un test unitaire simple ?\nAucune annotation n'est nécessaire.\n\n~?Comment annoter la classe d'un test unitaire qui utilise Mockito ?\nAvec ExtendWith et MockitoExtension.\n\n~?Comment annoter un test d'intégration ?\nAvec SpringBootTest.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Spring tests",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Let's talk about testing a Spring Boot application.\n\n~?A Spring application can be tested at the following levels:\nunit, integration, and targeted integration.\n\n~?How to annotate the class of a simple unit test?\nNo annotation is necessary.\n\n~?How to annotate the class of a unit test that uses Mockito?\nWith ExtendWith and MockitoExtension.\n\n~?How to annotate an integration test?\nWith SpringBootTest.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.056986456Z",
+    "quality" : "LOW"
+  }
+}

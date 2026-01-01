@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0073",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Exponentiation modulaire rapide",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Pour calculer $$m^e$$ modulo $$N$$ via exponentiation modulaire rapide\n- on représente $$e$$ en binaire\n- on calcule les puissances de $$m$$ modulo $$N$$\n- on calcule leur produit modulo $$N$$\n\n?La deuxième étape de l'exponentiation modulaire de $$m^e$$ modulo $$N$$ consiste à\ncalculer $$m$$ élevé aux puissances de 2 successives, modulo $$N$$\n?pour\ntoutes les puissances de 2 jusqu'au bit maximum.\n\n?On fait le produit des résultats précédents dont\nle bit est 1.\n?Après chaque multiplication,\non réduit modulo $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Exponentiation modulaire rapide",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?To calculate $$m^e$$ modulo $$N$$ via fast modular exponentiation\n- we represent $$e$$ in binary\n- we calculate the powers of $$m$$ modulo $$N$$\n- we calculate their product modulo $$N$$\n\n?The second step of the modular exponentiation of $$m^e$$ modulo $$N$$ consists of\ncalculating $$m$$ raised to successive powers of 2, modulo $$N$$\n?for\nall powers of 2 up to the maximum bit.\n\n?We take the product of the previous results whose\nbit is 1.\n?After each multiplication,\nwe reduce modulo $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.494727736Z",
+    "quality" : "LOW"
+  }
+}

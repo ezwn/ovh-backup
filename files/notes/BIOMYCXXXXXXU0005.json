@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "BIOMYCXXXXXXU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "https://fr.wikipedia.org/wiki/Sporophore",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Champignons supérieurs [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "champignon\n# Les **champignons supérieurs** possèdent\n\n## un **organe végétatif**  appelé **mycélium**,\nse développer\n### qui se développe dans un substrat.\n\n## Et un **organe reproducteur** appelé **sporophore**.\nforme\n### La **forme** de ce dernier peut être :\n#### **agaricoïde**,\n#### **boletoïde**,\n#### **cantharelloïde**,\n#### et **coralloïde**.\nliste\n#### La liste n'est pas exhaustive.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Champignons supérieurs [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "~mushroom\n# The **higher mushrooms** have\n\n## a **vegetative organ** called **mycelium**,\ngrow, grew, grown\n### which grows in a substrate.\n\n## And a **reproductive organ** called **sporophore**.\n~shape\n### The **shape** of the latter can be:\n#### **agaricoid**,\n#### **boletoid**,\n#### **cantharelloid**,\n#### and **coralloid**.\n~list\n#### The list is not exhaustive.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Champignons supérieurs [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^der Pilz, die Pilze\n# Die **höheren Pilze** besitzen\n\n## ein **vegetatives Organ** genannt **Mycel**,\n^wachsen, wuchs, gewachsen\n### das in einem Substrat wächst.\n\n## Und ein **reproduktives Organ** genannt **Sporophor**.\n^die Form\n### Die **Form** dieses letzten kann sein:\n#### **agarikoid**,\n#### **bolotoid**,\n#### **kantharelloid**,\n#### und **koralloid**.\n^die Liste\n#### Die Liste ist nicht erschöpfend.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Champignons supérieurs [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^!一个真菌\n# **高等真菌** 具有\n\n## 一个称为**菌丝体**的**营养器官**,\n^!发育\n### 在某个基质中发育.\n\n## 以及一个称为**孢子体**的**繁殖器官**.\n^!一个形态\n### 后者的**形态**可以是:\n#### **伞状**,\n#### **牛肝菌状**,\n#### **鸡油菌状**,\n#### 和**珊瑚状**.\n^!一个列表\n#### 列表并不详尽.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.131163036Z",
+    "quality" : "LOW"
+  }
+}

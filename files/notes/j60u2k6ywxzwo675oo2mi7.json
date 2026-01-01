@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "j60u2k6ywxzwo675oo2mi7",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Attaques",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Attaques\n\n## Repérage\n\n[Capture et rejeu des mots de passe](video::4;00:00:00)\n\n~? Méthodes de vol de mots de passe :\n- visuelle\n- électronique : sniffeur\n- force brute (dictionnaire)\n- deviner\n- social engineering\n\n[Citations sur les mots de passe](video::4;00:01:07)\n[Vol de connexion](video::4;00:02:20)\n\n~? Adversary in the middle :\n- credential access\n- collection\n\n[Ecoutes clandistines](video::4;00:03:34)\n\n~? Network Sniffing :\n- credential access\n- discovery\n\n[Usurpation d'IP source](video::4;00:04:17)\n\n~? Usurpation d'IP source :\n- contournement des défenses\n-utilisé pour déni de service\n\n[Déni de service](video::4;00:05:30)\n[Cartographier la surface d'attaque](video::4;00:06:09)\n\n~? Elements de la surface d'attaque :\n-accès physiques\n-matériel\n-DNS et IP\n-réseau\n-connexions avec partenaires\n-dépôts de course ou exécutables\n-serveur et services, dont stockage cloud\n\n[Problèmes potentiels](video::4;00:09:09)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "4" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-10T18:25:25.792033688Z"
+  }
+}

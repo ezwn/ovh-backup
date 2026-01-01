@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKRECTECU0010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Techniques de recherche de travail",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Techniques de recherche de travail\n\n## Analyser le marché\n\n### offres\n\n- jobup : spécifique\n- linkedin\n- indeed : aggrégateur\n\n### profils similaires\n\noù ils travaillent + ce que font ces boîtes, compétences typiques, compétences absentes du marché\n\n## Evaluer les mesures\n\n- pour chaque mesure (ex: apprentissage) : temps, coût, pré-requis\n\n## Planifier les mesures\n\n## optimisation des candidatures\n\n- pouvoir générer des CL / CV hyper ciblés",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-10T11:59:47.779976058Z",
+    "quality" : "LOW"
+  }
+}

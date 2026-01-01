@@ -1,0 +1,54 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "18upy3u9ghln3jz12y4yex",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Génération Augmentée par Recherche",
+      "description" : "Cette unité permet de comprendre ce qu'est la Génération Augmentée par Recherche (RAG), une technique réputée pour sa capacité à mettre à jour les connaissances d'un LLM sans nécessiter d'entraînement.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Génération Augmentée par Recherche\n\n~?% **Intérêts** de la RAG dans la conception d'un agent :\n- **diminuer** ses **hallucinations**\n- lui fournir des **données récentes** à **moindre coût**\n- pouvoir **modifier** / **supprimer** **facilement** ses **informations**\n\n~? **Principe** de la RAG :\n- **récupérer** des **passages** de **documents**,\n- **proches** du **contexte sémantique** d'un **prompt**,\n- et les **envoyer** **avec** le **prompt** **à** un **LLM** pour génération.\n\n~? **Préparation** des **documents** :\n- on les **découpe** **en passages**, selon une stratégie contrôlée\n- on **converti** chaque passage **en** **un vecteur**\n- on **stocke** :\n- le **document**\n- les **vecteurs** et les **informations** de **récupération** des **passages**\n\n~? Mécanisme de **récupération des passages** pertinents :\n**recherche** **vectorielle** (aussi appelée recherche **sémantique**) :\nleurs vecteurs sont **proches** du vecteur du prompt à compléter.\n\n~? Mécanisme de **transmission au LLM** :\nle **texte** des passages est **ajouté au prompt** initial\nle tout est **envoyé** au LLM **comme** un **prompt** **classique**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "RAG" : "rague"
+      },
+      "sttMapping" : {
+        "rague" : "RAG",
+        "large language model" : "LLM"
+      },
+      "tooltips" : {
+        "RAG" : "Génération Augmentée par Recherche",
+        "LLM" : "Large Language Model"
+      },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Retrieval-Augmented Generation",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Retrieval-Augmented Generation\n\n~?**Benefits** of RAG in designing an agent:\n- **reduce** its **hallucinations**\n- provide it with **recent data** at **lower cost**\n- be able to **modify** / **delete** its **information** **easily**\n\n~?**Principle** of RAG:\n- **retrieve** **passages** from **documents**\n- that are **close** to the **semantic context** of a **prompt**\n- and **send** them **with** the **prompt** **to** an **LLM** for generation.\n\n~?**Preparation** of the **documents**:\n- we **split** them **into passages**, according to a controlled strategy\n- we **convert** each passage **into** **a vector**\n- we **store**:\n- the **document**\n- the **vectors** and the **information** needed to **retrieve** the **passages**\n\n~?Relevant **passages retrieval** mechanism:\n**vector** **search** (also called **semantic** search):\ntheir vectors are **close** to the vector of the prompt to be completed.\n\n~?Mechanism for **sending to the LLM**:\nthe **text** of the passages is **added to the initial prompt**\neverything is **sent** to the LLM **as** a **standard** **prompt**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "RAG" : "retrieval augmented generation",
+        "LLM" : "large language model"
+      },
+      "sttMapping" : { },
+      "tooltips" : {
+        "RAG" : "Retrieval-Augmented Generation",
+        "LLM" : "Large Language Model"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-07T14:10:58.859498182Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ivrk300otr49k7232bi527",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Attaques célèbres",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Attaques célèbres\n\n~? **Stuxnet** (**2010**) :\n- attaquant : **États-Unis** / **Israël**\n- impact : **saboter** les **centrifugeuses** d’enrichissement d’uranium **iraniennes**\n- **ver** transmis par **clé USB**\n- **détection** de **centrifugeuse**\n- **pilote de périphérique** signé à l'aide de **certificats volés**\n- **falsification** du **rapport** de l'**état** des **centrifugeuses**\n\n~? **TV5MONDE** (**2015**) :\n- attaquant : **APT28** (pirates **russes**)\n- impact : **destruction** du **serveur mail**, **messages** de **soutien** à l'**État Islamique**\n- exploitation de **mots de passe par défaut**\n- **hameçonnage** **ciblé**\n- Remote Access Troyan\n- **Changement** d'**IP**, **reconfiguration** **réseau**, **destruction** de **machines virtuelles**\n\n~? Cyber-**braquage** de la **Banque** **Centrale** du **Bengladesh** :\n- attaquant probable : groupe Lazarus, **Corée du Nord**\n- impact : **virements bancaires** pour 81000000 de dollars\n- **désactivation** de l'**imprimante**\n- enchaînement de **weekends** et **jours fériés** sur le chemin des virements\n\n~? **Equation** **Group** (2017) :\n- attaquants : **Shadow Brokers**\n- **exfiltration** et **publication** de **techniques** d'**attaques** de la **NSA**\n\n~? **WannaCry** (2017) :\n- attaquant : Groupe **Lazarus**\n- **chiffrement** du **disque dur** avec **demande de rançon**\n\n~? **NotPetya** :\n- attaquant : **renseignements russes**\n- **chiffre** le **secteur d'amorçage** et la **table maître**\n- via **mise à jour** du **logiciel** de déclaration **fiscale** **ukrainien**\n- **EternalBlue** pour l'**accès initial**\n- **Mimikatz** pour **récupèrer** les **mots de passe**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "TV5MONDE" : "TV5 monde"
+      },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "utc505-02a" : ""
+      }
+    } ],
+    "modificationDate" : "2025-09-29T17:46:10.381500613Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSANTXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "What is Anthropology?",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Entrance\n\n## [Introduction](note::HUSANTXXXXXXU0003)\n\n## [The founding fathers](note::HUSANTXXXXXXU0006)\n\n### [Structuralisme fonctionnel](note::PHIEPIXXXXXXU0005)\n\n### [Marcel Mauss](note::HUSANTXXXXXXU0015)\n\n## Concepts clé\n\n### [Intro et concept de personne](note::HUSANTXXXXXXU0030)\n\n### [Concept de société](note::HUSANTXXXXXXU0040)\n\n### [Concept de culture](note::HUSANTXXXXXXU0050)\n\n### [Concept de traduction](note::HUSANTXXXXXXU0060)\n\n### [Comparaison (en anthropologie)](note::HUSANTXXXXXXU0065)\n\n### [Holisme (en anthropologie)](note::HUSANTXXXXXXU0070)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "What is Anthropology?",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "What is Anthropology?",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "What is Anthropology?",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.522954619Z",
+    "quality" : "LOW"
+  }
+}

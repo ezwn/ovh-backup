@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALGMATXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Algèbre matricielle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Multiplication matricielle](note::MATALGMATXXXU0050)\n\n# [Inversion de matrices très simples](note::MATALGMATXXXU0250)\n\nParticularités intéressantes.\n\nOn peut avoir :\n\n* $$M1 \\times M2 = M1$$ et $$M2 ≠ I$$\n* $$M1 \\times M2 = 0$$, et $$M1 ≠ 0$$, et $$M2 ≠ 0$$",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.141771006Z",
+    "quality" : "LOW"
+  }
+}

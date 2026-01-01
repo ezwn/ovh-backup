@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYSOCXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Psychologie sociale",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Psychologie sociale\n\n## [Soi social](note::HUSPSYSOCXXXU0012)\n\n## [Soi processus](note::HUSPSYSOCXXXU0015)\n\n## [Attribution causale](note::HUSPSYSOCXXXU0060)\n\n## [Biais d'attribution interne](note::HUSPSYSOCXXXU0062)\n\n## [Biais acteur / observateur](note::HUSPSYSOCXXXU0064)\n\nA lire: https://fr.wikipedia.org/wiki/Biais_d%27attribution_hostile\n\nEffets of attribution:\n- David G. Myers - Psychology (2009) [EN] 682\n- David G. Myers - Psychologie (2008) DE 651\n\n## [Dissonance cognitive](note::HUSPSYSOCXXXU0350)\n\n## [L'engagement](note::HUSPSYSOCXXXU0355)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Psychologie sociale",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Psychologie sociale",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Psychologie sociale",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.008519778Z",
+    "quality" : "LOW"
+  }
+}

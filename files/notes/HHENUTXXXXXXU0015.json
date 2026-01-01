@@ -1,0 +1,79 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HHENUTXXXXXXU0015",
+  "content" : {
+    "domain" : "NUTRITION_HEALTH",
+    "privateComment" : "https://nutritionsource.hsph.harvard.edu/carbohydrates/",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Les glucides",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Fenrir",
+      "text" : "\n%# Glucides\n\n\n?~Le plus important :\n\n\n\n\nnon pas limiter leur quantité, mais bien les choisir\n\n\n?~Glucides les plus courants :\n\n\n\nSucre, amidon et fibres\n\n\n?~Sources de \"bon\" glucides :\n\n\n\n\ncéréales complètes, légumes, fruits, les légumineuses\n\n\n?~Sources de \"mauvais\" glucides :\n\n\n\npain blanc, pâtisseries, sodas, etc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : "Glucides",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^un glucide // {\"headword\":\"glucide\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n%# Glucides\n\n^important // {\"headword\":\"important\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~Quelle est la chose la plus importante à propos des glucides ?\n^limiter // {\"headword\":\"limiter\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^une quantité // {\"headword\":\"quantité\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^choisir // {\"headword\":\"choisir\",\"category\":\"verb\",\"cefrLevel\":\"A1\"}\n^bien // {\"headword\":\"bien\",\"category\":\"other\",\"cefrLevel\":\"A1\"}\nNon pas limiter leur quantité, mais bien les choisir.\n\n^courant // {\"headword\":\"courant\",\"category\":\"adjective\",\"cefrLevel\":\"A2\"}\n?~Quels sont les glucides les plus courants ?\n^un sucre // {\"headword\":\"sucre\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^un amidon // {\"headword\":\"amidon\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n^une fibre // {\"headword\":\"fibre\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\nSucre, amidon et fibres.\n\n^une source // {\"headword\":\"source\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n?~Quelles sont les sources de \"bons\" glucides ?\n^une céréale complète // {\"headword\":\"céréale complète\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^un légume // {\"headword\":\"légume\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^un fruit // {\"headword\":\"fruit\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^une légumineuse // {\"headword\":\"légumineuse\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B2\"}\nCéréales complètes, légumes, fruits, légumineuses.\n\n^mauvais // {\"headword\":\"mauvais\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~Quelles sont les sources de \"mauvais\" glucides ?\n^un pain blanc // {\"headword\":\"pain blanc\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A2\"}\n^une pâtisserie // {\"headword\":\"pâtisserie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^un soda // {\"headword\":\"soda\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\nPain blanc, pâtisseries, sodas, etc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Carbohydrates",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "^the carbohydrate // {\"headword\":\"carbohydrate\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n%# Carbohydrates\n\n^important // {\"headword\":\"important\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~What is the most important thing about carbohydrates?\n^limit // {\"headword\":\"limit\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^the quantity // {\"headword\":\"quantity\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^choose // {\"headword\":\"choose\",\"category\":\"verb\",\"cefrLevel\":\"A2\"}\n^well // {\"headword\":\"well\",\"category\":\"other\",\"cefrLevel\":\"A1\"}\nNot to limit their quantity, but rather to choose them well.\n\n^common // {\"headword\":\"common\",\"category\":\"adjective\",\"cefrLevel\":\"A2\"}\n?~What are the most common carbohydrates?\n^the sugar // {\"headword\":\"sugar\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the starch // {\"headword\":\"starch\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the fibre // {\"headword\":\"fibre\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\nSugar, starch, and fibre.\n\n^the source // {\"headword\":\"source\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n?~What are the sources of \"good\" carbohydrates?\n^the whole grain // {\"headword\":\"whole grain\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the vegetable // {\"headword\":\"vegetable\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the fruit // {\"headword\":\"fruit\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the legume // {\"headword\":\"legume\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\nWhole grains, vegetables, fruits, legumes.\n\n^bad // {\"headword\":\"bad\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~What are the sources of \"bad\" carbohydrates?\n^the white bread // {\"headword\":\"white bread\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\n^the pastry // {\"headword\":\"pastry\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the soda // {\"headword\":\"soda\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\nWhite bread, pastries, sodas, etc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Kohlenhydrate",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^das Kohlenhydrat // {\"headword\":\"Kohlenhydrat\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"B1\"}\n%# Kohlenhydrate\n\n^wichtig // {\"headword\":\"wichtig\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~Was ist das Wichtigste über Kohlenhydrate?\n^begrenzen // {\"headword\":\"begrenzen\",\"category\":\"verb\",\"cefrLevel\":\"B2\"}\n^die Menge // {\"headword\":\"Menge\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^auswählen // {\"headword\":\"auswählen\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\n^richtig // {\"headword\":\"richtig\",\"category\":\"other\",\"cefrLevel\":\"A1\"}\nNicht ihre Menge zu begrenzen, sondern sie richtig auszuwählen.\n\n^häufig // {\"headword\":\"häufig\",\"category\":\"adjective\",\"cefrLevel\":\"A2\"}\n?~Was sind die häufigsten Kohlenhydrate?\n^der Zucker // {\"headword\":\"Zucker\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^die Stärke // {\"headword\":\"Stärke\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^der Ballaststoff // {\"headword\":\"Ballaststoff\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\nZucker, Stärke und Ballaststoffe.\n\n^die Quelle // {\"headword\":\"Quelle\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n?~Was sind die Quellen für \"gute\" Kohlenhydrate?\n^das Vollkorngetreide // {\"headword\":\"Vollkorngetreide\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"B1\"}\n^das Gemüse // {\"headword\":\"Gemüse\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"A1\"}\n^das Obst // {\"headword\":\"Obst\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"A1\"}\n^die Hülsenfrucht // {\"headword\":\"Hülsenfrucht\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\nVollkorngetreide, Gemüse, Obst, Hülsenfrüchte.\n\n^schlecht // {\"headword\":\"schlecht\",\"category\":\"adjective\",\"cefrLevel\":\"A1\"}\n?~Was sind die Quellen für \"schlechte\" Kohlenhydrate?\n^das Weißbrot // {\"headword\":\"Weißbrot\",\"category\":\"noun\",\"gender\":\"neuter\",\"cefrLevel\":\"A2\"}\n^die Backware // {\"headword\":\"Backware\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^die Limonade // {\"headword\":\"Limonade\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A1\"}\nWeißbrot, Backwaren, Limonaden, etc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "碳水化合物",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^一种碳水化合物 // {\"headword\":\"碳水化合物\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"tàn shuǐ huà hé wù\",\"cefrLevel\":\"B1\"}\n%# 碳水化合物\n\n^重要 // {\"headword\":\"重要\",\"category\":\"adjective\",\"pinyin\":\"zhòng yào\",\"cefrLevel\":\"A2\"}\n?~关于碳水化合物，最重要的是什么？\n^限制 // {\"headword\":\"限制\",\"category\":\"verb\",\"pinyin\":\"xiàn zhì\",\"cefrLevel\":\"B2\"}\n^一个数量 // {\"headword\":\"数量\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"shù liàng\",\"cefrLevel\":\"B1\"}\n^选择 // {\"headword\":\"选择\",\"category\":\"verb\",\"pinyin\":\"xuǎn zé\",\"cefrLevel\":\"B1\"}\n^好 // {\"headword\":\"好\",\"category\":\"other\",\"cefrLevel\":\"A1\",\"pinyin\":\"hǎo\"}\n不是限制它们的数量，而是选择好。\n\n^常见 // {\"headword\":\"常见\",\"category\":\"adjective\",\"pinyin\":\"cháng jiàn\",\"cefrLevel\":\"B1\"}\n?~最常见的碳水化合物是什么？\n^一颗糖 // {\"headword\":\"糖\",\"category\":\"noun\",\"classifier\":\"颗\",\"pinyin\":\"táng\",\"cefrLevel\":\"A2\"}\n^一种淀粉 // {\"headword\":\"淀粉\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"diàn fěn\",\"cefrLevel\":\"B1\"}\n^一种纤维 // {\"headword\":\"纤维\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"xiān wéi\",\"cefrLevel\":\"B1\"}\n糖、淀粉和纤维。\n\n^一个来源 // {\"headword\":\"来源\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"lái yuán\",\"cefrLevel\":\"B1\"}\n?~\"好\"碳水化合物的来源是什么？\n^一种全谷物 // {\"headword\":\"全谷物\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"quán gǔ wù\",\"cefrLevel\":\"B1\"}\n^一种蔬菜 // {\"headword\":\"蔬菜\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"shū cài\",\"cefrLevel\":\"A2\"}\n^一个水果 // {\"headword\":\"水果\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"shuǐ guǒ\",\"cefrLevel\":\"A1\"}\n^一种豆类 // {\"headword\":\"豆类\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"dòu lèi\",\"cefrLevel\":\"B1\"}\n全谷物、蔬菜、水果、豆类。\n\n^坏 // {\"headword\":\"坏\",\"category\":\"adjective\",\"pinyin\":\"huài\",\"cefrLevel\":\"A2\"}\n?~\"坏\"碳水化合物的来源是什么？\n^一个白面包 // {\"headword\":\"白面包\",\"category\":\"noun\",\"classifier\":\"个\",\"pinyin\":\"bái miàn bāo\",\"cefrLevel\":\"A2\"}\n^一种糕点 // {\"headword\":\"糕点\",\"category\":\"noun\",\"classifier\":\"种\",\"pinyin\":\"gāo diǎn\",\"cefrLevel\":\"B1\"}\n^一瓶汽水 // {\"headword\":\"汽水\",\"category\":\"noun\",\"classifier\":\"瓶\",\"pinyin\":\"qì shuǐ\",\"cefrLevel\":\"A2\"}\n白面包、糕点、汽水等。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.459617181Z",
+    "quality" : "LOW"
+  }
+}

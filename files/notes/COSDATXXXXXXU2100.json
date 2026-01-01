@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU2100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Réplication des données",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Réplication des données\n\nQuels sont les motivations de la réplication des données ?\n- performance\n- disponibilité\n- tolérance aux pannes\n\n## Modes de diffusion\n\n### Diffusion synchrone et asynchrone\n\nQu'est ce qui caractérise la diffusion synchrone ?\nToutes les copies sont mises à jour en même temps ou aucune ne l'est.\n\nQu'est ce qui caractérise la diffusion asynchrone ?\nUne copie est mise à jour d'abord, les autres suivent progressivement.\n\nQuels sont les avantages et inconvénients de la diffusion synchrone ?\n- Avantage : cohérence globale immédiate\n- Inconvénient : impacte la performance (blocage, validation immédiate)\n\nQuels sont les avantages et inconvénients de la diffusion asynchrone ?\n- Avantage : gestion temporisée via des files d’attente\n- Inconvénient : ne garantit pas la cohérence globale des transactions\n\nQue peut-on utiliser pour une diffusion asynchrone ?\n- déclencheurs sur les tables\n- journal des opérations (log sniffing)\n- Message-Oriented Middleware\n\n### Diffusion symétrique et asymétrique\n\nC'est quoi la diffusion symétrique ?\n- toutes les copies peuvent être modifiées directement\n- elles se synchronisent entre elles\n\nC'est quoi la diffusion asymétrique ?\n- seules certaines copies sont modifiables\n- les autres sont mises à jour par réplication\n\n## Difficultés d'exploitation\n\nQuels types de difficultés peuvent survenir ?\n- indisponibilités de nœuds\n- mises à jour conflictuelles\n\nComment gérer l'indisponibilité de nœuds ?\n- élection d'un nouveau nœud primaire\n\nComment gérer les mises à jour conflictuelles ?\n- en estampillant\n- et en conservant l'enregistrement le plus récent\n\nQuelles sont les solutions de reprise après une panne ?\n- par journal\n- par file d'attente\n\n## Contraintes de conception\n\nQuelle réplication est coûteuse en performances ?\n- symétrique\n\nQuelle réplication augmente les difficultés de cohérence globale ?\n- asymétrique\n\nQue faut il éviter dans un schéma de réplication ?\n- écraser transitivement les mêmes données\n- les cycles\n\nQuel synchronisation est adaptée pour un architectures 3 tiers load balancée ?\n- immédiate, donc synchrone",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.183377789Z",
+    "quality" : "LOW"
+  }
+}

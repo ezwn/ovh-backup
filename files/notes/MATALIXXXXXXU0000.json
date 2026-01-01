@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALIXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Algèbre linéaire",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Définition d'une application linéaire](note::MATALIXXXXXXU0005)\n\nCombinaison linéaire : a*x + b*y + c*z...\n\n[Fichiers](file::/Math/MATALGMAT%20-%20Matrices)\n\n# Exemple des transformations dans l'espace.\n\n## rotation d'angle A\n\n* x' = cos A x - sin A y\n* y' = sin A x + cos A y\n\n## cisaillement\n\n* x' = 1 x + d\n* y' = 0 x + y\n\n# représentation matricielle des fonction linéaires\n\n# changement de base\n\n# [Trigonométrie](note::MATTGOXXXXXXU0000)\n\n# [Montrer qu'une fonction est une application linéaire](note::MATALIXXXXXXU0007)\n\nhttps://www.youtube.com/watch?v=N6T9u9sMcp4&list=PL_ZtK1TB2InqMClCtJPjvI1_WlDOA2NIz",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Algèbre linéaire",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Algèbre linéaire",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.385477064Z",
+    "quality" : "LOW"
+  }
+}

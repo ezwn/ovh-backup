@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIRSAXXXU0020",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Recycle how to find the inverse. Note, it's not perfectly described",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "RSA, Préparation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Préparation des éléments nécessaire pour RSA\n\n?On choisi $$p$$ et $$q$$ qui sont...\ndes entiers premiers, distincts et de grande taille.\n\n?On calcule le module de chiffrement $$N$$, qui est égal à...\n$$p$$ fois $$q$$.\n\n?On choisi $$e$$, l'exposant de chiffrement qui est...\nsupérieur à 1,\ninférieur à phi de $$N$$,\net premier avec phi de $$N$$.\n\n?Cette dernière propriété le rend...\ninversible dans ℤ sur phi de $$N$$ ℤ.\n\n?On calcule $$d$$, l'exposant de déchiffrement qui est...\nl'inverse multiplicatif de $$e$$ modulo phi de $$N$$.\n\n?Pour ce faire...\n- on applique l'algorithme d'Euclide étendu à phi de $$N$$ et $$e$$.\n- on obtient 1 égal k fois phi de $$N$$ plus $$d$$ fois $$e$$.\n- on peut supprimer $$k$$ fois phi de $$N$$ car on travaille modulo phi de $$N$$.\n- on obtient donc $$e$$ fois $$d$$ égal 1.\n- on extrait $$d$$ et on le ramène modulo phi de $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "RSA, Préparation",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Vorbereitung der notwendigen Elemente für RSA\n\n?Man wählt $$p$$ und $$q$$, die…\nPrimzahlen, verschieden und von großer Größe sind.\n\n?Man berechnet das Verschlüsselungsmodul $$N$$, das gleich…\n$$p$$ mal $$q$$ ist.\n\n?Man wählt $$e$$, den Verschlüsselungsexponenten, der…\ngrößer als 1,\nkleiner als phi von $$N$$,\nund prim zu phi von $$N$$ ist.\n\n?Diese letzte Eigenschaft macht es...\numkehrbar in ℤ modulo phi von $$N$$ ℤ.\n\n?Man berechnet $$d$$, den Entschlüsselungsexponenten, der…\nder multiplikative Invers von $$e$$ modulo phi von $$N$$ ist.\n\n?Um dies zu tun…\n- wendet man den erweiterten euklidischen Algorithmus auf phi von $$N$$ und $$e$$ an.\n- man erhält 1 gleich $$k$$ mal phi von $$N$$ plus $$d$$ mal $$e$$.\n- man kann $$k$$ mal phi von $$N$$ entfernen, da wir modulo phi von $$N$$ arbeiten.\n- man erhält daher $$e$$ mal $$d$$ gleich 1.\n- man extrahiert $$d$$ und reduziert es modulo phi von $$N$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.933870402Z",
+    "quality" : "LOW"
+  }
+}

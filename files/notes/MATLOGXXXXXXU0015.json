@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0015",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Quantificateurs [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Un prédicat est une proposition qui dépend d'un paramètre.\n\nIl existe deux quantificateurs :\n\"quelque soit\",\net \"il existe\".\n\nLa négation de \"quelque soit X dans E, P de X\" est\n\"il existe X dans E tel que non P de X\".\n\nLa négation de \"il existe X dans E tel que P de X\" est\n\"quelque soit X dans E, non P de X\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Quantificateurs [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "A predicate is a proposition that depends on a parameter.\n\nThere are two quantifiers:\n\"for all\",\nand \"there exists\".\n\nThe negation of \"for all X in E, P of X\" is\n\"there exists X in E such that not P of X\".\n\nThe negation of \"there exists X in E such that P of X\" is\n\"for all X in E, not P of X\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Quantificateurs [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Ein Prädikat ist ein Satz, der von einem Parameter abhängt.\n\nEs gibt zwei Quantoren:\n\"für alle\",\nund \"es existiert\".\n\nDie Negation von \"für alle X in E, P von X\" ist\n\"es existiert ein X in E, so dass nicht P von X\".\n\nDie Negation von \"es existiert ein X in E, so dass P von X\" ist\n\"für alle X in E, nicht P von X\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Quantificateurs [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "谓词是依赖于参数的命题。\n\n有两个量词：\n“任意”，\n以及“存在”。\n\n“对于E中的任意X，P(X)”的否定是\n“存在E中的X使得非P(X)”。\n\n“存在E中的X使得P(X)”的否定是\n“对于E中的任意X，非P(X)”。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.776149372Z",
+    "quality" : "LOW"
+  }
+}

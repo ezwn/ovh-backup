@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATANLXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Analyse (sommaire)",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Analyse\n\n## Notation\n\nf : ℤ -> ℕ\n\nx |-> x²\n\n## [Application, surjection et injection](note::MATANLXXXXXXU0015)\n\n## [Application particulières](note::MATANLXXXXXXU0018)\n\n## [Ensembles image et antécédent](note::MATANLXXXXXXU0021)\n\n## [Démontrer injectivité composée injectives](note::MATANLXXXXXXU0500)\n\nPour continuer :\nLineare Algebra - Klaus Jänich (2010), p8\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.434428542Z",
+    "quality" : "LOW"
+  }
+}

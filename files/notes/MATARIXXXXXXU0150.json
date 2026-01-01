@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0150",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Petit théorème de Fermat",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Petit théorème de Fermat\n\n%?~Quels éléments le petit théorème de Fermat met-il en relation ?\n$$p$$ un nombre premier et $$a$$ un entier.\n\n%?~Que dit le petit théorème de Fermat ?\n$$a$$ puissance $$p$$ est congru à $$a$$ modulo $$p$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Petit théorème de Fermat [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Kleiner Satz von Fermat\n\n%?~Welche Elemente setzt der kleine Satz von Fermat in Beziehung?\n$$p$$ eine Primzahl und $$a$$ eine ganze Zahl.\n\n%?~Was besagt der kleine Satz von Fermat?\n$$a$$ hoch $$p$$ ist kongruent zu $$a$$ modulo $$p$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.653753371Z",
+    "quality" : "LOW"
+  }
+}

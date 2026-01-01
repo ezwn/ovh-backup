@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "undgha94a12q22u07zsagv",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Impact des atteintes aux systèmes d'information",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Impact des atteintes aux systèmes d'information\n\n~? **Impacts immédiats** des **atteintes** aux systèmes d'information :\n- indisponibilité\n- **perte d'intégrité** des données\n- **fuite d'informations** confidentielles\n- non-conformité\n- **retards** de traitement\n- **mécontentement** de clients\n\n~? **Coûts** engendrés par les **atteintes** aux systèmes d'information :\n- coûts **matériels**\n- coûts en **reconstruction**\n- **pertes** d'**exploitation**\n- **perte** de **réputation**\n- **perte** de **clients**\n\n~? **Objectifs** de l'**analyse d’impact métier** :\n- **lister** les **personnes**, **processus** et **systèmes** **critiques**\n- **définir** la **priorité** de **remise en service**\n- **déterminer** l'**objectif** de **point de restauration**\n- **déterminer** l'**objectif** de **temps de rétablissement**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-10T17:43:26.499044238Z"
+  }
+}

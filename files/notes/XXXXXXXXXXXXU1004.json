@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU1004",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "ExpML",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# ExpML\n\n## A adapter\n\n## Week 1\n\n### [Domaines du TOGAF](note::cycq1dwo43877sjqqce06w)\n### [Gestion des risques](note::ei3uhjlxavovhl9ale65l4)\n\n## Week 2\n\n### [Me présenter chez ISO](note::twhehuko1v1d30wdremwfj)\n### [Me présenter chez ISO](note::hicmdi6s5qy86l5ypa92h3)\n### [Me présenter chez ISO](note::p937wic2rl7cj8jk7w2mt9)\n\n## Week 3\n\n## Pure EN\n\n### [Génération Augmentée par Recherche](note::18upy3u9ghln3jz12y4yex)\n### [Headless architecture](note::8xbyi5ygvrids1kn92ewxr)\n### [Deliverables of ISO](note::xhbykrisz8gtyaue4f38g4)\n###  [Overview of the ISO governance structure](note::4hl4gqc9jm7qij1lz456ko)\n### [Stages of ISO Standard Development Process](note::la2em0eu98hv01wv3mhwdi)\n### [Fonctions associées aux projets](note::qc08sgd8aoc7w3zh4qbvor)\n### [Estimations](note::cyvi6nwitjac188ylr2nze)\n\n## Pure DE\n\n### [Prépositions allemandes](note::LNGGERGRMXXXU0073)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T12:07:23.988Z",
+    "quality" : "LOW"
+  }
+}

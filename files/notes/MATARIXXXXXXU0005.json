@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0005",
+  "content" : {
+    "domain" : "ARITHMETIC",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Divisibilité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "@# Divisibilité\n\n## Définition\n\nSoient $$a$$ et $$b$$ deux entiers.\n\n?$$b$$ divise $$a$$ s'il existe un entier $$q$$ tel que :\n$$a=b \\times q$$\n\n?On dit alors que $$a$$ est :\nun multiple de $$b$$.\n\n## Propriétés\n\n?La relation de divisibilité est :\nréflexive, antisymétrique et transitive.\n\n~?Si $$a$$ divise $$b$$ et $$b$$ divise $$a$$, alors $$a$$ et $$b$$ sont :\négaux ou opposés.\n\n~?Si $$c$$ divise $$a$$ et $$b$$, alors pour tous les entiers relatifs $$u$$ et $$v$$ :\n$$c$$ divise $$a$$ $$u$$ $$+$$ $$b$$ $$v$$.\n\n## Exercices\n\n€### Exercice 1 // {\"id\":\"2277b40d-99e4-4a6b-bbe1-8c4d4c170fe6\"}\n\n?Mq si d | 12n + 7 et d | 3n + 1, alors d | 3\n\n* si d | a et d | b, d divise ua + bv\n* donc d | 1x(12n+7) + -4(3n+1)\n* donc d | 7  - 4\n* donc d | 3\n\n€### Exercice 2 // {\"id\":\"48240a16-9cff-4d66-aba1-b015d7b0333d\"}\n\n?Mq si c|a et ¬(c|b) alors ¬(c|a+b)\n\n* Par l'absurde : c|a et c|a+b\n* Alors c | a+b - a\n* Alors c | b\n\n€### Exercice 3 // {\"id\":\"5f8f464e-613c-436c-a886-0f76bb220b5cd\"}\n\n?Sachant d'une question précédente que si d | 12n + 7 et d | 3n + 1, alors d | 3\n\n?Mq (12n+7) / (3n+1) est irréductible\n\n- Les seuls diviseurs positifs possibles seraient 1 et 3.\n- Or 3n + 1 ne peut pas être un multiple de 3 :\n- Par l'absurde, supposons que d | 3n + 1\n- et que d vaut 3, donc d | 3n.\n- d | 3n et d | 3n + 1,\n- donc d | 1 ce qui est absurde.\n- Donc seul 1 et -1 divisent le diviseur et le dividende.\n\n€### Exercice 4 // {\"id\":\"b190e62e-0bc2-4c98-a615-7582ede2b4a0\"}\n\n?Mq si l'on soustrait à un entier positif strictement inférieur à 100 la somme de ses chiffres, on obtient un nombre divisible par 9.\n\nn = 10*d + u\n\ncf. https://www.youtube.com/watch?v=rdOh07-uR_M&list=PL_ZtK1TB2InoLppUgStXgFYLCDbJXojaJ&index=9\n\n### Exercice 5 // {\"id\":\"e5e394e8-4e24-4764-af5f-58d633464ebd\"}\n\n?Est-ce que si c ne divise pas a et c ne divise pas b, alors c ne divise pas a + b ? Le montrer.\n\n- non :\n- c=3\n- a=4\n- b=2",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.590658832Z",
+    "quality" : "LOW"
+  }
+}

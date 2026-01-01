@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU8005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Biographie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Présentation biographique\n\n## 2025\n\nDepuis janvier 2025, je me suis formé et j'ai obtenu des attestations de réussite concernant :\n\n- l'architecture, la sécurité et cloud\n- l'architecture java avec Spring\n- les middlewares\n\n## Nexthink\n\nAvant cela, je travaillais chez Nexthink, dans l'équipe chargé de la fonctionnalité appelée \"campagnes\". J'y suis intervenu sur l'architecture cloud (par exemple pour permette la gestion granulaire des droits d'accès aux campagnes). J'ai fait évoluer les services et leurs mécanismes de communication, j'ai contribué à l'automatisation de l'environnement de développement. Je suis également intervenu sur la partie frontend.\n\nJ'étais également Scrum Master.\n\n## Credit Suisse\n\nJ'étais Technical Lead chez Credit Suisse.\n\nMon rôle consistait à synchroniser et à faciliter le travail des développeurs. Pour atteindre cet objectif, je préparais et je documentais l'architecture du projet et je concevais les nouvelles fonctionnalités.\n\nJ'ai également centralisé et renforcé les bonnes pratiques, appliqué la méthode Scrum pour animer l'équipe et géré l'interfaçage avec les représentants du métier.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-23T08:33:06.658967171Z",
+    "quality" : "LOW"
+  }
+}

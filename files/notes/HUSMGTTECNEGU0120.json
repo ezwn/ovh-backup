@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTTECNEGU0120",
+  "content" : {
+    "domain" : "STRATEGY",
+    "privateComment" : "Sources:\nhttps://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement\nThéorie des concessions réciproques (Cialdini, 1984)\nhttp://localhost:3000/notes/HUSMGTTECNEGU0005",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Négociation",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Négociation\n\n~? **Principes** de **négociation** :\n- la **première offre**, constitue un **ancrage** qui **influence beaucoup** le **résultat**.\n- **connaître sa meilleure alternative** en cas d'échec de la négociation permet de **renforcer sa position**.\n- **montrer qu'on fait des concessions** **pousse l'autre à en faire**.\n\n~? **Théorie** de l'**ancrage** de Tversky et Kahneman (1974) :\nune **première information reçue**, même irréaliste, **influence l'estimation finale**,\ncar **cette dernière** est **construite par ajustement**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-02T18:28:39.615263704Z"
+  }
+}

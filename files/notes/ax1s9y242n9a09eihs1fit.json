@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ax1s9y242n9a09eihs1fit",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sécurité du code",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Sécurité du code](video::2;00:19:58)\n\n## Fiches\n\n- [Sécurité du code](note::pd3qzsjauxb3alywlt12l2)\n\n## Repérage\n\n[Exemples de failles lors du développement](video::2;00:20:09)\n\n~? Exemples de failles de développement en C :\n-débordement de tampon\n-formatage des chaînes de caractères avec fprintf\n-débordement d'entiers\n\n[Débordement d'entier en C et en Java](video::2;00:22:45)\n[Top 25 Problèmes de sécu pendant le développement selon MITRE](video::2;00:23:50)\n\n~? Exemple de problèmes de sécurité du top 25 de MITRE :\n- mauvaise neutralisation de l'entrée d'une page web (permettant le cross-site scripting)\n-score : 48.82\n\n~? Refs :\n-https://cwe.mitre.org/top25/\n-OWASP (Open Web Application Security Project) pour les application web\n\n[Référence](video::2;00:25:0)\n\n[L'éviter grâce à l'amélioration la qualité du code](video::2;00:25:20)\n\n~? Conseils pour éviter les problèmes de sécurité du code :\n-corriger les avertissements des compilateurs\n-revue de code ([Peer Review](video::2;00:26:25))\n-[Utiliser les linters... avec plugin de sécurité](video::2;00:27:15)\n\n[Analyse statique de code](video::2;00:29:45)\n\n~? SAST :\nStatic Application Security Testing\n\n[Analyse de code dynamique, à l'exécution](video::2;00:30:00)\n[Bonne pratiques de sécurité](video::2;00:31:50)\n\n[Fuzzing](video::2;00:34:44)\n\n[Tests d'intrusion : définition, puis explications](video::2;00:36:16)\n\n~? Tests d'intrusion :\ntests basés sur la simulation d'une attaque\n\n[Exercice Red vs Blue Team](video::2;00:37:20)\n\n~? Red team :\néquipe interne dont l'objectif permanent est de réaliser une atteinte au système,\nà tous les niveaux par tous les moyens.\n\n[Comparaison PenTest / Red Team](video::2;00:38:50)\n[Outils de sécurité offensive](video::2;00:41:50)\n\n~? Advanced Persistent Threat :\néquipe de pirates\n\n[Exemple sonde beacon de Cobalt Strike](video::2;00:43:22)\n\nCobalt Strike :\noutil permettant de simuler de nombreuses tactiques d'attaque.\n\nMetasploit :\napplication proposant un ensemble d'exploits\n\n[Références au sujet du Red Teaming](video::2;00:45:00)\n[Utilisation des Red-Team dans l'industrie](video::2;00:45:24)\n[Programmes de récompense contre divulgations responsables](video::2;00:47:09)\n[Proposition de classement des techniques de prévention](video::2;00:47:58)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "2" : "https://www.youtube.com/watch?v=GzcjG0oUDyM"
+      }
+    } ],
+    "modificationDate" : "2025-10-04T15:27:51.086468101Z",
+    "quality" : "LOW"
+  }
+}

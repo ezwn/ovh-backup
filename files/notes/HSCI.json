@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HSCI",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sciences humaines",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [Anthropology](note::HUSANTXXXXXXU0000)\n\n# [Économie](note::HUSECOXXXXXXU0000)\n\n# [Géopolitique](note::HUSPOSGPOXXXU1000)\n\n# [Management](note::HUSMGTXXXXXXU0000)\n\n# [Psychologie](note::HUSPSYXXXXXXU0000)\n\n# [Sommeil](note::HHESLPXXXXXXU0000)\n\n# [Confucianisme](note::HHEPHICONXXXU0000)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.638338598Z",
+    "quality" : "LOW"
+  }
+}

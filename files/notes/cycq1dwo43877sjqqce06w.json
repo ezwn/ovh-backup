@@ -1,0 +1,59 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "cycq1dwo43877sjqqce06w",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Domaines du TOGAF",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Domaines du TOGAF\n\n%## Les domaines\n\n~? **Domaines d'architecture** du TOGAF :\n- architecture **métier**\n- architecture des **données**\n- architecture **applicative**\n- architecture **technologique**\n\n##% Périmètre couvert par chaque niveau\n\n~? **Périmètre** de l'**architecture métier** du TOGAF :\n- stratégie d'entreprise\n- indicateurs de performance\n- capacités métier\n- processus métier\n- fonctions métier\n- règles métier\n- services métier\n- **offre** et **produits**\n- **acteurs** et **rôles**\n- organigramme\n- **relations** **avec** les **parties prenantes**\n\n~? **Périmètre** de l'**architecture des données** du TOGAF :\n- **structures** (**modèles** physiques et logiques, **référentiels**, ...)\n- flux\n- cycle de vie\n- **gouvernance** (mécanismes de contrôle et supervision)\n- **principes de gestion** (règles)\n\n~? **Périmètre** de l'**architecture applicative** du TOGAF :\n- applications\n-services applicatifs\n- **interactions** entre **applications**/**services**\n- **interaction** entre **applications** et **utilisateurs**\n- répartition logique des composants applicatifs\n\n~? **Périmètre** de l'**architecture technologique** du TOGAF :\n- réseaux\n- serveurs\n- SGBD\n- **services** (en particulier **cloud**)\n- middlewares\n- interconnexions\n- postes de travail\n- systèmes d'exploitation\n-partie technologique du \"**déploiement**\" (nœuds, serveurs)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "TOGAF" : "togaf",
+        "SGBD" : "système de gestion de base de données"
+      },
+      "sttMapping" : { },
+      "tooltips" : {
+        "TOGAF" : "The Open Group Architecture Framework",
+        "SGBD" : "Système de Gestion de Base de Données"
+      },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "TOGAF Domains",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# TOGAF Domains\n\n%## The domains\n\n~?TOGAF **architecture domains**:\n- **business** architecture\n- **data** architecture\n- **application** architecture\n- **technology** architecture\n\n##% Scope covered by each level\n\n~?**Scope** of TOGAF **business architecture**:\n- enterprise strategy\n- performance indicators\n- business capabilities\n- business processes\n- business functions\n- business rules\n- business services\n- **offerings** and **products**\n- **actors** and **roles**\n- organizational chart\n- **relationships** **with** **stakeholders**\n\n~?**Scope** of TOGAF **data architecture**:\n- **structures** (physical and logical **models**, **repositories**, ...)\n- flows\n- lifecycle\n- **governance** (control and oversight mechanisms)\n- **management principles** (rules)\n\n~?**Scope** of TOGAF **application architecture**:\n- applications\n- application services\n- **interactions** between **applications**/**services**\n- **interaction** between **applications** and **users**\n- logical distribution of application components\n\n~?**Scope** of TOGAF **technology architecture**:\n- networks\n- servers\n- DBMS\n- **services** (especially **cloud**)\n- middleware\n- interconnections\n- workstations\n- operating systems\n- technology part of \"**deployment**\" (nodes, servers)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Domänen von TOGAF",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Domänen von TOGAF\n\n%## Die Domänen\n\n~?**Architekturbereiche** von TOGAF:\n- **Geschäftsarchitektur**\n- **Datenarchitektur**\n- **Applikationsarchitektur**\n- **Technologiearchitektur**\n\n##% Umfang, der von jeder Ebene abgedeckt wird\n\n~?**Umfang** der **Geschäftsarchitektur** von TOGAF:\n- Unternehmensstrategie\n- Leistungskennzahlen\n- Geschäftsfähigkeiten\n- Geschäftsprozesse\n- Geschäftsfunktionen\n- Geschäftsregeln\n- Geschäftsservices\n- **Angebot** und **Produkte**\n- **Akteure** und **Rollen**\n- Organigramm\n- **Beziehungen** **zu** den **Stakeholdern**\n\n~?**Umfang** der **Datenarchitektur** von TOGAF:\n- **Strukturen** (**Modelle** physisch und logisch, **Referenzverzeichnisse**, ...)\n- Datenflüsse\n- Lebenszyklus\n- **Daten-Governance** (Steuerungs- und Überwachungsmechanismen)\n- **Managementgrundsätze** (Regeln)\n\n~?**Umfang** der **Applikationsarchitektur** von TOGAF:\n- Anwendungen\n- Applikationsservices\n- **Interaktionen** zwischen **Anwendungen**/**Services**\n- **Interaktion** zwischen **Anwendungen** und **Benutzern**\n- logische Verteilung der Applikationskomponenten\n\n~?**Umfang** der **Technologiearchitektur** von TOGAF:\n- Netzwerke\n- Server\n- Datenbankmanagementsysteme (DBMS)\n- **Services** (insbesondere **Cloud-Services**)\n- Middleware\n- Verbindungen\n- Arbeitsplätze\n- Betriebssysteme\n- technologischer Teil des \"**Deployments**\" (Knoten, Server)",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T12:04:37.224Z",
+    "quality" : "LOW"
+  }
+}

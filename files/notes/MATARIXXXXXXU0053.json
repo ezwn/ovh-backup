@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0053",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "PPCM et PGCD depuis décomposition en puissances de premiers",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "A partir de leur décomposition en puissances de nombres premiers,\non peut calculer le PGCD de plusieurs nombres.\nPour ce faire,\npour chaque nombre premier,\non sélectionne la puissance minimale dans chaque décomposition,\net on en fait le produit.\n\nOn procède de même pour le PPCM en sélectionnant par puissance maximale.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "PPCM et PGCD depuis décomposition en puissances de premiers",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "From their decomposition into prime powers,\nwe can calculate the GCD of several numbers.\nTo do this,\nfor each prime number,\nwe select the minimum power from each decomposition,\nand multiply them together.\n\nWe proceed similarly for the LCM by selecting the maximum power.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.972689719Z",
+    "quality" : "LOW"
+  }
+}

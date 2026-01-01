@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0160",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "RSA",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# [RSA, Principe](note::MATARIRSA010)\n\n# [RSA, Préparation](note::MATARIRSAXXXU0020)\n\n# [RSA, Encryptage](note::MATARIRSAXXXU0030)\n\n# [RSA, Décryptage](note::MATARIRSAXXXU0040)\n\n## Statut actuel :\n\n- [DÉCODER avec le système RSA](https://www.youtube.com/watch?v=LpjtYXXllI0&list=PL_ZtK1TB2InoLppUgStXgFYLCDbJXojaJ&index=107): 11 min 50\n\n- A revoir plus tard :\n\n[Cours IDF](file::/Math/MATARIXXX%20-%20Arithmétique/UTC501-IDF%20-%20Arithmetique%20II.2%20-%20RSA.avi)\n\nSuite des exercices:\nhttps://www.youtube.com/watch?v=ZFhrpRr2GGQ\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "RSA",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "RSA",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.309137908Z",
+    "quality" : "LOW"
+  }
+}

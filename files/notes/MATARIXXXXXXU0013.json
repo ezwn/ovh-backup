@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0013",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Algorithme d'Euclide",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Algorithme d'Euclide pour déterminer le PGCD de deux nombres\n\nOn divise le plus grand nombre par le plus petit.\nTant que le reste n'est pas nul,\non divise le diviseur de la division précédente par son reste.\nLe PGCD est le dernier reste non nul.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Algorithme d'Euclide",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Euklids Algorithmus zur Bestimmung des GGT von zwei Zahlen\n\nMan teilt die größere Zahl durch die kleinere Zahl.\nSolange der Rest nicht null ist,\nteilt man den Divisor der vorherigen Division durch seinen Rest.\nDer GGT ist der letzte nicht-null Rest.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.124276966Z",
+    "quality" : "LOW"
+  }
+}

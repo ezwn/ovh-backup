@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0122",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Java RMI",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Java RMI\n\nUne version light de corba!\n\n- Intrégré dans la JVM\n- Même organisation que CORBA !\n\nRMI register = annuaire\n\n## Client\n\ninterface qui étends Remote\nles méthodes jettent RemoteException\n\n## Serveur\n\nextends UnicastRemoteObject\n\ncréation manuelle d'un serveur",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.194612150Z",
+    "quality" : "LOW"
+  }
+}

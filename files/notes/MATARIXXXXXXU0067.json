@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0067",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "https://www.youtube.com/watch?v=SdKhHF9v9zo",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Congruences, astuces",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "On se place dans l'anneau $$ℤ / n ℤ$$.\n\nPour réduire un entier modulo $$n$$, on peut\n- utiliser le reste de sa division par le module $$n$$\n- lui soustraire $$k × n$$\n\nQuand on doit calculer un nombre avec exposant modulo $$n$$,\non peut parfois, de cette façon, le réduire à 1 ou -1.\n\nSinon, on peut le calculer par exposant croissants pour aboutir à 1 ou -1.\n\nhttps://www.youtube.com/watch?v=SdKhHF9v9zo\n\n7min12",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Congruences, astuces",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.003524504Z",
+    "quality" : "LOW"
+  }
+}

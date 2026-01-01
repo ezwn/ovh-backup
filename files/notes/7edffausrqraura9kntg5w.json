@@ -1,0 +1,39 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "7edffausrqraura9kntg5w",
+  "content" : {
+    "domain" : "PUB_ADMIN_FR",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Structure des administrations publiques françaises",
+      "description" : "Structure de haut niveau de l'administration publique française.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Structure des administrations publiques françaises\n\n~? **Structure** des **APU** selon la classification tripartite classique :\n- **APUC** : **État** et **ODAC**\n- **APUL** : **collectivités territoriales** et **ODAL**\n- **ASSO**\n\n~? **Rôles** des **ASSO** :\n- **collecter** les **cotisations sociales**\n- **financer** le **système** de **protection sociale**\n- **verser** les **prestations sociales** aux bénéficiaires",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "APUC" : "administrations publiques centrales",
+        "APUL" : "administrations publiques locales",
+        "ASSO" : "administrations de sécurité sociale",
+        "ODAC" : "organismes Divers d'Administration Centrale",
+        "ODAL" : "organismes Divers d'Administration Locale",
+        "APU" : "administrations publiques"
+      },
+      "sttMapping" : {
+        "administrations publiques centrales" : "APUC",
+        "administrations publiques locales" : "APUL",
+        "administrations de sécurité sociale" : "ASSO",
+        "organismes Divers d'Administration Centrale" : "ODAC",
+        "administrations publiques" : "ODAL"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-09T12:50:19.735005225Z",
+    "quality" : "LOW"
+  }
+}

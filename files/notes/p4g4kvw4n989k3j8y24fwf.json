@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "p4g4kvw4n989k3j8y24fwf",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "VEI",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# VEI\n\nLeyvraz Virginie\n- dit merci.\n\nMorgane :\n- aime résumés, présentation\n- question du filtre métier et de sa définition\n- fréquence et date de publication manquante\n- logo d'entreprise au dessus du titre\n\n---\n\nCadrage, guideline : comment on fait des sous tâches",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-27T07:32:42.251039344Z"
+  }
+}

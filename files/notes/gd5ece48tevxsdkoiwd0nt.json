@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "gd5ece48tevxsdkoiwd0nt",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Éléments d'une politique de sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Éléments d'une politique de sécurité\n\n## Fiches\n\n### [Authentification et autorisation](note::kxn69rqct1d9jze2xo56dz)\n### [Aperçu des mesures de sécurité des SI](note::2yztyv85z3aesx7f66wx2y)\n### [Politique de sécurité](note::5561fv8k8txaz6c75ooc9q)\n\n## Repérage\n\n[Liste des éléments faisant partie d'une politique de sécurité](video::4;00:17:56)\n[Types de facteurs d'authentification et comment les combiner dans l'authentification forte ★★](video::4;00:18:34)\n[Acteurs et composantes de l'authentification/autorisation ★](video::4;00:20:41)\n[Caractéristiques et propriétés attendues d'un gardien ★](video::4;00:22:08)\n\n~? Éléments du gardien :\nlogiciel, matériel, configuration\n\n[Questions clés pour guider la conception de la protection ★★](video::4;00:23:05)\n\n~? Questions clés pour guider la conception de la protection :\n-que protège-t-on ?\n-de quelles menaces ?\n-quelles contraintes de sécurité sont acceptables ?\n\n[5 grandes stratégies de sécurité ★★](video::4;00:23:27)\n[4 approches de sécurité ★★](video::4;00:25:01)\n[Quelques techniques réseau ★★](video::4;00:26:37)\n[Internet, pare-feu, DMZ, pare-feu, intranet ★](video::4;00:27:20)\n[Défense en profondeur : c'est à dire par couches de profondeur successives dans le SI ★](video::4;00:28:02)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : {
+        "4" : "https://www.youtube.com/watch?v=09hTeHOeQuY"
+      }
+    } ],
+    "modificationDate" : "2025-10-12T15:47:30.177544567Z"
+  }
+}

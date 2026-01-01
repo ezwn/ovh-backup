@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALGABSXXXU0004",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Recycler dans http://localhost:3000/units/MATALGABSXXXU0001/asNotes",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sous-groupe",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Soit G étoile un groupe.\nH étoile est un sous-groupe de G si et seulement si :\nH est un sous-ensemble non vide de G,\npour tout X, Y de H, X étoile Y est dans H,\net pour tout X de H, son symétrique est dans H.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Sous-groupe [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Let G star be a group.\nH star is a subgroup of G if and only if:\nH is a non-empty subset of G,\nfor all X, Y in H, X star Y is in H,\nand for all X in H, its inverse is in H.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Sous-groupe [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Sei G-Stern eine Gruppe.\nH-Stern ist eine Untergruppe von G, wenn und nur wenn:\nH eine nicht-leere Teilmenge von G ist,\nfür alle X, Y in H, ist X-Stern Y in H,\nund für jedes X in H, ist sein symmetrisches Element in H.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.268012943Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKRECTECU8000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Raisons de la crise",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Pourquoi cette difficulté à trouver du travail en 2025 ?\n\n## Internes\n\n- nombreuses missions courtes ?\n- âge\n\n## Externes\n\n- évolutions techniques : IA, Low Code\n- situation géopolitique\n- délocalisation (Inde, Portugal)\n- dépression post-appel covid",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-31T05:09:21.646496479Z",
+    "quality" : "LOW"
+  }
+}

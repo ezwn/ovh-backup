@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU0026",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorie bi-dimensionnelle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^l'émotion\n~?Wundt, en 1897, et Russel en 1980, décrivent les émotions par :\n^la combinaison\n^la dimension\nune combinaison de dimensions élémentaires.\n\n^l'axe\n^le cercle\n~?Pour Russel, par exemple, l'émotion correspond à deux axes sur un cercle :\n^horizontal\n^le plaisir\nhorizontal pour le plaisir,\n^vertical\n^le niveau\n^l'activation\net vertical pour le niveau d'activation.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Théorie bi-dimensionnelle",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^~die Emotion\n~?Wundt, 1897, und Russel, 1980, beschreiben die Emotionen als:\n^~die Kombination\n^~die Dimension\neine Kombination aus elementaren Dimensionen.\n\n^~die Achse\n^~der Kreis\n~?Für Russel entspricht die Emotion zum Beispiel zwei Achsen auf einem Kreis:\n^~horizontal\n^~das Vergnügen\nhorizontal für das Vergnügen,\n^~vertikal\n^~das Niveau\n^~die Aktivierung\nund vertikal für das Aktivierungsniveau.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Théorie bi-dimensionnelle",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^这种情绪\n~?1897年的冯特和1980年的罗素描述情绪为：\n^这个组合\n^这个维度\n基本维度的组合。\n\n^这条轴\n^那个圆圈\n~?根据罗素的观点，情绪对应于圆圈上的两个轴：\n^水平轴\n^这愉悦度\n水平轴代表愉悦度，\n^垂直\n^这个水平\n^这个激活\n垂直轴代表激活水平。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.606453316Z",
+    "quality" : "LOW"
+  }
+}

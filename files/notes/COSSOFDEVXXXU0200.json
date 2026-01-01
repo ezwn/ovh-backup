@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVXXXU0200",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "UML [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "un diagramme\nUML propose un certain nombre de diagrammes.\n\nPremièrement, le diagramme de cas d'utilisation,\nutilisateur\nbesoin\nde façon synthétique\nqui décrit les besoins utilisateurs de façon synthétique.\n\nDeuxièmement, le diagramme de classes.\n\nTroisièmement, le diagramme de séquence,\nenvoi de messages\nqui met l'accent sur la chronologie des envois de messages,\nafin de représenter les aspects dynamiques des collaborations entre composants.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "UML [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "a diagram\nUML offers a number of diagrams.\n\nFirstly, the use case diagram,\nuser\nneed\nin a summary fashion\nwhich describes user needs in a summary fashion.\n\nSecondly, the class diagram.\n\nThirdly, the sequence diagram,\nmessage sending\nwhich emphasises the chronology of message sending,\nin order to represent the dynamic aspects of collaborations between components.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "UML [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^das Diagramm\nUML bietet eine bestimmte Anzahl von Diagrammen an.\n\nErstens, das Anwendungsfalldiagramm,\n^der Benutzer, die Benutzer\n^das Bedürfnis, die Bedürfnisse\n^auf übersichtliche Weise\ndas die Benutzerbedürfnisse auf übersichtliche Weise beschreibt.\n\nZweitens, das Klassendiagramm.\n\nDrittens, das Sequenzdiagramm,\n^Nachrichtenübermittlung\ndas den Schwerpunkt auf die Chronologie der Nachrichtenübermittlung legt,\num die dynamischen Aspekte der Zusammenarbeit zwischen Komponenten darzustellen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.262085544Z",
+    "quality" : "LOW"
+  }
+}

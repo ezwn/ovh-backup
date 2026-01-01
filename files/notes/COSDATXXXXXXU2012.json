@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU2012",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Bases de données réparties",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Bases de données réparties\n\n?Qu'est ce qui caractérise une base de données répartie ?\n- données sur plusieurs sites\n- ces sites peuvent utiliser des schémas différents\n- interrogeable de façon transparente par un schéma global\n\n## Le SGBD réparti\n\n?Quelles sont les fonctionnalités d'un SGBD réparti ?\n- fragmenter et répartir les requêtes\n- gérer les transactions réparties\n- assurer la cohérence et la confidentialité\n\n?Quelles définitions doit posséder un SGBD réparti ?\n- un dictionnaire des données global\n- un schéma conceptuel global\n- un schéma de placement qui cartographie les données\n\n## Traitement des requêtes\n\n?Quels sont les traitements que subissent les requêtes ?\n1. elles sont fragmentées selon le schéma de fragmentation\n2. elles sont optimisées selon le schéma d'allocation\n3. elles sont utilisées pour constituer un plan d'exécution\n\n?Que détermine le plan d'exécution d'une requête distribuée ?\nL'ordre et les sites d'exécution des différents fragments.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Distributed Databases",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Distributed Databases\n\n?What characterizes a distributed database?\n- **data** is **on multiple sites**\n- these **sites can use different schemas**\n- the **database** is **queryable transparently** **by a global schema**\n\n## The distributed DBMS\n\n?What are the features of a distributed DBMS?\n- **fragment** and **distribute** **queries**\n- manage **distributed transactions**\n- **ensure** **consistency** and **confidentiality**\n\n?What definitions must a distributed DBMS have?\n- a **global data dictionary**\n- a **global conceptual schema**\n- a **placement schema** that maps the data\n\n## Query Processing\n\n?What processes do the queries undergo?\n1. they are **fragmented according to the fragmentation schema**\n2. they are **optimized according to the allocation schema**\n3. they are **used to constitute an execution plan**\n\n?What does a distributed query execution plan determine?\nThe **order and sites of execution** of the different **fragments**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.641159951Z",
+    "quality" : "LOW"
+  }
+}

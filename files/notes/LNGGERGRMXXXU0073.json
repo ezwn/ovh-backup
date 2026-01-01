@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "LNGGERGRMXXXU0073",
+  "content" : {
+    "domain" : "LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "DE",
+      "title" : "Deutsche Präpositionen",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Deutsche Präpositionen\n\n~?\"**anstatt**\" regiert\nden **Genitiv**.\n\n~?\"**bezüglich**\" regiert\nden **Genitiv**.\n\n~?\"**trotz**\" regiert\nden **Genitiv**.\n\n~?\"**mittels**\" regiert\nden **Genitiv**.\n\n~?\"**unweit**\" regiert\nden **Genitiv**.\n\n~?\"**wegen**\" regiert\nden **Genitiv**.\n\n~?\"**aus**\" regiert\nden **Dativ**.\n\n~?\"**ab**\" regiert\nden **Dativ**.\n\n~?\"**außer**\" regiert\nden **Dativ**.\n\n~?\"**bei**\" regiert\nden **Dativ**.\n\n~?\"**mit**\" regiert\nden **Dativ**.\n\n~?\"**nach**\" regiert\nden **Dativ**.\n\n~?\"**seit**\" regiert\nden **Dativ**.\n\n~?\"**von**\" regiert\nden **Dativ**.\n\n~?\"**zu**\" regiert\nden **Dativ**.\n\n~?\"**durch**\" regiert\nden **Akkusativ**.\n\n~?\"**für**\" regiert\nden **Akkusativ**.\n\n~?\"**ohne**\" regiert\nden **Akkusativ**.\n\n~?\"**um**\" regiert\nden **Akkusativ**.\n\n~?\"**bis**\" regiert\nden **Akkusativ**.\n\n~?\"**gegen**\" regiert\nden **Akkusativ**.\n\n~?\"**wider**\" regiert\nden **Akkusativ**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-29T06:46:43.482100708Z"
+  }
+}

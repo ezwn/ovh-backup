@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYCOGMEMU0005",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Manifestations de la mémoire",
+      "description" : "Manifestations de la mémoire",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Parlons de la mémoire.\n\n~?Ses trois manifestations sont\nla **reconnaissance**, le **rappel** et l'**économie de réapprentissage**.\n\n~?Reconnaître consiste à\nidentifier ce que nous avons appris précédemment.\n\n~?En terme de performances, la reconnaissance est\n**rapide** et **vaste**.\n\n~?Entre le rappel et la reconnaissance, le plus performant est\nla **reconnaissance**.\n\n~?Entre le rappel et la reconnaissance, l'exercice le plus efficace est\nle **rappel**.\n\n~?Que peut on mesurer pour évaluer la mémorisation ?\nla **vitesse de réponse** ou la **vitesse de réapprentissage**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Manifestations de la mémoire",
+      "description" : "Manifestations de la mémoire",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "%# Sprechen wir über das Gedächtnis.\n\n~?Seine drei Erscheinungsformen sind\ndas **Erkennen**, das **Abrufen** und die **Ersparnis beim Wiederlernen**.\n\n~?Erkennen besteht darin,\nzu identifizieren, was wir zuvor gelernt haben.\n\n~?In Bezug auf die Leistung ist das Erkennen\n**schnell** und **umfangreich**.\n\n~?Zwischen dem Abrufen und dem Erkennen ist das leistungsstärkere\ndas **Erkennen**.\n\n~?Zwischen dem Abrufen und dem Erkennen ist die effektivere Übung\ndas **Abrufen**.\n\n~?Was kann man messen, um das Gedächtnis zu bewerten?\ndie **Reaktionsgeschwindigkeit** oder die **Geschwindigkeit des Wiederlernens**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.396810952Z",
+    "quality" : "LOW"
+  }
+}

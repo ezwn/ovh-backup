@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "epq5k3fozjo1de7fbaiciz",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architecte Solution ISO",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Architecte Solution ISO\n\n**Role**\nSolution Architect\n-contribute to the technical design and implementation of ISO’s digital ecosystem,\ncontent publishing, web content management, and eCommerce.\n\n**translate functional requirements into technical solutions**\nadhering to application **roadmaps** and **ISO’s design principles**.\n\n---\n\n**Key Responsibilities**\n\n* Design and develop technical solutions that **meet functional requirements and roadmap** schedules.\n* **Assist business analysts** in validating requirements, user stories, test plans, and acceptance criteria.\n* Support project management with work **breakdowns**, **estimates**, and **release schedules**.\n* Coordinate development teams with **technical guidance** and **code reviews**.\n* Manage day-to-day technical challenges and **report risks** or issues to project management.\n- Liaise with other solution architects and technical leads for coherence across applications.\n- Provide guidance, oversight, and research on technical topics.\n- Report to: Head of Development.\n\n---\n\n**Qualifications and Experience**\n\n* project management methodologies.\n* web content management, eCommerce, **PIM**, and search technologies.\n\n* Java, **Kotlin**, Typescript\n* Spring Boot, **Angular**\n* Postgres, **MongoDB**, **ElasticSearch**\n\n* Experience with:\n\n* Version control (Git), CI (Bitbucket), QA (JUnit, SonarQube, E2E testing), Jira\n* **OAuth/OpenID and SSO federation**\n* **Cloud architectures** and **MACH** design patterns\n\n---\n\n**Skills**\n\n- analytical and problem-solving\n- Communication skills\n- Team player, ownership mindset, hands-on and autonomous\n- Service-oriented with a continuous improvement mindset\n- ISO’s core values: Respect, Integrity, Collaboration, Growth Mindset, and Pushing Boundaries\n\n### Interview\n\n140K\n\nISO's duties :\n\n* output channels ?\n* organize meeting\n* publish norms\n\nMetrics :\n* 150 0000 users\n* 7 people team\n* BA support team\n* infra team\n* data team\n\n* techn lead / développer per projet\n* able to delegate and able to act\n\nsupport for other teams\nsmall initiatives\n\n### People\n\nHolga Apel : Dev > Priorities > Keep their back\nFranceso COBETTA : Dev\n",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "ISO Solution Architect",
+      "description" : null,
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# ISO Solution Architect\n\n**Role**\nSolution Architect\n-contribute to the technical design and implementation of ISO’s digital ecosystem,\ncontent publishing, web content management, and eCommerce.\n\n**translate functional requirements into technical solutions**\nadhering to application **roadmaps** and **ISO’s design principles**.\n\n---\n\n**Key Responsibilities**\n\n* Design and develop technical solutions that **meet functional requirements and roadmap** schedules.\n\n\n* Coordinate development teams with **technical guidance** and **code reviews**.\n\n* Liaise with other solution architects and technical leads for coherence across applications.\n* Provide guidance, oversight, and research on technical topics.\n\n\n---\n\n**Qualifications and Experience**\n\n* project management methodologies.\n* web content management, eCommerce, **PIM**, and search technologies.\n\n* Java, **Kotlin**, Typescript\n* Spring Boot, **Angular**\n* Postgres, **MongoDB**, **ElasticSearch**\n\n* Experience with:\n\n* Version control (Git), CI (Bitbucket), QA (JUnit, SonarQube, E2E testing), Jira\n* **OAuth/OpenID and SSO federation**\n* **Cloud architectures** and **MACH** design patterns\n\n---\n\n**Skills**\n\n* analytical and problem-solving\n* Communication skills\n* Team player, ownership mindset, hands-on and autonomous\n* Service-oriented with a continuous improvement mindset\n* ISO’s core values: Respect, Integrity, Collaboration, Growth Mindset, and Pushing Boundaries\n\n### Interview\n\n140K\n\nISO's duties :\n\n* output channels ?\n* organize meeting\n* publish norms\n\nMetrics :\n* 150 0000 users\n* 7 people team\n* BA support team\n* infra team\n* data team\n\n* techn lead / développer per projet\n* able to delegate and able to act\n\nsupport for other teams\nsmall initiatives\n\n### People\n\nHolga Apel : Dev > Priorities > Keep their back\nFranceso COBETTA : Dev\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-28T18:15:35.479209169Z",
+    "quality" : "LOW"
+  }
+}

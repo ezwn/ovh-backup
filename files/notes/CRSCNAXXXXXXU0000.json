@@ -1,0 +1,57 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "CRSCNAXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "CNAM 2024/2025",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# CNAM 2024/2025\n\n### [AVT208 - Gestion publique locale](note::vre2nsmujcxqtt84g2di6z)\n### [UCT505](note::wkr353y1jvnrbd62gdu3p2)\n### [NSY115 - Conduite d'un projet informatique](note::vjaqnepig60ynkcy1tpq05)\n\n### [AWSAR](note::COSARCCLOAWSU0000)\n\n### [NSY107](note::CNAMXXNSY107U0000)\n### [GLG204](note::CNAMXXGLG204U0000)\n### [GLG203](note::CNAMXXGLG203U0000)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "CNAM 2024/2025",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "\n\n###\n### [](note::wkr353y1jvnrbd62gdu3p2)\n### [](note::vjaqnepig60ynkcy1tpq05)\n\n###\n\n###\n###\n###\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "CNAM 2024/2025",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "\n\n###\n### [](note::wkr353y1jvnrbd62gdu3p2)\n### [](note::vjaqnepig60ynkcy1tpq05)\n\n###\n\n###\n###\n###\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "CNAM 2024/2025",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "\n\n###\n### [](note::wkr353y1jvnrbd62gdu3p2)\n### [](note::vjaqnepig60ynkcy1tpq05)\n\n###\n\n###\n###\n###\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-20T12:20:27.335156214Z"
+  }
+}

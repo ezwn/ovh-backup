@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODDESU2010",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Source : https://www.innoq.com/de/articles/2020/03/java-dynamic-proxy/",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Mandataire (cas d'usage) [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "@Les patron de conception \"mandataire\" s'applique à 4 situations :\n\n@Le mandataire distant est une représentation locale d'un objet distant.\nOn le manipule ainsi comme  n'importe quel objet,\ntraitement\néchanges réseau\n@mais les traitements reposent par exemple sur des échanges réseau.\n\ncharger\n@Le mandataire virtuel ne charge un objet que lorsqu'il est utilisé (lazy-loading).\n\nvérification\nprotecteur\nsupplémentaire\nl'accès\neffectuer\nLe mandataire protecteur effectue des vérifications supplémentaires lors des accès.\n\najouter\nEnfin le mandataire de référence intelligente ajoute des traitements tels que\nla gestion des transactions,\n@l'écriture de journaux,\n@ou la mesure du temps d'exécution.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "mandataire en java (cas d'usage) [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "@The \"proxy\" design pattern applies to 4 situations:\n\n@The remote proxy is a local representation of a remote object.\n@It is handled just like any other object,\n@process\n@network exchanges\n@but operations rely, for example, on network exchanges.\n\n@load\n@The virtual proxy only loads an object when it is used (lazy-loading).\n\n@check\n~protection\n@additional\n@access\n@perform\n@The protection proxy performs additional checks during access.\n\nadd\n@Finally, the smart reference proxy adds processes such as\n@transaction management,\n@logging,\n@or execution time measurement.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "mandataire en java (cas d'usage) [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "@Die Entwurfsmuster \"Stellvertreter\" gilt für vier Situationen:\n\n@Der entfernte Stellvertreter ist eine lokale Repräsentation eines entfernten Objekts.\nMan behandelt ihn somit wie jedes andere Objekt,\n^die Verarbeitung\n^der Netzwerkaustausch\n@aber die Verarbeitung basiert beispielsweise auf Netzwerkaustausch.\n\n^laden, lud, geladen\n@Der virtuelle Stellvertreter lädt ein Objekt nur dann, wenn es verwendet wird (Lazy-Loading).\n\n^die Überprüfung\n^schützende\n^zusätzliche\n^der Zugriff, die Zugriffe\n^durchführen\nDer schützende Stellvertreter führt zusätzliche Überprüfungen beim Zugriff durch.\n\n^hinzufügen\nSchließlich fügt der intelligente Referenzstellvertreter Behandlungen hinzu wie\ndie Transaktionsverwaltung,\n@das Schreiben von Logs,\n@oder die Messung der Ausführungszeit.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.359218631Z",
+    "quality" : "LOW"
+  }
+}

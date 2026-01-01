@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATANLXXXXXXU0018",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Application particulières [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "L'identité d'un ensemble est l'application qui\nassocie chaque élément de cet ensemble à lui-même.\n\nLa projection sur le premier facteur associe une paire à son premier élément.\n\nL'application constante associe à tous les éléments de l'ensemble de départ une valeur unique de l'ensemble d'arrivé.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Application particulières [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Die Identität einer Menge ist die Abbildung, die\njedem Element dieser Menge sich selbst zuordnet.\n\nDie Projektion auf den ersten Faktor ordnet einem Paar sein erstes Element zu.\n\nDie konstante Abbildung ordnet allen Elementen der Ausgangsmenge einen einzigen Wert der Zielmenge zu.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.593411958Z",
+    "quality" : "LOW"
+  }
+}

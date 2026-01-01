@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HHENUTXXXXXXU0001",
+  "content" : {
+    "domain" : "NUTRITION_HEALTH",
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Études en nutrition",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Études en nutrition\n\nEn nutrition, la preuve nécessite plusieurs études empiriques.\nOn distingue :\nles études écologiques\n(observation)\net les études expérimentales\n(manipulation de facteurs).\nPour évaluer les habitudes alimentaires, on utilise :\ndes questionnaires\n(sur le court ou le long terme)\net des journaux.\n\n## Études écologiques\n\nLes études écologiques évaluent des populations.\nElles dégagent des cooccurrences,\nmais ne permettent pas de déterminer une causalité, car :\non ne peut pas distinguer cooccurrence et effet d'une cause commune,\net dans tous les cas, le sens de la causalité n'est pas démontré.\n\nLes études transversales s'intéressent à :\nla relation entre deux variables dans la population générale.\n\nLes études cas-témoin comparent des groupes en fonction d'une variable.\nElles s'efforcent de garder toutes choses égales par ailleurs.\n\nExemples de biais :\nChoisir des groupes de patients de cliniques différentes,\nlorsque cela conditionne leur niveau de vie.\nLes malades se souviennent mieux des causes potentielles que les personnes saines.\n\n## Études de cohorte\n\nLes études de cohorte suivent de nombreux patients sur le long terme.\nElles les évaluent régulièrement.\nLe patients déclarent la survenue de maladies.\n\nMême si elles permettent d'établir une chronologie, elles ont des limitations :\nelles sont basées sur l'auto-évaluation qui peut manquer de précision.\nelles n'excluent pas les facteurs de confusion.\n\n## Études expérimentales\n\nDans les études expérimentales :\nDes groupes sont constitués.\nChaque groupe reçois un traitement différent.\n\nLes patients ne savent pas quel traitement ils reçoivent.\nIdéalement, la personne qui administre les traitements ignore également comment est traité chaque groupe.\nCela s'appelle le \"double aveugle\".\n\nVoici un cas particulier :\nLa comparaison entre une substance active et un placebo.\nLe plan d'étude croisé consiste à alterner les traitements pour chaque groupe, espacés par des temps de repos.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Études en nutrition (aperçu) [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Études en nutrition (aperçu) [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Études en nutrition (aperçu) [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.609547268Z",
+    "quality" : "LOW"
+  }
+}

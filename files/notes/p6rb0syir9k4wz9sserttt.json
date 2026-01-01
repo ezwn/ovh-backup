@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "p6rb0syir9k4wz9sserttt",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 2",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 2\n\n## Repérage\n\n[Vidéo 2a](note::vvcfjls5ma1eikoicxkibc)\n\np14 : pays attaquants et pays victimes \uD83D\uDD0D\uD83D\uDD0D\n\n- Mittre : tactiques, techniques, détection, mitigation\nhttps://attack.mitre.org/matrices/enterprise/\n\n- Advanced Persistent Threats\n\nArticle 5 de l'OTAN étendu aux cyberattaques\n\nAttaquants célèbres, \"groupes\"\n\n---\n\n## Utilisation du Cloud\n\n## Exfiltration en plus de chiffrage\n\nMenace de publication\n\n## Classification\n\n### Type 1 : nombre d'utilisateur infectés limités (postes de travail)\n\nEx : via Boites à outils de macros excel\n\nRedéployer le poste depuis une image\n\n### Type 2 : infiltration en profondeur\n\n- impact critique\n- rançon élevée\n\nvia serveurs, via partenaire (fournisseur logiciel, matériel)\nvia infection de type 1 d'abord : absence d'authentification forte, pas de séparation comptes/privilèdes\n\nMesures :\n- dissocier les comptes\n- isoler serveur, application, bdd du réseau bureautique\n- serveur bastions durcis (JumpHosts SSH?)\n- firewall RDP / Citrix\n- web : reverse-proxy\n\n### Maze\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-01T15:48:45.809359060Z",
+    "quality" : "LOW"
+  }
+}

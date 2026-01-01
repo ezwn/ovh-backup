@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCTOGAFXU0030",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Blocs de construction, continuum et référentiel du TOGAF",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Blocs de construction, continuum et référentiel du TOGAF\n\n~? Définition de service métier :\nprestation métier\n\n~? Caractéristique des blocs de construction :\néléments réutilisables\n\n~? Types de blocs de construction :\n- **architecture** : **abstraits** (**services métiers**, **capacités** ou **principes**)\n- **solution** : logiciel, base de données, module\n\n~? Définition de continuum d'entreprise :\n**spectre** **du générique au spécifique**\n\n~? Types de continuums d'entreprise :\n- architecture\n- solution\n\n~? Contenu du référentiel d'architecture :\n- **métamodèle** d’architecture\n- **paysage** d’architecture (**états actuel** et **cible**)\n- **bibliothèque de référence** (architectures de référence, patterns d’architecture)\n- **base de normes**\n- **journal de gouvernance** (décisions, revues)\n- **exigences d’architecture** (métier et techniques)\n- **solutions en place** (descriptions)\n- **évaluation des capacités** (maturité et écarts)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Building blocks, continuum and TOGAF repository",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Building blocks, continuum and TOGAF repository\n\n~? Definition of business service:\nbusiness offering\n\n~? Characteristic of building blocks:\nreusable elements\n\n~? Types of building blocks:\n- **architecture**: **abstract** (**business services**, **capabilities** or **principles**)\n- **solution**: software, database, module\n\n~? Definition of enterprise continuum:\n**spectrum** **from generic to specific**\n\n~? Types of enterprise continuums:\n- architecture\n- solution\n\n~? Content of the architecture repository:\n- **architecture metamodel**\n- **architecture landscape** (**current** and **target** states)\n- **reference library** (reference architectures, architecture patterns)\n- **standards base**\n- **governance log** (decisions, reviews)\n- **architecture requirements** (business and technical)\n- **solutions in place** (descriptions)\n- **capability assessment** (maturity and gaps)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Bausteine, Kontinuum und Referenzrahmen von TOGAF",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Bausteine, Kontinuum und Referenzrahmen von TOGAF\n\n~? Definition von Geschäftsservice:\nGeschäftsleistung\n\n~? Merkmal der Bausteine:\nwiederverwendbare Elemente\n\n~? Arten von Bausteinen:\n- **Architektur**: **abstrakt** (**Geschäftsservices**, **Fähigkeiten** oder **Grundsätze**)\n- **Lösung**: Software, Datenbank, Modul\n\n~? Definition des Unternehmenskontinuums:\n**Spektrum** **vom Generischen zum Spezifischen**\n\n~? Arten von Unternehmenskontinua:\n- Architektur\n- Lösung\n\n~? Inhalt des Architektur-Referenzrahmens:\n- **Architekturmetamodell**\n- **Architekturlandschaft** (**aktueller Zustand** und **Zielzustand**)\n- **Referenzbibliothek** (Referenzarchitekturen, Architektur-Muster)\n- **Normenbasis**\n- **Governance-Journal** (Entscheidungen, Überprüfungen)\n- **Architekturanforderungen** (geschäftlich und technisch)\n- **bestehende Lösungen** (Beschreibungen)\n- **Fähigkeitseinschätzung** (Reifegrad und Abweichungen)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-09T16:02:29.384308814Z",
+    "quality" : "LOW"
+  }
+}

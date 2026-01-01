@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "k7ag0tieq6cp5b69i2wxfv",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "UTC505",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# UTC505\n\n## Repérage réseau\n\n### [Séance 4](note::0gjghawnmz9b2nts79wibk)\n### [Séance 3](note::xrzfsb4ry2ra37c3aibzle)\n### [Séance 2](note::shjs4tu9hmio3yisdxewia)\n### [Séance 1](note::hzb86oxsujij1fmxkthdev)\n\n## Repérage sécurité\n\n### Séance 1 : à retrouver ?\n### Regroupement S1\n### [Séance 2](note::p6rb0syir9k4wz9sserttt)\n### Regroupement S2\n### [Séance 3](note::0c6mc3n6n56e7001ykvyvc)\n### Regroupement S3\n### [Séance 4](note::4aqqj0d5boxh3ls1dkt6kj)\n### [Regroupement S4](note::pwo3zqvqtx5tsl7xxs1mle)\n### [Séance 5](note::58xb8bfc5pk0gp090bycev)\n### [Regroup. S5](note::da2c2eiys073h3fiel2r48)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-19T05:45:40.562081298Z",
+    "quality" : "LOW"
+  }
+}

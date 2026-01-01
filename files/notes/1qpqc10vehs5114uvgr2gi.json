@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "1qpqc10vehs5114uvgr2gi",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cadrage lors de l'initialisation d'un projet",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Cadrage lors de l'initialisation d'un projet\n\nObjectifs :\n- planifier, budgétiser, synthétiser\n- consigner dans document contractuel\n\nComment ?\n- avec les experts nécessaires\n- restituer les besoins\n- élaborer la solution\n- estimer les ressources nécessaires\n- [choisir une méthode de gestion de projet](note::wmm95q14bduyj5413kqydg)\n\n#### Planning (Gantt), délai\n\nnotion.so pour Gantt ?\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-22T12:19:01.513203014Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALIXXXXXXU0007",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Montrer fonction est application linéaire",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Soient deux espaces vectoriels A et B sur un corps K,\net soit F une application de A dans B.\n\nPour montrer que F est linéaire, il faut et il suffit de montrer...\n\nD'une part l'additivité, c'est à dire\nque quels que soit U et V de A,\nF de U plus V égal F de U plus F de V.\n\nEt d'autre part l'homogénéité, qui correspond au fait que\nquels que soit U de A et lambda de K,\nF de lambda U égal lambda F de U.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Montrer fonction est application linéaire",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Let A and B be two vector spaces over a field K,\nand let F be a map from A to B.\n\nTo show that F is linear, it is necessary and sufficient to show...\n\nOn one hand additivity, that is\nthat for any U and V in A,\nF of U plus V equals F of U plus F of V.\n\nAnd on the other hand homogeneity, which corresponds to the fact that\nfor any U in A and lambda in K,\nF of lambda U equals lambda F of U.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Montrer fonction est application linéaire",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Seien zwei Vektorräume A und B über einem Körper K,\nund sei F eine Abbildung von A nach B.\n\nUm zu zeigen, dass F linear ist, ist es notwendig und hinreichend zu zeigen...\n\nEinerseits die Additivität, das heißt,\ndass für alle U und V aus A gilt,\nF von U plus V gleich F von U plus F von V.\n\nUnd andererseits die Homogenität, die darin besteht,\ndass für alle U aus A und lambda aus K gilt,\nF von lambda U gleich lambda F von U.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.135422819Z",
+    "quality" : "LOW"
+  }
+}

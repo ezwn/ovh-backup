@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSDATXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Données",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Données\n\n## [Bases de données réparties](note::COSDATXXXXXXU2010)\n\n## [Transactions](note::COSDATXXXXXXU1010)\n\n## [Verrous](note::COSDATXXXXXXU1020)\n\n## [Systèmes transactionnels répartis](note::COSDATXXXXXXU2020)\n\n## [Réplication des données](note::COSDATXXXXXXU2100)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.295623982Z",
+    "quality" : "LOW"
+  }
+}

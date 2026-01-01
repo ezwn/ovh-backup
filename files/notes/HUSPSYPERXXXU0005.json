@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYPERXXXU0005",
+  "content" : {
+    "domain" : "PSYCHOLOGY",
+    "privateComment" : "Sources :\n- G. Myers, C. Nathan DeWall - Psychology (14th Edition, 2024) [EN], p. 1896\n\nA faire :\n- comment évaluer ces traits d'après des comportements facilement observables ?",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèle de la personnalité \"Océan\"",
+      "description" : "Les dimensions de la personnalité, selon l'un des modèles les plus validés.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modèle de la personnalité \"Océan\"\n\n~? **5 facteurs** de **personnalité** et **fourchettes de variation** selon le modèle Océan :\n- **ouverture** : du **conformisme** et de la **préférence pour la routine** à la **créativité** et à la **préférence pour la variété**.\n- **conscience** : de la **désorganisation** et de la **négligence** à l'**organisation** et à la **discipline**.\n- **extraversion** : du **retrait** à la **sociabilité**.\n- **amabilité** : de la **suspicion** et de l'**opposition** à la **confiance** et au **soutien**.\n- neuroticisme ou **instabilité émotionnelle** : du **calme** et de l'**assurance** à **l'anxiété** et à l'**insécurité**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "\"Ocean\" personality model",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# \"Ocean\" personality model\n\n~?**5 personality factors** and **ranges of variation** according to the Ocean model:\n- **openness**: from **conformism** and **preference for routine** to **creativity** and **preference for variety**.\n- **conscientiousness**: from **disorganization** and **negligence** to **organization** and **discipline**.\n- **extraversion**: from **withdrawal** to **sociability**.\n- **agreeableness**: from **suspicion** and **opposition** to **trust** and **support**.\n- neuroticism or **emotional instability**: from **calm** and **confidence** to **anxiety** and **insecurity**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Persönlichkeitsmodell \"Ozean\"",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Persönlichkeitsmodell \"Ozean\"\n\n~?**5 Persönlichkeitsfaktoren** und **Variationsbereiche** nach dem Ozean-Modell:\n- **openness**: vom **Konformismus** und der **Vorliebe für Routine** zur **Kreativität** und zur **Vorliebe für Abwechslung**.\n- **conscientiousness**: von der **Desorganisation** und der **Nachlässigkeit** zur **Organisation** und zur **Disziplin**.\n- **extraversion**: vom **Rückzug** zur **Geselligkeit**.\n- **agreeableness**: vom **Misstrauen** und der **Opposition** zum **Vertrauen** und zur **Unterstützung**.\n- neuroticism oder **emotionale Instabilität**: von der **Ruhe** und der **Zuversicht** zur **Angst** und zur **Unsicherheit**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "\"Ocean\"人格模型",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# \"Ocean\"人格模型\n\n~?Ocean模型中的5个人格因素及变化范围：\n- **openness** : 从**墨守成规**和**偏好常规**到**创造性**和**偏好多样性**。\n- **conscientiousness** : 从**杂乱无章**和**疏忽**到**有条理**和**自律**。\n- **extraversion** : 从**退缩**到**善于交际**。\n- **agreeableness** : 从**怀疑**和**对立**到**信任**和**支持**。\n- neuroticism或**情绪不稳定性** : 从**冷静**和**自信**到**焦虑**和**不安全感**。",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-16T05:29:54.721583065Z",
+    "quality" : "LOW"
+  }
+}

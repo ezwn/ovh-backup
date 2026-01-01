@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGPROXXXU0001",
+  "content" : {
+    "domain" : "LOGIC_IN_MATHEMATICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Logique propositionnelle",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Logique propositionnelle\n\n##@ Lois de Morgan\n\n- ¬(p ∧ q) ≡ ¬p ∨ ¬q\n- ¬(p ∨ q) ≡ ¬p ∧ ¬q\n\n%## Exercices oraux\n\n?~Développez : non parenthèse p et q\nnon p ou non q\n\n?~Développez : non parenthèse p ou q\nnon p et non q\n\n?~Factorisez : non p ou non q\nnon parenthèse p et q\n\n?~Factorisez : non p et non q\nnon parenthèse p ou q\n\n##@ Exercices écrits\n\n###€ Exercice 1 // {\"id\":\"ZdHPwbmWl5PhwSWS-EENjQ\"}\n\n?Donner la table de vérité de [(p ∧ q) ⇒ r] ∨ [(p ∧ ¬q) ⇒ ¬r]\n- Le plus rapide est de raisonner par un arbre de cas pour p, qui est vraie soit fausse.\n- On remplace p par vrai ou faux dans la proposition initiale.\n- Il est alors facile de montrer que celle-ci est toujours vraie.\n\n###€ Exercice 2 // {\"id\":\"L_v0Iyrsgv-Pfs9HQd7d9Q\"}\n\n?Écrire la négation de « P ∧ (Q ∨ R) ».\n¬p ∨ (¬Q ∧ ¬R)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Propositional Logic",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Propositional Logic\n\n##@ De Morgan's Laws\n\n- ¬(p ∧ q) ≡ ¬p ∨ ¬q\n- ¬(p ∨ q) ≡ ¬p ∧ ¬q\n\n%## Oral Exercises\n\n?~Develop: not parenthesis p and q\nnot p or not q\n\n?~Develop: not parenthesis p or q\nnot p and not q\n\n?~Factorise: not p or not q\nnot parenthesis p and q\n\n?~Factorise: not p and not q\nnot parenthesis p or q\n\n##@ Written Exercises\n\n###€ Exercise 1 // {\"id\":\"ZdHPwbmWl5PhwSWS-EENjQ\"}\n\n?Give the truth table of [(p ∧ q) ⇒ r] ∨ [(p ∧ ¬q) ⇒ ¬r]\n- The fastest method is to use a case tree for p, which is either true or false.\n- Replace p by true or false in the initial proposition.\n- It is then easy to show that this is always true.\n\n###€ Exercise 2 // {\"id\":\"L_v0Iyrsgv-Pfs9HQd7d9Q\"}\n\n?Write the negation of \"P ∧ (Q ∨ R)\".\n¬p ∨ (¬Q ∧ ¬R)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Aussagenlogik",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Aussagenlogik\n\n##@ De Morgansche Gesetze\n\n- ¬(p ∧ q) ≡ ¬p ∨ ¬q\n- ¬(p ∨ q) ≡ ¬p ∧ ¬q\n\n%## Mündliche Übungen\n\n?~Entwickeln Sie: nicht Klammer p und q\nnicht p oder nicht q\n\n?~Entwickeln Sie: nicht Klammer p oder q\nnicht p und nicht q\n\n?~Faktorisieren Sie: nicht p oder nicht q\nnicht Klammer p und q\n\n?~Faktorisieren Sie: nicht p und nicht q\nnicht Klammer p oder q\n\n##@ Schriftliche Übungen\n\n###€ Übung 1 // {\"id\":\"ZdHPwbmWl5PhwSWS-EENjQ\"}\n\n?Geben Sie die Wahrheitstabelle von [(p ∧ q) ⇒ r] ∨ [(p ∧ ¬q) ⇒ ¬r]\n- Am schnellsten geht es mit einem Fallbaum für p, das wahr oder falsch ist.\n- Ersetzen Sie p durch wahr oder falsch in dem ursprünglichen Satz.\n- Dann ist es leicht zu zeigen, dass dieser immer wahr ist.\n\n###€ Übung 2 // {\"id\":\"L_v0Iyrsgv-Pfs9HQd7d9Q\"}\n\n?Schreiben Sie die Negation von « P ∧ (Q ∨ R) ».\n¬p ∨ (¬Q ∧ ¬R)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "命题逻辑",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 命题逻辑\n\n##@ 德摩根定律\n\n- ¬(p ∧ q) ≡ ¬p ∨ ¬q\n- ¬(p ∨ q) ≡ ¬p ∧ ¬q\n\n%## 口头练习\n\n?~展开：非括号p和q\n非p或非q\n\n?~展开：非括号p或q\n非p和非q\n\n?~因式分解：非p或非q\n非括号p和q\n\n?~因式分解：非p和非q\n非括号p或q\n\n##@ 书面练习\n\n###€ 练习1 // {\"id\":\"ZdHPwbmWl5PhwSWS-EENjQ\"}\n\n?给出[(p ∧ q) ⇒ r] ∨ [(p ∧ ¬q) ⇒ ¬r]的真值表\n- 最快的方法是按p的情况生成二叉树，p为真或假。\n- 在原命题中将p替换为真或假。\n- 然后很容易证明该命题总为真。\n\n###€ 练习2 // {\"id\":\"L_v0Iyrsgv-Pfs9HQd7d9Q\"}\n\n?写出“P ∧ (Q ∨ R)”的否定。\n¬p ∨ (¬Q ∧ ¬R)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.011397136Z",
+    "quality" : "LOW"
+  }
+}

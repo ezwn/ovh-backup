@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCCLOAWSU0030",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : " Infrastructure mondiale AWS",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Infrastructure mondiale AWS\n\nNiveaux de segmentation :\n- les 22 régions\n- contiennent des zones\n- qui contiennent des centres de données\n\n## Régions\n\nCertaines régions sont désactivés par défaut\n\nConnexion entre régions :\ndorsale privée AWS\n\nLa réplication entre régions est activée :\nmanuellement : pas de réplication automatique.\n\nSpécificités de chaque région :\n- latence\n- législation\n\n## Zones de disponibilités\n\nCaractéristiques des zones :\n- isolées\n- alimentées indépendamment\n- interconnectés par liaisons privées\n\nLes zones de disponibilité sont reliées  par :\nliaisons privées rapides\n\nLa réplication est activée :\ntantôt automatiquement, tantôt manuellement\n\nRéplication recommandée pour augmenter la résilience\n\n## Zones locales\n\nC'est à dire : proche des utilisateurs finaux, latence très faible\n\n## Caches locales\n\n## Centre de données\n\n## Points de présence",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-08T18:10:17.739799285Z",
+    "quality" : "LOW"
+  }
+}

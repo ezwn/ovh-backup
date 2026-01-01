@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU0700",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Unités mobiles",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## [Kiao 4](note::XXXXXXXXXXXXU1100)\n\n## [Kiao 3](note::XXXXXXXXXXXXU1000)\n\n## Archives\n\n### [Kiao 2](note::XXXXXXXXXXXXU0800)\n\n### [Demo](note::DEMOXXXXXXXXU0000)\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.401772159Z",
+    "quality" : "LOW"
+  }
+}

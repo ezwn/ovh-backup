@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU1100",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Unités relues",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Unités relues\n\n## Allemand\n\n### [Pronoms allemands](note::LNGGERGRMXXXU0085)\n\n## Crises et transitions écologiques\n\n### [Sources primaires mondiales de GES](note::MULECOTRAXXXU0150)\n\n## Management\n\n### [Théorie des organisation de Mintzberg](note::HUSMGTORGMINU0020)\n### [L'acteur stratégique](note::HUSMGTTECPRSU0100)\n\n## Psychology\n\n### [Stratégies d'apprentissage](note::HUSPSYCOGMEMU0030)\n### [Encodage depuis les mémoires sensorielles](note::HUSPSYCOGMEMU0020)\n### [Soi social](note::HUSPSYSOCXXXU0012)\n\n## IT\n\n### [Architecture métier (urbanisation)](note::COSARCXXXXXXU2020)\n### [Bases de cryptographie](note::COSSECXXXXXXU0103)\n### [Virtualisation](note::COSXXXXXXXXXU0006)\n### [Middleware orienté messages](note::COSARCXXXXXXU0070)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-02T17:30:39.949990909Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "8id1p0i2m6vng2c7bfe6tl",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Séance 1 ✔️",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Séance 1 ✔️\n\n## Todo\n\n☐ Finaliser le traitement des blocs ci-dessous\n\n## Repérage\n\n[Sommaire](video::avt208-1-1;00:04:00)\n[Bibliographie : bases ? plus loin ?](video::avt208-1-1;00:06:59)\n[Webographie](video::avt208-1-1;00:10:00)\n[finances locales un enjeu d'actualité](video::avt208-1-1;00:11:31)\n[Sujets de préoccupation autour de l'orga éco et financière](video::avt208-1-1;00:16:00)\n[Place des CT, responsabilité dans déficit](video::avt208-1-1;00:16:56)\n[Situation de la France Déficit public 5,8% du PIB, endettement, dette](video::avt208-1-1;00:18:00)\n\n5.8% du PIB en 2024\n\nIl est compensé par des emprunts\n\n[Acteurs : les collectivités contribuent relativement faiblement](video::avt208-1-1;00:19:15)\n[Efficacité de l'organisation publique en France](video::avt208-1-1;00:24:40)\nEnchevêtrement des compétences?\nTaille critique et politique : intecommuncalité, communes nouvelles\n[Calrification des compétences](video::avt208-1-1;00:30:15)\n[Les collectivités ont-elles des marges de manoeuvre?](video::avt208-1-1;00:31:30)\n[Sujet : périquation?](video::avt208-1-1;00:33:37)\n[Sujet : financement de la transition écologique, comment peuvent elles contribuer](video::avt208-1-1;00:36:00)\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : {
+        "avt208-1-1" : ""
+      }
+    } ],
+    "modificationDate" : "2025-10-18T18:48:04.489456045Z",
+    "quality" : "LOW"
+  }
+}

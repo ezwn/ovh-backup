@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "0mlno1i37p45ynhfbhoy65",
+  "content" : {
+    "domain" : "SOFTWARE_ENGINEERING",
+    "privateComment" : "...",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "11 - Déploiement sur le Cloud",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# 11 - Déploiement sur le Cloud\n### [Offres Cloud](note::uajgozbym2hoirbf2en4ls)\n### [Sécurité dans le cloud](note::n6j9vai0qpaftjtl2h0rzd)\n\n### Pratique : AWS\n\n01:03:15  pourquoi AWS comme exemple ?\n01:03:58  liste des services AWS\n1 4 28  50 services par : \uD83E\uDDE0\uD83E\uDDE0\n-serveur de calculs : EC2 hébergement IaaS, ECS : orchestration de conteneurs\n-stockage : S3, CloudFront, Glacier, bases de données\n-sécurité : IAM\n-réseau : Virtual Private Cloud\n-développement\n-pour les entreprises : Desktop-as-a-Service, mail, ...\n-applicatifs : Simple Queue Service, AppStream\n-mobile\n-analyse de données\n01:13:00  Inscription à AWS\n01:15:30  Présentation de la console de gestion\n01:16:50  Sécuriser son compte\n01:17:55  IAM\n01:18:55  Utilisateur root\n01:19:45  Terminologie IAM \uD83E\uDDE0\n-rôle\n-policy\n01:20:28  Exemple de policy IAM\n01:21:30  Hiérarchie des privilèges IAM \uD83E\uDDE0\uD83E\uDDE0\n- root, utilisateur et temporary security credentials\n01:22:59  Privilèges IAM par niveau hiérarchique \uD83E\uDDE0\uD83E\uDDE0\n01:23:48  Démo : création d'un utilisateur\n01:27:25  Démo : création de rôles\n01:29:33  Déploiement d'une application en IaaS sur EC2\n01:29:45  Terminologie EC2 \uD83E\uDDE0\uD83E\uDDE0\n01:30:45  Notre responsabilité vs celle d'AWS \uD83E\uDDE0\uD83E\uDDE0\n01:31:30  Les ressources EC2 : types et manipulation \uD83E\uDDE0\uD83E\uDDE0\n01:32:35  Types d'instances EC2 : \uD83E\uDDE0\uD83E\uDDE0\n-caractéristiques matérielles et tarification\n-famille : chiffre et caractéristique de performance\n-extensibilité\n01:34:38  Cycle de vie d'une instance \uD83E\uDDE0\uD83E\uDDE0\n01:36:46  Stockage EBS (par défaut) : système de fichiers, montable \uD83E\uDDE0\uD83E\uDDE0\n01:38:23  S3 : objets \uD83E\uDDE0\uD83E\uDDE0\n01:40:06  compatiments : buckets, répertoire de niveau unique \uD83E\uDDE0\uD83E\uDDE0\n01:40:51  EFS : élastique, intensif, coût élevé  \uD83E\uDDE0\uD83E\uDDE0\n01:41:58  Comparaison des stockages \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\n01:44:00  Connexion à une instance EC2 \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\n- paire de clés SSH\n-clé d'accès : info d'identification utilisateur à long terme\n-groupe de sécu : par feu virtuel\n- virtual private cloud : section isolée du cloud\n01:46:20  Communications entre instances dans un GS \uD83E\uDDE0\uD83E\uDDE0\uD83E\uDDE0\n01:48:15  Adresse IP élastique AWS : stable et indépendante des instance, peut être attribuée à une instance \uD83E\uDDE0\uD83E\uDDE0\n01:50:18  Régions et zones de disponibilité\n01:51:36  Facturation\n01:54:41  Création EC2\n-création de paire de clés\n-choix de l'image (Amazon Machine Image)\n-choix des caractéristiques de l'instance\n-stockage associé\n-groupe de sécurité\n02:03:31  Accéder à l'instance\n02 05 20  Exécution d'une image docker sur l'instance EC2\n02:13:00  Déploiement Kubernetes\n02:15:55  EKS permet de créer des noeuds ECS\n### 2 21 08",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-12-14T11:36:48.307165864Z",
+    "quality" : "LOW"
+  }
+}

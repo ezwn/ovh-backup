@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGRELXXXU0018",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "classe d'équivalence [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Sur l'ensemble E et pour la relation R,\n^équivalent\nune classe d'équivalence est\n^entre eux\nun ensemble d'éléments équivalents entre eux.\n\nL'ensemble des classes d'équivalence est appelé\nquotient de E par R.\n\nLes classes d'équivalence sont soit égales soit disjointes.\n\nLes classes d'équivalence de E en forment une partition.\n\nUne partition d'un ensemble E est faite d'ensembles :\ndisjoints,\nnon vide,\net dont l'union forme E.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "classe d'équivalence [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "On the set E and for the relation R,\n^equivalent\nan equivalence class is\n^to each other\na set of elements equivalent to each other.\n\nThe set of equivalence classes is called\nthe quotient of E by R.\n\nEquivalence classes are either equal or disjoint.\n\nThe equivalence classes of E form a partition.\n\nA partition of a set E is made up of sets:\ndisjoint,\nnon-empty,\nand whose union forms E.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "classe d'équivalence [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Auf der Gesamtheit E und für die Beziehung R,\n^!äquivalent\neine Äquivalenzklasse ist\n^zueinander\neine Menge von Elementen, die zueinander äquivalent sind.\n\nDie Menge der Äquivalenzklassen wird genannt\nQuotient von E durch R.\n\nDie Äquivalenzklassen sind entweder gleich oder disjunkt.\n\nDie Äquivalenzklassen von E bilden eine Partition.\n\nEine Partition einer Menge E besteht aus Mengen:\ndisjunkt,\nnicht leer,\nund deren Vereinigung E bildet.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.290496822Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0023",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Raisonnement cas par cas [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Dans le raisonnement au cas par cas,\n~ensemble total\n~application\non divise l'ensemble d'application d'une proposition en sous-ensembles,\n~être vrai\net on montre qu'elle est vraie pour chacun d'eux.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Raisonnement cas par cas [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "In case-by-case reasoning,\ndomain\napplication\nthe domain of application of a proposition is divided into subsets,\n~be true\nand it is shown to be true for each of them.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Raisonnement cas par cas [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Im fallweisen Schluss,\n^die Gesamtheit\n^die Anwendung\nteilt man die Gesamtheit der Anwendung einer Aussage in Untermengen,\n^zutreffen, traf zu, zugetroffen\nund zeigt, dass sie für jede von ihnen zutrifft.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Raisonnement cas par cas [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在逐个情况推理中，\n一个集合\n一个应用\n我们将一个命题的应用集合划分为子集，\n正确的\n并证明它对每个子集都是正确的。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.364867479Z",
+    "quality" : "LOW"
+  }
+}

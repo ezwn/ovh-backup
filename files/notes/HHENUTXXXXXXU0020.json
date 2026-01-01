@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HHENUTXXXXXXU0020",
+  "content" : {
+    "domain" : "NUTRITION_HEALTH",
+    "privateComment" : "Source: https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Graisses",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "%# Matières grasses\n\n^un sujet // {\"headword\":\"sujet\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B1\"}\n^fondamental // {\"headword\":\"fondamental\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n~?À ce sujet, quel principe fondamental est souvent méconnu ?\nIl est **plus important de bien les choisir** que d'en limiter l'apport.\n\n^un lipide // {\"headword\":\"lipide\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"B2\"}\n~?Quels lipides doivent être privilégiés ?\nLes lipides **insaturés**.\n\n^une graisse // {\"headword\":\"graisse\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^insaturé // {\"headword\":\"insaturé\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n^un avantage // {\"headword\":\"avantage\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A2\"}\n~?Quel est l'avantage des graisses insaturées ?\n^un risque // {\"headword\":\"risque\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A2\"}\n^une maladie // {\"headword\":\"maladie\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A1\"}\n^diminuer // {\"headword\":\"diminuer\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\nElles **diminuent les risques de maladies**.\n\n~?Où trouve-t-on des graisses insaturées ?\n^une huile végétale // {\"headword\":\"huile végétale\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\n^une noix // {\"headword\":\"noix\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^une graine // {\"headword\":\"graine\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^un poisson // {\"headword\":\"poisson\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\nDans les **huiles végétales**, les **noix**, les **graines**, et le **poisson**.\n\n^néfaste // {\"headword\":\"néfaste\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n~?Quels lipides sont le plus néfastes ?\nLes lipides **transformés**.\n\n^une santé // {\"headword\":\"santé\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A1\"}\n^impact // {\"headword\":\"impact\",\"category\":\"other\",\"cefrLevel\":\"B1\"}\n^négatif // {\"headword\":\"négatif\",\"category\":\"adjective\",\"cefrLevel\":\"B1\"}\n~?Quels lipides ont un impact plutôt négatif sur la santé ?\nLes lipides **saturés**.\n\n~?Où trouve-t-on des graisses saturées ?\n^une viande rouge // {\"headword\":\"viande rouge\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"A2\"}\n^un beurre // {\"headword\":\"beurre\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^un fromage // {\"headword\":\"fromage\",\"category\":\"noun\",\"gender\":\"masculine\",\"cefrLevel\":\"A1\"}\n^une huile de palme // {\"headword\":\"huile de palme\",\"category\":\"noun\",\"gender\":\"feminine\",\"cefrLevel\":\"B1\"}\nDans la **viande rouge**, le **beurre**, le **fromage**, et l'**huile de palme**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Fats",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "%# Fats\n\n^the subject // {\"headword\":\"subject\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^fundamental // {\"headword\":\"fundamental\",\"category\":\"adjective\",\"cefrLevel\":\"C1\"}\n~?On this subject, what fundamental principle is often overlooked?\nIt is **more important to choose them well** than to limit their intake.\n\n^the lipid // {\"headword\":\"lipid\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\n~?Which lipids should be favoured?\n**Unsaturated** lipids.\n\n^the fat // {\"headword\":\"fat\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^unsaturated // {\"headword\":\"unsaturated\",\"category\":\"adjective\",\"cefrLevel\":\"B2\"}\n^the advantage // {\"headword\":\"advantage\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n~?What is the advantage of unsaturated fats?\n^the risk // {\"headword\":\"risk\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\n^the disease // {\"headword\":\"disease\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\n^reduce // {\"headword\":\"reduce\",\"category\":\"verb\",\"cefrLevel\":\"B1\"}\nThey **reduce the risk of diseases**.\n\n~?Where are unsaturated fats found?\n^the vegetable oil // {\"headword\":\"vegetable oil\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the nut // {\"headword\":\"nut\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the seed // {\"headword\":\"seed\",\"category\":\"noun\",\"cefrLevel\":\"A2\"}\n^the fish // {\"headword\":\"fish\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\nIn **vegetable oils**, **nuts**, **seeds**, and **fish**.\n\n^harmful // {\"headword\":\"harmful\",\"category\":\"adjective\",\"cefrLevel\":\"B1\"}\n~?Which lipids are the most harmful?\n**Transformed** lipids.\n\n^the health // {\"headword\":\"health\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^impact // {\"headword\":\"impact\",\"category\":\"other\",\"cefrLevel\":\"B2\"}\n^negative // {\"headword\":\"negative\",\"category\":\"adjective\",\"cefrLevel\":\"B1\"}\n~?Which lipids have a rather negative impact on health?\n**Saturated** lipids.\n\n~?Where are saturated fats found?\n^the red meat // {\"headword\":\"red meat\",\"category\":\"noun\",\"cefrLevel\":\"B1\"}\n^the butter // {\"headword\":\"butter\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the cheese // {\"headword\":\"cheese\",\"category\":\"noun\",\"cefrLevel\":\"A1\"}\n^the palm oil // {\"headword\":\"palm oil\",\"category\":\"noun\",\"cefrLevel\":\"B2\"}\nIn **red meat**, **butter**, **cheese**, and **palm oil**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.656719460Z",
+    "quality" : "LOW"
+  }
+}

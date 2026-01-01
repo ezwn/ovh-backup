@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Logique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Logique\n\n## Unités\n\n### [Logique propositionnelle](note::MATLOGPROXXXU0001)\n\n### [Implication](note::MATLOGXXXXXXU0001)\n\n### [Lois de Morgan](note::MATLOGXXXXXXU0007)\n\n### [Quantificateurs](note::MATLOGXXXXXXU0015)\n\n### [Raisonnement direct](note::MATLOGXXXXXXU0020)\n\n### [Cas par cas](note::MATLOGXXXXXXU0023)\n\n### [Par la contraposée](note::MATLOGXXXXXXU0026)\n\n### [Par l'absurde](note::MATLOGXXXXXXU0029)\n\n### [Contre-exemple](note::MATLOGXXXXXXU0032)\n\n### [Raisonnement par récurrence](note::MATLOGXXXXXXU0035)\n\n## Statut exercices\n\n### CNAM IDF\n\n### CNAM Nouvelle-Aquitaine\n\n| Exercice | Statut       |\n| -------- | ------------ |\n| 1.1      | Trop facile  |\n| 1.2      | Trop facile  |\n| 1.3      | En quiz      |\n| 1.4      | ?            |\n| 1.5      | En quiz      |\n| 1.6      | En quiz      |\n| 1.7      | En quiz      |\n| 2.1      | MATLOGXXXXXXU0020 |\n| 2.2      | MATLOGXXXXXXU0023 |\n| 2.3      | MATLOGXXXXXXU0026 |\n| 2.4      | MATLOGXXXXXXU0029 |\n| 2.5      | MATLOGXXXXXXU0032 |\n| 2.6      | MATLOGXXXXXXU0035 |\n| 2.7      |              |",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.095402095Z",
+    "quality" : "LOW"
+  }
+}

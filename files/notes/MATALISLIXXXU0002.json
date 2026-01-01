@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATALISLIXXXU0002",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Systèmes linéaires, introduction (2) [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Prenons la matrice représentant un système linéaire.\nLe système admet au moins une solution si et seulement si\nle rang de la matrice des coefficients et celui de la matrice augmentée sont égaux.\nLa solution est unique si ce rang est égal au nombre d'inconnues.\n\nL'élimination de Gauss-Jordan permet de :\nrésoudre un système linéaire,\ndéterminer le rang de la matrice,\net enfin calculer la matrice inversée.\n\nCette méthode nécessite d'obtenir la matrice échelonnée réduite.\n\"Échelonnée\" signifie que le nombre de zéro à gauche augmente strictement de ligne en ligne.\nLes premiers nombres non nuls sont alors appelés \"pivots\". \n\"Réduite\" signifie que les pivots sont égaux à 1,\net les autres coefficient de leur colonne sont nuls.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Systèmes linéaires, introduction (2) [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Let's consider the matrix representing a linear system.\nThe system has at least one solution if and only if\nthe rank of the coefficient matrix and that of the augmented matrix are equal.\nThe solution is unique if this rank equals the number of unknowns.\n\nThe Gauss-Jordan elimination method allows us to:\nsolve a linear system,\ndetermine the rank of the matrix,\nand finally calculate the inverse matrix.\n\nThis method requires obtaining the reduced row echelon form.\n\"Echelon\" means that the number of zeros to the left strictly increases from row to row.\nThe first non-zero numbers are then called \"pivots\".\n\"Reduced\" means that the pivots are equal to 1,\nand the other coefficients in their column are zero.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Systèmes linéaires, introduction (2) [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Nehmen wir die Matrix, die ein lineares System darstellt.\nDas System hat genau dann mindestens eine Lösung, wenn\nder Rang der Koeffizientenmatrix und der Rang der erweiterten Matrix gleich sind.\nDie Lösung ist eindeutig, wenn dieser Rang der Anzahl der Unbekannten entspricht.\n\nDas Gauss-Jordan-Verfahren ermöglicht es:\nein lineares System zu lösen,\nden Rang der Matrix zu bestimmen,\nund schließlich die inverse Matrix zu berechnen.\n\nDiese Methode erfordert die Ermittlung der reduzierten Stufenform der Matrix.\n\"Stufenform\" bedeutet, dass die Anzahl der Nullen links strikt von Zeile zu Zeile zunimmt.\nDie ersten nicht null Zahlen werden dann \"Pivots\" genannt.\n\"Reduziert\" bedeutet, dass die Pivots gleich 1 sind,\nund die anderen Koeffizienten in ihrer Spalte null sind.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Systèmes linéaires, introduction (2) [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "讓我們來看看表示線性系統的矩陣。\n該系統至少有一個解，當且僅當\n係數矩陣的秩和增廣矩陣的秩相等。\n如果這個秩等於未知數的數量，則解是唯一的。\n\n高斯-喬丹消元法可以用來：\n解線性系統、\n確定矩陣的秩、\n並最終計算逆矩陣。\n\n這個方法需要得到簡化階梯形矩陣。\n\"階梯形\"意味著從上到下每行左側的零的數量嚴格增加。\n那麼，第一個非零數稱為\"主元\"。\n\"簡化\"意味著主元等於1，\n且其所在列的其他係數為零。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.478193769Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATARIXXXXXXU0048",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Décomposition d'un entier en nombres premiers",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour décomposer un entier en nombres premiers,\non commence par 2,\net on parcours les nombres premiers croissants.\nPour chacun,\non divise par lui le nombre à décomposer autant de fois que possible.\nOn garde ce qu'il reste.\nSi ça vaut 1, la décomposition est terminée.\nSinon, on passe au nombre premier suivant.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Décomposition d'un entier en nombres premiers",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "To decompose an integer into prime numbers,\nwe start with 2,\nand proceed with the increasing prime numbers.\nFor each one,\nwe divide the number to decompose by it as many times as possible.\nWe keep what is left.\nIf it's 1, the decomposition is finished.\nOtherwise, we move to the next prime number.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.228331250Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Virtualisation des infrastructures",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Virtualisation des infrastructures\n\n## [Virtualisation : l'essentiel](note::COSXXXXXXXXXU0006)\n\n## [Performance matérielle](note::COSXXXXXXXXXU0010)\n\n## [!!! Architectures serveur](note::COSXXXXXXXXXU0015)\n\n## Virtualisation\n\n### [Exemples de virtualisation](note::COSXXXXXXXXXU0025)\n\n### [Virtualisation du stockage de données](note::COSXXXXXXXXXU0030)\n\n### [!!! Virtualisation des postes de travail](note::COSXXXXXXXXXU0035)\n\n### [!!! Virtualisation des serveurs](note::COSXXXXXXXXXU0040)\n\n### [Docker](note::COSXXXXXXXXXU0045)\n\n### [Bénéfices et risques de la virtualisation](note::COSXXXXXXXXXU0050)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : null,
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : null,
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.036817721Z",
+    "quality" : "LOW"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOBXXXXXXU0004",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Diagnostic n°4",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "* test du tournoi pour Alpiq par Guillaume Jambet\n\n- parcourir tous les document même si je crois comprendre le contraire (please solve tests one by one)\n- réfléchir avant d'agir\n- éteindre négatif dans 3 situations : contact avec inconnu, solitude, proximité de ma mort",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-04T17:45:44.750382865Z",
+    "quality" : "LOW"
+  }
+}

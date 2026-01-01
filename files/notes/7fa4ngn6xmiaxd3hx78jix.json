@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "7fa4ngn6xmiaxd3hx78jix",
+  "content" : {
+    "domain" : "STRATEGY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théorie de la décision et valeur espérée",
+      "description" : "Quelques points fondamentaux concernant la théorie de la décision et la valeur espérée.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Théorie de la décision et valeur espérée\n\n##% Théorie de la décision\n\n?~ **Éléments** du modèle de la **théorie de la décision** :\n- alternatives d'action\n- états de l'environnement\n- résultats\n\n?~**Représentation** typique d'un **problème de décision** :\n- matrice de résultats\n- dont les **lignes** sont les **alternatives d'action**\n- et les **colonnes** les **états** que peut prendre l'**environnement**\n\n?~**Effet recherché** de la **décision** :\n**minimiser** ou **maximiser** le **résultat**\n\n?~**Domination** d'une **alternative** sur une autre :\nson **résultat** est **meilleur** **pour tous** les **états de l'environnement**\n\n?~Opération de **simplification** triviale du **problème** :\n**éliminer** les **alternatives d'action** **dominées**\n\n##% Valeur espérée (ou critère de Bayes)\n\n~? **Valeur espérée** d'une **alternative d'action** :\n**moyenne** de ses **résultats** **pour chaque** **état de l'environnement**,\n**pondérée** par la **probabilité d'occurrence** de celui-ci.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Decision Theory and Expected Value",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "# Decision Theory and Expected Value\n\n##% Decision Theory\n\n?~**Elements** of the **decision theory** model:\n- action alternatives\n- environment states\n- outcomes\n\n?~Typical **representation** of a **decision problem**:\n- outcome matrix\n- whose **rows** are the **action alternatives**\n- and whose **columns** are the **states** that the **environment** can take\n\n?~**Desired effect** of the **decision**:\n**minimize** or **maximize** the **outcome**\n\n?~**Dominance** of one alternative over another:\nits **outcome** is **better** **for all** the **environment states**\n\n?~Trivial **simplification** operation of the **problem**:\n**eliminate** the **dominated** **action alternatives**\n\n##% Expected Value (or Bayes Criterion)\n\n~?**Expected value** of an **action alternative**:\n**average** of its **outcomes** **for each** **environment state**,\n**weighted** by its **probability of occurrence**.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Entscheidungstheorie und Erwartungswert",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Entscheidungstheorie und Erwartungswert\n\n##% Entscheidungstheorie\n\n?~**Bestandteile** des Modells der **Entscheidungstheorie**:\n- Handlungsalternativen\n- Umweltzustände\n- Ergebnisse\n\n?~Typische **Darstellung** eines **Entscheidungsproblems**:\n- Ergebnismatrix\n- deren **Zeilen** die **Handlungsalternativen** sind\n- und die **Spalten** die **Zustände**, die die **Umwelt** annehmen kann\n\n?~**Angestrebte Wirkung** der **Entscheidung**:\ndas **Ergebnis** **minimieren** oder **maximieren**\n\n?~**Dominanz** einer Alternative über eine andere:\nihr **Ergebnis** ist **besser** **für alle** **Umweltzustände**\n\n?~Triviale **Vereinfachungsoperation** des **Problems**:\ndie **dominierten** **Handlungsalternativen** **ausschließen**\n\n##% Erwartungswert (oder Bayes-Kriterium)\n\n~?**Erwartungswert** einer **Handlungsalternative**:\n**Durchschnitt** ihrer **Ergebnisse** **für jeden** **Umweltzustand**,\n**gewichtet** nach der **Eintrittswahrscheinlichkeit** desselben.",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "决策理论与期望值",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 决策理论与期望值\n\n##% 决策理论\n\n?~决策理论模型的要素:\n- 行动备选方案\n- 环境状态\n- 结果\n\n?~决策问题的典型表示:\n- 结果矩阵\n- 其中**行**是**行动备选方案**\n- 而**列**是**环境**可能采取的**状态**\n\n?~决策的预期效果:\n**最小化**或**最大化****结果**\n\n?~一个备选方案对另一个备选方案的支配:\n其**结果**在**所有****环境状态**下都**更好**\n\n?~问题的简单化操作:\n**排除****被支配**的**行动备选方案**\n\n##% 期望值(或贝叶斯准则)\n\n~?行动备选方案的期望值:\n其在**每个****环境状态**下的**结果**的**平均值**,\n由该状态的**发生概率****加权**。",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-24T17:41:45.318726912Z",
+    "quality" : "HIGH"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0010",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Architectures logicielles à n couches",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Aoede",
+      "text" : "#% Architectures logicielles à n couches\n\n~?Quelles couches logicielles contient l'architecture à deux couches ?\nLe **client et le **serveur**.\n\n~?Quelles couches logicielles contient l'architecture à trois couches ?\nLa **présentation**, la **logique de gestion** et la **persistance**.\n\n~?Quelles couches logicielles contient l'architecture à quatre couches ?\n**Présentation**, **couche applicative**, **objets métiers** et **couche d'accès aux données**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "N-tier software architectures",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Aoede",
+      "text" : "#% N-tier software architectures\n\n~?For a 2-tier architecture, the 2 tiers are:\nthe **client** and the **server**.\n\n~?When we talk about 3-tier architecture, it involves:\n**presentation**, **business logic**, and **persistence**.\n\n~?The 4-tier architecture distinguishes:\n**presentation**, **application layer**, **business objects**, and **data access layer**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.121809179Z",
+    "quality" : "LOW"
+  }
+}

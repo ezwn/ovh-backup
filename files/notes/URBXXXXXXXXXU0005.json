@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "URBXXXXXXXXXU0005",
+  "content" : {
+    "domain" : "URBANISME",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Rudiments d'urbanisme",
+      "description" : "Quelques rudiments d'urbanismes",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Rudiments d'urbanisme\n\n~? Urbanisme :\n**pratiques**, **règles** et **techniques** d'**aménagement** des villes, villages et territoires\npour **répondre aux besoins des habitants**\n\n~? **Cadres contraignant** l'**urbanisme** :\nl'**environnement**, l'**économie**, le **patrimoine**.\n\n~? **Objectifs** de l'**urbanisme** :\n- **organiser** l'**espace**\n-**faciliter** la **mobilité**\n-assurer la **mixité**\n-**protéger** l'**environnement**\n- garantir la **qualité de vie**\n\n~? Principaux **outils** de l'**urbanisme** :\n-Les **plans locaux** qui **définissent** les **règles d'utilisation du sol**\n- Les **permis** de **construire** ou **transformer**\n- Les **schémas directeurs** qui **planifient** le **développement** à **grande échelle**\n-Le **zonage** qui délimite les usages",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Urban Planning Basics",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "#% Urban Planning Basics\n\n~?Urban planning:\n**practices**, **rules** and **techniques** for **developing** cities, villages and territories\nto **meet the needs of inhabitants**\n\n~?**Frameworks** **constraining** **urban planning**:\nthe **environment**, the **economy**, **heritage**.\n\n~?**Urban planning** **objectives**:\n- **organize** **space**\n- **facilitate** **mobility**\n- ensure **diversity**\n- **protect** the **environment**\n- guarantee **quality of life**\n\n~?Main **urban planning** **tools**:\n- **Local plans** that **define** **land use rules**\n- **Permits** to **build** or **transform**\n- **Master plans** that **plan** **large-scale** **development**\n- **Zoning** that delimits uses",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Grundlagen des Städtebaus",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "#% Grundlagen des Städtebaus\n\n~?Städtebau:\n**Verfahren**, **Vorschriften** und **Techniken** zur **Gestaltung** von Städten, Dörfern und Gebieten,\num **den Bedürfnissen der Bewohner gerecht zu werden**\n\n~?**Rahmenbedingungen**, die den **Städtebau** **einschränken**:\ndie **Umwelt**, die **Wirtschaft**, das **Erbe**.\n\n~?**Ziele** des **Städtebaus**:\n- den **Raum** **organisieren**\n- die **Beweglichkeit** **erleichtern**\n- die **Durchmischung** sicherstellen\n- die **Umwelt** **schützen**\n- die **Lebensqualität** gewährleisten\n\n~?**Hauptwerkzeuge** des **Städtebaus**:\n- Die **örtlichen Pläne**, die die **Bodennutzungsregeln** **festlegen**\n- Die **Genehmigungen** zum **Bauen** oder **Umbauen**\n- Die **Rahmenpläne**, die die **Entwicklung** im **großen Maßstab** **planen**\n- Die **Flächennutzungsaufteilung**, die die Nutzungen abgrenzt",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "城市规划基础知识",
+      "description" : "...",
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "#% 城市规划基础知识\n\n~?城市规划:\n**实践**、**规则**和**技术**来**布局**城市、村庄和地区\n以**满足居民的需求**\n\n~?制约城市规划的框架:\n**环境**、**经济**、**遗产**。\n\n~?城市规划的目标:\n- **组织****空间**\n- **便利****流动性**\n- 确保**混合性**\n- **保护****环境**\n- 保障**生活质量**\n\n~?城市规划的主要工具:\n- **定义****土地使用规则**的**地方规划**\n- **建造**或**改造**的**许可证**\n- **规划****大规模****发展**的**总体规划**\n- 划定用途的**分区**",
+      "exported" : false,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-16T17:33:29.448523853Z",
+    "quality" : "LOW"
+  }
+}

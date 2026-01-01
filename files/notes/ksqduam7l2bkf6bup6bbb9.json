@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ksqduam7l2bkf6bup6bbb9",
+  "content" : {
+    "domain" : "LANGUAGE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Grammaire et orthographe françaises",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Grammaire et orthographe françaises\n\n?~ Terminaison des **verbes** du **second groupe** à la **première personne** :\nIS\n\n?~ Terminaison des **verbes** du **second groupe** à la **troisième personne** :\nIT",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-12T04:27:10.719627814Z"
+  }
+}

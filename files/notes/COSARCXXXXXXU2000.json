@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU2000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Urbanisation",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Urbanisation\n\n## Problématique\n\nEvolution des besoin des entreprises :\n- plus de flexibilité\n- plus de contrôle\n\nDes systèmes d'informations :\n- empilement de systèmes hétérogènes legacy\n- difficultés de communication entre applications\n\nSolution :\n- systèmes rationnels, flexibles\n- vision cohérente et commune du SI\n- sous-systèmes autonomes et bien délimités\n\n## Aperçu\n\n~? Buts :\n- rendre flexible\n- **favoriser** l'**interopérabilité** et l'**intégration**\n- faire le **bilan des meilleures pratiques**\n- **rationaliser**, **documenter** et **permettre le contrôle par la gouvernance**\n\n~? Moyens :\n- dégager la cohérence globale\n- **définir** des **référentiels** et des **règles communes**\n- **délimiter** des **sous-systèmes autonomes**\n- **rendre applications** hétérogènes (anciennes et futures) **inter-opérables**\n- **orchestrer**\n\n~? A faire :\n- **définir système cible**\n- **prioriser**\n- **définir** **étapes** et **moyens**\n\nMétaphore de l'urbanisation :\n- anciens et nouveau quartiers\n- services/infrastructures communs\n\nL'urbanisation est une vue plus générale que l'architecture\n\n## Concepts\n\n~? Opération fondamentale pour réduire de la complexité du Système d'Informations :\nZonage : découpage et regroupement logique en domaines cohérents\n\n~? Règles :\n- tout bloc a une prise\n- on accède au bloc uniquement par sa prise\n- une donnée est sous la responsabilité d'un seul bloc\n\n## Démarche\n\n~? Nature de la démarche :\n- itérative\n- incrémentale\n\nCréer les îlots puis les séparer sur des machines différences\n\nEtablir la cartographie\n- informations : où, qui, quel but ?\n- cibles : via plans de migration\n\nRGPD = ?\n\n## Niveaux\n\n~? Quatre niveaux de l'architecture :\n**métier**, **fonctionnel**, **applicatif** et **technique**\n\nObjectifs concernant les niveaux :\ncohérents, reliés, justifiés, cartographiés\n\ndémarche descendante : les niveaux se succèdent\n\n~? Ordre de justification des niveaux :\nle fonctionnel doit servir le métier\nl'applicatif doit servir le fonctionnel\nle technique doit servir l'applicatif\n\n### [Métier](note::COSARCXXXXXXU2018)\n\n### Fonctionnel\n\n### Applicatif\n\nMéthodes d'analyse :\n- interview des sachants\n\nCommunication entre blocs\n\nSous-niveaux:\n- logique : statique et dynamique\n-logicielle : patrons de conception, librairies, composants, ....\n\nBonnes pratiques :\n-horodater\n- duplication, oui, mais master / slave\n-zone d'ordonnancement (pilotage)\n\n### Technique et Physique\n\nPar bloc applicatif :\n- moyens\n- qualité de service attendue\n-dimentionnement théorique\n-coût\n\n## Outils pour la démarche d'urbanisation 1:16:55\n\n####~ BPM (Business Process Management).\n####~\nPermet :\nmodéliser, exécuter, monitoré\n\nNiveaux :\n-métier\n-fonctionnel\n-applicatif\n-technique\n\nWorkflow (processus métier)\n\n~ Business Process Model and Notation\n\n#### SOA\n\n- SOA : service oriented architecture\nhomogènes et indépendants\nprise, adaptateur, interchangeabilité\ncontrat\nabsence d'état, réutilisabilité\n\nles besoins viennent du contexte :\ninteropérabilité\nacjdjté\npérénité\n\ndifférent de webservice :\nSOA: concept préexistant\n\nFonctionnalités des SOA:\n- indépendant des plateformes\n- indépendant des langauges\n-découverte dynamique\n-fiabilité\n- sécurité\n- transations\netc\n\nPrincipe de l'orchestration :\nun orchestrateur joue le processus métier\nappelle les services pour qu'ils réalisent les tâches\n\nBPEL : structure des documents XML : informations, étapes, séquences, acteurs\n\nBPQL : extraire des données d'un processus (statut)\n\nMoteur BPEL\n\n#### Enterprise Application Integration (EAI)\n\nFonctions\n- connexion\n- routage transformation des données\n- gestion flux et processus métiers\n- administration des flux et processus\n\nCouches:\n- connecteur\n- transformations\n- routage\n- processus métier\n- paramétrage\n- développement\n- reporting\n- sécurité\n\n#### Enterprise Service Bus (ESB)\n\nEAI à prises WEB",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.660302387Z",
+    "quality" : "LOW"
+  }
+}

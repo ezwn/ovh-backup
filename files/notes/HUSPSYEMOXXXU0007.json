@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU0007",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Suites des théories périphéralistes [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Suites des théories périphéralistes\nLes théories périphéralistes ont inspiré par exemple :\nla théorie de la rétroaction faciale selon laquelle\nles mouvements faciaux modulent l'émotion.\nEt les théories incarnées de l'émotion (Niedenthal, 2007) qui postulent que\nles représentations mentales d'une émotion activent\nses composantes perceptives, motrices et somatosensorielle.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Suites des théories périphéralistes [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Consequence of peripheralist theories.\nPeripheralist theories have inspired, for example:\nthe facial feedback theory which suggests that\nfacial movements modulate emotion.\nAnd the embodied theories of emotion (Niedenthal, 2007) which posit that\nmental representations of an emotion activate\nits perceptual, motor, and somatosensory components.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Suites des théories périphéralistes [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Folgen der peripheristischen Theorien.\nDie peripheristischen Theorien haben zum Beispiel inspiriert:\ndie Theorie des facialen Feedbacks, nach der\nGesichtsbewegungen die Emotion modulieren.\nUnd die verkörperten Theorien der Emotion (Niedenthal, 2007), die postulieren, dass\ndie mentalen Repräsentationen einer Emotion\nihre perceptiven, motorischen und somatosensorischen Komponenten aktivieren.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Suites des théories périphéralistes [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "周边理论的继承。\n周边理论例如启发了：\n面部反馈理论，该理论认为\n面部动作调节情绪。\n以及体现情绪理论（Niedenthal, 2007），该理论假设\n情绪的心理表征会激活\n其感知、运动和感官组成部分。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.552596664Z",
+    "quality" : "LOW"
+  }
+}

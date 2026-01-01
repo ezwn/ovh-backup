@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "pd3qzsjauxb3alywlt12l2",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Sécurité du développement applicatif",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Sécurité du développement applicatif\n\n## Conception\n\n~? **Bonnes pratiques** pendant la **conception** applicative :\n- **exprimer** les **besoins de sécurité**\n- **modéliser** des **menaces**\n\n## Développement\n\n~? **Bonnes pratiques** pendant le **développement** applicatif :\n- respecter des **bonnes pratiques** de codage\n- réaliser des **revues de code**\n- appliquer l'**analyse statique**\n\n~? **Bonne pratiques** de **sécurité du code** :\n- **valider** des **donnée entrantes**\n- **refuser** les **services** **par défaut**\n- **limiter** la **durée des droits**\n- **nettoyer** les **données sortantes**\n- **multiplier** les **niveaux** de sécurité (**défense en profondeur**)\n-  **corriger** les **avertissements**\n- utiliser un **plugin de sécurité** avec le **linter**\n\n## Test\n\n~? **Bonnes pratiques** de **test** :\n- appliquer l'**analyse dynamique**\n- utiliser le fuzzing\n- réaliser des **tests de pénétration**\n- avoir une **red team**\n\n~? Fuzzing :\n**Injection** de **données aléatoires** pour **provoquer une panne**\n\n## Production\n\n~? **Bonnes pratiques** en **production** :\n- **analyser** les **vulnérabilités**\n- mettre en place un **programme** de **récompense**\n- utiliser un **Web Application Firewall**\n\n~? Web Application Firewall :\n**Analyseur** HTTP **entre** les **utilisateurs** et l'**application WEB**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-09T05:17:58.447371194Z",
+    "quality" : "LOW"
+  }
+}

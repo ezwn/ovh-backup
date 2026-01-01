@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPOSGPOXXXU1005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Le moment de l'Europe [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "décennie\nDurant la décennie 1990 et le début du vingt-et-unième siècle,\nle monde est particulièrement en phase avec l'Europe :\nsa vision,\nses valeurs,\net les modalité d'action qu'elle promeut.\n\nC'est l'avènement\ndu multilatéralisme,\nde la régulation par les normes,\net de l'interdépendance.\n\nDe nombreux régimes autoritaires tombent.\n\néchange\nÉtat de droit\nEnfin, les échanges, l'État de droit et les droits humains progressent.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Le moment de l'Europe [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "^the decade\nDuring the 1990s and the beginning of the twenty-first century,\nthe world is particularly in tune with Europe:\nits vision,\nits values,\nand the modes of action it promotes.\n\nThis is the advent\nof multilateralism,\nregulation by norms,\nand interdependence.\n\nMany authoritarian regimes fall.\n\ntrade\nthe rule of law\nFinally, trade, the rule of law, and human rights advance.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Le moment de l'Europe [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^das Jahrzehnt, die Jahrzehnte\nWährend des Jahrzehnts 1990 und dem Beginn des einundzwanzigsten Jahrhunderts,\nist die Welt besonders auf Europa abgestimmt:\nihre Vision,\nihre Werte,\nund die Handlungsmöglichkeiten, die sie fördert.\n\nEs ist das Zeitalter\ndes Multilateralismus,\nder Regulierung durch Normen,\nund der gegenseitigen Abhängigkeit.\n\nViele autoritäre Regime fallen.\n\n^der Austausch, die Austausche\n^der Rechtsstaat, die Rechtsstaaten\nSchließlich machen der Austausch, der Rechtsstaat und die Menschenrechte Fortschritte.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Le moment de l'Europe [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "^!一个年代\n在1990年代和二十一世纪初期，\n世界特别认同欧洲：\n它的视野，\n它的价值观，\n以及它所提倡的行动方式。\n\n这是\n多边主义，\n通过规则进行的调控，\n以及相互依存的兴起。\n\n许多独裁政权倒台。\n\n^!一次交流\n^!法治\n最后，交流、法治和人权得到了发展。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.065958662Z",
+    "quality" : "LOW"
+  }
+}

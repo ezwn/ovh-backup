@@ -1,0 +1,39 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "jffssvk934wgmj4npbw1v3",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : "Ajouter :\n- infraction de presse (incitation au crime, haine raciale)\n- cryptologie\n- jeux de hasard",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Législation de la sécurité numérique",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Législation de la sécurité numérique\n\n~? Grands **axes** du **droit du numérique** :\n- **protection** des **données personnelles**\n- **sécurité** des **systèmes d’information** et **cybercriminalité**\n- **propriété intellectuelle** et **création numérique**\n- **liberté de communication** et **responsabilité** des **acteurs du numérique**\n- **lutte contre** le **terrorisme** et le **crime organisé**\n- **numérique** et **société**\n- **normes** et **standards** **internationaux**\n\n~? **Acteur** **principal** de la **cybersécurité** en **France** :\nANSI\n\n~? **Rôles** de l'**ANSI** :\n-**protection** et **défense**\n- **régulation** et **contrôle**\n- **conseil** et **accompagnement**\n- **formation** et **sensibilisation**\n\n~? **Principes** du **règlement général sur la protection des données** :\n- **Limiter** la collecte aux **données strictement nécessaires**.\n- **Informer** clairement les personnes et **respecter leurs droits**.\n- **Protéger** les **données** par des **mesures de sécurité** adaptées.\n- Définir une **durée de conservation limitée** et **justifiée**.\n- **Prouver** à tout moment la **conformité** au RGPD.\n\n~? **Actes sanctionnés** par les articles 323-1 à 323-8 du **code pénal** :\n- **accès frauduleux** à un STAD\n- **maintien frauduleux** dans un STAD\n- **perturbation** du fonctionnement d’un STAD\n- **suppression**, **modification** ou **introduction** frauduleuse de **données**\n- **détention**, **fabrication** ou **diffusion** de **dispositifs** conçus pour **commettre des atteintes** aux STAD\n- **participation** à une atteinte aux STAD\n- **tentative** de commettre une atteinte aux STAD\n- atteintes **depuis l’étranger** contre un STAD situé en France\n\n~? **Articles** de loi **encadrant** l'**atteinte** aux **STAD** :\nArticles **323**-1 à 323-8 du **code pénal**\n\n## LCEN\n\n~? **Acteurs** du **numérique** selon la **LCEN** du 21 juin 2004 :\n-**fournisseur d'accès internet** (au sens large)\n-**hébergeur**\n-**éditeur** de contenu\n\n~? **Obligation** des **fournisseurs d'accès internet** :\n- **traçabilité** des accès **pendant un an**\n\n~? **Obligation** des **hébergeurs** :\n-**intervention rapide** en cas de **contenu illicite**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "ANSI" : "Agence Nationale de la Sécurité des Systèmes d’Information",
+        "STAD" : "Système de Traitement Automatisé de Données",
+        "LCEN" : "Loi pour la Confiance dans l’Économie Numérique"
+      },
+      "sttMapping" : {
+        "Agence Nationale de la Sécurité des Systèmes d’Information" : "ANSI",
+        "système de traitement automatisé de données" : "STAD",
+        "loi pour la confiance dans l’économie numérique" : "LCEN"
+      },
+      "tooltips" : {
+        "ANSI" : "Agence Nationale de la Sécurité des Systèmes d’Information",
+        "STAD" : "Système de Traitement Automatisé de Données",
+        "LCEN" : "Loi pour la Confiance dans l’Économie Numérique"
+      },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-09-22T17:56:49.303392440Z",
+    "quality" : "LOW"
+  }
+}

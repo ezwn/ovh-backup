@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSPSYEMOXXXU0015",
+  "content" : {
+    "domain" : "PSYCHOLOGY_OF_EMOTIONS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Théories des émotions de base",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Théories des émotions de base\n\nDans la perspective évolutionniste,\ncertains chercheurs insistent sur le rôle adaptatif des émotions.\nEn effet, les émotions modulent :\nl'activité motrice,\nl'attention,\net l'apprentissage.\n\nDans ce cadre,\nles théories des émotions de base affirment :\nQu'il existe un nombre limité d'émotions universelles.\nPar exemple, selon Ekman, dans les années 80 :\nLa colère,\nla peur,\nla joie,\nla tristesse,\nle dégoût,\net la surprise.\nLes émotions complexes sont composées d'émotions de base.\n\n## Caractéristiques\n\nPremièrement, les émotions de base ont des caractéristiques communes.\n\nElles ne sont ni prosociales ni morales.\nElles présentent un avantage adaptatif.\nLeur déclenchement est\nrapide\net spécifique à certaines conditions.\n\nDeuxièmement, leur pattern d'activation du système nerveux végétatif prépare à l'action.\n\nTroisièmement, elles activent des régions cérébrales spécifiques.\n\nEnfin, quatrièmement, elles produisent un pattern expressif spécifique qui :\njoue un rôle important dans la communication,\nadapte à l'action,\net est culturellement universel.\n\n## Critiques\n\nLes théories des émotions de bases ont été critiquées.\nLes émotions seraient plus flexibles et plus variées.\n\nLes théories de l'évaluation cognitive suggèrent que\nles résultats d'évaluations sont liés à des mouvements faciaux.\nPar exemple,\non fronce les sourcils quand on identifie un obstacle.\nCes changements s'additionnent au fur et à mesure du processus.\n\nLe postulat de systèmes modulaires spécifiques à chaque émotion\nest mis à mal par des preuves empiriques.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Théories des émotions de base",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Théories des émotions de base",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Théories des émotions de base",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.103797544Z",
+    "quality" : "LOW"
+  }
+}

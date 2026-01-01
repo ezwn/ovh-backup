@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "2mde80y3di7qe2mn9jecmv",
+  "content" : {
+    "domain" : "PROJECT_MANAGEMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Méthodes agiles populaires",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Méthodes agiles populaires\n\n~? Caractéristiques de **Kanban** :\n-activité continue (**pas de sprint**)\n-déplacement de **notes adhésives** sur un **tableau** à colonnes (**à faire**, **en cours** et **terminé**)\n-**limitation** du **nombre de tâches parallèles** pour éviter la surcharge et les goulots\n\n~? Caractéristiques de **Extreme Programming** :\n- vise l'**excellence** **technique** et **fonctionnelle**\n- **développement** **piloté par** les **tests**\n- travail en **binôme**\n- intégration continue\n-refactoring\n-**communication** importante entre **développeurs** et **propriétaires du produit**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-20T08:38:04.993398517Z",
+    "quality" : "LOW"
+  }
+}

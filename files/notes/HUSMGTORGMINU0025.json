@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "HUSMGTORGMINU0025",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Les systèmes de flux [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Selon la théorie de Mintzberg,\nles organisations sont traversées par de divers flux de communication.\n\nFlux d'autorité formelle.\n\nFlux de communication informelle.\n\nFlux de régulation, contrôle et surveillance.\nConcernant, par exemple,\nles processus,\nou les performances.\n\nFlux d'informations fonctionnelles,\nqui peuvent être techniques,\nliées au client,\naux finances,\netc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Les systèmes de flux [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "According to Mintzberg's theory,\norganisations are permeated by various communication flows.\n\nFlows of formal authority.\n\nFlows of informal communication.\n\nFlows of regulation, control, and surveillance.\nConcerning, for example,\nprocesses,\nor performances.\n\nFlows of functional information,\nwhich can be technical,\nrelated to the client,\nto finances,\netc.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Les systèmes de flux [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Laut der Theorie von Mintzberg,\nwerden Organisationen von verschiedenen Kommunikationsströmen durchzogen.\n\nStröme formeller Autorität.\n\nStröme informeller Kommunikation.\n\nStröme der Regulierung, Kontrolle und Überwachung.\nBezüglich beispielsweise,\nder Prozesse,\noder der Leistungen.\n\nStröme funktionaler Informationen,\ndie technisch sein können,\nim Zusammenhang mit Kunden,\nFinanzen,\nusw.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Les systèmes de flux [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "根据明茨伯格的理论，\n组织会经历各种各样的沟通流。\n\n正式权威的流。\n\n非正式沟通的流。\n\n规制、控制和监督的流。\n例如，\n流程，\n或性能。\n\n功能性信息流，\n可以是技术性的，\n与客户相关的，\n与财务相关的，\n等等。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.299884465Z",
+    "quality" : "LOW"
+  }
+}

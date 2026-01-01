@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVKAFU0111",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Processeurs de flux Kafka [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Dans Kafka Steams,\nles nœuds des graphes correspondent à des étapes de traitement.\nOn les appelle \"processeur de flux\".\nIls reçoivent des enregistrements de leurs prédécesseurs,\net les traitent uns à uns.\nIls produisent un ou plusieurs enregistrements à destination de leurs successeurs.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Processeurs de flux Kafka [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "In Kafka Streams,\nthe nodes of the graphs correspond to processing stages.\nThey are called \"stream processors\".\nThey receive records from their predecessors,\nand process them one by one.\nThey produce one or several records destined for their successors.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Processeurs de flux Kafka [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "In Kafka Streams\nentsprechen die Knoten der Graphen Verarbeitungsschritten.\nMan nennt sie \"Stromprozessoren\".\nSie empfangen Aufzeichnungen von ihren Vorgängern\nund verarbeiten diese einzeln.\nSie erzeugen eine oder mehrere Aufzeichnungen für ihre Nachfolger.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Processeurs de flux Kafka [DE]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "在 Kafka Streams 中，\n图的节点对应于处理步骤。\n它们被称为“流处理器”。\n它们从前一个节点接收记录，\n并逐个处理这些记录。\n它们会生成一个或多个记录，发送给下一个节点。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.663672480Z",
+    "quality" : "LOW"
+  }
+}

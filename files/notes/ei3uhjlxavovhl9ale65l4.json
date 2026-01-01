@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "ei3uhjlxavovhl9ale65l4",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Gestion des risques",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "#% Gestion des risques\n\n~? Critère de **décision** à **se protéger** d'une **menace** :\n**coût** de **protection** **moins** **probabilité** de la menace **multipliée par** son **impact**.\n\n~? **Étapes** des **méthodes** de **gestion** des **risques** :\n- étude du **contexte**\n- **identification** des risques\n- **analyse** des risques (**vraisemblance**, **impact**)\n- **évaluation**, c'est à dire **quantification** et **priorisation**\n- **traitement**\n- **surveillance** et **réévaluation**\n\n~? Types de **traitements** des **menaces** :\n- **évitement** : **prévention**, dissuasion\n- **réduction** de l'**impact** : **confinement**, **réparation**\n- **acceptation** : menace **totale** ou **résiduelle**\n- **transfert** : **assurance**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Risk management",
+      "description" : "...",
+      "voice" : "en-US-Chirp3-HD-Fenrir",
+      "text" : "#% Risk management\n\n~? **Decision** criterion for **protecting** against a **threat**:\n**cost** of **protection** **minus** the **probability** of the threat **multiplied by** its **impact**.\n\n~? **Steps** of **risk management** **methods**:\n- study of the **context**\n- risk **identification**\n- risk **analysis** (**likelihood**, **impact**)\n- **assessment**, that is **quantification** and **prioritization**\n- **treatment**\n- **monitoring** and **reassessment**\n\n~? Types of **threat** **treatments**:\n- **avoidance**: **prevention**, deterrence\n- **impact** **reduction**: **containment**, **repair**\n- **acceptance**: **total** or **residual** threat\n- **transfer**: **insurance**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T07:42:12.197Z",
+    "quality" : "LOW"
+  }
+}

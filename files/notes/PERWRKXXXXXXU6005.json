@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU6005",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "BS-Team",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Développeur FullStack Java\nJob Category: Développeur Java\nType de contrat: CDI\nLieu de travail: Lausanne\nTélétravail (2j max/semaine): Oui\nChez BS-Team, nous avons à cœur d’accompagner nos collaborateurs tout au long de leur carrière en leur offrant des opportunités d’évolution. Nous sommes convaincus que l’élargissement des connaissances et des compétences est primordial pour leur réussite professionnelle et leur épanouissement au quotidien.\n\nMission:\nVous rejoindrez une équipe soudée et bienveillante pour le développement et la maintenance d’applications, dans le cadre de différents projets autour des technologies Java.\n\nVotre rôle:\n\nRéaliser des solutions informatiques modernes et adaptées au stack technique de notre client et selon une méthodologie DevOps.\nTravailler avec les architectes d’entreprise et les équipes d’intégration et infrastructure pour garantir un design cohérent avec les principes de notre client et un opérationnel stable.\nEn coordination avec l’équipe Données, veiller à garantir une bonne modélisation de la donnée et la qualité de la donnée capturée au sein des applications développées ainsi que l’utilisation des référentiels des données de notre client\nParticiper aux différentes séances AGILE et collaborer avec l’équipe projet.\nÊtre à l’écoute des clients et utilisateurs pour garantir un fonctionnel et une expérience utilisateur de qualité.\nVotre profil:\nExpérience professionnelle de minimum 5 années d’expérience professionnelle dans le développement Java.\nDiplôme en informatique d’une haute école (HES, Université, EPF) ou formation jugée équivalente\nCompétences techniques requises :\nOutils de développement : Gitlab, IntelliJ Idea, Maven, Docker, Sonar, Jenkins, Postman, Redmine\nFrameworks: Spring, Vaadin, JPA (ORM), VueJS\nWeb: HTML, CSS, JavaScript, Selenium (tests)\nPlateforme / Serveur : Tomcat\nDivers:  REST (OpenAPI), GraphQL, SOAP, XML\nBases des données : SQL (PostgreSQL), noSQL (ElasticSearch)\nDivers :\nExpérience d’exécution des réalisations en mode AGILE.\nConnaissances ITIL et Hermes souhaitées.\nRésistance aux tensions et autonomie.\nExpérience ou certification dans les méthodologies d’expérience utilisateur (UX), un atout.\nExpérience dans le secteur public, un atout.\nInfos utiles:\nDémarrage: début novembre\nTélétravail: 2 jours",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.126232102Z",
+    "quality" : "LOW"
+  }
+}

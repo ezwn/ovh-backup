@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGRELXXXU0030",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Relations binaires : antisymétrie",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Une relation est antisymétrique si aucun couple de\nmembres distincts n'est en relation dans les deux sens.\n\n?Donc, si $$a$$ est en relation avec $$b$$, et $$b$$ est en relation avec $$a$$,\nalors $$a = b$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Relations binaires : antisymétrie",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "?A relation is antisymmetric if no pair of\ndistinct members is related in both directions.\n\n?Thus, if $$a$$ is related to $$b$$, and $$b$$ is related to $$a$$,\nthen $$a = b$$.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.064324805Z",
+    "quality" : "LOW"
+  }
+}

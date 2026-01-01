@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Informatique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Informatique\n\n## [LLM](note::p7a2ctkc0g52st03gcdw1s)\n\n## [Développement logiciel assisté par IA](note::ws1fllw0z7qk2dk0ibxib4)\n\n## [Procédures d'administration système](note::72y1803glls5vqnbhwmzoq)\n\n## [Architecture de SI](note::COSARCXXXXXXU0000)\n\n## [Données](note::COSDATXXXXXXU0000)\n\n## [Sécurité](note::COSSECXXXXXXU0000)\n\n## [Développement logiciel](note::COSSDEXXXXXXU0000)\n\n\nContraintes calibrées : laisser un peu de flexibilité dans les contraintes pour éviter que le modèle soit \"bloqué\"\n\n**Texte académique** sur la psychologie de la mémoire.\n**Éviter les anglicismes** et privilégier une traduction fluide.\n\nPréciser les priorités\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-05T08:00:32.346053504Z",
+    "quality" : "LOW"
+  }
+}

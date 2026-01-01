@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSOFDEVXXXU0002",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Domain Driven Design",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "L'activité métier est découpé en domaines imbriqués.\nIls sont caractérisés par une logique,\nqui leur permettent de fonctionner.\nElle comprend :\ndes règles,\ndes opérations et\ndes connaissances.\n\nLes sous-domaines sont représentés par des contextes délimités.\nDans chacun de ces contextes,\nles parties prenantes développent un langage ubiquitaire pour communiquer,\net produisent un modèle constitué :\nd'entités,\nde relations,\net de comportements.\nCe processus est itératif.\n\nLes domaines contiennent :\ndes entités qui sont mutables et ont un identifiant.\ndes objets valeurs qui sont immuables et égaux si leur contenus le sont.\ndes agrégats regroupant des entités,\net définissant des règles métiers les concernant.\ndes dépôts.\net des services.\n\nLes domaines interagissent.\nPour maintenir leur indépendance,\ndes couches anti-corruption sont introduites à leur frontières.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "domaines imbriqués, contextes délimités [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "The business activity is divided into nested domains.\nThese are characterised by a logic,\nwhich allows them to function.\nThis includes:\nrules,\noperations, and\nknowledge.\n\nThe sub-domains are represented by bounded contexts.\nWithin each of these contexts,\nstakeholders develop a ubiquitous language to communicate,\nand produce a model composed of:\nentities,\nrelationships,\nand behaviours.\nThis process is iterative.\n\nDomains interact.\nTo maintain their independence,\nanti-corruption layers are introduced at their boundaries.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "domaines imbriqués, contextes délimités [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Die Geschäftstätigkeit ist in ineinandergreifende Bereiche unterteilt.\nSie sind durch eine Logik gekennzeichnet,\ndie ihnen ermöglicht zu funktionieren.\nSie umfasst:\nRegeln,\nOperationen und\nWissen.\n\nDie Teilbereiche werden durch abgegrenzte Kontexte dargestellt.\nIn jedem dieser Kontexte\nentwickeln die Stakeholder eine allgegenwärtige Sprache zur Kommunikation,\nund erstellen ein Modell, das besteht aus:\nEntitäten,\nBeziehungen,\nund Verhaltensweisen.\nDieser Prozess ist iterativ.\n\nDie Domänen interagieren.\nUm ihre Unabhängigkeit zu bewahren,\nwerden Anti-Korruptions-Schichten an ihren Grenzen eingeführt.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "domaines imbriqués, contextes délimités [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "業務活動被分成嵌套的領域。\n它們以一種邏輯為特徵，\n使其能夠運作。\n它包括：\n規則，\n操作，\n和知識。\n\n子領域由界定的上下文表示。\n在每個這樣的上下文中，\n利益相關者發展出一種通用語言來交流，\n並產生一個由以下部分組成的模型：\n實體，\n關係，\n和行為。\n這個過程是反覆進行的。\n\n領域之間會互動。\n為了保持他們的獨立性，\n在它們的邊界上引入了防腐層。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.259157167Z",
+    "quality" : "LOW"
+  }
+}

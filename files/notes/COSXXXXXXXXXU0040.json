@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSXXXXXXXXXU0040",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Virtualisation des serveurs",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Virtualisation des serveurs\n\nCe qu'on virtualise :\nOS complet, vu comme un serveur physique.\n\nCaractéristiques de cette virtualisation pour les serveurs :\nIsolation, indépendance.\n\nCe que cette virtualisation permet de mutualiser :\nMémoire, réseau, processeurs.\n\nRisques :\nGoulets, par exemple réseau.\n\n## Hyperviseur\n\nQuel outil fait cela ?\nHyperviseur\n\nRôle de l'hyperviseur :\n- Instancier les machines virtuelles\n- Les isoler\n- Arrêter / démarrer les machines\n\nPropriétés attendues d'un hyperviseur :\néquivalence, contrôle des ressources, efficacité.\n\nÉquivalence ?\nLes machines fonctionnent de la même façon que des machines physiques.\n\nType d'implantation de l'hyperviseur ?\nSans OS (type 1, dit bare-metal) ou sur l'OS, type 2.\n\n## Fonctionnement de l'hyperviseur\n\nProblème :\nautoriser l'accès direct aux ressources sans risque, simuler l'accès critique.\n\nExemples :\n- Isolation des plages mémoire par re-routage\n- Interception / simulation instructions processeur critiques (niveau 0)\n\nNiveaux d'instruction d'un processeur :\n0 : critique\n3 : applicatif\n\nOutils :\nFonctions de virtualisation du processeur, 2008 (Niveau -1 : piège à instruction)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.629958223Z",
+    "quality" : "LOW"
+  }
+}

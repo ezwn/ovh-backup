@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "6a4uzt0hxl8ny0llaufqea",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Grille d’analyse du modèle économique",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Grille d’analyse du modèle économique\n\n## Description\n\n~? Description globale de la **grille d’analyse du modèle économique** :\n- au **centre**, la **proposition de valeur**\n- à **l'est**, la **partie client**\n- à l'**ouest**, la **partie fonctionnement**\n- au **sud-est**, les **revenus**\n- au **sud-ouest**, la **structure des coûts**\n\n~? Description de la **partie client** depuis la proposition de valeur :\n- la **relation client** et les **canaux**\n- les **segments de clientèle**\n\n~? Description de la **partie fonctionnement** depuis la proposition de valeur :\n- les **activités clés** et les **ressources clés**\n- les **partenaires clés**\n\n## Définitions\n\n~? Proposition de valeur :\n**valeur utilitaire** de l'offre **perçue** par les **clients**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-02T08:21:51.446079627Z"
+  }
+}

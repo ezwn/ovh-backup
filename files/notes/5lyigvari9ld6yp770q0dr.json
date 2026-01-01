@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "5lyigvari9ld6yp770q0dr",
+  "content" : {
+    "domain" : "COMPUTER_SCIENCES",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Correctifs de sécurité",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Correctifs de sécurité\n\n~? Quand appliquer les correctifs de sécurité ?\n- à fréquence régulière pour les failles non critiques\n- immédiatement pour les failles critiques\n\n~? Bonne pratique :\nutiliser les paquets d'une distribution (mis à jour par la distribution)\n\n~? Pratique risquée :\ninstaller des packets à la main : source fiable ? mise à jour ?\n\n~? Tester les correctifs en DTAP :\n- development\n- testing\n- acceptance\n- production\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-04T15:19:09.179809197Z",
+    "quality" : "LOW"
+  }
+}

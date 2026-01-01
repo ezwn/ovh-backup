@@ -1,0 +1,31 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "dino8vdpqnvzc8n6m5025p",
+  "content" : {
+    "domain" : "COMPUTER_SECURITY",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Modèle fondamental de la sécurité opérationnelle des SI",
+      "description" : "Je vous propose un plan très cohérent pour aborder la sécurité opérationnelle des systèmes d'information. C'est une base solide pour faciliter par la suite un apprentissage en profondeur, ou pour structurer et donner du sens à ce que vous savez déjà. Selon les retours, je publierai ensuite des unités détaillant chaque élément de ce modèle.",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Modèle fondamental de la sécurité opérationnelle des SI\n\n## SI en sécurité\n\n~? **SI** sous l'angle de la sécurité :\n- il est **composé d'actifs**\n- il a des **objectifs de sécurité**\n\n~? **Objectifs** de **sécurité** :\n- **disponibilité** et **résilience**\n- **intégrité** des **données**\n- **traçabilité** et **non-répudiation**\n- confidentialité\n- conformité\n- **restriction** d'**accès** aux **services**\n\n## Création d'impact\n\n~? **Impact** en sécurité :\n**effet négatif** **sur** les **objectifs** de **sécurité**.\n\n~? **Vulnérabilité** en sécurité :\n**faille** **dans** un **actif**,\ndont l'exploitation peut **provoquer** un **incident**.\n\n~? **Menace** en sécurité :\ntoute **cause potentielle** d'un **incident indésirable**.\n\n~? Quelques **types** de **menaces** de sécurité :\n- un **agent** **motivé**, **capable**, et armé d'une **technique** ou d'une **méthode**.\n- un **événement naturel**\n- une **défaillance matérielle**\n- une **erreur humaine**\n\n~? **Mécanisme** de création d'impact de sécurité :\n- La combinaison d'une **menace** et d'une **vulnérabilité** d'un **actif**,\n- provoque un **incident** qui a un **impact**.\n- Celui-ci entraîne un **préjudice** **pour** l'**organisation**.\n\n~? Attaque :\nLors d'une attaque,\nun **attaquant** **utilise** des **moyens**\npour **tenter de** créer un **impact**\n**par** le biais d'une ou plusieurs **vulnérabilités**\n\n~? **Types de moyens** de la sécurité :\n- les **méthodes** : cadre, orientation, démarche\n- les **techniques** : manières concrètes d'appliquer les méthodes\n- les **outils** : mises en oeuvre opérationnelle des techniques\n\n## Risque\n\n~? **Risque** de **sécurité** :\n**Combinaison** de la **vraisemblance** qu'une **menace** **existe** et **se réalise** **par** le biais d'une **vulnérabilité**,\net de l'**impact qui en résulte** **sur** les **objectifs** de sécurité.\n\n## Mesure\n\n~? **Mesure** de **sécurité** :\n**Dispositif** de gestion d'un **risque de sécurité**,\nvisant à **prévenir**, **détecter**, **atténuer** ou **rétablir**.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : {
+        "SI" : "Système d'Information"
+      },
+      "sttMapping" : {
+        "Système d'Information" : "SI"
+      },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-11-06T07:21:24.875416140Z",
+    "quality" : "MEDIUM"
+  }
+}

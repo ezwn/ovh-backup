@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJAVU0200",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Convert par la pratique",
+    "tags" : "WITH_EXERCISES",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Java records (value objects) [EN]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Java 14 introduit les \"records\".\n\nIls permettent de créer facilement des objets-valeur,\nqui sont immutables,\net égaux quand leurs champs le sont.\n\nCes objets se comportent comme les types primitifs.\n\nLes records fournissent sans code supplémentaire :\nun constructeur,\ndes getteurs,\nles méthodes \"equals\" et \"hashCode\",\net une méthode \"toString\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Java records (value objects) [EN]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Java 14 introduces \"records\".\n\nThey allow for the easy creation of value objects,\nwhich are immutable,\nand equal when their fields are.\n\nThese objects behave like primitive types.\n\nRecords provide, without additional code:\na constructor,\ngetters,\nthe \"equals\" and \"hashCode\" methods,\nand a \"toString\" method.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Java records (value objects) [EN]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Java 14 führt die \"Records\" ein.\n\nSie ermöglichen es, einfach Wertobjekte zu erstellen,\ndie unveränderlich sind,\nund gleich, wenn ihre Felder es sind.\n\nDiese Objekte verhalten sich wie primitive Typen.\n\nRecords bieten ohne zusätzlichen Code:\neinen Konstruktor,\nGetter,\ndie Methoden \"equals\" und \"hashCode\",\nund eine Methode \"toString\".",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Java records (value objects) [EN]",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "Java 14 引入了 \"记录\"。\n\n它们允许轻松创建值对象，\n这些对象是不可变的，\n当它们的字段相等时，它们也是相等的。\n\n这些对象的行为类似于基本类型。\n\n记录提供了无需额外代码的功能：\n一个构造函数，\ngetter 方法，\n\"equals\" 和 \"hashCode\" 方法，\n以及一个 \"toString\" 方法。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.367603060Z",
+    "quality" : "LOW"
+  }
+}

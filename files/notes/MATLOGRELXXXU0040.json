@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATLOGRELXXXU0040",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Diagramme de Hasse [DE]",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Le diagramme de Hasse s'applique aux relations d'ordre.\n\nEn comparaison du diagramme sagittal,\ncomme nous savons que la relation représentée est réflexive,\nnous pouvons supprimer les boucles.\n\nDe même,\non peut omettre les flèches\nqui peuvent être déduites d'autres relations par transitivité.\n\n^resultant\nLe diagramme résultant est une variante simplifiée du diagramme sagittal.\n\nThéorème.\nX est en relation avec Y si et seulement si\non peut passer du point représentant X à celui représentant Y,\nen suivant les flèches.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Diagramme de Hasse [DE]",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "The Hasse diagram applies to order relations.\n\nIn comparison to the sagittal diagram,\nsince we know the represented relation is reflexive,\nwe can remove the loops.\n\nSimilarly,\nwe can omit the arrows\nthat can be deduced from other relations by transitivity.\n\n^resulting\nThe resulting diagram is a simplified variant of the sagittal diagram.\n\nTheorem.\nX is related to Y if and only if\none can move from the point representing X to the one representing Y,\nby following the arrows.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Diagramme de Hasse [DE]",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Der Hasse-Diagramm wird auf Ordnungsrelationen angewendet.\n\nIm Vergleich zum Pfeildiagramm,\nda wir wissen, dass die dargestellte Relation reflexiv ist,\nkönnen wir die Schleifen entfernen.\n\nEbenso,\nkann man die Pfeile weglassen,\ndie durch andere Relationen mittels Transitivität abgeleitet werden können.\n\n^resultierende\nDas resultierende Diagramm ist eine vereinfachte Variante des Pfeildiagramms.\n\nSatz.\nX steht in Beziehung zu Y wenn und nur wenn\nman vom Punkt, der X darstellt, zu dem Punkt, der Y darstellt, gelangen kann,\nindem man den Pfeilen folgt.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.529360653Z",
+    "quality" : "LOW"
+  }
+}

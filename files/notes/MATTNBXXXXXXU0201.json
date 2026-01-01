@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATTNBXXXXXXU0201",
+  "content" : {
+    "domain" : null,
+    "privateComment" : "Source: https://www.youtube.com/watch?v=hPTUq6b7YWA",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Résolution des équations diophantiennes \"simples\"",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Résolvons l'équation diophantienne $$a x + b y = c$$.\n\nOn calcule le PGCD des coefficients ($$a$$ et $$b$$).\nS'il divise la constante $$c$$, l'équation a des solutions.\n\nOn remonte l'algorithme d'Euclide pour obtenir $$x$$ et $$y$$ tels que\n$$a x + b y = \\gcd(a, b)$$\n\nOn multiplie cette expression pour que le membre de droite soit égal à la constante $$c$$.\n\nOn soustrait l'expression obtenue à l'équation initiale.\n\nOn isole les membres de l'addition de part et d'autre de l'égalité.\n\nD'un côté, on a $$a \\times m$$ et de l'autre $$b \\times n$$.\n\nDonc $$a$$ est un diviseur de $$b \\times n$$.\n\nDonc, par Gauss, $$a$$ est un diviseur de $$n$$.\n\nSoit $$n = a \\times k$$.\n\nOn isole l'inconnue de $$n$$.\n\nOn obtient une expression pour la première inconnue.\n\nOn utilise la substitution.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Résolution des équations diophantiennes \"simples\"",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "Let us solve the Diophantine equation $$a x + b y = c$$.\n\nWe compute the GCD of the coefficients ($$a$$ and $$b$$).\nIf it divides the constant $$c$$, the equation has solutions.\n\nWe reverse the Euclidean algorithm to obtain $$x$$ and $$y$$ such that\n$$a x + b y = \\gcd(a, b)$$.\n\nWe multiply this expression so that the right-hand side equals the constant $$c$$.\n\nWe subtract the expression obtained from the initial equation.\n\nWe isolate the terms of the addition on both sides of the equality.\n\nOn one side, we have $$a \\times m$$ and on the other $$b \\times n$$.\n\nThus $$a$$ is a divisor of $$b \\times n$$.\n\nTherefore, by Gauss, $$a$$ is a divisor of $$n$$.\n\nLet $$n = a \\times k$$.\n\nWe isolate the unknown of $$n$$.\n\nWe obtain an expression for the first unknown.\n\nWe use substitution.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.231969222Z",
+    "quality" : "LOW"
+  }
+}

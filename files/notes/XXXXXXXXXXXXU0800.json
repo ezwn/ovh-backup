@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "XXXXXXXXXXXXU0800",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "KM2 - NOUV.",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "## [Divisibilité](note::MATARIXXXXXXU0005)\n\n## [Middleware orienté messages 2](note::COSARCXXXXXXU0080)\n\n## [Congruences](note::MATARIXXXXXXU0060)\n\n## [Représenter un nombre en binaire](note::MATARIXXXXXXU0072)\n\n## [Exponentiation modulaire rapide](note::MATARIXXXXXXU0073)\n\n## [Palestine et Israel](note::HUSHISXXXXXXU0005)\n\n## [Théorie bi-dimensionnelle](note::HUSPSYEMOXXXU0026)\n\n## [Relation antisymétrique](note::MATLOGRELXXXU0030)\n\n## [Résolution d'équation diophantienne simple](note::MATTNBXXXXXXU0201)\n\n## [Congruences, définitions](note::MATARIXXXXXXU0060)\n\n## [Théorème de division en facteurs premiers](note::MATARIXXXXXXU0045)\n\n## [Autre lemme d'Euclide](note::MATARIXXXXXXU0042)\n\n## [Déterminer si un nombre est premier](note::MATARIXXXXXXU0035)\n\n## [Propositions concernant le PPCM](note::MATARIXXXXXXU0025)\n\n## [Divisibilité, propriétés](note::MATARIXXXXXXU0006)\n\n## [Ensembles image et antécédent](note::MATANLXXXXXXU0021)\n\n## [Ensemble des parties d'un ensemble](note::MATENSXXXXXXU0009)\n\n## [Union, intersection et différence](note::MATENSXXXXXXU0006)\n\n## [Démo injectivité composée injectives](note::MATANLXXXXXXU0500)\n\n## [Application, surjection et injection](note::MATANLXXXXXXU0015)\n\n## [Matrice d'adjacence](note::MATGRAXXXXXXU0020)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.929128196Z",
+    "quality" : "LOW"
+  }
+}

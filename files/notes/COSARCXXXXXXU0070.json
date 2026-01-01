@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSARCXXXXXXU0070",
+  "content" : {
+    "domain" : "COMPUTING_SYSTEM_ARCHITECTURE",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Middleware orientés messages",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Middleware Orientés Messages\n\n%## Généralités\n\n?~Fonctionnalité principale des Middleware Orientés Messages :\n- transmission de messages\n\n?~Bénéfices des Middleware Orientés Messages :\n- découplage\n- tolérance à la déconnexion\n- résilience à l’indisponibilité\n- adaptation aux pics de charge\n\n?~Un point faible des Middleware Orientés Messages :\n- grande permissivité\n\n?~Caractéristiques de la transmission de messages par Middleware Orientés Messages :\n- unidirectionnelle\n- asynchrone\n- indépendante du contenu\n- sécurisée\n- garantie de livraison\n\n?~Classes d'acteurs échangeant des messages par Middleware Orientés Messages :\n- **émetteur** de messages\n- **récepteur** de messages\n\n?~Lieu de stockage des messages par les par Middleware Orientés Messages :\n- **dépôts** **répartis** et **nommés**.\n\n%## Multi-instances\n\n?~Mécanismes permettant aux instances de Middleware Orienté Messages (brokers) de fournir leur service :\n- exposition d'une **API locale** en mode client/serveur\n- stockage local des messages\n- communication avec les autres instances\n\n%## Modes de communication\n\n?~Deux modes de communication entre émetteurs et récepteurs :\n- point à point\n- **publication** / **abonnement**\n\n?~Spécificité du mode point à point :\nun **message émis par un producteur** est **reçu par un unique consommateur**\n\n?~Point critique dans le mode point à point et comment cette difficulté est elle résolue :\n- il faut s'assurer que **chaque message** est **traité correctement avant suppression**\n- pour y parvenir, le Middleware Orientés Messages demande un **acquittement**\n\n?~Spécificité du mode publication / abonnement :\nun **message émis** par un producteur est **reçu par tous les abonnés** au **sujet**.\n\n%## Gestion des acquittements\n\n?~Ce qui se passe si un message n'est pas acquitté :\nil est **remis dans la pile** de distribution\n\n?~Ce que la remise des messages dans la pile empêche de garantir :\nl'**ordre des messages**\n\n## Transactions\n\n?~Définition d'une transaction dans le contexte des Middleware Orienté Messages :\n**séquence insécable** de **lectures** / **envois** de **messages**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Message-Oriented Middleware",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Message-Oriented Middleware\n\n%## Generalities\n\n?~Main feature of Message-Oriented Middleware:\n- message transmission\n\n?~Benefits of Message-Oriented Middleware:\n- decoupling\n- tolerance to disconnection\n- resilience to unavailability\n- adaptability to load peaks\n\n?~A weakness of Message-Oriented Middleware:\n- high permissiveness\n\n?~Characteristics of message transmission by Message-Oriented Middleware:\n- unidirectional\n- asynchronous\n- content-independent\n- secure\n- delivery guarantee\n\n?~Classes of actors exchanging messages through Message-Oriented Middleware:\n- **sender** of messages\n- **receiver** of messages\n\n?~Message storage location by Message-Oriented Middleware:\n- **distributed** and **named** **repositories**.\n\n%## Multi-instances\n\n?~Mechanisms enabling Message-Oriented Middleware instances (brokers) to provide their service:\n- provision of a **local API** in client/server mode\n- local storage of messages\n- communication with other instances\n\n%## Communication between producer and consumer\n\n?~Two communication modes between senders and receivers:\n- point to point\n- **publish** / **subscribe**\n\n?~Specificity of point-to-point mode:\na **message sent by a producer** is **received by a single consumer**\n\n?~Critical point in point-to-point mode and how this difficulty is solved:\n- it is necessary to ensure that **each message** is **correctly processed before deletion**\n- to achieve this, the Message-Oriented Middleware requests an **acknowledgment**\n\n?~Specificity of the publish/subscribe mode:\na **message sent** by a producer is **received by all subscribers** to the **topic**.\n\n%## Acknowledgement management\n\n?~What happens if a message is not acknowledged:\nit is **put back in the queue** for distribution\n\n?~What putting messages back in the queue prevents from guaranteeing:\nthe **order of messages**\n\n## Transactions\n\n?~Definition of a transaction in the context of Message-Oriented Middleware:\n**indivisible sequence** of **reading** / **sending** **messages**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Nachrichtenorientierte Middleware",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Nachrichtenorientierte Middleware\n\n%## Allgemeines\n\n?~Hauptfunktionalität nachrichtenorientierter Middleware:\n- Übertragung von Nachrichten\n\n?~Vorteile nachrichtenorientierter Middleware:\n- Entkopplung\n- Toleranz gegenüber Verbindungsabbruch\n- Widerstandsfähigkeit gegen Nichtverfügbarkeit\n- Anpassung an Lastspitzen\n\n?~Ein Schwachpunkt nachrichtenorientierter Middleware:\n- große Nachsicht\n\n?~Merkmale der Nachrichtenübertragung durch nachrichtenorientierte Middleware:\n- unidirektional\n- asynchron\n- inhaltsunabhängig\n- sicher\n- Zustellungsgarantie\n\n?~Klassen von Akteuren, die über nachrichtenorientierte Middleware Nachrichten austauschen:\n- **Sender** von Nachrichten\n- **Empfänger** von Nachrichten\n\n?~Ablageort der Nachrichten durch nachrichtenorientierte Middleware:\n- **verteilte** und **benannte** **Speicher**.\n\n%## Mehrere Instanzen\n\n?~Mechanismen, mit denen Instanzen nachrichtenorientierter Middleware (Brokers) ihren Dienst bereitstellen:\n- Bereitstellung einer **lokalen Programmierschnittstelle** im Client/Server-Modus\n- lokale Speicherung der Nachrichten\n- Kommunikation mit anderen Instanzen\n\n%## Kommunikationsmodi\n\n?~Zwei Kommunikationsmodi zwischen Sendern und Empfängern:\n- Punkt-zu-Punkt\n- **Veröffentlichung** / **Abonnement**\n\n?~Besonderheit des Punkt-zu-Punkt-Modus:\neine **vom Erzeuger gesendete Nachricht** wird **von genau einem Verbraucher empfangen**\n\n?~Kritischer Punkt im Punkt-zu-Punkt-Modus und wie diese Schwierigkeit gelöst wird:\n- es muss sichergestellt werden, dass **jede Nachricht** **korrekt verarbeitet wird, bevor sie gelöscht wird**\n- dazu verlangt die nachrichtenorientierte Middleware eine **Bestätigung**\n\n?~Besonderheit des Veröffentlichung/Abonnement-Modus:\neine **vom Erzeuger gesendete Nachricht** wird **von allen Abonnenten** zum **Thema** empfangen.\n\n%## Verwaltung der Bestätigungen\n\n?~Was passiert, wenn eine Nachricht nicht bestätigt wird:\nsie wird **wieder in den Verteilungsstapel** eingestellt\n\n?~Was die Zustellung der Nachrichten in die Warteschlange nicht garantieren kann:\ndie **Reihenfolge der Nachrichten**\n\n## Transaktionen\n\n?~Definition einer Transaktion im Kontext nachrichtenorientierter Middleware:\n**unteilbare Sequenz** von **Lesen** / **Senden** von **Nachrichten**",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-07-04T05:21:54.206863414Z",
+    "quality" : "LOW"
+  }
+}

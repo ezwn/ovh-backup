@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "hicmdi6s5qy86l5ypa92h3",
+  "content" : {
+    "domain" : "JOB_SEARCH",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Me présenter à l'ISO",
+      "description" : "Domaine : entretien d'embauche pour poste d'architecte logiciel\nSujet : parcours, valeurs et évolution récente",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "^ ISO\n^ se présenter à ...\n# Me présenter à l'ISO\n\n^ fonction\n^ emploi\n^ précédent\n~? Mes fonctions durant mes précédents emplois :\n^ lead\n^ technique\n^ exercé\nJ'ai exercé en tant que lead-technique,\n^ architecte\n^ développeur logiciel\narchitecte et développeur logiciel,\n^ analyste métier\net parfois analyste métier.\n\n^ secteurs\n^ travailler\n~? Les secteurs dans lesquels j'ai travaillé :\n^ développement\n^ solutions IT\n^ travailler dans ...\nJ'ai essentiellement travaillé dans l'édition de solutions IT,\n^ secteur financier\net dans le secteur financier.\n\n^ attirer\n~? Ce qui m'attire à l'ISO :\n^ équilibré\n^ défi\nJe suis attiré par le défi équilibré que me propose l'ISO, entre\n^ environnement\n^ complexe\n^ métier\n^ domaine\n^ exigeant\n^ technique\nun environnement métier complexe et un domaine technique exigeant.\n\n^ touche\n^ petit\n^ personnel\n~? Petite touche personnelle ?\n^ curiosité\n^ enjeux\n^ marqué\n^ systémique\n^ technologique\n^ sociétal\nJ'ai une curiosité marquée pour les enjeux systémiques, technologiques et sociétaux.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Mich bei der ISO vorstellen",
+      "description" : "...",
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "^ die ISO\n^ sich bei ... vorstellen\n# Mich bei der ISO vorstellen\n\n^ die Aufgabe\n^ die Tätigkeit\n^ vorherig\n~? Meine Aufgaben in meinen vorherigen Tätigkeiten:\n^ der Leiter\n^ technisch\n^ tätig\nIch war als technischer Leiter tätig,\n^ der Architekt\n^ der Softwareentwickler\nals Architekt und Softwareentwickler,\n^ der Fachanalyst\nund manchmal als Fachanalyst.\n\n^ der Bereich\n^ arbeiten\n~? Die Bereiche, in denen ich gearbeitet habe:\n^ die Entwicklung\n^ die IT-Lösung\n^ in ... arbeiten\nIch habe hauptsächlich in der Entwicklung von IT-Lösungen gearbeitet\n^ der Finanzsektor\nund im Finanzsektor.\n\n^ an ... reizen\n~? Was mich an der ISO reizt:\n^ ausgewogen\n^ die Herausforderung\nMich reizt die ausgewogene Herausforderung, die mir die ISO bietet, zwischen\n^ das Umfeld\n^ komplex\n^ fachlich\n^ der Bereich\n^ anspruchsvoll\n^ technisch\neinem komplexen fachlichen Umfeld und einem anspruchsvollen technischen Bereich.\n\n^ die Note\n^ klein\n^ persönlich\n~? Eine kleine persönliche Note?\n^ die Neugier\n^ die Fragestellung\n^ ausgeprägt\n^ systemisch\n^ technologisch\n^ gesellschaftlich\nIch habe eine ausgeprägte Neugier für systemische,technologische und gesellschaftliche Fragestellungen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-08-25T05:40:33.230951451Z",
+    "quality" : "LOW"
+  }
+}

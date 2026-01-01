@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKNXTXXXU0105",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Cheminement chez Nexthink",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "J'arrive chez Nexthink après ma première expérience de management à Credit Suisse, pensant que ça va fonctionner de la même façon.\n\nJe suis sensé être développeur quelques mois puis devenir tech-lead. Je me donne à 100% pour livrer un maximum de fonctionnalités sur le logiciel en tant que développeur.\n\nMais suis complètement à contre courant avec un style très normatif et directif. Je pense que pour faire bouger les choses, il faut pointer les problèmes (comme cela fonctionnait chez CS) et ainsi je me fais des ennemis, à commencer par Vlad, une personne très haut placée dans la hiérarchie, car je critique le travail de l'une de ses équipes, en l'occurrence la nouvelle stack Jenkins qu'ils ont mis en place. En effet, à ce moment mon équipe est très fortement ralentie par des plantages des outils de compilation. J'exige plus de ressource. S'en suit une discussion très négative avec Vlad ou je comprends que je me suis fait un ennemi.\n\nJe suis également à contre courant quand je veux appliquer des principes d'organisation du code strictes (SOLID, clean code, validation des données). Ainsi, mes idées sont rejetées et effectivement, l'équipe arrive à s'en sortir sans valider les données, sans découpler, et en prenant toute sorte de raccourcis. C'est plus rapide que d'appliquer des principes strictes. Je développe une image négative du travail chez Nexthink à ce moment, car j'ai du mal à accepter que des concessions aussi importantes soit faites sur la qualité, même si ça fonctionne. Mes positions me marginalisent également. Je suis moins motivé. Je participe, mais en limitant ma participation.\n\nMon manager m'explique qu'étant donné mes problèmes de communication (référence à mon altercation avec Vlad), je ne serai pas tech lead \"avant longtemps\". Le poste est proposé à une développeuse avec beaucoup d'expérience. Elle essaie, puis renonce. Le poste est toujours vacant.\n\nJe me forme en parallèle au management (avec le soutien de Nexthink) et comprend que des styles de management alternatifs existent et quel est celui souhaité par Nexthink.\n\nComme je travaillais sur une fonction d'import/export, j'ai constaté dans un environnement de développement qu'il était possible pour n'importe quel utilisateur un peu savant, de sauvegarder un enregistrement corrompu (campagne) en utilisant l'API. La sauvegarde d'une tel enregistrement rendait alors toute l'application inopérante car cela faisait échouer la boucle de sélection des données dans la liste principale. C'est ainsi que l'équipe à commencé à prendre conscience de l'importance de la validation.\n\nEt à ce jour, il n'y a toujours pas de proactivité dans la gestion de la dette technique (les tâches en rapport avec la dette technique étant repoussées constamment plus bas dans le backlog). Ceci est, encore aujourd'hui, un motif important de démotivation pour moi, car cela freine mon attachement au logiciel.\n\nIl s'en suit une période d'investissement modéré pour moi. Moins investi je deviens plus tolérant, plus ouvert. << Chez Nexthink, c'est l'humain avant le logiciel. >>",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Cheminement chez Nexthink",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Cheminement chez Nexthink",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "Cheminement chez Nexthink",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.851515148Z",
+    "quality" : "LOW"
+  }
+}

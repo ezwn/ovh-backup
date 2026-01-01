@@ -1,0 +1,66 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODDESU0020",
+  "content" : {
+    "domain" : "SOFTWARE_DEVELOPMENT",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Dépendances logicielles, inversion de contrôle et injection",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Dépendances logicielles, inversion de contrôle et injection\n\n%## Inversion des dépendances\n\n%?~Quel type de dépendances l'inversion des dépendances décourage-t-elle ?\nLes dépendances directes entre composants de haut et bas niveau.\n\n%?~Comment l'inversion des dépendances permet-elle aux composants d'interagir ?\nEn les liant par des abstractions indépendantes.\n\n%## Inversion de contrôle\n\n%?~En quoi consiste l'inversion de contrôle ?\nUn framework ou une abstraction contrôle le flux d'exécution.\n\n%?~Quel est le rôle d'un framework dans l'inversion de contrôle ?\n- Définir des interfaces pour la logique de bas niveau.\n- Appeler cette logique au bon moment.\n- Lui fournir les dépendances nécessaires.\n\n%## Injection de dépendance\n\n%?~Qu'est ce que l’injection de dépendance ?\nUn conteneur fournit aux composants leurs dépendances.\n\n%?~Quel est l'un des avantages de l'injection de dépendance ?\nLes composants n'ont pas besoin créer eux-mêmes leurs dépendances.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : "Software Dependencies: Inversion, Control, and Injection",
+      "description" : null,
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "# Software Dependencies, Inversion of Control and Injection\n\n%## Dependency Inversion\n\n%?~What type of dependencies does dependency inversion discourage?\nDirect dependencies between high-level and low-level components.\n\n%?~How does dependency inversion enable components to interact?\nBy linking them through independent abstractions.\n\n%## Inversion of Control\n\n%?~What does inversion of control consist of?\nA framework or an abstraction controls the flow of execution.\n\n%?~What is the role of a framework in inversion of control?\n- Define interfaces for low-level logic.\n- Call this logic at the right time.\n- Provide it with the necessary dependencies.\n\n%## Dependency Injection\n\n%?~What is dependency injection?\nA container provides components with their dependencies.\n\n%?~What is one of the advantages of dependency injection?\nComponents do not need to create their dependencies themselves.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Software-Abhängigkeiten: Inversion, Kontrolle und Injektion",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "# Software-Abhängigkeiten, Steuerungsumkehr und Injection\n\n%## Abhängigkeitsumkehr\n\n%?~Welche Art von Abhängigkeiten entmutigt die Abhängigkeitsumkehr?\nDirekte Abhängigkeiten zwischen Komponenten hohen und niedrigen Niveaus.\n\n%?~Wie ermöglicht die Abhängigkeitsumkehr den Komponenten, miteinander zu interagieren?\nIndem sie sie durch unabhängige Abstraktionen verbindet.\n\n%## Steuerungsumkehr\n\n%?~Worin besteht die Steuerungsumkehr?\nEin Framework oder eine Abstraktion steuert den Ausführungsfluss.\n\n%?~Welche Rolle spielt ein Framework in der Steuerungsumkehr?\n- Definieren von Schnittstellen für die Logik des niedrigen Niveaus.\n- Diese Logik zum richtigen Zeitpunkt aufrufen.\n- Ihr die notwendigen Abhängigkeiten bereitstellen.\n\n%## Dependency-Injection\n\n%?~Was ist die Dependency-Injection?\nEin Container stellt den Komponenten ihre Abhängigkeiten zur Verfügung.\n\n%?~Was ist einer der Vorteile der Dependency-Injection?\nDie Komponenten müssen ihre Abhängigkeiten nicht selbst erstellen.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "ZH",
+      "title" : "软件依赖性：反转、控制和注入",
+      "description" : null,
+      "voice" : "cmn-CN-Chirp3-HD-Fenrir",
+      "text" : "# 软件依赖、控制反转与注入\n\n%## 依赖反转\n\n%?~依赖反转不鼓励哪种类型的依赖？\n高层组件和底层组件之间的直接依赖。\n\n%?~依赖反转如何让组件交互？\n通过独立的抽象将它们连接。\n\n%## 控制反转\n\n%?~控制反转是什么？\n一个框架或抽象控制执行流。\n\n%?~在控制反转中，框架的角色是什么？\n- 为底层逻辑定义接口。\n- 在恰当的时机调用这些逻辑。\n- 提供必要的依赖。\n\n%## 依赖注入\n\n%?~什么是依赖注入？\n一个容器为组件提供它们的依赖。\n\n%?~依赖注入的一个优点是什么？\n组件不需要自己创建依赖。",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:54.906181772Z",
+    "quality" : "LOW"
+  }
+}

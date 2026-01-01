@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "MATANLXXXXXXU0500",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Démontrer injectivité composée injectives",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Pour démontrer que la composée de deux fonctions injectives est injective.\n\nDéfinir l'injectivité par\n$$h$$ de x1 égal $$h$$ de x2 implique x1 égal x2.\n\n^quelconque\n^ensemble de départ\nPrendre x1 et x2 quelconques dans l'ensemble de départ.\n\nSupposer que\n$$g$$ rond $$f$$ de x1 égal $$g$$ rond $$f$$ de x2.\n\nMontrer par raisonnement direct que cela\nimplique x1 = x2.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Démontrer injectivité composée injectives",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "Um zu zeigen, dass die Komposition zweier injektiver Funktionen injektiv ist.\n\nDefinieren Sie die Injektivität durch\n$$h$$ von x1 gleich $$h$$ von x2 impliziert x1 gleich x2.\n\n^beliebige\n^die Ausgangsmenge\nNehmen Sie beliebige x1 und x2 aus der Ausgangsmenge.\n\nAngenommen,\n$$g$$ komponiert mit $$f$$ von x1 gleich $$g$$ komponiert mit $$f$$ von x2.\n\nZeigen Sie durch direktes Schließen, dass dies\nx1 = x2 impliziert.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.143611960Z",
+    "quality" : "LOW"
+  }
+}

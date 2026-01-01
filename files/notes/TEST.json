@@ -1,0 +1,53 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "TEST",
+  "content" : {
+    "domain" : "GERMAN_GRAMMAR",
+    "privateComment" : null,
+    "tags" : "WITH_EXERCISES OR_NOT",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Test !!!",
+      "description" : "Hello",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Première ligne...\n\nRéponse",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "FR",
+      "title" : null,
+      "description" : "Salut !",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "Première ligne...\n\nRéponse",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "EN",
+      "title" : null,
+      "description" : "Hey!",
+      "voice" : "en-GB-Chirp3-HD-Fenrir",
+      "text" : "First line...\n\nAnswer",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.248520657Z",
+    "quality" : "LOW"
+  }
+}

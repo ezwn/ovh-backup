@@ -1,0 +1,24 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "7g05934jzi0gw99evui1ij",
+  "content" : {
+    "domain" : "ECONOMICS",
+    "privateComment" : "https://claude.ai/chat/9326ba47-6698-4915-bfc2-8314757e61dc",
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Déterminants de la demande globale",
+      "description" : "...",
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Déterminants de la demande globale\n\n~? Propension marginale à consommer :\n**fraction** de l'**augmentation du revenu** qui est **consacrée** à l'**augmentation** de la **consommation**.\n\n~? Consommation incompressible :\n**Part de** la **consommation** correspondant aux **besoins essentiels**,\nqui **ne peut être réduite** **sans** **compromettre** les **conditions de vie minimales**.\n\n~? Propension moyenne à consommer :\n**Part** du **revenu total** consacrée à la **consommation**.\n\n~? **Influence** d'une **augmentation** de **revenu** **sur** la **consommation** :\n- à **court terme**, la **propension moyenne à consommer** **diminue** (Keynes)\n- à **long terme**, la **propension moyenne à consommer** **remonte** pour tendre vers son **niveau initial** (Kuznets)\n\n~? **Facteurs** expliquant une **plus forte propension moyenne à consommer** chez les **ménages à faible revenu** :\nIls **imitent** les **comportements de consommation** des **classes sociales** **voisines** ou **plus élevées**\n(**effet de démonstration**, Duesenberry)\n\n~? **Influence** d'une **diminution de revenu** **sur** la **consommation** :\nIl existe un **effet \"cliquet\"**,\nqui **ralentit** l'**ajustement** à la **baisse** de la **consommation**,\net qui **s'explique par** les **habitudes de consommation** (Duesenberry)",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-11T17:42:20.891577103Z"
+  }
+}

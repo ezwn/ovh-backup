@@ -1,0 +1,26 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "vjaqnepig60ynkcy1tpq05",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "NSY115 - Conduite d'un projet informatique",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# NSY115 - Conduite d'un projet informatique\n\n### [Séance 2 : Volet financement](note::2ne5hpj0k3dw83toek1lks)\n### [Séance 3 : Méthodologie de gestion de projet](note::64t85rynwykwwgbh1fnqi5)\n### [Séance 4 : Génie logiciel](note::z1wrhpalvdfvqpztgo9rz7)\n### [Séance 5 : outils de planification et de suivi](note::sbwl6a23ikclmkh76rk152)\n\n## PMBOK\n\n### [Fonctions associées aux projets](note::qc08sgd8aoc7w3zh4qbvor)\n48",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2025-10-19T05:14:00.186723813Z",
+    "quality" : "LOW"
+  }
+}

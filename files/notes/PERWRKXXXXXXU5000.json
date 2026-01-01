@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERWRKXXXXXXU5000",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Expériences",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "# Expériences pro\n\n## Nexthink\n\n### [Nexthink : en parler](note::PERWRKXXXXXXU0988)\n\n### [Nexthink : notes consolidée pour LLM](note::PERWRKXXXXXXU0985)\n\n### [Nexthink: notes brutes en vrac](note::PERWRKXXXXXXU0900)\n\n## Credit Suisse\n\n### [Credit Suisse : en parler](note::PERWRKXXXXXXU1001)\n\n### [Credit Suisse : notes consolidée pour LLM](note::PERWRKXXXXXXU1000)\n\n## Société générale\n\n### [Société générale : notes consolidée pour LLM](note::PERWRKXXXXXXU1100)\n\n## ING\n\n### [ING : notes consolidée pour LLM](note::PERWRKXXXXXXU1600)\n\n## Ileotech\n\n### [Ileotech : notes consolidée pour LLM](note::PERWRKXXXXXXU1700)\n\n## CEGID\n\n### [CEGID : notes consolidée pour LLM](note::PERWRKXXXXXXU1800)\n\n## MNT\n\n### [MNT : notes consolidée pour LLM](note::PERWRKXXXXXXU1900)\n\n## SIATEL\n\n### [SIATEL : notes consolidée pour LLM](note::PERWRKXXXXXXU2000)\n\n## Purin\n\n",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.711286766Z",
+    "quality" : "LOW"
+  }
+}

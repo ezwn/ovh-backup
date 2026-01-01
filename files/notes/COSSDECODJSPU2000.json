@@ -1,0 +1,27 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "COSSDECODJSPU2000",
+  "content" : {
+    "domain" : "SPRING_FRAMEWORK",
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Spring MVC",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "?Le module de Spring qui permet de faire des services REST est :\nSpring MVC.\n\n~?Pour marquer une méthode java qui traite une requête POST, on utilise :\nl'annotation PostMapping.\n\n~?Annoter un contrôleur Spring par \"RestController\", revient à :\nannoter toutes ses méthodes par ResponseBody.\n\n~?Les deux outils fournis par Spring pour faire des appels HTTP sont :\nRestTemplate et WebClient.\n\n~?RestTemplate propose des méthodes telles que :\npostForObject et postForEntity.\n\n~?L'avantage de WebClient est qu'il supporte :\nle mode asynchrone.\n\n~?L'annotation qui injecte un segment de l'URL dans une variable est :\nPathVariable.\n\n~?L'annotation qui injecte la valeur d'un paramètre de requête de l'URL dans une variable est :\nRequestParam.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.013910193Z",
+    "quality" : "LOW"
+  }
+}

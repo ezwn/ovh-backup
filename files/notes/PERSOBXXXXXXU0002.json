@@ -1,0 +1,40 @@
+{
+  "storeVersion" : 0,
+  "docType" : "Note",
+  "docTypeVersion" : 5,
+  "docId" : "PERSOBXXXXXXU0002",
+  "content" : {
+    "domain" : null,
+    "privateComment" : null,
+    "tags" : "",
+    "transpositions" : [ {
+      "lang" : "FR",
+      "title" : "Rétrospective n°2",
+      "description" : null,
+      "voice" : "fr-FR-Chirp3-HD-Puck",
+      "text" : "C'est intéressant de comprendre comment les gens arrivent habituellement à leur fins (personnelles et professionnelles) et d'adapter son comportement.\n\nIl y a des stratégies directes, autoritaires, basée sur les sentiments\nIl y a des stratégies indirectes, basées sur la manipulation (de l'information, des sentiments, etc)\n\nDes petites aux grandes actions,\nJe me laisse le temps de réfléchir avant d'agir.",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    }, {
+      "lang" : "DE",
+      "title" : "Rétrospective n°2",
+      "description" : null,
+      "voice" : "de-DE-Chirp3-HD-Fenrir",
+      "text" : "",
+      "exported" : true,
+      "llmTranslationLanguageSpecificInstructions" : null,
+      "article" : null,
+      "ttsMapping" : { },
+      "sttMapping" : { },
+      "tooltips" : { },
+      "bibliographyUrls" : { }
+    } ],
+    "modificationDate" : "2026-01-01T18:35:55.425478348Z",
+    "quality" : "LOW"
+  }
+}
