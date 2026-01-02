@@ -491,16 +491,16 @@
         {
           "id": "NOTE-MrgeE5RS",
           "userBounds": [
-            518,
-            253,
-            null,
-            null
+            531,
+            246,
+            136.03125,
+            56
           ],
           "bounds": [
-            518,
-            253,
-            244,
-            32
+            531,
+            246,
+            136,
+            56
           ],
           "content": "SE CONCENTRER\nSUR LES ÉMOTIONS",
           "zIndex": 3,
