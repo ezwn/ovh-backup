@@ -1,26 +1,28 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "31ft1zcd9gmkgwbmh3frkb",
-  "content" : {
-    "domain" : "COMPUTER_SECURITY",
-    "privateComment" : "https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27000:ed-5:v1:fr",
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "FR",
-      "title" : "Définitions de sécurité",
-      "description" : "...",
-      "voice" : "fr-FR-Chirp3-HD-Puck",
-      "text" : "#% Définitions de sécurité\n\n~? **Risque**, concernant les Systèmes d'Information :\n**effet** de l’**incertitude** **sur** les **objectifs**,\nqui peut être vu comme la **combinaison** d'une **probabilité** et d'un **impact**.\n\n~? **Politique** d'une organisation :\nintentions et **orientation** telles que **formalisées par** sa **direction**\n\n~? Revue :\n**activité** entreprise afin de **déterminer**\nl'**adaptation**, l'**adéquation** et l'**efficacité** de l'**objet étudié**\n**pour atteindre** les **objectifs établis**\n",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2025-09-27T18:30:45.261239332Z",
-    "quality" : "LOW"
+  "docId": "31ft1zcd9gmkgwbmh3frkb",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "COMPUTER_SECURITY",
+    "privateComment": "https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27000:ed-5:v1:fr",
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "FR",
+        "title": "Définitions de sécurité ⚠️",
+        "description": "...",
+        "voice": "fr-FR-Chirp3-HD-Puck",
+        "text": "#% Définitions de sécurité ⚠️\n\n~? **Risque**, concernant les Systèmes d'Information :\n**effet** de l’**incertitude** **sur** les **objectifs**,\nqui peut être vu comme la **combinaison** d'une **probabilité** et d'un **impact**.\n\n~? **Politique** d'une organisation :\nintentions et **orientation** telles que **formalisées par** sa **direction**\n\n~? Revue :\n**activité** entreprise afin de **déterminer**\nl'**adaptation**, l'**adéquation** et l'**efficacité** de l'**objet étudié**\n**pour atteindre** les **objectifs établis**",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-02T19:56:23.557Z",
+    "quality": "LOW"
   }
 }

@@ -1,40 +1,43 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "la2em0eu98hv01wv3mhwdi",
-  "content" : {
-    "domain" : "MANAGEMENT",
-    "privateComment" : "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/my_iso_job.pdf\nhttps://www.iso.org/stage-codes.html\nhttps://www.iso.org/fr/stage-codes.html",
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "FR",
-      "title" : "Étapes du processus d’élaboration des normes ISO",
-      "description" : "...",
-      "voice" : "fr-FR-Chirp3-HD-Puck",
-      "text" : "# Étapes du processus d’élaboration des normes ISO\n\n~? **Étapes** du **processus d’élaboration des normes** **ISO** :\n- étape **préliminaire**\n- étape de **proposition**\n- étape de **préparation**\n- étape de **comité**\n- étape d’**enquête**\n- étape d’**approbation**\n- étape de **publication**\n- **maintenance**\n\n##% Objectifs et livrables\n\n~? Étape **préliminaire** :\n- objectif principal : élaborer la **proposition** et préparer une **première ébauche**\n- livrable : **élément de travail préliminaire**\n\n~? Étape de **proposition** :\n- objectif principal : **confirmer** le **besoin du marché** par **vote**\n- document entrant : **proposition d’étude nouvelle**\n-participant: le comité\n-transition : le comité met en place un groupe de travail\n\n~? Étape de **préparation** :\n- objectif principal : élaborer le **projet de travail**\n- livrable : **projet de travail**, validé pour transition à l'étape de comité\n-participants : le groupe de travail et l'animateur\n-transition : le projet de travail est transmis au comité\n\n~? Étape de **comité** :\n- objectif principal : voter, commenter et réviser le projet du comité au sein du comité.\n- document de travail : **projet de comité** (initialement le projet de travail enregistré)\n-participant: le comité\n-transition : soumission du projet de commité au secrétariat central (projet de norme internationale)\n\n~? Étape d'**enquête**:\n- objectif principal : consensus global\n- méthode : **diffuser** et permettre de **voter** et **commenter**\n- document de travail : **projet de norme internationale**\n-participants : tous les membres d'ISO\n-transitions :\n-si apprové, publication\n-si révision significatives ou technique, approbation\n\n~? Étape d’**approbation** :\n- objectif principal : obtenir **l’approbation finale**\n- livrable : **projet final de norme internationale**\n- participants : tous les membres d'ISO\n\n~? Étape de **publication** :\n- objectif principal : **finaliser** et **publier officiellement**\n- livrable : **norme internationale**",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    }, {
-      "lang" : "EN",
-      "title" : "Stages of ISO Standard Development Process",
-      "description" : "...",
-      "voice" : "en-US-Chirp3-HD-Fenrir",
-      "text" : "# Stages of ISO Standard Development Process\n\n~? **Stages** of the **international organization for standardization** **Standard Development Process** :\n- **Preliminary** stage\n- **Proposal** stage\n- **Preparatory** stage\n- **Committee** stage\n- **Enquiry** stage\n- **Approval** stage\n- **Publication** stage\n- **Maintenance**\n\n##% Goals and deliverables\n\n~? **Preliminary** stage:\n- main goal: elaborate the **proposal** and prepare an **initial draft**\n- deliverable: **Preliminary Work Item**\n\n~? **Proposal** stage:\n- main goal: **confirm** **market need** via **voting**\n- input document: **New Work Item Proposal**\n-participant: the **committee**\n-transition : the **committee** **set up** a **working group**\n\n~? **Preparatory** stage:\n- main goal: develop the **working draft**\n- deliverable: **Working Draft**, approved for transition into the Committee stage\n-participants: the **working group** and the **convenor**\n-transition : the **working draft** is **forwarded to the commitee**\n\n~? **Committee** stage:\n- main goal: **voting**, **commenting**, and **revising** the **committee draft** **within the committee**\n- working document: **Committee Draft** (initially the registered Working Draft)\n-participant: the **committee**\n-transition: **submission** **of** the **committee draft** to the **central secretariat** (draft international standard)\n\n~? **Enquiry** stage:\n- main goal: **global consensus**\n-method : **circulate**, **vote** on and **comment**\n- working document: **Draft International Standard**\n-participants: **all ISO members**\n-transitions :\n-if approved, publication\n-if significant or technical revisions, approval\n\n~? **Approval** stage:\n- main goal: secure **final approval**\n- deliverable: **Final Draft International Standard**\n-participants: **all ISO members**\n\n~? **Publication** stage:\n- main goal: **finalize** and **officially publish**\n- deliverable: **International Standard**",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2025-12-29T13:16:14.093460794Z",
-    "quality" : "LOW"
+  "docId": "la2em0eu98hv01wv3mhwdi",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "MANAGEMENT",
+    "privateComment": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/my_iso_job.pdf\nhttps://www.iso.org/stage-codes.html\nhttps://www.iso.org/fr/stage-codes.html",
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "FR",
+        "title": "Étapes du processus d’élaboration des normes ISO ⚠️",
+        "description": "...",
+        "voice": "fr-FR-Chirp3-HD-Puck",
+        "text": "# Étapes du processus d’élaboration des normes ISO ⚠️\n\n~? **Étapes** du **processus d’élaboration des normes** **ISO** :\n- étape **préliminaire**\n- étape de **proposition**\n- étape de **préparation**\n- étape de **comité**\n- étape d’**enquête**\n- étape d’**approbation**\n- étape de **publication**\n- **maintenance**\n\n##% Objectifs et livrables\n\n~? Étape **préliminaire** :\n- objectif principal : élaborer la **proposition** et préparer une **première ébauche**\n- livrable : **élément de travail préliminaire**\n\n~? Étape de **proposition** :\n- objectif principal : **confirmer** le **besoin du marché** par **vote**\n- document entrant : **proposition d’étude nouvelle**\n-participant: le comité\n-transition : le comité met en place un groupe de travail\n\n~? Étape de **préparation** :\n- objectif principal : élaborer le **projet de travail**\n- livrable : **projet de travail**, validé pour transition à l'étape de comité\n-participants : le groupe de travail et l'animateur\n-transition : le projet de travail est transmis au comité\n\n~? Étape de **comité** :\n- objectif principal : voter, commenter et réviser le projet du comité au sein du comité.\n- document de travail : **projet de comité** (initialement le projet de travail enregistré)\n-participant: le comité\n-transition : soumission du projet de commité au secrétariat central (projet de norme internationale)\n\n~? Étape d'**enquête**:\n- objectif principal : consensus global\n- méthode : **diffuser**, **voter** et **commenter**\n- document de travail : **projet de norme internationale**\n-participants : tous les membres d'ISO\n-transitions :\n-si apprové, publication\n-si révision significatives ou technique, approbation\n\n~? Étape d’**approbation** :\n- objectif principal : obtenir **l’approbation finale**\n- livrable : **projet final de norme internationale**\n- participants : tous les membres d'ISO\n\n~? Étape de **publication** :\n- objectif principal : **finaliser** et **publier officiellement**\n- livrable : **norme internationale**",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      },
+      {
+        "lang": "EN",
+        "title": "Stages of ISO Standard Development Process",
+        "description": "...",
+        "voice": "en-US-Chirp3-HD-Fenrir",
+        "text": "# Stages of ISO Standard Development Process\n\n~? **Stages** of the **international organization for standardization** **Standard Development Process** :\n- **Preliminary** stage\n- **Proposal** stage\n- **Preparatory** stage\n- **Committee** stage\n- **Enquiry** stage\n- **Approval** stage\n- **Publication** stage\n- **Maintenance**\n\n##% Goals and deliverables\n\n~? **Preliminary** stage:\n- main goal: elaborate the **proposal** and prepare an **initial draft**\n- deliverable: **Preliminary Work Item**\n\n~? **Proposal** stage:\n- main goal: **confirm** **market need** via **voting**\n- input document: **New Work Item Proposal**\n-participant: the **committee**\n-transition : the **committee** **set up** a **working group**\n\n~? **Preparatory** stage:\n- main goal: develop the **working draft**\n- deliverable: **Working Draft**, approved for transition into the Committee stage\n-participants: the **working group** and the **convenor**\n-transition : the **working draft** is **forwarded to the commitee**\n\n~? **Committee** stage:\n- main goal: **voting**, **commenting**, and **revising** the **committee draft** **within the committee**\n- working document: **Committee Draft** (initially the registered Working Draft)\n-participant: the **committee**\n-transition: **submission** **of** the **committee draft** to the **central secretariat** (draft international standard)\n\n~? **Enquiry** stage:\n- main goal: **global consensus**\n-method : **circulate**, **vote** on and **comment**\n- working document: **Draft International Standard**\n-participants: **all ISO members**\n-transitions :\n-if approved, publication\n-if significant or technical revisions, approval\n\n~? **Approval** stage:\n- main goal: secure **final approval**\n- deliverable: **Final Draft International Standard**\n-participants: **all ISO members**\n\n~? **Publication** stage:\n- main goal: **finalize** and **officially publish**\n- deliverable: **International Standard**",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-02T19:52:45.995Z",
+    "quality": "LOW"
   }
 }
