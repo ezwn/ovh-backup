@@ -1,0 +1,25 @@
+{
+  "docId": "1w8j48yu8r3u3z345kj0bo",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "FR",
+        "voice": "fr-FR-Chirp3-HD-Puck",
+        "title": "Model Context Protocol",
+        "text": "# Model Context Protocol\n\n",
+        "exported": false,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-03T18:46:59.376Z",
+    "quality": "LOW",
+    "privateComment": "Source:\n- https://modelcontextprotocol.io/docs/learn/architecture, \"Example\""
+  }
+}

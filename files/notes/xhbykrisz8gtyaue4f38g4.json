@@ -1,40 +1,29 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "xhbykrisz8gtyaue4f38g4",
-  "content" : {
-    "domain" : "MANAGEMENT",
-    "privateComment" : "Source : https://www.iso.org/deliverables-all.html",
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "FR",
-      "title" : "Livrables de l’ISO",
-      "description" : "...",
-      "voice" : "fr-FR-Chirp3-HD-Puck",
-      "text" : "# Livrables de l’ISO\n\n~?% 5 types de **livrables** de l’ISO :\n- **Norme internationale** : **règles**, **lignes directrices** ou **caractéristiques** pour des **activités** ou des **résultats**.\n- **Spécification technique** : **en cours d’élaboration**, pour **utilisation** et **retours d’expérience**\n- **Rapport technique** : uniquement **informatif**, fondé sur des enquêtes, des rapports, ...\n- **Spécification publiquement disponible** : **traitée en procédure accélérée** pour des **besoins urgents du marché**\n- **Accords internationaux d’atelier** : via un **mécanisme d’atelier** au lieu du processus normalisé\n\n## Normes internationales (Exemples)\n\n~? **Normes de systèmes de management** :\nprécisent **comment gérer** des **parties interreliées** **d’**une **entreprise**,\npour **atteindre des objectifs**.\n\n~? **Normes de produit** :\n**règles**, **lignes directrices**, ou **caractéristiques** pour des **produits**,\nen garantissant qu’ils sont **sûrs**, **fiables**, de **haute qualité**,\net **répondent aux besoins des consommateurs**.\n\n~? **Méthodes d’essai** :\nprocédures pour **déterminer** les **caractéristiques** d’**un **produit**, d’un **système**, ou d’un **service**,\nen garantissant des **résultats** **fiables**, **comparables**, et **dignes de confiance**.\n\n~? **Codes** de **pratique** :\nproposent les **meilleures façons** reconnues de **faire quelque chose** de précis.\n\n~? **Normes de lignes directrices** :\ndes **principes** fondés sur le consensus, approuvés par des experts, sur les **meilleures façons** de faire les choses.",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    }, {
-      "lang" : "EN",
-      "title" : "Deliverables of ISO",
-      "description" : "...",
-      "voice" : "en-US-Chirp3-HD-Fenrir",
-      "text" : "# Deliverables of ISO\n\n~? 5 types of ISO **deliverables** :\n- **International Standard** : **rules**, **guidelines** or **characteristics** for **activities** or **results**.\n- **Technical Specification**: **under development**, for **use** and **feedbacks**\n- **Technical Report**: **informative** only, based on surveys, reports, ...\n- **Publicly Available Specification**: **fast-tracked** for **urgent market needs**\n- **International Workshop Agreements** : through a **workshop mechanism** instead of standard process\n\n## International Standards (Examples)\n\n~? **Management System Standards**:\nspecifies **how to manage** **interrelated parts** **of** a **business**,\nto **achieve objectives**.\n\n~? **Product Standards**:\n**rules**, **guidelines**, or **characteristics** for **products**,\nensuring they are **safe**, **reliable**, **high-quality**,\nand **meet consumer needs**.\n\n~? **Test Methods**:\nprocedures to **determine characteristics of** a **product**, **system**, or **service**,\nensuring **reliable**, **comparable**, and **trustworthy** **results**.\n\n~? **Codes** of **practice**:\noffer agreed-upon **best ways to do something** specific.\n\n~? **Guideline Standards**:\nconsensus-based, expert-agreed **principles for best ways** to do things.",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2025-12-07T18:35:26.622570819Z",
-    "quality" : "LOW"
+  "docId": "xhbykrisz8gtyaue4f38g4",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "MANAGEMENT",
+    "privateComment": "Source : https://www.iso.org/deliverables-all.html",
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "EN",
+        "title": "Deliverables of ISO ⚠️",
+        "description": "...",
+        "voice": "en-US-Chirp3-HD-Fenrir",
+        "text": "# Deliverables of ISO ⚠️\n\n~? 5 types of ISO **deliverables**:\n- **International Standard**: **rules**, **guidelines**, or **characteristics** for **activities** or **results**.\n- **Technical Specification**: **lower level of consensus**, for **use** and **feedback**\n- **Technical Report**: **informative only** (includes **no requirements**), work based on surveys, reports, etc.\n- **Publicly Available Specification**: **fast-tracked** for **urgent market needs**\n- **International Workshop Agreement**: through **workshops** (not within committees)\n\n## International Standards (Examples)\n\n~? **Management System Standards**:\nspecifies **how to manage** **interrelated parts** **of** a **business**,\nto **achieve objectives**.\n\n~? **Product Standards**:\n**rules**, **guidelines**, or **characteristics** for **products**,\nensuring they are **safe**, **reliable**, **high-quality**,\nand **meet consumer needs**.\n\n~? **Test Methods**:\nprocedures to **determine characteristics of** a **product**, **system**, or **service**,\nensuring **reliable**, **comparable**, and **trustworthy** **results**.\n\n~? **Codes** of **practice**:\noffer agreed-upon **best ways to do something** specific.\n\n~? **Guideline Standards**:\nconsensus-based, expert-agreed **principles for best ways** to do things.",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-03T18:11:11.919Z",
+    "quality": "LOW"
   }
 }
