@@ -1,27 +1,29 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "hk1zxybn4awuecyzcyme7i",
-  "content" : {
-    "domain" : null,
-    "privateComment" : null,
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "EN",
-      "title" : "ISO",
-      "description" : null,
-      "voice" : "en-US-Chirp3-HD-Fenrir",
-      "text" : "# ISO\n\n##  Governance\n\n### [Overview of the ISO governance structure](note::4hl4gqc9jm7qij1lz456ko)\n### [The ISO General Assembly](note::52quc1w01ut9zemu6k1q09)\n### [The ISO Council](note::psh74b0sn75ud1gp7yz97i)\n### [Acteurs et rôles des procédures de l’ISO](note::tby5bt0dqsokyulzmlgg77)\n### [Membership types at the Technical Committee level](note::ehnsaj0sc2g2m7t84cy7ss)\n\n## Misc\n\n### [Deliverables of ISO](note::xhbykrisz8gtyaue4f38g4)\n### [Stages of ISO Standard Development Process](note::la2em0eu98hv01wv3mhwdi)\n\n## Job description\n\n### [ISO Solution Architect](note::epq5k3fozjo1de7fbaiciz)",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2026-01-01T16:47:53.698Z",
-    "quality" : "LOW"
+  "docId": "hk1zxybn4awuecyzcyme7i",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "JOB_SEARCH",
+    "privateComment": null,
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "EN",
+        "title": "ISO",
+        "description": null,
+        "voice": "en-US-Chirp3-HD-Fenrir",
+        "text": "# ISO\n\n##  Governance\n\n### [Overview of the ISO governance structure](note::4hl4gqc9jm7qij1lz456ko)\n### [The ISO General Assembly](note::52quc1w01ut9zemu6k1q09)\n### [The ISO Council](note::psh74b0sn75ud1gp7yz97i)\n### [Membership types at the Technical Committee level](note::ehnsaj0sc2g2m7t84cy7ss)\n\n## Misc\n\n### [Deliverables of ISO](note::xhbykrisz8gtyaue4f38g4)\n### [Stages of ISO Standard Development Process](note::la2em0eu98hv01wv3mhwdi)\n\n## Job description\n\n### [ISO Solution Architect](note::epq5k3fozjo1de7fbaiciz)",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-04T06:41:04.893Z",
+    "quality": "LOW"
   }
 }

@@ -10,10 +10,10 @@
     "transpositions": [
       {
         "lang": "EN",
-        "title": "Overview of the ISO governance structure ⚠️",
+        "title": "Overview of the ISO governance structure",
         "description": "...",
         "voice": "en-US-Chirp3-HD-Fenrir",
-        "text": "# Overview of the ISO governance structure ⚠️\n\n~? Governance hierarchy:\n-General Assembly\n-Council\n-Technical Management Board\n-Technical Committees\n\n~? General Assembly:\n-the **highest instance**,\n-composed of **all members**,\n-and **takes** **key high-level decisions**.\n\n~? Council:\n-the **executive instance**,\n-composed of **representatives** of 20 **members**,\n- **appoints** the **TMB** and **proposes** **strategies**.\n\n~? Technical Management Board:\n-the **highest technical work instance**,\n-composed of **15** **elected** **members**,\n-**oversees** the **technical work**,\n-and **appoints** **technical committees**.\n\n~? ISO Central Secretariat:\n-**coordinates** **standards development activities** and **publishes the standards**.",
+        "text": "# Overview of the ISO governance structure\n\n~? Governance hierarchy:\n-General Assembly\n-Council\n-Technical Management Board\n-Technical Committees\n\n~? General Assembly:\n-the **highest instance**,\n-composed of **all members**,\n-and **takes** **key high-level decisions**.\n\n~? Council:\n-the **executive instance**,\n-composed of **representatives** of 20 **members**,\n- **appoints** the **TMB** and **proposes** **strategies**.\n\n~? Technical Management Board:\n-the **highest technical work instance**,\n-composed of **15** **elected** **members**,\n-**oversees** the **technical work**,\n-and **appoints** **technical committees**.\n\n~? ISO Central Secretariat:\n-**coordinates** **standards development activities** and **publishes the standards**.",
         "exported": true,
         "llmTranslationLanguageSpecificInstructions": null,
         "article": null,
@@ -29,7 +29,7 @@
         "bibliographyUrls": {}
       }
     ],
-    "modificationDate": "2026-01-02T19:53:13.020Z",
+    "modificationDate": "2026-01-04T06:34:03.340Z",
     "quality": "LOW"
   }
 }

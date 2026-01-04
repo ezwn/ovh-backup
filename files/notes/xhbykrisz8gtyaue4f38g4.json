@@ -4,16 +4,16 @@
   "docTypeVersion": 5,
   "storeVersion": 1,
   "content": {
-    "domain": "MANAGEMENT",
+    "domain": "JOB_SEARCH",
     "privateComment": "Source : https://www.iso.org/deliverables-all.html",
     "tags": "",
     "transpositions": [
       {
         "lang": "EN",
-        "title": "Deliverables of ISO ⚠️",
+        "title": "Deliverables of ISO",
         "description": "...",
         "voice": "en-US-Chirp3-HD-Fenrir",
-        "text": "# Deliverables of ISO ⚠️\n\n~? 5 types of ISO **deliverables**:\n- **International Standard**: **rules**, **guidelines**, or **characteristics** for **activities** or **results**.\n- **Technical Specification**: **lower level of consensus**, for **use** and **feedback**\n- **Technical Report**: **informative only** (includes **no requirements**), work based on surveys, reports, etc.\n- **Publicly Available Specification**: **fast-tracked** for **urgent market needs**\n- **International Workshop Agreement**: through **workshops** (not within committees)\n\n## International Standards (Examples)\n\n~? **Management System Standards**:\nspecifies **how to manage** **interrelated parts** **of** a **business**,\nto **achieve objectives**.\n\n~? **Product Standards**:\n**rules**, **guidelines**, or **characteristics** for **products**,\nensuring they are **safe**, **reliable**, **high-quality**,\nand **meet consumer needs**.\n\n~? **Test Methods**:\nprocedures to **determine characteristics of** a **product**, **system**, or **service**,\nensuring **reliable**, **comparable**, and **trustworthy** **results**.\n\n~? **Codes** of **practice**:\noffer agreed-upon **best ways to do something** specific.\n\n~? **Guideline Standards**:\nconsensus-based, expert-agreed **principles for best ways** to do things.",
+        "text": "# Deliverables of ISO\n\n~? 5 types of ISO **deliverables**:\n- **International Standard**: **rules**, **guidelines**, or **characteristics** for **activities** or **results**.\n- **Technical Specification**: **lower level of consensus**, for **use** and **feedback**\n- **Technical Report**: **informative only** (includes **no requirements**), work based on surveys, reports, etc.\n- **Publicly Available Specification**: **fast-tracked** for **urgent market needs**\n- **International Workshop Agreement**: through **workshops** (not within committees)\n\n## International Standards (Examples)\n\n~? **Management System Standards**:\nspecifies **how to manage** **interrelated parts** **of** a **business**,\nto **achieve objectives**.\n\n~? **Product Standards**:\n**rules**, **guidelines**, or **characteristics** for **products**,\nensuring they are **safe**, **reliable**, **high-quality**,\nand **meet consumer needs**.\n\n~? **Test Methods**:\nprocedures to **determine characteristics of** a **product**, **system**, or **service**,\nensuring **reliable**, **comparable**, and **trustworthy** **results**.\n\n~? **Codes** of **practice**:\noffer agreed-upon **best ways to do something** specific.\n\n~? **Guideline Standards**:\nconsensus-based, expert-agreed **principles for best ways** to do things.",
         "exported": true,
         "llmTranslationLanguageSpecificInstructions": null,
         "article": null,
@@ -23,7 +23,7 @@
         "bibliographyUrls": {}
       }
     ],
-    "modificationDate": "2026-01-03T18:11:11.919Z",
+    "modificationDate": "2026-01-04T06:41:41.689Z",
     "quality": "LOW"
   }
 }

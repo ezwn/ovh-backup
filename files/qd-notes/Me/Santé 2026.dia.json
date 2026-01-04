@@ -1,0 +1,30 @@
+{
+  "content": {
+    "elements": {
+      "notes": [
+        {
+          "id": "NOTE-2wC9IAu9",
+          "userBounds": [
+            148,
+            104,
+            null,
+            null
+          ],
+          "bounds": [
+            148,
+            104,
+            205,
+            110
+          ],
+          "content": "- narine bouchée\n- bouche sèche\n- mal de dos\n- écoulement gorge",
+          "zIndex": 3
+        }
+      ],
+      "relations": []
+    }
+  },
+  "storeVersion": 1,
+  "docType": "QuickDiagram",
+  "docId": "46086f33-ffb2-4c94-af18-8124cc216763",
+  "docTypeVersion": 1
+}

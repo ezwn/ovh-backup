@@ -1,42 +1,31 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "8xbyi5ygvrids1kn92ewxr",
-  "content" : {
-    "domain" : "COMPUTER_SCIENCES",
-    "privateComment" : null,
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "FR",
-      "title" : "MACH",
-      "description" : "...",
-      "voice" : "fr-FR-Chirp3-HD-Puck",
-      "text" : "# MACH\n\n~? MACH :\n- Microservices-Based\n- API-First\n- Cloud-Native\n- Headless\n\n~?% Avantages :\n- scalabilité\n- **flexibilité** et **composabilité**\n- déploiements indépendants\n- évolution continue\n\n~?% Défis :\n- **prise en compte** du **métier** / des **utilisateurs** plus **difficile**\n- coordination\n- **explosion** du **nombre de services**\n- observabilité\n- sécurisation\n- gouvernance\n\n~? Microservices-Based :\n**décomposer** **en** **microservices**\n\n~? API-first :\n**conception** **centrée sur** l'**API**,\nqui **expose** les **capacités du système**,\nest **cohérente** et bien **documentée**.\n\n~? Headless :\n**frontend** et **backend** **découplés**,\n**construits** **séparément**,\net **communiquant par API**.",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    }, {
-      "lang" : "EN",
-      "title" : "MACH",
-      "description" : "...",
-      "voice" : "en-US-Chirp3-HD-Fenrir",
-      "text" : "# MACH\n\n~?MACH:\n- Microservices-Based\n- API-First\n- Cloud-Native\n- Headless\n\n~?Benefits:\n- scalability\n- **flexibility** and **composability**\n- independent deployments\n- continuous evolution\n\n~?Challenges:\n- **taking** **business** / **users** **into account** is more **difficult**\n- coordination\n- **explosion** **in the number** of **services**\n- observability\n- security\n- governance\n\n~?Microservices-Based:\n**break down** **into** **microservices**\n\n~?API-First:\n**API-centered** **design**\nthat **exposes** the **system’s capabilities**,\nis **consistent**, and **well documented**.\n\n~?Headless:\n**frontend** and **backend** **decoupled**,\n**built** **separately**,\nand **communicating via APIs**.",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : {
-        "MACH" : "microservices-based, API-first, cloud-native, headless"
-      },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2025-12-09T18:31:42.489009524Z",
-    "quality" : "LOW"
+  "docId": "8xbyi5ygvrids1kn92ewxr",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "COMPUTER_SCIENCES",
+    "privateComment": null,
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "EN",
+        "title": "MACH",
+        "description": "...",
+        "voice": "en-US-Chirp3-HD-Fenrir",
+        "text": "# MACH\n\n~?MACH:\n- Microservices-Based\n- API-First\n- Cloud-Native\n- Headless\n\n~?Benefits:\n- scalability\n- **flexibility** and **composability**\n- independent deployments\n- continuous evolution\n\n~?Challenges:\n- **taking** **business** and **users** **into account** is more **difficult**\n- coordination\n- **explosion** **in the number** of **services**\n- observability\n- security\n- governance\n\n~?Microservices-Based:\n**break down** **into** **microservices**\n\n~?API-First:\n**API-centered** **design**\nthat **exposes** the **system’s capabilities**,\nis **consistent**, and **well documented**.\n\n~?Headless:\n**frontend** and **backend** **decoupled**,\n**built** **separately**,\nand **communicating via APIs**.",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {
+          "MACH": "microservices-based, API-first, cloud-native, headless"
+        },
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-04T07:06:58.731Z",
+    "quality": "LOW"
   }
 }

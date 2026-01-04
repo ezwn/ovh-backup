@@ -1,27 +1,29 @@
 {
-  "storeVersion" : 0,
-  "docType" : "Note",
-  "docTypeVersion" : 5,
-  "docId" : "52quc1w01ut9zemu6k1q09",
-  "content" : {
-    "domain" : null,
-    "privateComment" : null,
-    "tags" : "",
-    "transpositions" : [ {
-      "lang" : "EN",
-      "title" : "The ISO General Assembly",
-      "description" : null,
-      "voice" : "en-US-Chirp3-HD-Fenrir",
-      "text" : "# The ISO General Assembly\n\n~? General Assembly:\n-comparable to shareholders\n-includes:\n-the principal officer\n-country members",
-      "exported" : true,
-      "llmTranslationLanguageSpecificInstructions" : null,
-      "article" : null,
-      "ttsMapping" : { },
-      "sttMapping" : { },
-      "tooltips" : { },
-      "bibliographyUrls" : { }
-    } ],
-    "modificationDate" : "2025-12-30T09:57:31.669570842Z",
-    "quality" : "LOW"
+  "docId": "52quc1w01ut9zemu6k1q09",
+  "docType": "Note",
+  "docTypeVersion": 5,
+  "storeVersion": 1,
+  "content": {
+    "domain": "JOB_SEARCH",
+    "privateComment": null,
+    "tags": "",
+    "transpositions": [
+      {
+        "lang": "EN",
+        "title": "The ISO General Assembly",
+        "description": null,
+        "voice": "en-US-Chirp3-HD-Fenrir",
+        "text": "# The ISO General Assembly\n\n~? General Assembly:\n-comparable to shareholders\n-includes:\n-the principal officer\n-country members",
+        "exported": true,
+        "llmTranslationLanguageSpecificInstructions": null,
+        "article": null,
+        "ttsMapping": {},
+        "sttMapping": {},
+        "tooltips": {},
+        "bibliographyUrls": {}
+      }
+    ],
+    "modificationDate": "2026-01-04T06:41:12.508Z",
+    "quality": "LOW"
   }
 }
